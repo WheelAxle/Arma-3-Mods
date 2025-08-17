@@ -1,0 +1,3875 @@
+<?xml version="1.0" ?>
+<Project name="language_f_vietnam_renames">
+	<Package name="bdu_us">
+        <Key ID="STR_VN_B_UNIFORM_MACV_01_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Bloused (Olive/ Field)</English>
+			<French>Tenue de combat MACV 1 (olive, terrain)</French>
+			<German>Felduniform MACV 1 (oliv/Feld)</German>
+			<Italian>BDU MACV 1 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 1 (Olive/ field)</Original>
+			<Portuguese>UB MACV 1 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（虎纹）</Chinesesimp>
+			<English>US BDU Bloused (Tiger)</English>
+			<French>Tenue de combat MACV 1 (tigrée)</French>
+			<German>Felduniform MACV 1 (Tiger)</German>
+			<Italian>BDU MACV 1 (tigrata)</Italian>
+			<Original>BDU MACV 1 (Tiger)</Original>
+			<Portuguese>UB MACV 1 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_03_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（黑色）</Chinesesimp>
+			<English>US BDU Bloused (Black)</English>
+			<French>Tenue de combat MACV 1 (noire)</French>
+			<German>Felduniform MACV 1 (schwarz)</German>
+			<Italian>BDU MACV 1 (nera)</Italian>
+			<Original>BDU MACV 1 (Black)</Original>
+			<Portuguese>UB MACV 1 (Preto)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (черная)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_04_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（小花枝）</Chinesesimp>
+			<English>US BDU Bloused (Spray)</English>
+			<French>Tenue de combat MACV 1 (aérosol)</French>
+			<German>Felduniform MACV 1 (Spray)</German>
+			<Italian>BDU MACV 1 (spray)</Italian>
+			<Original>BDU MACV 1 (Spray)</Original>
+			<Portuguese>UB MACV 1 (Spray)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (спрей)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (spray)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（虎纹绿色）</Chinesesimp>
+			<English>US BDU Bloused (Tiger Green)</English>
+			<French>Tenue de combat MACV 1 (vert tigré)</French>
+			<German>Felduniform MACV 1 (Tiger grün)</German>
+			<Italian>BDU MACV 1 (tigrata verde)</Italian>
+			<Original>BDU MACV 1 (Tiger green)</Original>
+			<Portuguese>UB MACV 1 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Bloused (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 1 (ERDL, marron)</French>
+			<German>Felduniform MACV 1 (ERDL/braun)</German>
+			<Italian>BDU MACV 1 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 1 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 1 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（橄榄绿）</Chinesesimp>
+			<English>US BDU Bloused (Olive)</English>
+			<French>Tenue de combat MACV 1 (olive)</French>
+			<German>Felduniform MACV 1 (oliv)</German>
+			<Italian>BDU MACV 1 (verde oliva)</Italian>
+			<Original>BDU MACV 1 (Olive)</Original>
+			<Portuguese>UB MACV 1 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（豹纹）</Chinesesimp>
+			<English>US BDU Bloused (Leopard)</English>
+			<French>Tenue de combat MACV 1 (léopard)</French>
+			<German>Felduniform MACV 1 (Leopard)</German>
+			<Italian>BDU MACV 1 (leopardata)</Italian>
+			<Original>BDU MACV 1 (Leopard)</Original>
+			<Portuguese>UB MACV 1 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（ERDL）</Chinesesimp>
+			<English>US BDU Bloused (ERDL)</English>
+			<French>Tenue de combat MACV 1 (ERDL)</French>
+			<German>Felduniform MACV 1 (ERDL)</German>
+			<Italian>BDU MACV 1 (ERDL)</Italian>
+			<Original>BDU MACV 1 (ERDL)</Original>
+			<Portuguese>UB MACV 1 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_06_MEDT_DN">
+			<Chinesesimp>美军援越司令部作战制服 1（ERDL/MEDT）</Chinesesimp>
+			<English>US BDU Bloused (ERDL/ MEDT)</English>
+			<French>Tenue de combat MACV 1 (ERDL, MEDT)</French>
+			<German>Felduniform MACV 1 (ERDL/ MEDT)</German>
+			<Italian>BDU MACV 1 (ERDL, MEDT)</Italian>
+			<Original>BDU MACV 1 (ERDL/ MEDT)</Original>
+			<Portuguese>UB MACV 1 (ERDL/ MEDT)</Portuguese>
+			<Russian>Боевая форма одежды MACV 1 (ERDL/ MEDT)</Russian>
+			<Spanish>Uniforme de combate MACV 1 (ERDL, MEDT)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Unbloused (Olive/ Field)</English>
+			<French>Tenue de combat MACV 2 (olive, terrain)</French>
+			<German>Felduniform MACV 2 (oliv/Feld)</German>
+			<Italian>BDU MACV 2 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 2 (Olive/ field)</Original>
+			<Portuguese>UB MACV 2 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（虎纹）</Chinesesimp>
+			<English>US BDU Unbloused (Tiger)</English>
+			<French>Tenue de combat MACV 2 (tigrée)</French>
+			<German>Felduniform MACV 2 (Tiger)</German>
+			<Italian>BDU MACV 2 (tigrata)</Italian>
+			<Original>BDU MACV 2 (Tiger)</Original>
+			<Portuguese>UB MACV 2 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（虎纹绿色）</Chinesesimp>
+			<English>US BDU Unbloused (Tiger Green)</English>
+			<French>Tenue de combat MACV 2 (vert tigré)</French>
+			<German>Felduniform MACV 2 (Tiger grün)</German>
+			<Italian>BDU MACV 2 (tigrata verde)</Italian>
+			<Original>BDU MACV 2 (Tiger green)</Original>
+			<Portuguese>UB MACV 2 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Unbloused (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 2 (ERDL, marron)</French>
+			<German>Felduniform MACV 2 (ERDL/braun)</German>
+			<Italian>BDU MACV 2 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 2 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 2 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（橄榄绿）</Chinesesimp>
+			<English>US BDU Unbloused (Olive)</English>
+			<French>Tenue de combat MACV 2 (olive)</French>
+			<German>Felduniform MACV 2 (oliv)</German>
+			<Italian>BDU MACV 2 (verde oliva)</Italian>
+			<Original>BDU MACV 2 (Olive)</Original>
+			<Portuguese>UB MACV 2 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（豹纹）</Chinesesimp>
+			<English>US BDU Unbloused (Leopard)</English>
+			<French>Tenue de combat MACV 2 (léopard)</French>
+			<German>Felduniform MACV 2 (Leopard)</German>
+			<Italian>BDU MACV 2 (leopardata)</Italian>
+			<Original>BDU MACV 2 (Leopard)</Original>
+			<Portuguese>UB MACV 2 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（ERDL）</Chinesesimp>
+			<English>US BDU Unbloused (ERDL)</English>
+			<French>Tenue de combat MACV 2 (ERDL)</French>
+			<German>Felduniform MACV 2 (ERDL)</German>
+			<Italian>BDU MACV 2 (ERDL)</Italian>
+			<Original>BDU MACV 2 (ERDL)</Original>
+			<Portuguese>UB MACV 2 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_06_MEDT_DN">
+			<Chinesesimp>美军援越司令部作战制服 2（ERDL/MEDT）</Chinesesimp>
+			<English>US BDU Unbloused (ERDL/ MEDT)</English>
+			<French>Tenue de combat MACV 2 (ERDL, MEDT)</French>
+			<German>Felduniform MACV 2 (ERDL/ MEDT)</German>
+			<Italian>BDU MACV 2 (ERDL, MEDT)</Italian>
+			<Original>BDU MACV 2 (ERDL/ MEDT)</Original>
+			<Portuguese>UB MACV 2 (ERDL/ MEDT)</Portuguese>
+			<Russian>Боевая форма одежды MACV 2 (ERDL/ MEDT)</Russian>
+			<Spanish>Uniforme de combate MACV 2 (ERDL, MEDT)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Unbl/Roll (Olive/ Field)</English>
+			<French>Tenue de combat MACV 3 (olive, terrain)</French>
+			<German>Felduniform MACV 3 (oliv/Feld)</German>
+			<Italian>BDU MACV 3 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 3 (Olive/ field)</Original>
+			<Portuguese>UB MACV 3 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（虎纹）</Chinesesimp>
+			<English>US BDU Unbl/Roll (Tiger)</English>
+			<French>Tenue de combat MACV 3 (tigrée)</French>
+			<German>Felduniform MACV 3 (Tiger)</German>
+			<Italian>BDU MACV 3 (tigrata)</Italian>
+			<Original>BDU MACV 3 (Tiger)</Original>
+			<Portuguese>UB MACV 3 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（虎纹绿色）</Chinesesimp>
+			<English>US BDU Unbl/Roll (Tiger Green)</English>
+			<French>Tenue de combat MACV 3 (vert tigré)</French>
+			<German>Felduniform MACV 3 (Tiger grün)</German>
+			<Italian>BDU MACV 3 (tigrata verde)</Italian>
+			<Original>BDU MACV 3 (Tiger green)</Original>
+			<Portuguese>UB MACV 3 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Unbl/Roll (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 3 (ERDL, marron)</French>
+			<German>Felduniform MACV 3 (ERDL/braun)</German>
+			<Italian>BDU MACV 3 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 3 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 3 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（橄榄绿）</Chinesesimp>
+			<English>US BDU Unbl/Roll (Olive)</English>
+			<French>Tenue de combat MACV 3 (olive)</French>
+			<German>Felduniform MACV 3 (oliv)</German>
+			<Italian>BDU MACV 3 (verde oliva)</Italian>
+			<Original>BDU MACV 3 (Olive)</Original>
+			<Portuguese>UB MACV 3 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（豹纹）</Chinesesimp>
+			<English>US BDU Unbl/Roll (Leopard)</English>
+			<French>Tenue de combat MACV 3 (léopard)</French>
+			<German>Felduniform MACV 3 (Leopard)</German>
+			<Italian>BDU MACV 3 (leopardata)</Italian>
+			<Original>BDU MACV 3 (Leopard)</Original>
+			<Portuguese>UB MACV 3 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（ERDL）</Chinesesimp>
+			<English>US BDU Unbl/Roll (ERDL)</English>
+			<French>Tenue de combat MACV 3 (ERDL)</French>
+			<German>Felduniform MACV 3 (ERDL)</German>
+			<Italian>BDU MACV 3 (ERDL)</Italian>
+			<Original>BDU MACV 3 (ERDL)</Original>
+			<Portuguese>UB MACV 3 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_06_MEDT_DN">
+			<Chinesesimp>美军援越司令部作战制服 3（ERDL/MEDT）</Chinesesimp>
+			<English>US BDU Unbl/Roll (ERDL/ MEDT)</English>
+			<French>Tenue de combat MACV 3 (ERDL, MEDT)</French>
+			<German>Felduniform MACV 3 (ERDL/ MEDT)</German>
+			<Italian>BDU MACV 3 (ERDL, MEDT)</Italian>
+			<Original>BDU MACV 3 (ERDL/ MEDT)</Original>
+			<Portuguese>UB MACV 3 (ERDL/ MEDT)</Portuguese>
+			<Russian>Боевая форма одежды MACV 3 (ERDL/ MEDT)</Russian>
+			<Spanish>Uniforme de combate MACV 3 (ERDL, MEDT)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Bl/Roll (Olive/ Field)</English>
+			<French>Tenue de combat MACV 4 (olive, terrain)</French>
+			<German>Felduniform MACV 4 (oliv/Feld)</German>
+			<Italian>BDU MACV 4 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 4 (Olive/ field)</Original>
+			<Portuguese>UB MACV 4 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（虎纹）</Chinesesimp>
+			<English>US BDU Bl/Roll (Tiger)</English>
+			<French>Tenue de combat MACV 4 (tigrée)</French>
+			<German>Felduniform MACV 4 (Tiger)</German>
+			<Italian>BDU MACV 4 (tigrata)</Italian>
+			<Original>BDU MACV 4 (Tiger)</Original>
+			<Portuguese>UB MACV 4 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_02_BASE_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（虎纹/基地）</Chinesesimp>
+			<English>US BDU Bl/Roll (Tiger/ Base)</English>
+			<French>Tenue de combat MACV 4 (tigrée, base)</French>
+			<German>Felduniform MACV 4 (Tiger/Basis)</German>
+			<Italian>BDU MACV 4 (tigrata, base)</Italian>
+			<Original>BDU MACV 4 (Tiger/ base)</Original>
+			<Portuguese>UB MACV 4 (Tigre/ base)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (зеленая/базовая)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (tigre, base)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（虎纹绿色）</Chinesesimp>
+			<English>US BDU Bl/Roll (Tiger Green)</English>
+			<French>Tenue de combat MACV 4 (vert tigré)</French>
+			<German>Felduniform MACV 4 (Tiger grün)</German>
+			<Italian>BDU MACV 4 (tigrata verde)</Italian>
+			<Original>BDU MACV 4 (Tiger green)</Original>
+			<Portuguese>UB MACV 4 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Bl/Roll (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 4 (ERDL, marron)</French>
+			<German>Felduniform MACV 4 (ERDL/braun)</German>
+			<Italian>BDU MACV 4 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 4 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 4 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_06_BASE_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（ERDL/基地）</Chinesesimp>
+			<English>US BDU Bl/Roll (ERDL/ Base)</English>
+			<French>Tenue de combat MACV 4 (ERDL, base)</French>
+			<German>Felduniform MACV 4 (ERDL/Basis)</German>
+			<Italian>BDU MACV 4 (ERDL, base)</Italian>
+			<Original>BDU MACV 4 (ERDL/ base)</Original>
+			<Portuguese>UB MACV 4 (ERDL/ base)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (ERDL/базовая)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (ERDL, base)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（橄榄绿）</Chinesesimp>
+			<English>US BDU Bl/Roll (Olive)</English>
+			<French>Tenue de combat MACV 4 (olive)</French>
+			<German>Felduniform MACV 4 (oliv)</German>
+			<Italian>BDU MACV 4 (verde oliva)</Italian>
+			<Original>BDU MACV 4 (Olive)</Original>
+			<Portuguese>UB MACV 4 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（豹纹）</Chinesesimp>
+			<English>US BDU Bl/Roll (Leopard)</English>
+			<French>Tenue de combat MACV 4 (léopard)</French>
+			<German>Felduniform MACV 4 (Leopard)</German>
+			<Italian>BDU MACV 4 (leopardata)</Italian>
+			<Original>BDU MACV 4 (Leopard)</Original>
+			<Portuguese>UB MACV 4 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（ERDL）</Chinesesimp>
+			<English>US BDU Bl/Roll (ERDL)</English>
+			<French>Tenue de combat MACV 4 (ERDL)</French>
+			<German>Felduniform MACV 4 (ERDL)</German>
+			<Italian>BDU MACV 4 (ERDL)</Italian>
+			<Original>BDU MACV 4 (ERDL)</Original>
+			<Portuguese>UB MACV 4 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_06_MEDT_DN">
+			<Chinesesimp>美军援越司令部作战制服 4（ERDL/MEDT）</Chinesesimp>
+			<English>US BDU Bl/Roll (ERDL/ MEDT)</English>
+			<French>Tenue de combat MACV 4 (ERDL, MEDT)</French>
+			<German>Felduniform MACV 4 (ERDL/ MEDT)</German>
+			<Italian>BDU MACV 4 (ERDL, MEDT)</Italian>
+			<Original>BDU MACV 4 (ERDL/ MEDT)</Original>
+			<Portuguese>UB MACV 4 (ERDL/ MEDT)</Portuguese>
+			<Russian>Боевая форма одежды MACV 4 (ERDL/ MEDT)</Russian>
+			<Spanish>Uniforme de combate MACV 4 (ERDL, MEDT)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (Olive/ Field)</English>
+			<French>Tenue de combat MACV 5 (olive, terrain)</French>
+			<German>Felduniform MACV 5 (oliv/Feld)</German>
+			<Italian>BDU MACV 5 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 5 (Olive/ field)</Original>
+			<Portuguese>UB MACV 5 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（虎纹）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (Tiger)</English>
+			<French>Tenue de combat MACV 5 (tigrée)</French>
+			<German>Felduniform MACV 5 (Tiger)</German>
+			<Italian>BDU MACV 5 (tigrata)</Italian>
+			<Original>BDU MACV 5 (Tiger)</Original>
+			<Portuguese>UB MACV 5 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（虎纹绿色）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (Tiger Green)</English>
+			<French>Tenue de combat MACV 5 (vert tigré)</French>
+			<German>Felduniform MACV 5 (Tiger grün)</German>
+			<Italian>BDU MACV 5 (tigrata verde)</Italian>
+			<Original>BDU MACV 5 (Tiger green)</Original>
+			<Portuguese>UB MACV 5 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 5 (ERDL, marron)</French>
+			<German>Felduniform MACV 5 (ERDL/braun)</German>
+			<Italian>BDU MACV 5 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 5 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 5 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（橄榄绿）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (Olive)</English>
+			<French>Tenue de combat MACV 5 (olive)</French>
+			<German>Felduniform MACV 5 (oliv)</German>
+			<Italian>BDU MACV 5 (verde oliva)</Italian>
+			<Original>BDU MACV 5 (Olive)</Original>
+			<Portuguese>UB MACV 5 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（豹纹）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (Leopard)</English>
+			<French>Tenue de combat MACV 5 (léopard)</French>
+			<German>Felduniform MACV 5 (Leopard)</German>
+			<Italian>BDU MACV 5 (leopardata)</Italian>
+			<Original>BDU MACV 5 (Leopard)</Original>
+			<Portuguese>UB MACV 5 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（ERDL）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (ERDL)</English>
+			<French>Tenue de combat MACV 5 (ERDL)</French>
+			<German>Felduniform MACV 5 (ERDL)</German>
+			<Italian>BDU MACV 5 (ERDL)</Italian>
+			<Original>BDU MACV 5 (ERDL)</Original>
+			<Portuguese>UB MACV 5 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_06_MEDT_DN">
+			<Chinesesimp>美军援越司令部作战制服 5（ERDL/MEDT）</Chinesesimp>
+			<English>US BDU Bl/Sleeve (ERDL/ MEDT)</English>
+			<French>Tenue de combat MACV 5 (ERDL, MEDT)</French>
+			<German>Felduniform MACV 5 (ERDL/ MEDT)</German>
+			<Italian>BDU MACV 5 (ERDL, MEDT)</Italian>
+			<Original>BDU MACV 5 (ERDL/ MEDT)</Original>
+			<Portuguese>UB MACV 5 (ERDL/ MEDT)</Portuguese>
+			<Russian>Боевая форма одежды MACV 5 (ERDL/ MEDT)</Russian>
+			<Spanish>Uniforme de combate MACV 5 (ERDL, MEDT)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_01_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（橄榄绿/野战）</Chinesesimp>
+			<English>US BDU Bl/Tee (Olive/ Field)</English>
+			<French>Tenue de combat MACV 6 (olive, terrain)</French>
+			<German>Felduniform MACV 6 (oliv/Feld)</German>
+			<Italian>BDU MACV 6 (verde oliva, inzaccherata)</Italian>
+			<Original>BDU MACV 6 (Olive/ field)</Original>
+			<Portuguese>UB MACV 6 (verde-oliva/ campo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (оливковая/полев)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (oliva, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_02_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（虎纹）</Chinesesimp>
+			<English>US BDU Bl/Tee (Tiger)</English>
+			<French>Tenue de combat MACV 6 (tigrée)</French>
+			<German>Felduniform MACV 6 (Tiger)</German>
+			<Italian>BDU MACV 6 (tigrata)</Italian>
+			<Original>BDU MACV 6 (Tiger)</Original>
+			<Portuguese>UB MACV 6 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_05_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（虎纹绿色）</Chinesesimp>
+			<English>US BDU Bl/Tee (Tiger Green)</English>
+			<French>Tenue de combat MACV 6 (vert tigré)</French>
+			<German>Felduniform MACV 6 (Tiger grün)</German>
+			<Italian>BDU MACV 6 (tigrata verde)</Italian>
+			<Original>BDU MACV 6 (Tiger green)</Original>
+			<Portuguese>UB MACV 6 (Tigre/verde)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (тайгерстрайп зел)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_06_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（ERDL/棕色）</Chinesesimp>
+			<English>US BDU Bl/Tee (ERDL/ Brown)</English>
+			<French>Tenue de combat MACV 6 (ERDL, marron)</French>
+			<German>Felduniform MACV 6 (ERDL/braun)</German>
+			<Italian>BDU MACV 6 (ERDL, marrone)</Italian>
+			<Original>BDU MACV 6 (ERDL/brown)</Original>
+			<Portuguese>UB MACV 6 (ERDL/marrom)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (ERDL/коричневая)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (ERDL, marrón)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_07_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（橄榄绿）</Chinesesimp>
+			<English>US BDU Bl/Tee (Olive)</English>
+			<French>Tenue de combat MACV 6 (olive)</French>
+			<German>Felduniform MACV 6 (oliv)</German>
+			<Italian>BDU MACV 6 (verde oliva)</Italian>
+			<Original>BDU MACV 6 (Olive)</Original>
+			<Portuguese>UB MACV 6 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (оливковая)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_08_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（豹纹）</Chinesesimp>
+			<English>US BDU Bl/Tee (Leopard)</English>
+			<French>Tenue de combat MACV 6 (léopard)</French>
+			<German>Felduniform MACV 6 (Leopard)</German>
+			<Italian>BDU MACV 6 (leopardata)</Italian>
+			<Original>BDU MACV 6 (Leopard)</Original>
+			<Portuguese>UB MACV 6 (Leopardo)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (леопард)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (leopardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_15_DN">
+			<Chinesesimp>美军援越司令部作战制服 6（ERDL）</Chinesesimp>
+			<English>US BDU Bl/Tee (ERDL)</English>
+			<French>Tenue de combat MACV 6 (ERDL)</French>
+			<German>Felduniform MACV 6 (ERDL)</German>
+			<Italian>BDU MACV 6 (ERDL)</Italian>
+			<Original>BDU MACV 6 (ERDL)</Original>
+			<Portuguese>UB MACV 6 (ERDL)</Portuguese>
+			<Russian>Боевая форма одежды MACV 6 (ERDL)</Russian>
+			<Spanish>Uniforme de combate MACV 6 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_HELI_01_01_DN">
+			<Chinesesimp>美国陆军作战制服（空勤人员）</Chinesesimp>
+			<English>US BDU Aircrew</English>
+			<French>Tenue de combat équipage aérien US Army</French>
+			<German>Felduniform US Army Flugbesatzung</German>
+			<Italian>BDU equipaggio aereo U.S. Army</Italian>
+			<Original>BDU US Army Aircrew</Original>
+			<Portuguese>UB Tripulação aérea do Exército dos EUA</Portuguese>
+			<Russian>Боевая форма одежды летного экипажа армии США</Russian>
+			<Spanish>Uniforme de combate tripul. Ejército EE. UU.</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_01_DN">
+			<Chinesesimp>SOG 作战制服 1（橄榄绿）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Olive)</English>
+			<French>Tenue de combat SOG 1 (olive)</French>
+			<German>Felduniform SOG 1 (oliv)</German>
+			<Italian>BDU SOG 1 (verde oliva)</Italian>
+			<Original>BDU SOG 1 (Olive)</Original>
+			<Portuguese>UB SOG 1 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (оливковая)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_02_DN">
+			<Chinesesimp>SOG 作战制服 1（虎纹）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Tiger)</English>
+			<French>Tenue de combat SOG 1 (tigrée)</French>
+			<German>Felduniform SOG 1 (Tiger)</German>
+			<Italian>BDU SOG 1 (tigrata)</Italian>
+			<Original>BDU SOG 1 (Tiger)</Original>
+			<Portuguese>UB SOG 1 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_03_DN">
+			<Chinesesimp>SOG 作战制服 1（黑色）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Black)</English>
+			<French>Tenue de combat SOG 1 (noire)</French>
+			<German>Felduniform SOG 1 (schwarz)</German>
+			<Italian>BDU SOG 1 (nera)</Italian>
+			<Original>BDU SOG 1 (Black)</Original>
+			<Portuguese>UB SOG 1 (Preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (черная)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_04_DN">
+			<Chinesesimp>SOG 作战制服 1（小花枝）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Spray)</English>
+			<French>Tenue de combat SOG 1 (aérosol)</French>
+			<German>Felduniform SOG 1 (Spray)</German>
+			<Italian>BDU SOG 1 (spray)</Italian>
+			<Original>BDU SOG 1 (Spray)</Original>
+			<Portuguese>UB SOG 1 (Spray)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (спрей)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (spray)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_05_DN">
+			<Chinesesimp>SOG 作战制服 1（虎纹/黑色）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Tiger/ black)</English>
+			<French>Tenue de combat SOG 1 (tigrée, noire)</French>
+			<German>Felduniform SOG 1 (Tiger/schwarz)</German>
+			<Italian>BDU SOG 1 (tigrata, nera)</Italian>
+			<Original>BDU SOG 1 (Tiger/ black)</Original>
+			<Portuguese>UB SOG 1 (Tigre/ preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (тайгерстрайп/черн)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (tigre, negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_01_06_DN">
+			<Chinesesimp>SOG 作战制服 1（小花枝/黑色）</Chinesesimp>
+			<English>SOG BDU Gaiter/Nomex (Spray/ black)</English>
+			<French>Tenue de combat SOG 1 (aérosol, noir)</French>
+			<German>Felduniform SOG 1 (Spray/schwarz)</German>
+			<Italian>BDU SOG 1 (spray, nera)</Italian>
+			<Original>BDU SOG 1 (Spray/ black)</Original>
+			<Portuguese>UB SOG 1 (Spray/ preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 1 (спрей/черная)</Russian>
+			<Spanish>Uniforme de combate SOG 1 (spray, negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_01_DN">
+			<Chinesesimp>SOG 作战制服 2（橄榄绿）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Olive)</English>
+			<French>Tenue de combat SOG 2 (olive)</French>
+			<German>Felduniform SOG 2 (oliv)</German>
+			<Italian>BDU SOG 2 (verde oliva)</Italian>
+			<Original>BDU SOG 2 (Olive)</Original>
+			<Portuguese>UB SOG 2 (verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (оливковая)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_02_DN">
+			<Chinesesimp>SOG 作战制服 2（虎纹）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Tiger)</English>
+			<French>Tenue de combat SOG 2 (tigrée)</French>
+			<German>Felduniform SOG 2 (Tiger)</German>
+			<Italian>BDU SOG 2 (tigrata)</Italian>
+			<Original>BDU SOG 2 (Tiger)</Original>
+			<Portuguese>UB SOG 2 (Tigre)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_03_DN">
+			<Chinesesimp>SOG 作战制服 2（黑色）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Black)</English>
+			<French>Tenue de combat SOG 2 (noire)</French>
+			<German>Felduniform SOG 2 (schwarz)</German>
+			<Italian>BDU SOG 2 (nera)</Italian>
+			<Original>BDU SOG 2 (Black)</Original>
+			<Portuguese>UB SOG 2 (Preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (черная)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_04_DN">
+			<Chinesesimp>SOG 作战制服 2（小花枝）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Spray)</English>
+			<French>Tenue de combat SOG 2 (aérosol)</French>
+			<German>Felduniform SOG 2 (Spray)</German>
+			<Italian>BDU SOG 2 (spray)</Italian>
+			<Original>BDU SOG 2 (Spray)</Original>
+			<Portuguese>UB SOG 2 (Spray)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (спрей)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (spray)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_05_DN">
+			<Chinesesimp>SOG 作战制服 2（虎纹/黑色）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Tiger/ Black)</English>
+			<French>Tenue de combat SOG 2 (tigrée, noire)</French>
+			<German>Felduniform SOG 2 (Tiger/schwarz)</German>
+			<Italian>BDU SOG 2 (tigrata, nera)</Italian>
+			<Original>BDU SOG 2 (Tiger/ black)</Original>
+			<Portuguese>UB SOG 2 (Tigre/ preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (тайгерстрайп/черн)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (tigre, negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SOG_02_06_DN">
+			<Chinesesimp>SOG 作战制服 2（小花枝/黑色）</Chinesesimp>
+			<English>SOG BDU Bl/Fingerless (Spray/ Black)</English>
+			<French>Tenue de combat SOG 2 (aérosol, noir)</French>
+			<German>Felduniform SOG 2 (Spray/schwarz)</German>
+			<Italian>BDU SOG 2 (spray, nera)</Italian>
+			<Original>BDU SOG 2 (Spray/black)</Original>
+			<Portuguese>UB SOG 2 (Spray/ preto)</Portuguese>
+			<Russian>Боевая форма одежды SOG 2 (спрей/черная)</Russian>
+			<Spanish>Uniforme de combate SOG 2 (spray, negro)</Spanish>
+		</Key>
+    </Package>
+    <Package name="uni_seal">
+        <Key ID="STR_VN_B_UNIFORM_SEAL_01_01_DN">
+			<Chinesesimp>海豹突击队制服 1（橄榄绿，脏污）</Chinesesimp>
+			<English>SEAL BDU/Jeans (Olive/ Field)</English>
+			<French>Uniforme SEAL 1 (olive, sale)</French>
+			<German>Uniform SEAL 1 (oliv, schmutzig)</German>
+			<Italian>Uniforme SEAL 1 (verde oliva, sporca)</Italian>
+			<Original>Uniform SEAL 1 (Olive Dirty)</Original>
+			<Portuguese>Uniforme SEAL 1 (verde-oliva sujo)</Portuguese>
+			<Russian>Форма SEAL 1 (грязный оливковый)</Russian>
+			<Spanish>Uniforme SEAL 1 (oliva sucio)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_01_02_DN">
+			<Chinesesimp>海豹突击队制服 1（虎纹）</Chinesesimp>
+			<English>SEAL BDU/Jeans (Tiger)</English>
+			<French>Uniforme SEAL 1 (tigré)</French>
+			<German>Uniform SEAL 1 (Tiger)</German>
+			<Italian>Uniforme SEAL 1 (tigrata)</Italian>
+			<Original>Uniform SEAL 1 (Tiger)</Original>
+			<Portuguese>Uniforme SEAL 1 (Tigre)</Portuguese>
+			<Russian>Форма SEAL 1 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme SEAL 1 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_01_05_DN">
+			<Chinesesimp>海豹突击队制服 1（虎纹，绿色）</Chinesesimp>
+			<English>SEAL BDU/Jeans (Tiger Green)</English>
+			<French>Uniforme SEAL 1 (vert tigré)</French>
+			<German>Uniform SEAL 1 (Tiger, grün)</German>
+			<Italian>Uniforme SEAL 1 (tigrata, verde)</Italian>
+			<Original>Uniform SEAL 1 (Tiger Green)</Original>
+			<Portuguese>Uniforme SEAL 1 (Tigre/verde)</Portuguese>
+			<Russian>Форма SEAL 1 (тайгерстрайп зеленый)</Russian>
+			<Spanish>Uniforme SEAL 1 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_01_06_DN">
+			<Chinesesimp>海豹突击队制服 1（ERDL）</Chinesesimp>
+			<English>SEAL BDU/Jeans (ERDL)</English>
+			<French>Uniforme SEAL 1 (ERDL)</French>
+			<German>Uniform SEAL 1 (ERDL)</German>
+			<Italian>Uniforme SEAL 1 (ERDL)</Italian>
+			<Original>Uniform SEAL 1 (ERDL)</Original>
+			<Portuguese>Uniforme SEAL 1 (ERDL)</Portuguese>
+			<Russian>Форма SEAL 1 (ERDL)</Russian>
+			<Spanish>Uniforme SEAL 1 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_01_07_DN">
+			<Chinesesimp>海豹突击队制服 1（橄榄绿）</Chinesesimp>
+			<English>SEAL BDU/Jeans (Olive)</English>
+			<French>Uniforme SEAL 1 (olive)</French>
+			<German>Uniform SEAL 1 (oliv)</German>
+			<Italian>Uniforme SEAL 1 (verde oliva)</Italian>
+			<Original>Uniform SEAL 1 (Olive)</Original>
+			<Portuguese>Uniforme SEAL 1 (verde-oliva)</Portuguese>
+			<Russian>Форма SEAL 1 (оливковый)</Russian>
+			<Spanish>Uniforme SEAL 1 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_02_01_DN">
+			<Chinesesimp>海豹突击队制服 2（橄榄绿，脏污）</Chinesesimp>
+			<English>SEAL BDU/Jeans/Roll (Olive/ Field)</English>
+			<French>Uniforme SEAL 2 (olive, sale)</French>
+			<German>Uniform SEAL 2 (oliv, schmutzig)</German>
+			<Italian>Uniforme SEAL 2 (verde oliva, sporca)</Italian>
+			<Original>Uniform SEAL 2 (Olive Dirty)</Original>
+			<Portuguese>Uniforme SEAL 2 (verde-oliva sujo)</Portuguese>
+			<Russian>Форма SEAL 2 (грязный оливковый)</Russian>
+			<Spanish>Uniforme SEAL 2 (oliva sucio)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_02_02_DN">
+			<Chinesesimp>海豹突击队制服 2（虎纹）</Chinesesimp>
+			<English>SEAL BDU/Jeans/Roll (Tiger)</English>
+			<French>Uniforme SEAL 2 (tigré)</French>
+			<German>Uniform SEAL 2 (Tiger)</German>
+			<Italian>Uniforme SEAL 2 (tigrata)</Italian>
+			<Original>Uniform SEAL 2 (Tiger)</Original>
+			<Portuguese>Uniforme SEAL 2 (Tigre)</Portuguese>
+			<Russian>Форма SEAL 2 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme SEAL 2 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_02_05_DN">
+			<Chinesesimp>海豹突击队制服 2（虎纹，绿色）</Chinesesimp>
+			<English>SEAL BDU/Jeans/Roll (Tiger Green)</English>
+			<French>Uniforme SEAL 2 (vert tigré)</French>
+			<German>Uniform SEAL 2 (Tiger, grün)</German>
+			<Italian>Uniforme SEAL 2 (tigrata, verde)</Italian>
+			<Original>Uniform SEAL 2 (Tiger Green)</Original>
+			<Portuguese>Uniforme SEAL 2 (Tigre/verde)</Portuguese>
+			<Russian>Форма SEAL 2 (тайгерстрайп зеленый)</Russian>
+			<Spanish>Uniforme SEAL 2 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_02_06_DN">
+			<Chinesesimp>海豹突击队制服 2（ERDL）</Chinesesimp>
+			<English>SEAL BDU/Jeans/Roll (ERDL)</English>
+			<French>Uniforme SEAL 2 (ERDL)</French>
+			<German>Uniform SEAL 2 (ERDL)</German>
+			<Italian>Uniforme SEAL 2 (ERDL)</Italian>
+			<Original>Uniform SEAL 2 (ERDL)</Original>
+			<Portuguese>Uniforme SEAL 2 (ERDL)</Portuguese>
+			<Russian>Форма SEAL 2 (ERDL)</Russian>
+			<Spanish>Uniforme SEAL 2 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_02_07_DN">
+			<Chinesesimp>海豹突击队制服 2（橄榄绿）</Chinesesimp>
+			<English>SEAL BDU/Jeans/Roll (Olive)</English>
+			<French>Uniforme SEAL 2 (olive)</French>
+			<German>Uniform SEAL 2 (oliv)</German>
+			<Italian>Uniforme SEAL 2 (verde oliva)</Italian>
+			<Original>Uniform SEAL 2 (Olive)</Original>
+			<Portuguese>Uniforme SEAL 2 (verde-oliva)</Portuguese>
+			<Russian>Форма SEAL 2 (оливковый)</Russian>
+			<Spanish>Uniforme SEAL 2 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_03_01_DN">
+			<Chinesesimp>海豹突击队 3（蓝色）</Chinesesimp>
+			<English>SEAL Shirt/Jeans (Blue)</English>
+			<French>Uniforme SEAL 3 (bleu)</French>
+			<German>Uniform SEAL 3 (blau)</German>
+			<Italian>Uniforme SEAL 3 (blu)</Italian>
+			<Original>Uniform SEAL 3 (Blue)</Original>
+			<Portuguese>Uniforme SEAL 3 (Azul)</Portuguese>
+			<Russian>Форма SEAL 3 (синий)</Russian>
+			<Spanish>Uniforme SEAL 3 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_04_01_DN">
+			<Chinesesimp>海豹突击队 4（蓝色）</Chinesesimp>
+			<English>SEAL Tee/Jeans (Blue)</English>
+			<French>Uniforme SEAL 4 (bleu)</French>
+			<German>Uniform SEAL 4 (blau)</German>
+			<Italian>Uniforme SEAL 4 (blu)</Italian>
+			<Original>Uniform SEAL 4 (Blue)</Original>
+			<Portuguese>Uniforme SEAL 4 (Azul)</Portuguese>
+			<Russian>Форма SEAL 4 (синий)</Russian>
+			<Spanish>Uniforme SEAL 4 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_05_01_DN">
+			<Chinesesimp>海豹突击队制服 5（橄榄绿，脏污）</Chinesesimp>
+			<English>SEAL Shirt/BDU (Olive/ Field)</English>
+			<French>Uniforme SEAL 5 (olive, sale)</French>
+			<German>Uniform SEAL 5 (oliv, schmutzig)</German>
+			<Italian>Uniforme SEAL 5 (verde oliva, sporca)</Italian>
+			<Original>Uniform SEAL 5 (Olive Dirty)</Original>
+			<Portuguese>Uniforme SEAL 5 (verde-oliva sujo)</Portuguese>
+			<Russian>Форма SEAL 5 (грязный оливковый)</Russian>
+			<Spanish>Uniforme SEAL 5 (oliva sucio)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_05_02_DN">
+			<Chinesesimp>海豹突击队制服 5（虎纹）</Chinesesimp>
+			<English>SEAL Shirt/BDU (Tiger)</English>
+			<French>Uniforme SEAL 5 (tigré)</French>
+			<German>Uniform SEAL 5 (Tiger)</German>
+			<Italian>Uniforme SEAL 5 (tigrata)</Italian>
+			<Original>Uniform SEAL 5 (Tiger)</Original>
+			<Portuguese>Uniforme SEAL 5 (Tigre)</Portuguese>
+			<Russian>Форма SEAL 5 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme SEAL 5 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_05_05_DN">
+			<Chinesesimp>海豹突击队制服 5（虎纹，绿色）</Chinesesimp>
+			<English>SEAL Shirt/BDU (Tiger Green)</English>
+			<French>Uniforme SEAL 5 (vert tigré)</French>
+			<German>Uniform SEAL 5 (Tiger, grün)</German>
+			<Italian>Uniforme SEAL 5 (tigrata, verde)</Italian>
+			<Original>Uniform SEAL 5 (Tiger Green)</Original>
+			<Portuguese>Uniforme SEAL 5 (Tigre/verde)</Portuguese>
+			<Russian>Форма SEAL 5 (тайгерстрайп зеленый)</Russian>
+			<Spanish>Uniforme SEAL 5 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_05_06_DN">
+			<Chinesesimp>海豹突击队制服 5（ERDL）</Chinesesimp>
+			<English>SEAL Shirt/BDU (ERDL)</English>
+			<French>Uniforme SEAL 5 (ERDL)</French>
+			<German>Uniform SEAL 5 (ERDL)</German>
+			<Italian>Uniforme SEAL 5 (ERDL)</Italian>
+			<Original>Uniform SEAL 5 (ERDL)</Original>
+			<Portuguese>Uniforme SEAL 5 (ERDL)</Portuguese>
+			<Russian>Форма SEAL 5 (ERDL)</Russian>
+			<Spanish>Uniforme SEAL 5 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_05_07_DN">
+			<Chinesesimp>海豹突击队制服 5（橄榄绿）</Chinesesimp>
+			<English>SEAL Shirt/BDU (Olive)</English>
+			<French>Uniforme SEAL 5 (olive)</French>
+			<German>Uniform SEAL 5 (oliv)</German>
+			<Italian>Uniforme SEAL 5 (verde oliva)</Italian>
+			<Original>Uniform SEAL 5 (Olive)</Original>
+			<Portuguese>Uniforme SEAL 5 (verde-oliva)</Portuguese>
+			<Russian>Форма SEAL 5 (оливковый)</Russian>
+			<Spanish>Uniforme SEAL 5 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_06_01_DN">
+			<Chinesesimp>海豹突击队制服 6（橄榄绿，脏污）</Chinesesimp>
+			<English>SEAL Tee/BDU (Olive/ Field)</English>
+			<French>Uniforme SEAL 6 (olive, sale)</French>
+			<German>Uniform SEAL 6 (oliv, schmutzig)</German>
+			<Italian>Uniforme SEAL 6 (verde oliva, sporca)</Italian>
+			<Original>Uniform SEAL 6 (Olive Dirty)</Original>
+			<Portuguese>Uniforme SEAL 6 (verde-oliva sujo)</Portuguese>
+			<Russian>Форма SEAL 6 (грязный оливковый)</Russian>
+			<Spanish>Uniforme SEAL 6 (oliva sucio)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_06_02_DN">
+			<Chinesesimp>海豹突击队制服 6（虎纹）</Chinesesimp>
+			<English>SEAL Tee/BDU (Tiger)</English>
+			<French>Uniforme SEAL 6 (tigré)</French>
+			<German>Uniform SEAL 6 (Tiger)</German>
+			<Italian>Uniforme SEAL 6 (tigrata)</Italian>
+			<Original>Uniform SEAL 6 (Tiger)</Original>
+			<Portuguese>Uniforme SEAL 6 (Tigre)</Portuguese>
+			<Russian>Форма SEAL 6 (тайгерстрайп)</Russian>
+			<Spanish>Uniforme SEAL 6 (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_06_05_DN">
+			<Chinesesimp>海豹突击队制服 6（虎纹，绿色）</Chinesesimp>
+			<English>SEAL Tee/BDU (Tiger Green)</English>
+			<French>Uniforme SEAL 6 (vert tigré)</French>
+			<German>Uniform SEAL 6 (Tiger, grün)</German>
+			<Italian>Uniforme SEAL 6 (tigrata, verde)</Italian>
+			<Original>Uniform SEAL 6 (Tiger Green)</Original>
+			<Portuguese>Uniforme SEAL 6 (Tigre/verde)</Portuguese>
+			<Russian>Форма SEAL 6 (тайгерстрайп зеленый)</Russian>
+			<Spanish>Uniforme SEAL 6 (verde tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_06_06_DN">
+			<Chinesesimp>海豹突击队制服 6（ERDL）</Chinesesimp>
+			<English>SEAL Tee/BDU (ERDL)</English>
+			<French>Uniforme SEAL 6 (ERDL)</French>
+			<German>Uniform SEAL 6 (ERDL)</German>
+			<Italian>Uniforme SEAL 6 (ERDL)</Italian>
+			<Original>Uniform SEAL 6 (ERDL)</Original>
+			<Portuguese>Uniforme SEAL 6 (ERDL)</Portuguese>
+			<Russian>Форма SEAL 6 (ERDL)</Russian>
+			<Spanish>Uniforme SEAL 6 (ERDL)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_06_07_DN">
+			<Chinesesimp>海豹突击队制服 6（橄榄绿）</Chinesesimp>
+			<English>SEAL Tee/BDU (Olive)</English>
+			<French>Uniforme SEAL 6 (olive)</French>
+			<German>Uniform SEAL 6 (oliv)</German>
+			<Italian>Uniforme SEAL 6 (verde oliva)</Italian>
+			<Original>Uniform SEAL 6 (Olive)</Original>
+			<Portuguese>Uniforme SEAL 6 (verde-oliva)</Portuguese>
+			<Russian>Форма SEAL 6 (оливковый)</Russian>
+			<Spanish>Uniforme SEAL 6 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_07_01_DN">
+			<Chinesesimp>水下爆破队制服 1（蓝色/卡其色）</Chinesesimp>
+			<English>SEAL Shirt/UDT (Blue/ Khaki)</English>
+			<French>Uniforme UDT 1 (bleu, kaki)</French>
+			<German>Uniform UDT 1 (blau/khaki)</German>
+			<Italian>Uniforme UDT 1 (blu, kaki)</Italian>
+			<Original>Uniform UDT 1 (Blue/ Khaki)</Original>
+			<Portuguese>Uniforme UDT 1 (Azul/cáqui)</Portuguese>
+			<Russian>Форма UDT 1 (синий/хаки)</Russian>
+			<Spanish>Uniforme UDT 1 (azul y caqui)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_07_02_DN">
+			<Chinesesimp>水下爆破队制服 1（蓝色/虎纹）</Chinesesimp>
+			<English>SEAL Shirt/UDT (Blue/ Tiger)</English>
+			<French>Uniforme UDT 1 (bleu, tigré)</French>
+			<German>Uniform UDT 1 (blau/Tiger)</German>
+			<Italian>Uniforme UDT 1 (blu, tigrata)</Italian>
+			<Original>Uniform UDT 1 (Blue/ Tiger)</Original>
+			<Portuguese>Uniforme UDT 1 (Azul/tigre)</Portuguese>
+			<Russian>Форма UDT 1 (синий/тайгерстрайп)</Russian>
+			<Spanish>Uniforme UDT 1 (azul y tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_07_03_DN">
+			<Chinesesimp>水下爆破队制服 1（黄色/卡其色）</Chinesesimp>
+			<English>SEAL Shirt/UDT (Yellow/ Khaki)</English>
+			<French>Uniforme UDT 1 (jaune, kaki)</French>
+			<German>Uniform UDT 1 (gelb/khaki)</German>
+			<Italian>Uniforme UDT 1 (gialla, kaki)</Italian>
+			<Original>Uniform UDT 1 (Yellow/ Khaki)</Original>
+			<Portuguese>Uniforme UDT 1 (Amarelo/cáqui)</Portuguese>
+			<Russian>Форма UDT 1 (желтый/хаки)</Russian>
+			<Spanish>Uniforme UDT 1 (amarillo y caqui)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_07_04_DN">
+			<Chinesesimp>水下爆破队制服 1（黄色/虎纹）</Chinesesimp>
+			<English>SEAL Shirt/UDT (Yellow/ Tiger)</English>
+			<French>Uniforme UDT 1 (jaune, tigré)</French>
+			<German>Uniform UDT 1 (gelb/Tiger)</German>
+			<Italian>Uniforme UDT 1 (gialla, tigrata)</Italian>
+			<Original>Uniform UDT 1 (Yellow/ Tiger)</Original>
+			<Portuguese>Uniforme UDT 1 (Amarelo/tigre)</Portuguese>
+			<Russian>Форма UDT 1 (желтый/тайгерстрайп)</Russian>
+			<Spanish>Uniforme UDT 1 (amarillo y tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_08_01_DN">
+			<Chinesesimp>水下爆破队制服 2（蓝色/卡其色）</Chinesesimp>
+			<English>SEAL Tee/UDT (Blue/ Khaki)</English>
+			<French>Uniforme UDT 2 (bleu, kaki)</French>
+			<German>Uniform UDT 2 (blau/khaki)</German>
+			<Italian>Uniforme UDT 2 (blu, kaki)</Italian>
+			<Original>Uniform UDT 2 (Blue/ Khaki)</Original>
+			<Portuguese>Uniforme UDT 2 (Azul/cáqui)</Portuguese>
+			<Russian>Форма UDT 2 (синий/хаки)</Russian>
+			<Spanish>Uniforme UDT 2 (azul y caqui)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_08_02_DN">
+			<Chinesesimp>水下爆破队制服 2（蓝色/虎纹）</Chinesesimp>
+			<English>SEAL Tee/UDT (Blue/ Tiger)</English>
+			<French>Uniforme UDT 2 (bleu, tigré)</French>
+			<German>Uniform UDT 2 (blau/Tiger)</German>
+			<Italian>Uniforme UDT 2 (blu, tigrata)</Italian>
+			<Original>Uniform UDT 2 (Blue/ Tiger)</Original>
+			<Portuguese>Uniforme UDT 2 (Azul/tigre)</Portuguese>
+			<Russian>Форма UDT 2 (синий/тайгерстрайп)</Russian>
+			<Spanish>Uniforme UDT 2 (azul y tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_08_03_DN">
+			<Chinesesimp>水下爆破队制服 2（黄色/卡其色）</Chinesesimp>
+			<English>SEAL Tee/UDT (Yellow/ Khaki)</English>
+			<French>Uniforme UDT 2 (jaune, kaki)</French>
+			<German>Uniform UDT 2 (gelb/khaki)</German>
+			<Italian>Uniforme UDT 2 (gialla, kaki)</Italian>
+			<Original>Uniform UDT 2 (Yellow/ Khaki)</Original>
+			<Portuguese>Uniforme UDT 2 (Amarelo/cáqui)</Portuguese>
+			<Russian>Форма UDT 2 (желтый/хаки)</Russian>
+			<Spanish>Uniforme UDT 2 (amarillo y caqui)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_08_04_DN">
+			<Chinesesimp>水下爆破队制服 2（黄色/虎纹）</Chinesesimp>
+			<English>SEAL Tee/UDT (Yellow/ Tiger)</English>
+			<French>Uniforme UDT 2 (jaune, tigré)</French>
+			<German>Uniform UDT 2 (gelb/Tiger)</German>
+			<Italian>Uniforme UDT 2 (gialla, tigrata)</Italian>
+			<Original>Uniform UDT 2 (Yellow/ Tiger)</Original>
+			<Portuguese>Uniforme UDT 2 (Amarelo/tigre)</Portuguese>
+			<Russian>Форма UDT 2 (желтый/тайгерстрайп)</Russian>
+			<Spanish>Uniforme UDT 2 (amarillo y tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_SEAL_09_01_DN">
+			<Chinesesimp>水下爆破队制服 3（海狸潜水服）</Chinesesimp>
+			<English>SEAL Suit/UDT (Beaver Wetsuit)</English>
+			<French>Uniforme UDT 3 (combinaison)</French>
+			<German>Uniform UDT 3 (Neoprenanzug „Beaver“)</German>
+			<Italian>Uniforme UDT 3 (muta, castoro)</Italian>
+			<Original>Uniform UDT 3 (Beaver Wetsuit)</Original>
+			<Portuguese>Uniforme UDT 3 (Roupa de mergulho castor)</Portuguese>
+			<Russian>Форма UDT 3 (гидрокостюм)</Russian>
+			<Spanish>Uniforme UDT 3 (traje de buceo)</Spanish>
+		</Key>
+    </Package>
+    <Package name="k2b_us">
+        <Key ID="STR_VN_B_UNIFORM_K2B_01_01_DN">
+			<Chinesesimp>K2B 美国空军（喷气式战斗机机组人员）</Chinesesimp>
+			<English>USAF K2B Jet Crew</English>
+			<French>Tenue de vol chasseurs USAF</French>
+			<German>K2B-Fluganzug USAF-Jetbesatzung</German>
+			<Italian>K2B equipaggio jet USAF</Italian>
+			<Original>K2B USAF Jet Crew</Original>
+			<Portuguese>K2B Tripulação da FAA</Portuguese>
+			<Russian>Летная форма экипажа реак. самолета ВВС США</Russian>
+			<Spanish>K2B tripulante jet USAF</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_01_02_DN">
+			<Chinesesimp>K2B 美国海军陆战队（喷气式战斗机机组人员）</Chinesesimp>
+			<English>USMC K2B Jet Crew (Green)</English>
+			<French>Tenue de vol chasseurs US Marines</French>
+			<German>K2B-Fluganzug USMC-Jetbesatzung</German>
+			<Italian>K2B equipaggio jet USMC</Italian>
+			<Original>K2B USMC Jet Crew</Original>
+			<Portuguese>K2B Tripulação da CFNA</Portuguese>
+			<Russian>Летная форма экипажа реак. самолета КМП США</Russian>
+			<Spanish>K2B tripulante jet Marines EE. UU.</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_01_04_DN">
+			<Chinesesimp>K2B 美国海军陆战队喷气式战斗机机组人员（虎纹）</Chinesesimp>
+			<English>USMC K2B Jet Crew (Tiger)</English>
+			<French>Tenue de vol chasseurs US Marines (tigré)</French>
+			<German>K2B-Fluganzug USMC-Jetbesatzung (Tiger)</German>
+			<Italian>K2B equipaggio jet USMC (tigrata)</Italian>
+			<Original>K2B USMC Jet Crew (Tiger)</Original>
+			<Portuguese>K2B Tripulação da CFNA (Tigre)</Portuguese>
+			<Russian>Летная форма экипажа реак. самолета КМП США (тайгерстрайп)</Russian>
+			<Spanish>K2B tripulante jet Marines EE. UU. (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_01_05_DN">
+			<Chinesesimp>K2B 美国海军陆战队喷气式战斗机机组人员（卡其色）</Chinesesimp>
+			<English>USMC K2B Jet Crew (Khaki)</English>
+			<French>Tenue de vol chasseurs US Marines (kaki)</French>
+			<German>K2B-Fluganzug USMC-Jetbesatzung (khaki)</German>
+			<Italian>K2B equipaggio jet USMC (cachi)</Italian>
+			<Original>K2B USMC Jet Crew (Khaki)</Original>
+			<Portuguese>K2B Tripulação da CFNA (Cáqui)</Portuguese>
+			<Russian>Летная форма экипажа реак. самолета КМП США (хаки)</Russian>
+			<Spanish>K2B tripulante jet Marines EE. UU. (caqui)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_02_01_DN">
+			<Chinesesimp>K2B 美国陆军（直升机机组人员）</Chinesesimp>
+			<English>US Army K2B Heli Crew</English>
+			<French>Tenue de vol hélicoptère US Army</French>
+			<German>K2B-Fluganzug US Army-Helikopterbesatzung</German>
+			<Italian>K2B equipaggio elicottero U.S. Army</Italian>
+			<Original>K2B US Army Heli Crew</Original>
+			<Portuguese>K2B Tripulação de Helic. do Exército dos EUA</Portuguese>
+			<Russian>Летная форма экипажа вертолета армии США</Russian>
+			<Spanish>K2B tripul. helicóptero Ejército EE. UU.</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_02_02_DN">
+			<Chinesesimp>K2B 美国海军陆战队（直升机机组人员）</Chinesesimp>
+			<English>USMC K2B Heli Crew (Green)</English>
+			<French>Tenue de vol hélicoptères US Marines</French>
+			<German>K2B-Fluganzug USMC-Helikopterbesatzung</German>
+			<Italian>K2B equipaggio elicottero USMC</Italian>
+			<Original>K2B USMC Heli Crew</Original>
+			<Portuguese>K2B Tripulação de Helic. da CFNA</Portuguese>
+			<Russian>Летная форма экипажа вертолета КМП США</Russian>
+			<Spanish>K2B tripul. helicóptero Marines EE. UU.</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_02_03_DN">
+			<Chinesesimp>K2B 美军特种部队（直升机机组人员）</Chinesesimp>
+			<English>USSF K2B Heli Crew</English>
+			<French>Tenue de vol hélicoptères USSF</French>
+			<German>K2B-Fluganzug USSF-Helikopterbesatzung</German>
+			<Italian>K2B equipaggio elicottero USSF</Italian>
+			<Original>K2B USSF Heli Crew</Original>
+			<Portuguese>K2B Tripulação de Helic. da FEA</Portuguese>
+			<Russian>Летная форма K2B экипажа вертолета ВВС США</Russian>
+			<Spanish>K2B tripul. helicóptero USSF</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_02_04_DN">
+			<Chinesesimp>K2B 美国海军陆战队直升飞机机组人员（虎纹）</Chinesesimp>
+			<English>USMC K2B Heli Crew (Tiger)</English>
+			<French>Tenue de vol hélicoptères US Marines (tigré)</French>
+			<German>K2B-Fluganzug USMC-Helikopterbesatzung (Tiger)</German>
+			<Italian>K2B equipaggio elicottero USMC (tigrata)</Italian>
+			<Original>K2B USMC Heli Crew (Tiger)</Original>
+			<Portuguese>K2B Tripulação de Helic. da CFNA (Tigre)</Portuguese>
+			<Russian>Летная форма экипажа вертолета КМП США (тайгерстрайп)</Russian>
+			<Spanish>K2B tripul. helicóptero Marines EE. UU. (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_02_05_DN">
+			<Chinesesimp>K2B 美国海军陆战队直升飞机机组人员（卡其色）</Chinesesimp>
+			<English>USMC K2B Heli Crew (Khaki)</English>
+			<French>Tenue de vol hélicoptères US Marines (kaki)</French>
+			<German>K2B-Fluganzug USMC-Helikopterbesatzung (khaki)</German>
+			<Italian>K2B equipaggio elicottero USMC (cachi)</Italian>
+			<Original>K2B USMC Heli Crew (Khaki)</Original>
+			<Portuguese>K2B Tripulação de Helic. da CFNA (Cáqui)</Portuguese>
+			<Russian>Летная форма экипажа вертолета КМП США (хаки)</Russian>
+			<Spanish>K2B tripul. helicóptero Marines EE. UU. (caqui)</Spanish>
+		</Key>
+    </Package>
+	<Package name="k2b_raaf">
+		<Key ID="STR_VN_B_UNIFORM_K2B_03_01_DN">
+			<Chinesesimp>K2B 澳大利亚皇家空军直升机机组人员</Chinesesimp>
+			<English>RAAF K2B Heli Crew</English>
+			<French>Tenue de vol hélicoptères RAAF</French>
+			<German>K2B-Fluganzug RAAF-Helikopterbesatzung</German>
+			<Italian>K2B equipaggio elicottero RAAF</Italian>
+			<Original>K2B RAAF Heli Crew</Original>
+			<Portuguese>K2B Tripulação de Helic. da RFAA</Portuguese>
+			<Russian>Летная форма экипажа вертолета КВВС Австралии</Russian>
+			<Spanish>K2B tripul. helicóptero RAAF</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_K2B_03_02_DN">
+			<Chinesesimp>K2B 澳大利亚皇家海军直升机机组人员</Chinesesimp>
+			<English>RAN K2B Heli Crew</English>
+			<French>Tenue de vol hélicoptères RAN</French>
+			<German>K2B-Fluganzug RAN-Helikopterbesatzung</German>
+			<Italian>K2B equipaggio elicottero RAN</Italian>
+			<Original>K2B RAN Heli Crew</Original>
+			<Portuguese>K2B Tripulação de Helic. da MRA</Portuguese>
+			<Russian>Летная форма экипажа вертолета КВМФ Австралии</Russian>
+			<Spanish>K2B tripul. helicóptero RAN</Spanish>
+		</Key>
+	</Package>
+    <Package name="bdu_sas">
+        <Key ID="STR_VN_B_UNIFORM_SAS_01_06_DN">
+				<Chinesesimp>特种空勤团作战制服 1（ERDL）</Chinesesimp>
+				<English>SAS BDU (ERDL)</English>
+				<French>Tenue de combat SAS 1 (ERDL)</French>
+				<German>Felduniform SAS 1 (ERDL)</German>
+				<Italian>BDU SAS 1 (ERDL)</Italian>
+				<Original>BDU SAS 1 (ERDL)</Original>
+				<Portuguese>UB SAE 1 (ERDL)</Portuguese>
+				<Russian>Боевая форма одежды САС 1 (ERDL)</Russian>
+				<Spanish>Uniforme de combate SAS 1 (ERDL)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_UNIFORM_SAS_02_06_DN">
+				<Chinesesimp>特种空勤团作战制服 2（ERDL）</Chinesesimp>
+				<English>SAS BDU Nomex (ERDL)</English>
+				<French>Tenue de combat SAS 2 (ERDL)</French>
+				<German>Felduniform SAS 2 (ERDL)</German>
+				<Italian>BDU SAS 2 (ERDL)</Italian>
+				<Original>BDU SAS 2 (ERDL)</Original>
+				<Portuguese>UB SAE 2 (ERDL)</Portuguese>
+				<Russian>Боевая форма одежды САС 2 (ERDL)</Russian>
+				<Spanish>Uniforme de combate SAS 2 (ERDL)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_UNIFORM_SAS_03_06_DN">
+				<Chinesesimp>特种空勤团作战制服 3（ERDL）</Chinesesimp>
+				<English>SAS BDU Fingerless (ERDL)</English>
+				<French>Tenue de combat SAS 3 (ERDL)</French>
+				<German>Felduniform SAS 3 (ERDL)</German>
+				<Italian>BDU SAS 3 (ERDL)</Italian>
+				<Original>BDU SAS 3 (ERDL)</Original>
+				<Portuguese>UB SAE 3 (ERDL)</Portuguese>
+				<Russian>Боевая форма одежды САС 3 (ERDL)</Russian>
+				<Spanish>Uniforme de combate SAS 3 (ERDL)</Spanish>
+			</Key>
+    </Package>
+	<Package name="bdu_arvn">
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_17_DN">
+			<Chinesesimp>南越陆军作战制服 1（BDQ）</Chinesesimp>
+			<English>ARVN BDU Bloused (BDQ)</English>
+			<French>Tenue de combat ARVN 1 (BDQ)</French>
+			<German>Felduniform ARVN 1 (BDQ)</German>
+			<Italian>BDU ARVN 1 (BDQ)</Italian>
+			<Original>BDU ARVN 1 (BDQ)</Original>
+			<Portuguese>UB ERV 1 (BDQ)</Portuguese>
+			<Russian>Боевая форма одежды АРВ 1 (BDQ)</Russian>
+			<Spanish>Uniforme de combate ERV 1 (BDQ)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_17_DN">
+				<Chinesesimp>南越陆军作战制服 2（BDQ）</Chinesesimp>
+				<English>ARVN BDU Unbloused (BDQ)</English>
+				<French>Tenue de combat ARVN 2 (BDQ)</French>
+				<German>Felduniform ARVN 2 (BDQ)</German>
+				<Italian>BDU ARVN 2 (BDQ)</Italian>
+				<Original>BDU ARVN 2 (BDQ)</Original>
+				<Portuguese>UB ERV 2 (BDQ)</Portuguese>
+				<Russian>Боевая форма одежды АРВ 2 (BDQ)</Russian>
+				<Spanish>Uniforme de combate ERV 2 (BDQ)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_17_DN">
+			<Chinesesimp>南越陆军作战制服 3（BDQ）</Chinesesimp>
+			<English>ARVN BDU Unbl/Roll (BDQ)</English>
+			<French>Tenue de combat ARVN 3 (BDQ)</French>
+			<German>Felduniform ARVN 3 (BDQ)</German>
+			<Italian>BDU ARVN 3 (BDQ)</Italian>
+			<Original>BDU ARVN 3 (BDQ)</Original>
+			<Portuguese>UB ERV 3 (BDQ)</Portuguese>
+			<Russian>Боевая форма одежды АРВ 3 (BDQ)</Russian>
+			<Spanish>Uniforme de combate ERV 3 (BDQ)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_17_DN">
+			<Chinesesimp>南越陆军作战制服 4（BDQ）</Chinesesimp>
+			<English>ARVN BDU Bl/Roll (BDQ)</English>
+			<French>Tenue de combat ARVN 4 (BDQ)</French>
+			<German>Felduniform ARVN 4 (BDQ)</German>
+			<Italian>BDU ARVN 4 (BDQ)</Italian>
+			<Original>BDU ARVN 4 (BDQ)</Original>
+			<Portuguese>UB ERV 4 (BDQ)</Portuguese>
+			<Russian>Боевая форма одежды АРВ 4 (BDQ)</Russian>
+			<Spanish>Uniforme de combate ERV 4 (BDQ)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_17_DN">
+			<Chinesesimp>南越陆军作战制服 5（BDQ）</Chinesesimp>
+			<English>ARVN BDU Bl/Sleeve (BDQ)</English>
+			<French>Tenue de combat ARVN 5 (BDQ)</French>
+			<German>Felduniform ARVN 5 (BDQ)</German>
+			<Italian>BDU ARVN 5 (BDQ)</Italian>
+			<Original>BDU ARVN 5 (BDQ)</Original>
+			<Portuguese>UB ERV 5 (BDQ)</Portuguese>
+			<Russian>Боевая форма одежды АРВ 5 (BDQ)</Russian>
+			<Spanish>Uniforme de combate ERV 5 (BDQ)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_17_DN">
+			<Chinesesimp>南越陆军作战制服 6（BDQ）</Chinesesimp>
+			<English>ARVN BDU Bl/Tee (BDQ)</English>
+			<French>Tenue de combat ARVN 6 (BDQ)</French>
+			<German>Felduniform ARVN 6 (BDQ)</German>
+			<Italian>BDU ARVN 6 (BDQ)</Italian>
+			<Original>BDU ARVN 6 (BDQ)</Original>
+			<Portuguese>UB ERV 6 (BDQ)</Portuguese>
+			<Russian>Боевая форма одежды АРВ 6 (BDQ)</Russian>
+			<Spanish>Uniforme de combate ERV 6 (BDQ)</Spanish>
+		</Key>
+	</Package>
+	<Package name="bdu_rok">
+		<Key ID="STR_VN_B_UNIFORM_MACV_01_18_DN">
+			<Chinesesimp>韩国作战制服 1（蛙纹）</Chinesesimp>
+			<English>ROK BDU Bloused (Frog)</English>
+			<French>Tenue de combat RDC 1 (frogskin)</French>
+			<German>Felduniform ROK 1 (Frosch)</German>
+			<Italian>BDU ROK 1 (rana)</Italian>
+			<Original>BDU ROK 1 (Frog)</Original>
+			<Portuguese>UB RC 1 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 1 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 1 (rana)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_18_DN">
+			<Chinesesimp>韩国作战制服 2（蛙纹）</Chinesesimp>
+			<English>ROK BDU Unbloused (Frog)</English>
+			<French>Tenue de combat RDC 2 (frogskin)</French>
+			<German>Felduniform ROK 2 (Frosch)</German>
+			<Italian>BDU ROK 2 (rana)</Italian>
+			<Original>BDU ROK 2 (Frog)</Original>
+			<Portuguese>UB RC 2 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 2 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 2 (rana)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_18_DN">
+			<Chinesesimp>韩国作战制服 3（蛙纹）</Chinesesimp>
+			<English>ROK BDU Unbl/Roll (Frog)</English>
+			<French>Tenue de combat RDC 3 (frogskin)</French>
+			<German>Felduniform ROK 3 (Frosch)</German>
+			<Italian>BDU ROK 3 (rana)</Italian>
+			<Original>BDU ROK 3 (Frog)</Original>
+			<Portuguese>UB RC 3 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 3 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 3 (rana)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_18_DN">
+			<Chinesesimp>韩国作战制服 4（蛙纹）</Chinesesimp>
+			<English>ROK BDU Bl/Roll (Frog)</English>
+			<French>Tenue de combat RDC 4 (frogskin)</French>
+			<German>Felduniform ROK 4 (Frosch)</German>
+			<Italian>BDU ROK 4 (rana)</Italian>
+			<Original>BDU ROK 4 (Frog)</Original>
+			<Portuguese>UB RC 4 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 4 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 4 (rana)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_18_DN">
+			<Chinesesimp>韩国作战制服 5（蛙纹）</Chinesesimp>
+			<English>ROK BDU Bl/Sleeve (Frog)</English>
+			<French>Tenue de combat RDC 5 (frogskin)</French>
+			<German>Felduniform ROK 5 (Frosch)</German>
+			<Italian>BDU ROK 5 (rana)</Italian>
+			<Original>BDU ROK 5 (Frog)</Original>
+			<Portuguese>UB RC 5 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 5 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 5 (rana)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_18_DN">
+			<Chinesesimp>韩国作战制服 6（蛙纹）</Chinesesimp>
+			<English>ROK BDU Bl/Tee (Frog)</English>
+			<French>Tenue de combat RDC 6 (frogskin)</French>
+			<German>Felduniform ROK 6 (Frosch)</German>
+			<Italian>BDU ROK 6 (rana)</Italian>
+			<Original>BDU ROK 6 (Frog)</Original>
+			<Portuguese>UB RC 6 (Sapo)</Portuguese>
+			<Russian>Боевая форма одежды Респ. Корея 6 (лягушка)</Russian>
+			<Spanish>Uniforme de combate Rep. Corea 6 (rana)</Spanish>
+		</Key>
+	</Package>
+	<Package name="bdu_aus">
+		<Key ID="STR_VN_B_UNIFORM_AUS_01_01_DN">
+			<Chinesesimp>澳大利亚作战制服 1（橄榄绿）</Chinesesimp>
+			<English>AUS JG Gaiter/Sleeve (Olive)</English>
+			<French>Tenue de combat AUS 1 (olive)</French>
+			<German>Felduniform AUS 1 (oliv)</German>
+			<Italian>BDU AUS 1 (verde oliva)</Italian>
+			<Original>BDU AUS 1 (Olive)</Original>
+			<Portuguese>UB AUS 1 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 1 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 1 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_02_01_DN">
+			<Chinesesimp>澳大利亚作战制服 2（橄榄绿）</Chinesesimp>
+			<English>AUS JG Gaiter/Roll (Olive)</English>
+			<French>Tenue de combat AUS 2 (olive)</French>
+			<German>Felduniform AUS 2 (oliv)</German>
+			<Italian>BDU AUS 2 (verde oliva)</Italian>
+			<Original>BDU AUS 2 (Olive)</Original>
+			<Portuguese>UB AUS 2 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 2 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 2 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_03_01_DN">
+			<Chinesesimp>澳大利亚作战制服 3（橄榄绿）</Chinesesimp>
+			<English>AUS JG Bl/Sleeve (Olive)</English>
+			<French>Tenue de combat AUS 3 (olive)</French>
+			<German>Felduniform AUS 3 (oliv)</German>
+			<Italian>BDU AUS 3 (verde oliva)</Italian>
+			<Original>BDU AUS 3 (Olive)</Original>
+			<Portuguese>UB AUS 3 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 3 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 3 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_04_01_DN">
+			<Chinesesimp>澳大利亚作战制服 4（橄榄绿）</Chinesesimp>
+			<English>AUS JG Bl/Roll (Olive)</English>
+			<French>Tenue de combat AUS 4 (olive)</French>
+			<German>Felduniform AUS 4 (oliv)</German>
+			<Italian>BDU AUS 4 (verde oliva)</Italian>
+			<Original>BDU AUS 4 (Olive)</Original>
+			<Portuguese>UB AUS 4 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 4 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 4 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_05_01_DN">
+			<Chinesesimp>澳大利亚作战制服 5（橄榄绿）</Chinesesimp>
+			<English>AUS PG Bl/Sleeve (Olive)</English>
+			<French>Tenue de combat AUS 5 (olive)</French>
+			<German>Felduniform AUS 5 (oliv)</German>
+			<Italian>BDU AUS 5 (verde oliva)</Italian>
+			<Original>BDU AUS 5 (Olive)</Original>
+			<Portuguese>UB AUS 5 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 5 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 5 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_06_01_DN">
+			<Chinesesimp>澳大利亚作战制服 6（橄榄绿）</Chinesesimp>
+			<English>AUS PG Bl/Roll (Olive)</English>
+			<French>Tenue de combat AUS 6 (olive)</French>
+			<German>Felduniform AUS 6 (oliv)</German>
+			<Italian>BDU AUS 6 (verde oliva)</Italian>
+			<Original>BDU AUS 6 (Olive)</Original>
+			<Portuguese>UB AUS 6 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 6 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 6 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_07_01_DN">
+			<Chinesesimp>澳大利亚作战制服 7（橄榄绿）</Chinesesimp>
+			<English>AUS JG Bl/Roll/Jboot (Olive)</English>
+			<French>Tenue de combat AUS 7 (olive)</French>
+			<German>Felduniform AUS 7 (oliv)</German>
+			<Italian>BDU AUS 7 (verde oliva)</Italian>
+			<Original>BDU AUS 7 (Olive)</Original>
+			<Portuguese>UB AUS 7 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 7 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 7 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_08_01_DN">
+			<Chinesesimp>澳大利亚作战制服 8（橄榄绿）</Chinesesimp>
+			<English>AUS PG Bl/Roll/Jboot (Olive)</English>
+			<French>Tenue de combat AUS 8 (olive)</French>
+			<German>Felduniform AUS 8 (oliv)</German>
+			<Italian>BDU AUS 8 (verde oliva)</Italian>
+			<Original>BDU AUS 8 (Olive)</Original>
+			<Portuguese>UB AUS 8 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 8 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 8 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_09_01_DN">
+			<Chinesesimp>澳大利亚作战制服 9（橄榄绿）</Chinesesimp>
+			<English>AUS JG Bl/Sleeve (Olive/ Field)</English>
+			<French>Tenue de combat AUS 9 (olive)</French>
+			<German>Felduniform AUS 9 (oliv)</German>
+			<Italian>BDU AUS 9 (verde oliva)</Italian>
+			<Original>BDU AUS 9 (Olive)</Original>
+			<Portuguese>UB AUS 9 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 9 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 9 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_AUS_10_01_DN">
+			<Chinesesimp>澳大利亚作战制服 10（橄榄绿）</Chinesesimp>
+			<English>AUS JG Bl/Roll (Olive/ Field)</English>
+			<French>Tenue de combat AUS 10 (olive)</French>
+			<German>Felduniform AUS 10 (oliv)</German>
+			<Italian>BDU AUS 10 (verde oliva)</Italian>
+			<Original>BDU AUS 10 (Olive)</Original>
+			<Portuguese>UB AUS 10 (Verde-oliva)</Portuguese>
+			<Russian>Австрал. боевая форма одежды 10 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Australia 10 (oliva)</Spanish>
+		</Key>
+	</Package>
+    <Package name="bdu_nz">
+        <Key ID="STR_VN_B_UNIFORM_NZ_01_01_DN">
+			<Chinesesimp>新西兰作战制服 1（橄榄绿）</Chinesesimp>
+			<English>NZ JG Gaiter/Sleeve (Olive)</English>
+			<French>Tenue de combat NZ 1 (olive)</French>
+			<German>Felduniform NZ 1 (oliv)</German>
+			<Italian>BDU NZ1 (verde oliva)</Italian>
+			<Original>BDU NZ 1 (Olive)</Original>
+			<Portuguese>UB NZ 1 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 1 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 1 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_NZ_02_01_DN">
+			<Chinesesimp>新西兰作战制服 2（橄榄绿）</Chinesesimp>
+			<English>NZ JG Gaiter/Roll (Olive)</English>
+			<French>Tenue de combat NZ 2 (olive)</French>
+			<German>Felduniform NZ 2 (oliv)</German>
+			<Italian>BDU NZ 2 (verde oliva)</Italian>
+			<Original>BDU NZ 2 (Olive)</Original>
+			<Portuguese>UB NZ 2 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 2 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 2 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_NZ_03_01_DN">
+			<Chinesesimp>新西兰作战制服 3（橄榄绿）</Chinesesimp>
+			<English>NZ JG Bl/Sleeve (Olive)</English>
+			<French>Tenue de combat NZ 3 (olive)</French>
+			<German>Felduniform NZ 3 (oliv)</German>
+			<Italian>BDU NZ 3 (verde oliva)</Italian>
+			<Original>BDU NZ 3 (Olive)</Original>
+			<Portuguese>UB NZ 3 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 3 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 3 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_NZ_04_01_DN">
+			<Chinesesimp>新西兰作战制服 4（橄榄绿）</Chinesesimp>
+			<English>NZ JG Bl/Roll (Olive)</English>
+			<French>Tenue de combat NZ 4 (olive)</French>
+			<German>Felduniform NZ 4 (oliv)</German>
+			<Italian>BDU NZ 4 (verde oliva)</Italian>
+			<Original>BDU NZ 4 (Olive)</Original>
+			<Portuguese>UB NZ 4 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 4 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 4 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_NZ_05_01_DN">
+			<Chinesesimp>新西兰作战制服 5（橄榄绿）</Chinesesimp>
+			<English>NZ JG Bl/Sleeve/Jboot (Olive)</English>
+			<French>Tenue de combat NZ 5 (olive)</French>
+			<German>Felduniform NZ 5 (oliv)</German>
+			<Italian>BDU NZ 5 (verde oliva)</Italian>
+			<Original>BDU NZ 5 (Olive)</Original>
+			<Portuguese>UB NZ 5 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 5 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 5 (oliva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_NZ_06_01_DN">
+			<Chinesesimp>新西兰作战制服 6（橄榄绿）</Chinesesimp>
+			<English>NZ JG Bl/Roll/Jboot (Olive)</English>
+			<French>Tenue de combat NZ 6 (olive)</French>
+			<German>Felduniform NZ 6 (oliv)</German>
+			<Italian>BDU NZ 6 (verde oliva)</Italian>
+			<Original>BDU NZ 6 (Olive)</Original>
+			<Portuguese>UB NZ 6 (Verde-oliva)</Portuguese>
+			<Russian>Боевая форма одежды Новой Зеландии 6 (оливковая)</Russian>
+			<Spanish>Uniforme de combate Nueva Zelanda 6 (oliva)</Spanish>
+		</Key>
+    </Package>
+    <Package name="giggle_hat">
+        <Key ID="STR_VN_B_BOONIE_06_01_DN">
+				<Chinesesimp>圆边帽（澳新军团）</Chinesesimp>
+				<English>Bush Hat</English>
+				<French>Chapeau de brousse (ANZAC)</French>
+				<German>Dschungelhut (AZNAC)</German>
+				<Italian>Boonie hat (ANZAC)</Italian>
+				<Original>Boonie (ANZAC)</Original>
+				<Portuguese>Chapéu tático (FAANZ)</Portuguese>
+				<Russian>Панама (АНЗАК)</Russian>
+				<Spanish>Boonie (ANZAC)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_BOONIE_06_02_DN">
+				<Chinesesimp>圆边帽（澳新军团，条纹）</Chinesesimp>
+				<English>Bush Hat (Stripe)</English>
+				<French>Chapeau de brousse (ANZAC, rayé)</French>
+				<German>Dschungelhut (AZNAC, Streifen)</German>
+				<Italian>Boonie hat (ANZAC, a strisce)</Italian>
+				<Original>Boonie (ANZAC Stripe)</Original>
+				<Portuguese>Chapéu tático (FAANZ, listrado)</Portuguese>
+				<Russian>Панама (АНЗАК, с полоской)</Russian>
+				<Spanish>Boonie (ANZAC, banda)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_BOONIE_07_01_DN">
+				<Chinesesimp>圆边帽（澳新军团，椭圆）</Chinesesimp>
+				<English>Bush Hat (Oval)</English>
+				<French>Chapeau de brousse (ANZAC, ovale)</French>
+				<German>Dschungelhut (AZNAC, oval)</German>
+				<Italian>Boonie hat (ANZAC, ovale)</Italian>
+				<Original>Boonie (ANZAC Oval)</Original>
+				<Portuguese>Chapéu tático (FAANZ, oval)</Portuguese>
+				<Russian>Панама (АНЗАК, овальная)</Russian>
+				<Spanish>Boonie (ANZAC, oval)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_BOONIE_07_02_DN">
+				<Chinesesimp>圆边帽（澳新军团，椭圆条纹）</Chinesesimp>
+				<English>Bush Hat (Oval Stripe)</English>
+				<French>Chapeau de brousse (ANZAC, ovale, rayé)</French>
+				<German>Dschungelhut (AZNAC, Streifen, oval)</German>
+				<Italian>Boonie hat (ANZAC, ovale, a strisce)</Italian>
+				<Original>Boonie (ANZAC Oval Stripe)</Original>
+				<Portuguese>Chapéu tático (FAANZ, oval listrado)</Portuguese>
+				<Russian>Панама (АНЗАК, овальная, с полоской)</Russian>
+				<Spanish>Boonie (ANZAC, oval, banda)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_BOONIE_08_01_DN">
+				<Chinesesimp>圆边帽（澳新军团，折叠）</Chinesesimp>
+				<English>Bush Hat (Folded)</English>
+				<French>Chapeau de brousse (ANZAC, plié)</French>
+				<German>Dschungelhut (AZNAC, gefaltet)</German>
+				<Italian>Boonie hat (ANZAC, piegato)</Italian>
+				<Original>Boonie (ANZAC Folded)</Original>
+				<Portuguese>Chapéu tático (FAANZ, dobrado)</Portuguese>
+				<Russian>Панама (АНЗАК, согнутая)</Russian>
+				<Spanish>Boonie (ANZAC, plegado)</Spanish>
+			</Key>
+			<Key ID="STR_VN_B_BOONIE_08_02_DN">
+				<Chinesesimp>圆边帽（澳新军团，折叠，条纹）</Chinesesimp>
+				<English>Bush Hat (Folded Stripe)</English>
+				<French>Chapeau de brousse (ANZAC, rayé, bord plié)</French>
+				<German>Dschungelhut (AZNAC, Streifen, gefaltet)</German>
+				<Italian>Boonie hat (ANZAC, piegato, a strisce)</Italian>
+				<Original>Boonie (ANZAC Folded Stripe)</Original>
+				<Portuguese>Chapéu tático (FAANZ, dobrado listrado)</Portuguese>
+				<Russian>Панама (АНЗАК, согнутая, с полоской)</Russian>
+				<Spanish>Boonie (ANZAC, plegado, banda)</Spanish>
+			</Key>
+    </Package>
+    <Package name="bdu_rla">
+        <Key ID="STR_VN_B_UNIFORM_MACV_01_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 1（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Bloused (Lizard)</English>
+			<French>Tenue de combat ARL 1 (lézard)</French>
+			<German>Felduniform RLA 1 (Eidechse)</German>
+			<Italian>BDU RLA 1 (lucertola)</Italian>
+			<Original>BDU RLA 1 (Lizard)</Original>
+			<Portuguese>UB ERL 1 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 1 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 1 (lagarto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_02_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 2（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Unbloused (Lizard)</English>
+			<French>Tenue de combat ARL 2 (lézard)</French>
+			<German>Felduniform RLA 2 (Eidechse)</German>
+			<Italian>BDU RLA 2 (lucertola)</Italian>
+			<Original>BDU RLA 2 (Lizard)</Original>
+			<Portuguese>UB ERL 2 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 2 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 2 (lagarto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_03_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 3（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Unbl/Roll (Lizard)</English>
+			<French>Tenue de combat ARL 3 (lézard)</French>
+			<German>Felduniform RLA 3 (Eidechse)</German>
+			<Italian>BDU RLA 3 (lucertola)</Italian>
+			<Original>BDU RLA 3 (Lizard)</Original>
+			<Portuguese>UB ERL 3 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 3 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 3 (lagarto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_04_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 4（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Bl/Roll (Lizard)</English>
+			<French>Tenue de combat ARL 4 (lézard)</French>
+			<German>Felduniform RLA 4 (Eidechse)</German>
+			<Italian>BDU RLA 4 (lucertola)</Italian>
+			<Original>BDU RLA 4 (Lizard)</Original>
+			<Portuguese>UB ERL 4 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 4 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 4 (lagarto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_05_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 5（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Bl/Sleeve (Lizard)</English>
+			<French>Tenue de combat ARL 5 (lézard)</French>
+			<German>Felduniform RLA 5 (Eidechse)</German>
+			<Italian>BDU RLA 5 (lucertola)</Italian>
+			<Original>BDU RLA 5 (Lizard)</Original>
+			<Portuguese>UB ERL 5 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 5 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 5 (lagarto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_UNIFORM_MACV_06_16_DN">
+			<Chinesesimp>老挝皇家陆军作战制服 6（蜥蜴纹）</Chinesesimp>
+			<English>RLA BDU Bl/Tee (Lizard)</English>
+			<French>Tenue de combat ARL 6 (lézard)</French>
+			<German>Felduniform RLA 6 (Eidechse)</German>
+			<Italian>BDU RLA 6 (lucertola)</Italian>
+			<Original>BDU RLA 6 (Lizard)</Original>
+			<Portuguese>UB ERL 6 (Lagarto)</Portuguese>
+			<Russian>Боевая форма одежды Королевских ВС Лаоса 6 (ящерица)</Russian>
+			<Spanish>Uniforme de combate Real Ej. Laos 6 (lagarto)</Spanish>
+		</Key>
+    </Package>
+    <Package name="uni_vpaf">
+        <Key ID="STR_VN_O_UNIFORM_NVA_AIR_01_DN">
+			<Chinesesimp>越南人民军飞行员制服</Chinesesimp>
+			<English>VPAF Pilot Uniform</English>
+			<French>Uniforme pilote APVN</French>
+			<German>PAVN-Pilotenuniform</German>
+			<Italian>Uniforme da pilota PAVN</Italian>
+			<Original>PAVN Pilot Uniform</Original>
+			<Portuguese>Uniforme Piloto EPV</Portuguese>
+			<Russian>Форма пилота ВНА</Russian>
+			<Spanish>Uniforme piloto EPV</Spanish>
+		</Key>
+    </Package>
+    <Package name="uni_vc">
+		<Key ID="STR_VN_O_UNIFORM_VC_01_01_DN">
+			<Chinesesimp>越共制服 1（黑色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Black)</English>
+			<French>Uniforme VC 1 (noir)</French>
+			<German>VC-Uniform 1 (schwarz)</German>
+			<Italian>Uniforme Viet Cong 1 (nera)</Italian>
+			<Original>VC Uniform 1 (Black)</Original>
+			<Portuguese>Uniforme 1 VC (Preto)</Portuguese>
+			<Russian>Форма ВК 1 (черная)</Russian>
+			<Spanish>Uniforme VC 1 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_02_DN">
+			<Chinesesimp>越共制服 1（黑色/白色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Black/ White)</English>
+			<French>Uniforme VC 1 (noir, blanc)</French>
+			<German>VC-Uniform 1 (schwarz/weiß)</German>
+			<Italian>Uniforme Viet Cong 1 (nera, bianca)</Italian>
+			<Original>VC Uniform 1 (Black/ white)</Original>
+			<Portuguese>Uniforme 1 VC (Preto/ branco)</Portuguese>
+			<Russian>Форма ВК 1 (черная/белая)</Russian>
+			<Spanish>Uniforme VC 1 (negro y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_03_DN">
+			<Chinesesimp>越共制服 1（灰色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Grey/ Tan)</English>
+			<French>Uniforme VC 1 (gris, beige)</French>
+			<German>VC-Uniform 1 (grau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 1 (grigia, tanno)</Italian>
+			<Original>VC Uniform 1 (Grey/ tan)</Original>
+			<Portuguese>Uniforme 1 VC (Cinza/ castanho)</Portuguese>
+			<Russian>Форма ВК 1 (серая/каштановая)</Russian>
+			<Spanish>Uniforme VC 1 (gris y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_04_DN">
+			<Chinesesimp>越共制服 1（蓝色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Blue)</English>
+			<French>Uniforme VC 1 (bleu)</French>
+			<German>VC-Uniform 1 (blau)</German>
+			<Italian>Uniforme Viet Cong 1 (blu)</Italian>
+			<Original>VC Uniform 1 (Blue)</Original>
+			<Portuguese>Uniforme 1 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 1 (синяя)</Russian>
+			<Spanish>Uniforme VC 1 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_05_DN">
+			<Chinesesimp>越共制服 1（白色/黑色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (White/ Black)</English>
+			<French>Uniforme VC 1 (blanc, noir)</French>
+			<German>VC-Uniform 1 (weiß/schwarz)</German>
+			<Italian>Uniforme Viet Cong 1 (bianca, nera)</Italian>
+			<Original>VC Uniform 1 (White/ black)</Original>
+			<Portuguese>Uniforme 1 VC (Branco/ preto)</Portuguese>
+			<Russian>Форма ВК 1 (белая/черная)</Russian>
+			<Spanish>Uniforme VC 1 (blanco y negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_06_DN">
+			<Chinesesimp>越共制服 1（蓝色/白色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Blue/ White)</English>
+			<French>Uniforme VC 1 (bleu, blanc)</French>
+			<German>VC-Uniform 1 (blau/weiß)</German>
+			<Italian>Uniforme Viet Cong 1 (blu, bianca)</Italian>
+			<Original>VC Uniform 1 (Blue/ white)</Original>
+			<Portuguese>Uniforme 1 VC (Azul/ branco)</Portuguese>
+			<Russian>Форма ВК 1 (синяя/белая)</Russian>
+			<Spanish>Uniforme VC 1 (azul y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_01_07_DN">
+			<Chinesesimp>越共制服 1（蓝色/灰色）</Chinesesimp>
+			<English>VC Uniform Ankle/Sleeve (Blue/ Grey)</English>
+			<French>Uniforme VC 1 (bleu, gris)</French>
+			<German>VC-Uniform 1 (blau/grau)</German>
+			<Italian>Uniforme Viet Cong 1 (blu, grigia)</Italian>
+			<Original>VC Uniform 1 (Blue/ grey)</Original>
+			<Portuguese>Uniforme 1 VC (Azul/ cinza)</Portuguese>
+			<Russian>Форма ВК 1 (синяя/серая)</Russian>
+			<Spanish>Uniforme VC 1 (azul y gris)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_01_DN">
+			<Chinesesimp>越共制服 2（黑色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Black)</English>
+			<French>Uniforme VC 2 (noir)</French>
+			<German>VC-Uniform 2 (schwarz)</German>
+			<Italian>Uniforme Viet Cong 2 (nera)</Italian>
+			<Original>VC Uniform 2 (Black)</Original>
+			<Portuguese>Uniforme 2 VC (Preto)</Portuguese>
+			<Russian>Форма ВК 2 (черная)</Russian>
+			<Spanish>Uniforme VC 2 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_02_DN">
+			<Chinesesimp>越共制服 2（黑色/白色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Black/ White)</English>
+			<French>Uniforme VC 2 (noir, blanc)</French>
+			<German>VC-Uniform 2 (schwarz/weiß)</German>
+			<Italian>Uniforme Viet Cong 2 (nera, bianca)</Italian>
+			<Original>VC Uniform 2 (Black/ white)</Original>
+			<Portuguese>Uniforme 2 VC (Preto/ branco)</Portuguese>
+			<Russian>Форма ВК 2 (черная/белая)</Russian>
+			<Spanish>Uniforme VC 2 (negro y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_03_DN">
+			<Chinesesimp>越共制服 2（灰色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Grey/ Tan)</English>
+			<French>Uniforme VC 2 (gris, beige)</French>
+			<German>VC-Uniform 2 (grau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 2 (grigia, tanno)</Italian>
+			<Original>VC Uniform 2 (Grey/ tan)</Original>
+			<Portuguese>Uniforme 2 VC (Cinza/ castanho)</Portuguese>
+			<Russian>Форма ВК 2 (серая/каштановая)</Russian>
+			<Spanish>Uniforme VC 2 (gris y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_04_DN">
+			<Chinesesimp>越共制服 2（蓝色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Blue)</English>
+			<French>Uniforme VC 2 (bleu)</French>
+			<German>VC-Uniform 2 (blau)</German>
+			<Italian>Uniforme Viet Cong 2 (blu)</Italian>
+			<Original>VC Uniform 2 (Blue)</Original>
+			<Portuguese>Uniforme 2 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 2 (синяя)</Russian>
+			<Spanish>Uniforme VC 2 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_05_DN">
+			<Chinesesimp>越共制服 2（白色/黑色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (White/ Black)</English>
+			<French>Uniforme VC 2 (blanc, noir)</French>
+			<German>VC-Uniform 2 (weiß/schwarz)</German>
+			<Italian>Uniforme Viet Cong 2 (bianca, nera)</Italian>
+			<Original>VC Uniform 2 (White/ black)</Original>
+			<Portuguese>Uniforme 2 VC (Branco/ preto)</Portuguese>
+			<Russian>Форма ВК 2 (белая/черная)</Russian>
+			<Spanish>Uniforme VC 2 (blanco y negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_06_DN">
+			<Chinesesimp>越共制服 2（蓝色/白色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Blue/ White)</English>
+			<French>Uniforme VC 2 (bleu, blanc)</French>
+			<German>VC-Uniform 2 (blau/weiß)</German>
+			<Italian>Uniforme Viet Cong 2 (blu, bianca)</Italian>
+			<Original>VC Uniform 2 (Blue/ white)</Original>
+			<Portuguese>Uniforme 2 VC (Azul/ branco)</Portuguese>
+			<Russian>Форма ВК 2 (синяя/белая)</Russian>
+			<Spanish>Uniforme VC 2 (azul y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_02_07_DN">
+			<Chinesesimp>越共制服 2（蓝色/灰色）</Chinesesimp>
+			<English>VC Uniform Ankle/Roll (Blue/ Grey)</English>
+			<French>Uniforme VC 2 (bleu, gris)</French>
+			<German>VC-Uniform 2 (blau/grau)</German>
+			<Italian>Uniforme Viet Cong 2 (blu, grigia)</Italian>
+			<Original>VC Uniform 2 (Blue/ grey)</Original>
+			<Portuguese>Uniforme 2 VC (Azul/ cinza)</Portuguese>
+			<Russian>Форма ВК 2 (синяя/серая)</Russian>
+			<Spanish>Uniforme VC 2 (azul y gris)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_01_DN">
+			<Chinesesimp>越共制服 3（黑色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Black)</English>
+			<French>Uniforme VC 3 (noir)</French>
+			<German>VC-Uniform 3 (schwarz)</German>
+			<Italian>Uniforme Viet Cong 3 (nera)</Italian>
+			<Original>VC Uniform 3 (Black)</Original>
+			<Portuguese>Uniforme 3 VC (Preto)</Portuguese>
+			<Russian>Форма ВК 3 (черная)</Russian>
+			<Spanish>Uniforme VC 3 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_02_DN">
+			<Chinesesimp>越共制服 3（黑色/白色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Black/ White)</English>
+			<French>Uniforme VC 3 (noir, blanc)</French>
+			<German>VC-Uniform 3 (schwarz/weiß)</German>
+			<Italian>Uniforme Viet Cong 3 (nera, bianca)</Italian>
+			<Original>VC Uniform 3 (Black/ white)</Original>
+			<Portuguese>Uniforme 3 VC (Preto/ branco)</Portuguese>
+			<Russian>Форма ВК 3 (черная/белая)</Russian>
+			<Spanish>Uniforme VC 3 (negro y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_03_DN">
+			<Chinesesimp>越共制服 3（灰色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Grey/ Tan)</English>
+			<French>Uniforme VC 3 (gris, beige)</French>
+			<German>VC-Uniform 3 (grau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 3 (grigia, tanno)</Italian>
+			<Original>VC Uniform 3 (Grey/ tan)</Original>
+			<Portuguese>Uniforme 3 VC (Cinza/ castanho)</Portuguese>
+			<Russian>Форма ВК 3 (серая/каштановая)</Russian>
+			<Spanish>Uniforme VC 3 (gris y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_04_DN">
+			<Chinesesimp>越共制服 3（蓝色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Blue)</English>
+			<French>Uniforme VC 3 (bleu)</French>
+			<German>VC-Uniform 3 (blau)</German>
+			<Italian>Uniforme Viet Cong 3 (blu)</Italian>
+			<Original>VC Uniform 3 (Blue)</Original>
+			<Portuguese>Uniforme 3 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 3 (синяя)</Russian>
+			<Spanish>Uniforme VC 3 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_05_DN">
+			<Chinesesimp>越共制服 3（白色/黑色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (White/ Black)</English>
+			<French>Uniforme VC 3 (blanc, noir)</French>
+			<German>VC-Uniform 3 (weiß/schwarz)</German>
+			<Italian>Uniforme Viet Cong 3 (bianca, nera)</Italian>
+			<Original>VC Uniform 3 (White/ black)</Original>
+			<Portuguese>Uniforme 3 VC (Branco/ preto)</Portuguese>
+			<Russian>Форма ВК 3 (белая/черная)</Russian>
+			<Spanish>Uniforme VC 3 (blanco y negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_06_DN">
+			<Chinesesimp>越共制服 3（蓝色/白色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Blue/ White)</English>
+			<French>Uniforme VC 3 (bleu, blanc)</French>
+			<German>VC-Uniform 3 (blau/weiß)</German>
+			<Italian>Uniforme Viet Cong 3 (blu, bianca)</Italian>
+			<Original>VC Uniform 3 (Blue/ white)</Original>
+			<Portuguese>Uniforme 3 VC (Azul/ branco)</Portuguese>
+			<Russian>Форма ВК 3 (синяя/белая)</Russian>
+			<Spanish>Uniforme VC 3 (azul y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_03_07_DN">
+			<Chinesesimp>越共制服 3（蓝色/灰色）</Chinesesimp>
+			<English>VC Uniform Full/Sleeve (Blue/ Grey)</English>
+			<French>Uniforme VC 3 (bleu, gris)</French>
+			<German>VC-Uniform 3 (blau/grau)</German>
+			<Italian>Uniforme Viet Cong 3 (blu, grigia)</Italian>
+			<Original>VC Uniform 3 (Blue/ grey)</Original>
+			<Portuguese>Uniforme 3 VC (Azul/ cinza)</Portuguese>
+			<Russian>Форма ВК 3 (синяя/серая)</Russian>
+			<Spanish>Uniforme VC 3 (azul y gris)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_01_DN">
+			<Chinesesimp>越共制服 4（黑色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Black)</English>
+			<French>Uniforme VC 4 (noir)</French>
+			<German>VC-Uniform 4 (schwarz)</German>
+			<Italian>Uniforme Viet Cong 4 (nera)</Italian>
+			<Original>VC Uniform 4 (Black)</Original>
+			<Portuguese>Uniforme 4 VC (Preto)</Portuguese>
+			<Russian>Форма ВК 4 (черная)</Russian>
+			<Spanish>Uniforme VC 4 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_02_DN">
+			<Chinesesimp>越共制服 4（黑色/白色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Black/ White)</English>
+			<French>Uniforme VC 4 (noir, blanc)</French>
+			<German>VC-Uniform 4 (schwarz/weiß)</German>
+			<Italian>Uniforme Viet Cong 4 (nera, bianca)</Italian>
+			<Original>VC Uniform 4 (Black/ white)</Original>
+			<Portuguese>Uniforme 4 VC (Preto/ branco)</Portuguese>
+			<Russian>Форма ВК 4 (черная/белая)</Russian>
+			<Spanish>Uniforme VC 4 (negro y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_03_DN">
+			<Chinesesimp>越共制服 4（灰色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Grey/ Tan)</English>
+			<French>Uniforme VC 4 (gris, beige)</French>
+			<German>VC-Uniform 4 (grau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 4 (grigia, tanno)</Italian>
+			<Original>VC Uniform 4 (Grey/tan)</Original>
+			<Portuguese>Uniforme 4 VC (Cinza/castanho)</Portuguese>
+			<Russian>Форма ВК 4 (серая/каштановая)</Russian>
+			<Spanish>Uniforme VC 4 (gris y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_04_DN">
+			<Chinesesimp>越共制服 4（蓝色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Blue)</English>
+			<French>Uniforme VC 4 (bleu)</French>
+			<German>VC-Uniform 4 (blau)</German>
+			<Italian>Uniforme Viet Cong 4 (blu)</Italian>
+			<Original>VC Uniform 4 (Blue)</Original>
+			<Portuguese>Uniforme 4 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 4 (синяя)</Russian>
+			<Spanish>Uniforme VC 4 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_05_DN">
+			<Chinesesimp>越共制服 4（白色/黑色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (White/ Black)</English>
+			<French>Uniforme VC 4 (blanc, noir)</French>
+			<German>VC-Uniform 4 (weiß/schwarz)</German>
+			<Italian>Uniforme Viet Cong 4 (bianca, nera)</Italian>
+			<Original>VC Uniform 4 (White/black)</Original>
+			<Portuguese>Uniforme 4 VC (Branco/preto)</Portuguese>
+			<Russian>Форма ВК 4 (белая/черная)</Russian>
+			<Spanish>Uniforme VC 4 (blanco y negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_06_DN">
+			<Chinesesimp>越共制服 4（蓝色/白色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Blue/ White)</English>
+			<French>Uniforme VC 4 (bleu, blanc)</French>
+			<German>VC-Uniform 4 (blau/weiß)</German>
+			<Italian>Uniforme Viet Cong 4 (blu, bianca)</Italian>
+			<Original>VC Uniform 4 (Blue/ white)</Original>
+			<Portuguese>Uniforme 4 VC (Azul/ branco)</Portuguese>
+			<Russian>Форма ВК 4 (синяя/белая)</Russian>
+			<Spanish>Uniforme VC 4 (azul y blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_04_07_DN">
+			<Chinesesimp>越共制服 4（蓝色/灰色）</Chinesesimp>
+			<English>VC Uniform Full/Roll (Blue/ Grey)</English>
+			<French>Uniforme VC 4 (bleu, gris)</French>
+			<German>VC-Uniform 4 (blau/grau)</German>
+			<Italian>Uniforme Viet Cong 4 (blu, grigia)</Italian>
+			<Original>VC Uniform 4 (Blue/ grey)</Original>
+			<Portuguese>Uniforme 4 VC (Azul/ cinza)</Portuguese>
+			<Russian>Форма ВК 4 (синяя/серая)</Russian>
+			<Spanish>Uniforme VC 4 (azul y gris)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_05_01_DN">
+			<Chinesesimp>越共制服 5（黑色）</Chinesesimp>
+			<English>VC Uniform Shorts/Roll (Black)</English>
+			<French>Uniforme VC 5 (noir)</French>
+			<German>VC-Uniform 5 (schwarz)</German>
+			<Italian>Uniforme Viet Cong 5 (nera)</Italian>
+			<Original>VC Uniform 5 (Black)</Original>
+			<Portuguese>Uniforme 5 VC (Preto)</Portuguese>
+			<Russian>Форма ВК 5 (черная)</Russian>
+			<Spanish>Uniforme VC 5 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_05_02_DN">
+			<Chinesesimp>越共制服 5（白色）</Chinesesimp>
+			<English>VC Uniform Shorts/Roll (White)</English>
+			<French>Uniforme VC 5 (blanc)</French>
+			<German>VC-Uniform 5 (weiß)</German>
+			<Italian>Uniforme Viet Cong 5 (bianca)</Italian>
+			<Original>VC Uniform 5 (White)</Original>
+			<Portuguese>Uniforme 5 VC (Branco)</Portuguese>
+			<Russian>Форма ВК 5 (белая)</Russian>
+			<Spanish>Uniforme VC 5 (blanco)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_05_03_DN">
+			<Chinesesimp>越共制服 5（灰色）</Chinesesimp>
+			<English>VC Uniform Shorts/Roll (Grey)</English>
+			<French>Uniforme VC 5 (gris)</French>
+			<German>VC-Uniform 5 (grau)</German>
+			<Italian>Uniforme Viet Cong 5 (grigia)</Italian>
+			<Original>VC Uniform 5 (Grey)</Original>
+			<Portuguese>Uniforme 5 VC (Cinza)</Portuguese>
+			<Russian>Форма ВК 5 (серая)</Russian>
+			<Spanish>Uniforme VC 5 (gris)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_VC_05_04_DN">
+			<Chinesesimp>越共制服 5（蓝色）</Chinesesimp>
+			<English>VC Uniform Shorts/Roll (Blue)</English>
+			<French>Uniforme VC 5 (bleu)</French>
+			<German>VC-Uniform 5 (blau)</German>
+			<Italian>Uniforme Viet Cong 5 (blu)</Italian>
+			<Original>VC Uniform 5 (Blue)</Original>
+			<Portuguese>Uniforme 5 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 5 (синяя)</Russian>
+			<Spanish>Uniforme VC 5 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_01_07_DN">
+			<Chinesesimp>越共制服 1</Chinesesimp>
+			<English>VC Uniform Tuck/Sleeve/Boot</English>
+			<French>Uniforme VC 1</French>
+			<German>VC-Uniform 1</German>
+			<Italian>Uniforme Viet Cong 1</Italian>
+			<Original>VC Uniform 1</Original>
+			<Portuguese>Uniforme 1 VC</Portuguese>
+			<Russian>Форма ВК 1</Russian>
+			<Spanish>Uniforme VC 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_02_07_DN">
+			<Chinesesimp>越共制服 2</Chinesesimp>
+			<English>VC Uniform Tuck/Roll/Boot</English>
+			<French>Uniforme VC 2</French>
+			<German>VC-Uniform 2</German>
+			<Italian>Uniforme Viet Cong 2</Italian>
+			<Original>VC Uniform 2</Original>
+			<Portuguese>Uniforme 2 VC</Portuguese>
+			<Russian>Форма ВК 2</Russian>
+			<Spanish>Uniforme VC 2</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_03_07_DN">
+			<Chinesesimp>越共制服 3</Chinesesimp>
+			<English>VC Uniform Untuck/Sleeve/Boot</English>
+			<French>Uniforme VC 3</French>
+			<German>VC-Uniform 3</German>
+			<Italian>Uniforme Viet Cong 3</Italian>
+			<Original>VC Uniform 3</Original>
+			<Portuguese>Uniforme 3 VC</Portuguese>
+			<Russian>Форма ВК 3</Russian>
+			<Spanish>Uniforme VC 3</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_04_07_DN">
+			<Chinesesimp>越共制服 4</Chinesesimp>
+			<English>VC Uniform Untuck/Roll/Boot</English>
+			<French>Uniforme VC 4</French>
+			<German>VC-Uniform 4</German>
+			<Italian>Uniforme Viet Cong 4</Italian>
+			<Original>VC Uniform 4</Original>
+			<Portuguese>Uniforme 4 VC</Portuguese>
+			<Russian>Форма ВК 4</Russian>
+			<Spanish>Uniforme VC 4</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_09_07_DN">
+			<Chinesesimp>越共制服 9</Chinesesimp>
+			<English>VC Uniform Tuck/Sleeve/Dép</English>
+			<French>Uniforme VC 9</French>
+			<German>VC-Uniform 9</German>
+			<Italian>Uniforme Viet Cong 9</Italian>
+			<Original>VC Uniform 9</Original>
+			<Portuguese>Uniforme 9 VC</Portuguese>
+			<Russian>Форма ВК 9</Russian>
+			<Spanish>Uniforme VC 9</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_10_07_DN">
+			<Chinesesimp>越共制服 10</Chinesesimp>
+			<English>VC Uniform Tuck/Roll/Dép</English>
+			<French>Uniforme VC 10</French>
+			<German>VC-Uniform 10</German>
+			<Italian>Uniforme Viet Cong 10</Italian>
+			<Original>VC Uniform 10</Original>
+			<Portuguese>Uniforme 10 VC</Portuguese>
+			<Russian>Форма ВК 10</Russian>
+			<Spanish>Uniforme VC 10</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_07_DN">
+			<Chinesesimp>越共制服 11</Chinesesimp>
+			<English>VC Uniform Untuck/Sleeve/Dép (Black)</English>
+			<French>Uniforme VC 11</French>
+			<German>VC-Uniform 11</German>
+			<Italian>Uniforme Viet Cong 11</Italian>
+			<Original>VC Uniform 11</Original>
+			<Portuguese>Uniforme 11 VC</Portuguese>
+			<Russian>Форма ВК 11</Russian>
+			<Spanish>Uniforme VC 11</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_08_DN">
+			<Chinesesimp>越共制服 11（蓝色）</Chinesesimp>
+			<English>VC Uniform Untuck/Sleeve/Dép (Blue)</English>
+			<French>Uniforme VC 11 (bleu)</French>
+			<German>VC-Uniform 11 (blau)</German>
+			<Italian>Uniforme Viet Cong 11 (blu)</Italian>
+			<Original>VC Uniform 11 (Blue)</Original>
+			<Portuguese>Uniforme 11 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 11 (синяя)</Russian>
+			<Spanish>Uniforme VC 11 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_09_DN">
+			<Chinesesimp>越共制服 11（蓝色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Untuck/Sleeve/Dép (Blue/ Tan)</English>
+			<French>Uniforme VC 11 (bleu, beige)</French>
+			<German>VC-Uniform 11 (blau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 11 (blu, tanno)</Italian>
+			<Original>VC Uniform 11 (Blue/ tan)</Original>
+			<Portuguese>Uniforme 11 VC (Azul/ castanho)</Portuguese>
+			<Russian>Форма ВК 11 (синяя/каштановая)</Russian>
+			<Spanish>Uniforme VC 11 (azul y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_10_DN">
+			<Chinesesimp>越共制服 11（棕褐色/黑色）</Chinesesimp>
+			<English>VC Uniform Untuck/Sleeve/Dép (Tan/ Black)</English>
+			<French>Uniforme VC 11 (beige, noir)</French>
+			<German>VC-Uniform 11 (hellbraun/schwarz)</German>
+			<Italian>Uniforme Viet Cong 11 (tanno, nera)</Italian>
+			<Original>VC Uniform 11 (Tan/ black)</Original>
+			<Portuguese>Uniforme 11 VC (Castanho/preto)</Portuguese>
+			<Russian>Форма ВК 11 (каштановая/черная)</Russian>
+			<Spanish>Uniforme VC 11 (pardo y negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_07_DN">
+			<Chinesesimp>越共制服 12</Chinesesimp>
+			<English>VC Uniform Untuck/Roll/Dép (Black)</English>
+			<French>Uniforme VC 12</French>
+			<German>VC-Uniform 12</German>
+			<Italian>Uniforme Viet Cong 12</Italian>
+			<Original>VC Uniform 12</Original>
+			<Portuguese>Uniforme 12 VC</Portuguese>
+			<Russian>Форма ВК 12</Russian>
+			<Spanish>Uniforme VC 12</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_08_DN">
+			<Chinesesimp>越共制服 12（蓝色）</Chinesesimp>
+			<English>VC Uniform Untuck/Roll/Dép (Blue)</English>
+			<French>Uniforme VC 12 (bleu)</French>
+			<German>VC-Uniform 12 (blau)</German>
+			<Italian>Uniforme Viet Cong 12 (blu)</Italian>
+			<Original>VC Uniform 12 (Blue)</Original>
+			<Portuguese>Uniforme 12 VC (Azul)</Portuguese>
+			<Russian>Форма ВК 12 (синяя)</Russian>
+			<Spanish>Uniforme VC 12 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_09_DN">
+			<Chinesesimp>越共制服 12（蓝色/棕褐色）</Chinesesimp>
+			<English>VC Uniform Untuck/Roll/Dép (Blue/ Tan)</English>
+			<French>Uniforme VC 12 (bleu, beige)</French>
+			<German>VC-Uniform 12 (blau/hellbraun)</German>
+			<Italian>Uniforme Viet Cong 12 (blu, tanno)</Italian>
+			<Original>VC Uniform 12 (Blue/ tan)</Original>
+			<Portuguese>Uniforme 12 VC (Azul/ castanho)</Portuguese>
+			<Russian>Форма ВК 12 (синяя/каштановая)</Russian>
+			<Spanish>Uniforme VC 12 (azul y pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_10_DN">
+			<Chinesesimp>越共制服 12（棕褐色/黑色）</Chinesesimp>
+			<English>VC Uniform Untuck/Roll/Dép (Tan/ Black)</English>
+			<French>Uniforme VC 12 (beige, noir)</French>
+			<German>VC-Uniform 12 (hellbraun/schwarz)</German>
+			<Italian>Uniforme Viet Cong 12 (tanno, nera)</Italian>
+			<Original>VC Uniform 12 (Tan/ black)</Original>
+			<Portuguese>Uniforme 12 VC (Castanho/preto)</Portuguese>
+			<Russian>Форма ВК 12 (каштановая/черная)</Russian>
+			<Spanish>Uniforme VC 12 (pardo y negro)</Spanish>
+		</Key>
+    </Package>
+    <Package name="uni_vpn">
+        <Key ID="STR_VN_O_UNIFORM_NVA_NAVY_01_DN">
+			<Chinesesimp>北越海军陆战队制服 1</Chinesesimp>
+			<English>VPN Uniform Sleeve/Boot</English>
+			<French>Uniforme marin MPV 1</French>
+			<German>VPN Marines-Uniform 1</German>
+			<Italian>Uniforme Marines VPN 1</Italian>
+			<Original>VPN Marines Uniform 1</Original>
+			<Portuguese>Uniforme 1 Fuzileiros navais MPV</Portuguese>
+			<Russian>Форма морской пехоты Вьетнама 1</Russian>
+			<Spanish>Uniforme Marines APV 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_NAVY_02_DN">
+			<Chinesesimp>北越海军陆战队制服 2</Chinesesimp>
+			<English>VPN Uniform Sleeve/Dép</English>
+			<French>Uniforme marin MPV 2</French>
+			<German>VPN Marines-Uniform 2</German>
+			<Italian>Uniforme Marines VPN 2</Italian>
+			<Original>VPN Marines Uniform 2</Original>
+			<Portuguese>Uniforme 2 Fuzileiros navais MPV</Portuguese>
+			<Russian>Форма морской пехоты Вьетнама 2</Russian>
+			<Spanish>Uniforme Marines APV 2</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_NAVY_03_DN">
+			<Chinesesimp>北越海军制服 1</Chinesesimp>
+			<English>VPN Uniform Roll/Boot</English>
+			<French>Uniforme fusilier MPV 1</French>
+			<German>VPN Navy-Uniform 1</German>
+			<Italian>Uniforme Marina VPN 1</Italian>
+			<Original>VPN Navy Uniform 1</Original>
+			<Portuguese>Uniforme 1 Marinha MPV</Portuguese>
+			<Russian>Форма ВМС Вьетнама 1</Russian>
+			<Spanish>Uniforme Armada APV 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_NAVY_04_DN">
+			<Chinesesimp>北越海军制服 2</Chinesesimp>
+			<English>VPN Uniform Roll/Dép</English>
+			<French>Uniforme fusilier MPV 2</French>
+			<German>VPN Navy-Uniform 2</German>
+			<Italian>Uniforme Marina VPN 2</Italian>
+			<Original>VPN Navy Uniform 2</Original>
+			<Portuguese>Uniforme 2 Marinha MPV</Portuguese>
+			<Russian>Форма ВМС Вьетнама 2</Russian>
+			<Spanish>Uniforme Armada APV 2</Spanish>
+		</Key>
+    </Package>
+    <Package name="uni_daccong">
+        <Key ID="STR_VN_O_UNIFORM_NVA_13_02_DN">
+			<Chinesesimp>北越军海军突击队制服 1（棕褐色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 1 (Tan)</English>
+			<French>Uniforme Dac Cong NVA 1 (beige)</French>
+			<German>NVA Dac Cong-Uniform 1 (hellbraun)</German>
+			<Italian>Uniforme Dac Cong NVA 1 (tanno)</Italian>
+			<Original>NVA Dac Cong Uniform 1 (Tan)</Original>
+			<Portuguese>Uniforme 1 Dac Cong EVN (Castanho)</Portuguese>
+			<Russian>Форма СВА Дак Конг 1 (каштановая)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 1 (pardo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_13_04_DN">
+			<Chinesesimp>北越军海军突击队制服 1（绿色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 1 (Green)</English>
+			<French>Uniforme Dac Cong 1 (vert)</French>
+			<German>NVA Dac Cong-Uniform 1 (grün)</German>
+			<Italian>Uniforme Dac Cong NVA 1 (verde)</Italian>
+			<Original>NVA Dac Cong Uniform 1 (Green)</Original>
+			<Portuguese>Uniforme 1 Dac Cong EVN (verde)</Portuguese>
+			<Russian>Форма СВА Дак Конг 1 (зеленая)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 1 (verde)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_13_07_DN">
+			<Chinesesimp>北越军海军突击队制服 1（黑色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 1 (Black)</English>
+			<French>Uniforme Dac Cong 1 (noir)</French>
+			<German>NVA Dac Cong-Uniform 1 (schwarz)</German>
+			<Italian>Uniforme Dac Cong NVA 1 (nera)</Italian>
+			<Original>NVA Dac Cong Uniform 1 (Black)</Original>
+			<Portuguese>Uniforme 1 Dac Cong EVN (Preto)</Portuguese>
+			<Russian>Форма СВА Дак Конг 1 (черная)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 1 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_13_08_DN">
+			<Chinesesimp>北越军特海军突击队制服 1（蓝色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 1 (Blue)</English>
+			<French>Uniforme Dac Cong 1 (bleu)</French>
+			<German>NVA Dac Cong-Uniform 1 (blau)</German>
+			<Italian>Uniforme Dac Cong NVA 1 (blu)</Italian>
+			<Original>NVA Dac Cong Uniform 1 (Blue)</Original>
+			<Portuguese>Uniforme 1 Dac Cong EVN (Azul)</Portuguese>
+			<Russian>Форма СВА Дак Конг 1 (синяя)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 1 (azul)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_14_01_DN">
+			<Chinesesimp>北越军海军突击队制服 2（黑色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 2 (Black)</English>
+			<French>Uniforme Dac Cong 2 (noir)</French>
+			<German>NVA Dac Cong-Uniform 2 (schwarz)</German>
+			<Italian>Uniforme Dac Cong NVA 2 (nera)</Italian>
+			<Original>NVA Dac Cong Uniform 2 (Black)</Original>
+			<Portuguese>Uniforme 2 Dac Cong EVN (Preto)</Portuguese>
+			<Russian>Форма СВА Дак Конг 2 (черная)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 2 (negro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_14_04_DN">
+			<Chinesesimp>北越军海军突击队制服 2（蓝色）</Chinesesimp>
+			<English>NVA Dac Cong Uniform 2 (Blue)</English>
+			<French>Uniforme Dac Cong 2 (bleu)</French>
+			<German>NVA Dac Cong-Uniform 2 (blau)</German>
+			<Italian>Uniforme Dac Cong NVA 2 (blu)</Italian>
+			<Original>NVA Dac Cong Uniform 2 (Blue)</Original>
+			<Portuguese>Uniforme 2 Dac Cong EVN (Azul)</Portuguese>
+			<Russian>Форма СВА Дак Конг 2 (синяя)</Russian>
+			<Spanish>Uniforme Dac Cong EVN 2 (azul)</Spanish>
+		</Key>
+    </Package>
+	<Package name="uni_pavn65">
+		<Key ID="STR_VN_O_UNIFORM_NVA_01_01_DN">
+			<Chinesesimp>北越军 65 式制服 1</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Sleeve</English>
+			<French>Uniforme NVA 65 1</French>
+			<German>NVA 65-Uniform 1</German>
+			<Italian>Uniforme NVA 65 1</Italian>
+			<Original>NVA 65 Uniform 1</Original>
+			<Portuguese>Uniforme 1 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 1</Russian>
+			<Spanish>Uniforme EVN 65 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_01_02_DN">
+			<Chinesesimp>北越军 65 式制服 1（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Sleeve (Field)</English>
+			<French>Uniforme NVA 65 1 (terrain)</French>
+			<German>NVA 65-Uniform 1 (Feld)</German>
+			<Italian>Uniforme NVA 65 1 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 1 (Field)</Original>
+			<Portuguese>Uniforme 1 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 1 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 1 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_02_01_DN">
+			<Chinesesimp>北越军 65 式制服 2</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Roll</English>
+			<French>Uniforme NVA 65 2</French>
+			<German>NVA 65-Uniform 2</German>
+			<Italian>Uniforme NVA 65 2</Italian>
+			<Original>NVA 65 Uniform 2</Original>
+			<Portuguese>Uniforme 2 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 2</Russian>
+			<Spanish>Uniforme EVN 65 2</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_02_02_DN">
+			<Chinesesimp>北越军 65 式制服 2（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Roll (Field)</English>
+			<French>Uniforme NVA 65 2 (terrain)</French>
+			<German>NVA 65-Uniform 2 (Feld)</German>
+			<Italian>Uniforme NVA 65 2 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 2 (Field)</Original>
+			<Portuguese>Uniforme 2 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 2 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 2 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_03_01_DN">
+			<Chinesesimp>北越军 65 式制服 3</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Sleeve</English>
+			<French>Uniforme NVA 65 3</French>
+			<German>NVA 65-Uniform 3</German>
+			<Italian>Uniforme NVA 65 3</Italian>
+			<Original>NVA 65 Uniform 3</Original>
+			<Portuguese>Uniforme 3 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 3</Russian>
+			<Spanish>Uniforme EVN 65 3</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_03_02_DN">
+			<Chinesesimp>北越军 65 式制服 3（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Sleeve (Field)</English>
+			<French>Uniforme NVA 65 3 (terrain)</French>
+			<German>NVA 65-Uniform 3 (Feld)</German>
+			<Italian>Uniforme NVA 65 3 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 3 (Field)</Original>
+			<Portuguese>Uniforme 3 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 3 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 3 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_04_01_DN">
+			<Chinesesimp>北越军 65 式制服 4</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Roll</English>
+			<French>Uniforme NVA 65 4</French>
+			<German>NVA 65-Uniform 4</German>
+			<Italian>Uniforme NVA 65 4</Italian>
+			<Original>NVA 65 Uniform 4</Original>
+			<Portuguese>Uniforme 4 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 4</Russian>
+			<Spanish>Uniforme EVN 65 4</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_04_02_DN">
+			<Chinesesimp>北越军 65 式制服 4（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Roll (Field)</English>
+			<French>Uniforme NVA 65 4 (terrain)</French>
+			<German>NVA 65-Uniform 4 (Feld)</German>
+			<Italian>Uniforme NVA 65 4 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 4 (Field)</Original>
+			<Portuguese>Uniforme 4 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 4 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 4 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_09_01_DN">
+			<Chinesesimp>北越军 65 式制服 9</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Sleeve/Dép</English>
+			<French>Uniforme NVA 65 9</French>
+			<German>NVA 65-Uniform 9</German>
+			<Italian>Uniforme NVA 65 9</Italian>
+			<Original>NVA 65 Uniform 9</Original>
+			<Portuguese>Uniforme 9 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 9</Russian>
+			<Spanish>Uniforme EVN 65 9</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_09_02_DN">
+			<Chinesesimp>北越军 65 式制服 9（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Tuck/Sleeve/Dép (Field)</English>
+			<French>Uniforme NVA 65 9 (terrain)</French>
+			<German>NVA 65-Uniform 9 (Feld)</German>
+			<Italian>Uniforme NVA 65 9 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 9 (Field)</Original>
+			<Portuguese>Uniforme 9 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 9 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 9 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_01_DN">
+			<Chinesesimp>北越军 65 式制服 12</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Roll/Dép</English>
+			<French>Uniforme NVA 65 12</French>
+			<German>NVA 65-Uniform 12</German>
+			<Italian>Uniforme NVA 65 12</Italian>
+			<Original>NVA 65 Uniform 12</Original>
+			<Portuguese>Uniforme 12 EVN 65</Portuguese>
+			<Russian>Форма 65 СВА 12</Russian>
+			<Spanish>Uniforme EVN 65 12</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_02_DN">
+			<Chinesesimp>北越军 65 式制服 12（野战）</Chinesesimp>
+			<English>NVA 65 Uniform Untuck/Roll/Dép (Field)</English>
+			<French>Uniforme NVA 65 12 (terrain)</French>
+			<German>NVA 65-Uniform 12 (Feld)</German>
+			<Italian>Uniforme NVA 65 12 (inzaccherata)</Italian>
+			<Original>NVA 65 Uniform 12 (Field)</Original>
+			<Portuguese>Uniforme 12 EVN 65 (Campo)</Portuguese>
+			<Russian>Форма 65 СВА 12 (полевая)</Russian>
+			<Spanish>Uniforme EVN 65 12 (campaña)</Spanish>
+		</Key>
+	</Package>
+	<Package name="uni_pavn">
+		<Key ID="STR_VN_O_UNIFORM_NVA_01_03_DN">
+			<Chinesesimp>北越军制服 1</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Boot</English>
+			<French>Uniforme NVA 1</French>
+			<German>NVA-Uniform 1</German>
+			<Italian>Uniforme NVA 1</Italian>
+			<Original>NVA Uniform 1</Original>
+			<Portuguese>Uniforme 1 EVN</Portuguese>
+			<Russian>Форма СВА 1</Russian>
+			<Spanish>Uniforme EVN 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_01_04_DN">
+			<Chinesesimp>北越军制服 1（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Boot (Field)</English>
+			<French>Uniforme NVA 1 (terrain)</French>
+			<German>NVA-Uniform 1 (Feld)</German>
+			<Italian>Uniforme NVA 1 (inzaccherata)</Italian>
+			<Original>NVA Uniform 1 (Field)</Original>
+			<Portuguese>Uniforme 1 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 1 (полевая)</Russian>
+			<Spanish>Uniforme EVN 1 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_02_03_DN">
+			<Chinesesimp>北越军制服 2</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Boot</English>
+			<French>Uniforme NVA 2</French>
+			<German>NVA-Uniform 2</German>
+			<Italian>Uniforme NVA 2</Italian>
+			<Original>NVA Uniform 2</Original>
+			<Portuguese>Uniforme 2 EVN</Portuguese>
+			<Russian>Форма СВА 2</Russian>
+			<Spanish>Uniforme EVN 2</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_02_04_DN">
+			<Chinesesimp>北越军制服 2（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Boot (Field)</English>
+			<French>Uniforme NVA 2 (terrain)</French>
+			<German>NVA-Uniform 2 (Feld)</German>
+			<Italian>Uniforme NVA 2 (inzaccherata)</Italian>
+			<Original>NVA Uniform 2 (Field)</Original>
+			<Portuguese>Uniforme 2 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 2 (полевая)</Russian>
+			<Spanish>Uniforme EVN 2 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_03_03_DN">
+			<Chinesesimp>北越军制服 3</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Boot</English>
+			<French>Uniforme NVA 3</French>
+			<German>NVA-Uniform 3</German>
+			<Italian>Uniforme NVA 3</Italian>
+			<Original>NVA Uniform 3</Original>
+			<Portuguese>Uniforme 3 EVN</Portuguese>
+			<Russian>Форма СВА 3</Russian>
+			<Spanish>Uniforme EVN 3</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_03_04_DN">
+			<Chinesesimp>北越军制服 3（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Boot (Field)</English>
+			<French>Uniforme NVA 3 (terrain)</French>
+			<German>NVA-Uniform 3 (Feld)</German>
+			<Italian>Uniforme NVA 3 (inzaccherata)</Italian>
+			<Original>NVA Uniform 3 (Field)</Original>
+			<Portuguese>Uniforme 3 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 3 (полевая)</Russian>
+			<Spanish>Uniforme EVN 3 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_04_03_DN">
+			<Chinesesimp>北越军制服 4</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Boot</English>
+			<French>Uniforme NVA 4</French>
+			<German>NVA-Uniform 4</German>
+			<Italian>Uniforme NVA 4</Italian>
+			<Original>NVA Uniform 4</Original>
+			<Portuguese>Uniforme 4 EVN</Portuguese>
+			<Russian>Форма СВА 4</Russian>
+			<Spanish>Uniforme EVN 4</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_04_04_DN">
+			<Chinesesimp>北越军制服 4（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Boot (Field)</English>
+			<French>Uniforme NVA 4 (terrain)</French>
+			<German>NVA-Uniform 4 (Feld)</German>
+			<Italian>Uniforme NVA 4 (inzaccherata)</Italian>
+			<Original>NVA Uniform 4 (Field)</Original>
+			<Portuguese>Uniforme 4 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 4 (полевая)</Russian>
+			<Spanish>Uniforme EVN 4 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_05_03_DN">
+			<Chinesesimp>北越军制服 5</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Tied</English>
+			<French>Uniforme NVA 5</French>
+			<German>NVA-Uniform 5</German>
+			<Italian>Uniforme NVA 5</Italian>
+			<Original>NVA Uniform 5</Original>
+			<Portuguese>Uniforme 5 EVN</Portuguese>
+			<Russian>Форма СВА 5</Russian>
+			<Spanish>Uniforme EVN 5</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_05_04_DN">
+			<Chinesesimp>北越军制服 5（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Tied (Field)</English>
+			<French>Uniforme NVA 5 (terrain)</French>
+			<German>NVA-Uniform 5 (Feld)</German>
+			<Italian>Uniforme NVA 5 (inzaccherata)</Italian>
+			<Original>NVA Uniform 5 (Field)</Original>
+			<Portuguese>Uniforme 5 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 5 (полевая)</Russian>
+			<Spanish>Uniforme EVN 5 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_06_03_DN">
+			<Chinesesimp>北越军制服 6</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Tied</English>
+			<French>Uniforme NVA 6</French>
+			<German>NVA-Uniform 6</German>
+			<Italian>Uniforme NVA 6</Italian>
+			<Original>NVA Uniform 6</Original>
+			<Portuguese>Uniforme 6 EVN</Portuguese>
+			<Russian>Форма СВА 6</Russian>
+			<Spanish>Uniforme EVN 6</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_06_04_DN">
+			<Chinesesimp>北越军制服 6（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Tied (Field)</English>
+			<French>Uniforme NVA 6 (terrain)</French>
+			<German>NVA-Uniform 6 (Feld)</German>
+			<Italian>Uniforme NVA 6 (inzaccherata)</Italian>
+			<Original>NVA Uniform 6 (Field)</Original>
+			<Portuguese>Uniforme 6 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 6 (полевая)</Russian>
+			<Spanish>Uniforme EVN 6 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_07_03_DN">
+			<Chinesesimp>北越军制服 7</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Tied</English>
+			<French>Uniforme NVA 7</French>
+			<German>NVA-Uniform 7</German>
+			<Italian>Uniforme NVA 7</Italian>
+			<Original>NVA Uniform 7</Original>
+			<Portuguese>Uniforme 7 EVN</Portuguese>
+			<Russian>Форма СВА 7</Russian>
+			<Spanish>Uniforme EVN 7</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_07_04_DN">
+			<Chinesesimp>北越军制服 7（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Tied (Field)</English>
+			<French>Uniforme NVA 7 (terrain)</French>
+			<German>NVA-Uniform 7 (Feld)</German>
+			<Italian>Uniforme NVA 7 (inzaccherata)</Italian>
+			<Original>NVA Uniform 7 (Field)</Original>
+			<Portuguese>Uniforme 7 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 7 (полевая)</Russian>
+			<Spanish>Uniforme EVN 7 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_08_03_DN">
+			<Chinesesimp>北越军制服 8</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Tied</English>
+			<French>Uniforme NVA 8</French>
+			<German>NVA-Uniform 8</German>
+			<Italian>Uniforme NVA 8</Italian>
+			<Original>NVA Uniform 8</Original>
+			<Portuguese>Uniforme 8 EVN</Portuguese>
+			<Russian>Форма СВА 8</Russian>
+			<Spanish>Uniforme EVN 8</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_08_04_DN">
+			<Chinesesimp>北越军制服 8（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Tied (Field)</English>
+			<French>Uniforme NVA 8 (terrain)</French>
+			<German>NVA-Uniform 8 (Feld)</German>
+			<Italian>Uniforme NVA 8 (inzaccherata)</Italian>
+			<Original>NVA Uniform 8 (Field)</Original>
+			<Portuguese>Uniforme 8 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 8 (полевая)</Russian>
+			<Spanish>Uniforme EVN 8 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_09_03_DN">
+			<Chinesesimp>北越军制服 9</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Dép</English>
+			<French>Uniforme NVA 9</French>
+			<German>NVA-Uniform 9</German>
+			<Italian>Uniforme NVA 9</Italian>
+			<Original>NVA Uniform 9</Original>
+			<Portuguese>Uniforme 9 EVN</Portuguese>
+			<Russian>Форма СВА 9</Russian>
+			<Spanish>Uniforme EVN 9</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_09_04_DN">
+			<Chinesesimp>北越军制服 9（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Sleeve/Dép (Field)</English>
+			<French>Uniforme NVA 9 (terrain)</French>
+			<German>NVA-Uniform 9 (Feld)</German>
+			<Italian>Uniforme NVA 9 (inzaccherata)</Italian>
+			<Original>NVA Uniform 9 (Field)</Original>
+			<Portuguese>Uniforme 9 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 9 (полевая)</Russian>
+			<Spanish>Uniforme EVN 9 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_10_03_DN">
+			<Chinesesimp>北越军制服 10</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Dép</English>
+			<French>Uniforme NVA 10</French>
+			<German>NVA-Uniform 10</German>
+			<Italian>Uniforme NVA 10</Italian>
+			<Original>NVA Uniform 10</Original>
+			<Portuguese>Uniforme 10 EVN</Portuguese>
+			<Russian>Форма СВА 10</Russian>
+			<Spanish>Uniforme EVN 10</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_10_04_DN">
+			<Chinesesimp>北越军制服 10（野战）</Chinesesimp>
+			<English>NVA Uniform Tuck/Roll/Dép (Field)</English>
+			<French>Uniforme NVA 10 (terrain)</French>
+			<German>NVA-Uniform 10 (Feld)</German>
+			<Italian>Uniforme NVA 10 (inzaccherata)</Italian>
+			<Original>NVA Uniform 10 (Field)</Original>
+			<Portuguese>Uniforme 10 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 10 (полевая)</Russian>
+			<Spanish>Uniforme EVN 10 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_03_DN">
+			<Chinesesimp>北越军制服 11</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Dép</English>
+			<French>Uniforme NVA 11</French>
+			<German>NVA-Uniform 11</German>
+			<Italian>Uniforme NVA 11</Italian>
+			<Original>NVA Uniform 11</Original>
+			<Portuguese>Uniforme 11 EVN</Portuguese>
+			<Russian>Форма СВА 11</Russian>
+			<Spanish>Uniforme EVN 11</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_11_04_DN">
+			<Chinesesimp>北越军制服 11（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Sleeve/Dép (Field)</English>
+			<French>Uniforme NVA 11 (terrain)</French>
+			<German>NVA-Uniform 11 (Feld)</German>
+			<Italian>Uniforme NVA 11 (inzaccherata)</Italian>
+			<Original>NVA Uniform 11 (Field)</Original>
+			<Portuguese>Uniforme 11 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 11 (полевая)</Russian>
+			<Spanish>Uniforme EVN 11 (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_03_DN">
+			<Chinesesimp>北越军制服 12</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Dép</English>
+			<French>Uniforme NVA 12</French>
+			<German>NVA-Uniform 12</German>
+			<Italian>Uniforme NVA 12</Italian>
+			<Original>NVA Uniform 12</Original>
+			<Portuguese>Uniforme 12 EVN</Portuguese>
+			<Russian>Форма СВА 12</Russian>
+			<Spanish>Uniforme EVN 12</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_NVA_12_04_DN">
+			<Chinesesimp>北越军制服 12（野战）</Chinesesimp>
+			<English>NVA Uniform Untuck/Roll/Dép (Field)</English>
+			<French>Uniforme NVA 12 (terrain)</French>
+			<German>NVA-Uniform 12 (Feld)</German>
+			<Italian>Uniforme NVA 12 (inzaccherata)</Italian>
+			<Original>NVA Uniform 12 (Field)</Original>
+			<Portuguese>Uniforme 12 EVN (Campo)</Portuguese>
+			<Russian>Форма СВА 12 (полевая)</Russian>
+			<Spanish>Uniforme EVN 12 (campaña)</Spanish>
+		</Key>
+	</Package>
+	<Package name="uni_pl">
+		<Key ID="STR_VN_O_UNIFORM_PL_01_11_DN">
+			<Chinesesimp>巴特寮制服 1（深色）</Chinesesimp>
+			<English>PL Uniform Tuck/Sleeve (Dark)</English>
+			<French>Uniforme PL 1 (sombre)</French>
+			<German>PL-Uniform 1 (dunkel)</German>
+			<Italian>Uniforme Pathet Lao 1 (scura)</Italian>
+			<Original>PL Uniform 1 (Dark)</Original>
+			<Portuguese>Uniforme PL 1 (Escuro)</Portuguese>
+			<Russian>Форма ПЛ 1 (темная)</Russian>
+			<Spanish>Uniforme PL 1 (oscuro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_01_12_DN">
+			<Chinesesimp>巴特寮制服 1（深色/野战）</Chinesesimp>
+			<English>PL Uniform Tuck/Sleeve (Dark/ Field)</English>
+			<French>Uniforme PL 1 (sombre, terrain)</French>
+			<German>PL-Uniform 1 (dunkel/Feld)</German>
+			<Italian>Uniforme Pathet Lao 1 (scura, campale)</Italian>
+			<Original>PL Uniform 1 (Dark/ Field)</Original>
+			<Portuguese>Uniforme PL 1 (Escuro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 1 (темная/ полевая)</Russian>
+			<Spanish>Uniforme PL 1 (oscuro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_01_13_DN">
+			<Chinesesimp>巴特寮制服 1（浅色）</Chinesesimp>
+			<English>PL Uniform Tuck/Sleeve (Light)</English>
+			<French>Uniforme PL 1 (clair)</French>
+			<German>PL-Uniform 1 (hell)</German>
+			<Italian>Uniforme Pathet Lao 1 (chiara)</Italian>
+			<Original>PL Uniform 1 (Light)</Original>
+			<Portuguese>Uniforme PL 1 (Claro)</Portuguese>
+			<Russian>Форма ПЛ 1 (светлая)</Russian>
+			<Spanish>Uniforme PL 1 (claro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_01_14_DN">
+			<Chinesesimp>巴特寮制服 1（浅色/野战）</Chinesesimp>
+			<English>PL Uniform Tuck/Sleeve (Light/ Field)</English>
+			<French>Uniforme PL 1 (clair, terrain)</French>
+			<German>PL-Uniform 1 (hell/Feld)</German>
+			<Italian>Uniforme Pathet Lao 1 (chiara, campale)</Italian>
+			<Original>PL Uniform 1 (Light/ Field)</Original>
+			<Portuguese>Uniforme PL 1 (Claro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 1 (светлая/ полевая)</Russian>
+			<Spanish>Uniforme PL 1 (claro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_02_11_DN">
+			<Chinesesimp>巴特寮制服 2（深色）</Chinesesimp>
+			<English>PL Uniform Tuck/Roll (Dark)</English>
+			<French>Uniforme PL 2 (sombre)</French>
+			<German>PL-Uniform 2 (dunkel)</German>
+			<Italian>Uniforme Pathet Lao 2 (scura)</Italian>
+			<Original>PL Uniform 2 (Dark)</Original>
+			<Portuguese>Uniforme PL 2 (Escuro)</Portuguese>
+			<Russian>Форма ПЛ 2 (темная)</Russian>
+			<Spanish>Uniforme PL 2 (oscuro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_02_12_DN">
+			<Chinesesimp>巴特寮制服 2（深色/野战）</Chinesesimp>
+			<English>PL Uniform Tuck/Roll (Dark/ Field)</English>
+			<French>Uniforme PL 2 (sombre, terrain)</French>
+			<German>PL-Uniform 2 (dunkel/Feld)</German>
+			<Italian>Uniforme Pathet Lao 2 (scura, campale)</Italian>
+			<Original>PL Uniform 2 (Dark/ Field)</Original>
+			<Portuguese>Uniforme PL 2 (Escuro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 2 (темная/ полевая)</Russian>
+			<Spanish>Uniforme PL 2 (oscuro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_02_13_DN">
+			<Chinesesimp>巴特寮制服 2（浅色）</Chinesesimp>
+			<English>PL Uniform Tuck/Roll (Light)</English>
+			<French>Uniforme PL 2 (clair)</French>
+			<German>PL-Uniform 2 (hell)</German>
+			<Italian>Uniforme Pathet Lao 2 (chiara)</Italian>
+			<Original>PL Uniform 2 (Light)</Original>
+			<Portuguese>Uniforme PL 2 (Claro)</Portuguese>
+			<Russian>Форма ПЛ 2 (светлая)</Russian>
+			<Spanish>Uniforme PL 2 (claro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_02_14_DN">
+			<Chinesesimp>巴特寮制服 2（浅色/野战）</Chinesesimp>
+			<English>PL Uniform Tuck/Roll (Light/ Field)</English>
+			<French>Uniforme PL 2 (clair, terrain)</French>
+			<German>PL-Uniform 2 (hell/Feld)</German>
+			<Italian>Uniforme Pathet Lao 2 (chiara, campale)</Italian>
+			<Original>PL Uniform 2 (Light/ Field)</Original>
+			<Portuguese>Uniforme PL 2 (Claro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 2 (светлая/ полевая)</Russian>
+			<Spanish>Uniforme PL 2 (claro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_03_11_DN">
+			<Chinesesimp>巴特寮制服 3（深色）</Chinesesimp>
+			<English>PL Uniform Untuck/Sleeve (Dark)</English>
+			<French>Uniforme PL 3 (sombre)</French>
+			<German>PL-Uniform 3 (dunkel)</German>
+			<Italian>Uniforme Pathet Lao 3 (scura)</Italian>
+			<Original>PL Uniform 3 (Dark)</Original>
+			<Portuguese>Uniforme PL 3 (Escuro)</Portuguese>
+			<Russian>Форма ПЛ 3 (темная)</Russian>
+			<Spanish>Uniforme PL 3 (oscuro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_03_12_DN">
+			<Chinesesimp>巴特寮制服 3（深色/野战）</Chinesesimp>
+			<English>PL Uniform Untuck/Sleeve (Dark/ Field)</English>
+			<French>Uniforme PL 3 (sombre, terrain)</French>
+			<German>PL-Uniform 3 (dunkel/Feld)</German>
+			<Italian>Uniforme Pathet Lao 3 (scura, campale)</Italian>
+			<Original>PL Uniform 3 (Dark/ Field)</Original>
+			<Portuguese>Uniforme PL 3 (Escuro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 3 (темная/ полевая)</Russian>
+			<Spanish>Uniforme PL 3 (oscuro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_03_13_DN">
+			<Chinesesimp>巴特寮制服 3（浅色）</Chinesesimp>
+			<English>PL Uniform Untuck/Sleeve (Light)</English>
+			<French>Uniforme PL 3 (clair)</French>
+			<German>PL-Uniform 3 (hell)</German>
+			<Italian>Uniforme Pathet Lao 3 (chiara)</Italian>
+			<Original>PL Uniform 3 (Light)</Original>
+			<Portuguese>Uniforme PL 3 (Claro)</Portuguese>
+			<Russian>Форма ПЛ 3 (светлая)</Russian>
+			<Spanish>Uniforme PL 3 (claro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_03_14_DN">
+			<Chinesesimp>巴特寮制服 3（浅色/野战）</Chinesesimp>
+			<English>PL Uniform Untuck/Sleeve (Light/ Field)</English>
+			<French>Uniforme PL 3 (clair, terrain)</French>
+			<German>PL-Uniform 3 (hell/Feld)</German>
+			<Italian>Uniforme Pathet Lao 3 (chiara, campale)</Italian>
+			<Original>PL Uniform 3 (Light/ Field)</Original>
+			<Portuguese>Uniforme PL 3 (Claro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 3 (светлая/ полевая)</Russian>
+			<Spanish>Uniforme PL 3 (claro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_04_11_DN">
+			<Chinesesimp>巴特寮制服 4（深色）</Chinesesimp>
+			<English>PL Uniform Untuck/Roll (Dark)</English>
+			<French>Uniforme PL 4 (sombre)</French>
+			<German>PL-Uniform 4 (dunkel)</German>
+			<Italian>Uniforme Pathet Lao 4 (scura)</Italian>
+			<Original>PL Uniform 4 (Dark)</Original>
+			<Portuguese>Uniforme PL 4 (Escuro)</Portuguese>
+			<Russian>Форма ПЛ 4 (темная)</Russian>
+			<Spanish>Uniforme PL 4 (oscuro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_04_12_DN">
+			<Chinesesimp>巴特寮制服 4（深色/野战）</Chinesesimp>
+			<English>PL Uniform Untuck/Roll (Dark/ Field)</English>
+			<French>Uniforme PL 4 (sombre, terrain)</French>
+			<German>PL-Uniform 4 (dunkel/Feld)</German>
+			<Italian>Uniforme Pathet Lao 4 (scura, campale)</Italian>
+			<Original>PL Uniform 4 (Dark/ Field)</Original>
+			<Portuguese>Uniforme PL 4 (Escuro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 4 (темная/ полевая)</Russian>
+			<Spanish>Uniforme PL 4 (oscuro, campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_04_13_DN">
+			<Chinesesimp>巴特寮制服 4（浅色）</Chinesesimp>
+			<English>PL Uniform Untuck/Roll (Light)</English>
+			<French>Uniforme PL 4 (clair)</French>
+			<German>PL-Uniform 4 (hell)</German>
+			<Italian>Uniforme Pathet Lao 4 (chiara)</Italian>
+			<Original>PL Uniform 4 (Light)</Original>
+			<Portuguese>Uniforme PL 4 (Claro)</Portuguese>
+			<Russian>Форма ПЛ 4 (светлая)</Russian>
+			<Spanish>Uniforme PL 4 (claro)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_UNIFORM_PL_04_14_DN">
+			<Chinesesimp>巴特寮制服 4（浅色/野战）</Chinesesimp>
+			<English>PL Uniform Untuck/Roll (Light/ Field)</English>
+			<French>Uniforme PL 4 (clair, terrain)</French>
+			<German>PL-Uniform 4 (hell/Feld)</German>
+			<Italian>Uniforme Pathet Lao 4 (chiara, campale)</Italian>
+			<Original>PL Uniform 4 (Light/ Field)</Original>
+			<Portuguese>Uniforme PL 4 (Claro/ Campo)</Portuguese>
+			<Russian>Форма ПЛ 4 (светлая/ полевая)</Russian>
+			<Spanish>Uniforme PL 4 (claro, campaña)</Spanish>
+		</Key>
+	</Package>
+    <Package name="helmet_m1">
+        <Key ID="STR_VN_B_HELMET_M1_01_01_DN">
+			<Chinesesimp>头盔 M1（钢制）</Chinesesimp>
+			<English>Helmet M1 (Steel)</English>
+			<French>Casque M1 (acier)</French>
+			<German>M1-Helm (Stahl)</German>
+			<Italian>Elmetto M1 (acciaio)</Italian>
+			<Original>Helmet M1 (Steel)</Original>
+			<Portuguese>Capacete M1 (Aço)</Portuguese>
+			<Russian>Шлем M1 (стальной)</Russian>
+			<Spanish>Casco M1 (acero)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_02_01_DN">
+			<Chinesesimp>头盔 M1 2（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf)</English>
+			<French>Casque M1 2 (camouflage)</French>
+			<German>M1-Helm 2 (Tarn)</German>
+			<Italian>Elmetto M1 2 (mimetico)</Italian>
+			<Original>Helmet M1 2 (Camo)</Original>
+			<Portuguese>Capacete M1 2 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 2 (камуфляжный)</Russian>
+			<Spanish>Casco M1 2 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_02_02_DN">
+			<Chinesesimp>头盔 M1 2（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds)</English>
+			<French>Casque M1 2 (camouflage 2)</French>
+			<German>M1-Helm 2 (Tarn 2)</German>
+			<Italian>Elmetto M1 2 (mimetico 2)</Italian>
+			<Original>Helmet M1 2 (Camo 2)</Original>
+			<Portuguese>Capacete M1 2 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 2 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 2 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_03_01_DN">
+			<Chinesesimp>头盔 M1 3（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ G-Band)</English>
+			<French>Casque M1 3 (camouflage)</French>
+			<German>M1-Helm 3 (Tarn)</German>
+			<Italian>Elmetto M1 3 (mimetico)</Italian>
+			<Original>Helmet M1 3 (Camo)</Original>
+			<Portuguese>Capacete M1 3 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 3 (камуфляжный)</Russian>
+			<Spanish>Casco M1 3 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_03_02_DN">
+			<Chinesesimp>头盔 M1 3（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ G-Band)</English>
+			<French>Casque M1 3 (camouflage 2)</French>
+			<German>M1-Helm 3 (Tarn 2)</German>
+			<Italian>Elmetto M1 3 (mimetico 2)</Italian>
+			<Original>Helmet M1 3 (Camo 2)</Original>
+			<Portuguese>Capacete M1 3 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 3 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 3 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_04_01_DN">
+			<Chinesesimp>头盔 M1 GL（迷彩）</Chinesesimp>
+			<English>Helmet M1 GL (Leaf/ G-Band)</English>
+			<French>Casque M1 LG (camouflage)</French>
+			<German>M1-Helm (GW, Tarn)</German>
+			<Italian>Elmetto M1 GL (mimetico)</Italian>
+			<Original>Helmet M1 GL (Camo)</Original>
+			<Portuguese>Capacete M1 LG (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 GL (камуфляжный)</Russian>
+			<Spanish>Casco M1 GL (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_04_02_DN">
+			<Chinesesimp>头盔 M1 GL（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 GL (Clouds/ G-Band)</English>
+			<French>Casque M1 LG (camouflage 2)</French>
+			<German>M1-Helm (GW, Tarn 2)</German>
+			<Italian>Elmetto M1 GL (mimetico 2)</Italian>
+			<Original>Helmet M1 GL (Camo 2)</Original>
+			<Portuguese>Capacete M1 LG (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 GL (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 GL (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_05_01_DN">
+			<Chinesesimp>头盔 M1 5（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ G-Band/Mag/Cig)</English>
+			<French>Casque M1 5 (camouflage)</French>
+			<German>M1-Helm 5 (Tarn)</German>
+			<Italian>Elmetto M1 5 (mimetico)</Italian>
+			<Original>Helmet M1 5 (Camo)</Original>
+			<Portuguese>Capacete M1 5 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 5 (камуфляжный)</Russian>
+			<Spanish>Casco M1 5 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_05_02_DN">
+			<Chinesesimp>头盔 M1 5（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ G-Band/Mag/Cig)</English>
+			<French>Casque M1 5 (camouflage 2)</French>
+			<German>M1-Helm 5 (Tarn 2)</German>
+			<Italian>Elmetto M1 5 (mimetico 2)</Italian>
+			<Original>Helmet M1 5 (Camo 2)</Original>
+			<Portuguese>Capacete M1 5 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 5 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 5 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_06_01_DN">
+			<Chinesesimp>头盔 M1 6（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ G-Band/Rep/Cig)</English>
+			<French>Casque M1 6 (camouflage)</French>
+			<German>M1-Helm 6 (Tarn)</German>
+			<Italian>Elmetto M1 6 (mimetico)</Italian>
+			<Original>Helmet M1 6 (Camo)</Original>
+			<Portuguese>Capacete M1 6 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 6 (камуфляжный)</Russian>
+			<Spanish>Casco M1 6 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_06_02_DN">
+			<Chinesesimp>头盔 M1 6（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 6 (Clouds/ G-Band/Rep/Cig)</English>
+			<French>Casque M1 6 (camouflage 2)</French>
+			<German>M1-Helm 6 (Tarn 2)</German>
+			<Italian>Elmetto M1 6 (mimetico 2)</Italian>
+			<Original>Helmet M1 6 (Camo 2)</Original>
+			<Portuguese>Capacete M1 6 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 6 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 6 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_07_01_DN">
+			<Chinesesimp>头盔 M1 7（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ G-Band/Rep/FAK)</English>
+			<French>Casque M1 7 (camouflage)</French>
+			<German>M1-Helm 7 (Tarn)</German>
+			<Italian>Elmetto M1 7 (mimetico)</Italian>
+			<Original>Helmet M1 7 (Camo)</Original>
+			<Portuguese>Capacete M1 7 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 7 (камуфляжный)</Russian>
+			<Spanish>Casco M1 7 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_07_02_DN">
+			<Chinesesimp>头盔 M1 7（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ G-Band/Rep/FAK)</English>
+			<French>Casque M1 7 (camouflage 2)</French>
+			<German>M1-Helm 7 (Tarn 2)</German>
+			<Italian>Elmetto M1 7 (mimetico 2)</Italian>
+			<Original>Helmet M1 7 (Camo 2)</Original>
+			<Portuguese>Capacete M1 7 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 7 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 7 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_08_01_DN">
+			<Chinesesimp>头盔 M1 机枪手（迷彩）</Chinesesimp>
+			<English>Helmet M1 MG (Leaf/ G-Band)</English>
+			<French>Casque M1 MG (camouflage)</French>
+			<German>M1-Helm (MG, Tarn)</German>
+			<Italian>Elmetto M1 MG (mimetico)</Italian>
+			<Original>Helmet M1 MG (Camo)</Original>
+			<Portuguese>Capacete M1 Metralhador (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 MG (камуфляжный)</Russian>
+			<Spanish>Casco M1 ametrallador (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_08_02_DN">
+			<Chinesesimp>头盔 M1 机枪手（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 MG (Clouds/ G-Band)</English>
+			<French>Casque M1 MG (camouflage 2)</French>
+			<German>M1-Helm (MG, Tarn 2)</German>
+			<Italian>Elmetto M1 MG (mimetico 2)</Italian>
+			<Original>Helmet M1 MG (Camo 2)</Original>
+			<Portuguese>Capacete M1 Metralhador (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 MG (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 ametrallador (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_09_01_DN">
+			<Chinesesimp>头盔 M1 队员（迷彩）</Chinesesimp>
+			<English>Helmet M1 SWDG (Leaf)</English>
+			<French>Casque M1 équipage (camouflage)</French>
+			<German>M1-Helm (Besatzung, Tarn)</German>
+			<Italian>Elmetto M1 equipaggio (mimetico)</Italian>
+			<Original>Helmet M1 Crew (Camo)</Original>
+			<Portuguese>Capacete M1 Tripulação (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 Crew (камуфляжный)</Russian>
+			<Spanish>Casco M1 dotación (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_09_02_DN">
+			<Chinesesimp>头盔 M1 队员（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 SWDG (Clouds)</English>
+			<French>Casque M1 équipage (camouflage 2)</French>
+			<German>M1-Helm (Besatzung, Tarn 2)</German>
+			<Italian>Elmetto M1 equipaggio (mimetico 2)</Italian>
+			<Original>Helmet M1 Crew (Camo 2)</Original>
+			<Portuguese>Capacete M1 Tripulação (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 Crew (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 dotación (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_14_01_DN">
+			<Chinesesimp>头盔 M1 14（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ B-Band)</English>
+			<French>Casque M1 14 (camouflage)</French>
+			<German>M1-Helm 14 (Tarn)</German>
+			<Italian>Elmetto M1 14 (mimetico)</Italian>
+			<Original>Helmet M1 14 (Camo)</Original>
+			<Portuguese>Capacete M1 14 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 14 (камуфляжный)</Russian>
+			<Spanish>Casco M1 14 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_14_02_DN">
+			<Chinesesimp>头盔 M1 14（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ B-Band)</English>
+			<French>Casque M1 14 (camouflage 2)</French>
+			<German>M1-Helm 14 (Tarn 2)</German>
+			<Italian>Elmetto M1 14 (mimetico 2)</Italian>
+			<Original>Helmet M1 14 (Camo 2)</Original>
+			<Portuguese>Capacete M1 14 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 14 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 14 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_15_01_DN">
+			<Chinesesimp>头盔 M1 15（迷彩）</Chinesesimp>
+			<English>Helmet M1 GL (Leaf/ B-Band)</English>
+			<French>Casque M1 15 (camouflage)</French>
+			<German>M1-Helm 15 (Tarn)</German>
+			<Italian>Elmetto M1 15 (mimetico)</Italian>
+			<Original>Helmet M1 15 (Camo)</Original>
+			<Portuguese>Capacete M1 15 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 15 (камуфляжный)</Russian>
+			<Spanish>Casco M1 15 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_15_02_DN">
+			<Chinesesimp>头盔 M1 15（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 GL (Clouds/ B-Band)</English>
+			<French>Casque M1 15 (camouflage 2)</French>
+			<German>M1-Helm 15 (Tarn 2)</German>
+			<Italian>Elmetto M1 15 (mimetico 2)</Italian>
+			<Original>Helmet M1 15 (Camo 2)</Original>
+			<Portuguese>Capacete M1 15 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 15 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 15 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_16_01_DN">
+			<Chinesesimp>头盔 M1 16（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ B-Band/Mag)</English>
+			<French>Casque M1 16 (camouflage)</French>
+			<German>M1-Helm 16 (Tarn)</German>
+			<Italian>Elmetto M1 16 (mimetico)</Italian>
+			<Original>Helmet M1 16 (Camo)</Original>
+			<Portuguese>Capacete M1 16 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 16 (камуфляжный)</Russian>
+			<Spanish>Casco M1 16 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_16_02_DN">
+			<Chinesesimp>头盔 M1 16（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ B-Band/Mag)</English>
+			<French>Casque M1 16 (camouflage 2)</French>
+			<German>M1-Helm 16 (Tarn 2)</German>
+			<Italian>Elmetto M1 16 (mimetico 2)</Italian>
+			<Original>Helmet M1 16 (Camo 2)</Original>
+			<Portuguese>Capacete M1 16 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 16 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 16 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_17_01_DN">
+			<Chinesesimp>头盔 M1 GL 17（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ B-Band/Rep/Cig)</English>
+			<French>Casque M1 LG 17 (camouflage)</French>
+			<German>M1-Helm 17 (GW, Tarn)</German>
+			<Italian>Elmetto M1 GL 17 (mimetico)</Italian>
+			<Original>Helmet M1 GL 17 (Camo)</Original>
+			<Portuguese>Capacete M1 LG 17 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 GL 17 (камуфляжный)</Russian>
+			<Spanish>Casco M1 GL 17 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_17_02_DN">
+			<Chinesesimp>头盔 M1 GL 17（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ B-Band/Rep/Cig)</English>
+			<French>Casque M1 LG 17 (camouflage 2)</French>
+			<German>M1-Helm 17 (GW, Tarn 2)</German>
+			<Italian>Elmetto M1 GL 17 (mimetico 2)</Italian>
+			<Original>Helmet M1 GL 17 (Camo 2)</Original>
+			<Portuguese>Capacete M1 LG 17 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 GL 17 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 GL 17 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_18_01_DN">
+			<Chinesesimp>头盔 M1 18（迷彩）</Chinesesimp>
+			<English>Helmet M1 (Leaf/ B-Band/Rep/FAK)</English>
+			<French>Casque M1 18 (camouflage)</French>
+			<German>M1-Helm 18 (Tarn)</German>
+			<Italian>Elmetto M1 18 (mimetico)</Italian>
+			<Original>Helmet M1 18 (Camo)</Original>
+			<Portuguese>Capacete M1 18 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 18 (камуфляжный)</Russian>
+			<Spanish>Casco M1 18 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_18_02_DN">
+			<Chinesesimp>头盔 M1 18（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 (Clouds/ B-Band/Rep/FAK)</English>
+			<French>Casque M1 18 (camouflage 2)</French>
+			<German>M1-Helm 18 (Tarn 2)</German>
+			<Italian>Elmetto M1 18 (mimetico 2)</Italian>
+			<Original>Helmet M1 18 (Camo 2)</Original>
+			<Portuguese>Capacete M1 18 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 18 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 18 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_19_01_DN">
+			<Chinesesimp>头盔 M1 19（迷彩）</Chinesesimp>
+			<English>Helmet M1 MG (Leaf/ B-Band)</English>
+			<French>Casque M1 19 (camouflage)</French>
+			<German>M1-Helm 19 (Tarn)</German>
+			<Italian>Elmetto M1 19 (mimetico)</Italian>
+			<Original>Helmet M1 19 (Camo)</Original>
+			<Portuguese>Capacete M1 19 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 19 (камуфляжный)</Russian>
+			<Spanish>Casco M1 19 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_19_02_DN">
+			<Chinesesimp>头盔 M1 19（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 MG (Clouds/ B-Band)</English>
+			<French>Casque M1 19 (camouflage 2)</French>
+			<German>M1-Helm 19 (Tarn 2)</German>
+			<Italian>Elmetto M1 19 (mimetico 2)</Italian>
+			<Original>Helmet M1 19 (Camo 2)</Original>
+			<Portuguese>Capacete M1 19 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 19 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 19 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_20_01_DN">
+			<Chinesesimp>头盔 M1 20（迷彩）</Chinesesimp>
+			<English>Helmet M1 SWDG (Leaf/ B-Band)</English>
+			<French>Casque M1 20 (camouflage)</French>
+			<German>M1-Helm 20 (Tarn)</German>
+			<Italian>Elmetto M1 20 (mimetico)</Italian>
+			<Original>Helmet M1 20 (Camo)</Original>
+			<Portuguese>Capacete M1 20 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 20 (камуфляжный)</Russian>
+			<Spanish>Casco M1 20 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_20_02_DN">
+			<Chinesesimp>头盔 M1 20（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 SWDG (Clouds/ B-Band)</English>
+			<French>Casque M1 20 (camouflage 2)</French>
+			<German>M1-Helm 20 (Tarn 2)</German>
+			<Italian>Elmetto M1 20 (mimetico 2)</Italian>
+			<Original>Helmet M1 20 (Camo 2)</Original>
+			<Portuguese>Capacete M1 20 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 20 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 20 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_21_01_DN">
+			<Chinesesimp>头盔 M1 21 机枪手（迷彩）</Chinesesimp>
+			<English>Helmet M1 MG 21 (Camo)</English>
+			<French>Casque M1 MG 21 (camouflage)</French>
+			<German>M1-Helm 21 (MG, Tarn)</German>
+			<Italian>Elmetto M1 MG 21 (mimetico)</Italian>
+			<Original>Helmet M1 MG 21 (Camo)</Original>
+			<Portuguese>Capacete M1 Metralhador 21 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 MG 21 (камуфляжный)</Russian>
+			<Spanish>Casco M1 ametrallador 21 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_21_02_DN">
+			<Chinesesimp>头盔 M1 21 机枪手（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 MG 21 (Camo 2)</English>
+			<French>Casque M1 MG 21 (camouflage 2)</French>
+			<German>M1-Helm 21 (MG, Tarn 2)</German>
+			<Italian>Elmetto M1 MG 21 (mimetico 2)</Italian>
+			<Original>Helmet M1 MG 21 (Camo 2)</Original>
+			<Portuguese>Capacete M1 Metralhador 21 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 MG 21 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 ametrallador 21 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_22_01_DN">
+			<Chinesesimp>头盔 M1 22 队员（迷彩）</Chinesesimp>
+			<English>Helmet M1 Crew 22 (Camo)</English>
+			<French>Casque M1 équipage 22 (camouflage)</French>
+			<German>M1-Helm 22 (Besatzung, Tarn)</German>
+			<Italian>Elmetto M1 equipaggio 22 (mimetico)</Italian>
+			<Original>Helmet M1 Crew 22 (Camo)</Original>
+			<Portuguese>Capacete M1 Tripulação 22 (Camuflagem)</Portuguese>
+			<Russian>Шлем M1 Crew 22 (камуфляжный)</Russian>
+			<Spanish>Casco M1 dotación 22 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_22_02_DN">
+			<Chinesesimp>头盔 M1 队员 22（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 Crew 22 (Camo 2)</English>
+			<French>Casque M1 équipage 22 (camouflage 2)</French>
+			<German>M1-Helm 22 (Besatzung, Tarn 2)</German>
+			<Italian>Elmetto M1 equipaggio 22 (mimetico 2)</Italian>
+			<Original>Helmet M1 Crew 22 (Camo 2)</Original>
+			<Portuguese>Capacete M1 Tripulação 22 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 Crew 22 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 dotación 22 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_10_01_DN">
+			<Chinesesimp>头盔 M1 网罩 1</Chinesesimp>
+			<English>Helmet M1 Net (Camo)</English>
+			<French>Casque M1 filet 1</French>
+			<German>M1-Helm (Netz 1)</German>
+			<Italian>Elmetto M1 (rete 1)</Italian>
+			<Original>Helmet M1 Net 1 (Camo)</Original>
+			<Portuguese>Capacete M1 com rede 1</Portuguese>
+			<Russian>Шлем M1 Net 1</Russian>
+			<Spanish>Casco M1 red 1 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_10_02_DN">
+			<Chinesesimp>头盔 M1 网罩 1（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 Net (Camo 2)</English>
+			<French>Casque M1 filet 1 (camouflage 2)</French>
+			<German>M1-Helm (Netz 1, Tarn 2)</German>
+			<Italian>Elmetto M1 rete 1 (mimetico 2)</Italian>
+			<Original>Helmet M1 Net 1 (Camo 2)</Original>
+			<Portuguese>Capacete M1 Rede 1 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 Net 1 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 red 1 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_11_01_DN">
+			<Chinesesimp>头盔 M1 网罩 2</Chinesesimp>
+			<English>Helmet M1 Net (Camo/ Scrim)</English>
+			<French>Casque M1 filet 2</French>
+			<German>M1-Helm (Netz 2)</German>
+			<Italian>Elmetto M1 (rete 2)</Italian>
+			<Original>Helmet M1 Net 2 (Camo)</Original>
+			<Portuguese>Capacete M1 com rede 2</Portuguese>
+			<Russian>Шлем M1 Net 2</Russian>
+			<Spanish>Casco M1 red 2 (camuflaje)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_11_02_DN">
+			<Chinesesimp>头盔 M1 网罩 2（迷彩 2）</Chinesesimp>
+			<English>Helmet M1 Net (Camo 2/ Scrim)</English>
+			<French>Casque M1 filet 2 (camouflage 2)</French>
+			<German>M1-Helm (Netz 2, Tarn 2)</German>
+			<Italian>Elmetto M1 rete 2 (mimetico 2)</Italian>
+			<Original>Helmet M1 Net 2 (Camo 2)</Original>
+			<Portuguese>Capacete M1 Rede 2 (Camuflagem 2)</Portuguese>
+			<Russian>Шлем M1 Net 2 (камуфляжный 2)</Russian>
+			<Spanish>Casco M1 red 2 (camuflaje 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_12_01_DN">
+			<Chinesesimp>头盔 M1（韩国/丛林色）</Chinesesimp>
+			<English>Helmet M1 (Spot/ Jungle)</English>
+			<French>Casque M1 (RDC, jungle)</French>
+			<German>M1-Helm (ROK, Dschungel)</German>
+			<Italian>Elmetto M1 (ROK, giungla)</Italian>
+			<Original>Helmet M1 (ROK/ Jungle)</Original>
+			<Portuguese>Capacete M1 (RC/Selva)</Portuguese>
+			<Russian>Шлем M1 (Респ. Корея/Джунгли)</Russian>
+			<Spanish>Casco M1 (Rep. Corea, selva)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_M1_12_02_DN">
+			<Chinesesimp>头盔 M1（韩国/沙色）</Chinesesimp>
+			<English>Helmet M1 (Spot/ Sand)</English>
+			<French>Casque M1 (RDC, sable)</French>
+			<German>M1-Helm (ROK, Sand)</German>
+			<Italian>Elmetto M1 (ROK, sabbia)</Italian>
+			<Original>Helmet M1 (ROK/ Sand)</Original>
+			<Portuguese>Capacete M1 (RC/Areia)</Portuguese>
+			<Russian>Шлем M1 (Респ. Корея/Песок)</Russian>
+			<Spanish>Casco M1 (Rep. Corea, arena)</Spanish>
+		</Key>
+		<Key ID="STR_VN_I_HELMET_M1_02_01_DN">
+			<Chinesesimp>头盔 M1（网罩 1）</Chinesesimp>
+			<English>Helmet M1 Net (Steel)</English>
+			<French>Casque M1 (filet 1)</French>
+			<German>M1-Helm (Netz 1)</German>
+			<Italian>Elmetto M1 (rete 1)</Italian>
+			<Original>Helmet M1 (Net 1)</Original>
+			<Portuguese>Capacete M1 (Rede 1)</Portuguese>
+			<Russian>Шлем M1 (Net 1)</Russian>
+			<Spanish>Casco M1 (red 1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_I_HELMET_M1_02_02_DN">
+			<Chinesesimp>头盔 M1（虎纹/网罩 1）</Chinesesimp>
+			<English>Helmet M1 Net (Tiger)</English>
+			<French>Casque M1 (tigré, filet 1)</French>
+			<German>M1-Helm (Tiger/Netz 1)</German>
+			<Italian>Elmetto M1 (tigrato/rete 1)</Italian>
+			<Original>Helmet M1 (Tiger/ Net 1)</Original>
+			<Portuguese>Capacete M1 (Tigre/Rede 1)</Portuguese>
+			<Russian>Шлем M1 (Тайгерстрайп/Net 1)</Russian>
+			<Spanish>Casco M1 (tigre, red 1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_I_HELMET_M1_03_01_DN">
+			<Chinesesimp>头盔 M1（网罩 2）</Chinesesimp>
+			<English>Helmet M1 Net (Steel/ FAK)</English>
+			<French>Casque M1 (filet 2)</French>
+			<German>M1-Helm (Netz 2)</German>
+			<Italian>Elmetto M1 (rete 2)</Italian>
+			<Original>Helmet M1 (Net 2)</Original>
+			<Portuguese>Capacete M1 (Rede 2)</Portuguese>
+			<Russian>Шлем M1 (Net 2)</Russian>
+			<Spanish>Casco M1 (red 2)</Spanish>
+		</Key>
+		<Key ID="STR_VN_I_HELMET_M1_03_02_DN">
+			<Chinesesimp>头盔 M1（虎纹/网罩 2）</Chinesesimp>
+			<English>Helmet M1 Net (Tiger/ FAK)</English>
+			<French>Casque M1 (tigré, filet 2)</French>
+			<German>M1-Helm (Tiger/Netz 2)</German>
+			<Italian>Elmetto M1 (tigrato/rete 2)</Italian>
+			<Original>Helmet M1 (Tiger/ Net 2)</Original>
+			<Portuguese>Capacete M1 (Tigre/Rede 2)</Portuguese>
+			<Russian>Шлем M1 (Тайгерстрайп/Net 2)</Russian>
+			<Spanish>Casco M1 (tigre, red 2)</Spanish>
+		</Key>
+    </Package>
+    <Package name="facewear">
+		<Key ID="STR_VN_B_ACC_RAG_01_DN">
+			<Chinesesimp>粗布围巾 01</Chinesesimp>
+			<English>Scrim Scarf (Loose)</English>
+			<French>Écharpe-filet militaire 01</French>
+			<German>Netzschal 01</German>
+			<Italian>Sciarpa a rete 01</Italian>
+			<Original>Scrim Scarf 01</Original>
+			<Portuguese>Cachecol de malha 01</Portuguese>
+			<Russian>Шарф из мешковины 01</Russian>
+			<Spanish>Bufanda de malla 01</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_ACC_RAG_02_DN">
+			<Chinesesimp>粗布围巾 02</Chinesesimp>
+			<English>Scrim Scarf (Wrapped)</English>
+			<French>Écharpe-filet militaire 02</French>
+			<German>Netzschal 02</German>
+			<Italian>Sciarpa a rete 02</Italian>
+			<Original>Scrim Scarf 02</Original>
+			<Portuguese>Cachecol de malha 02</Portuguese>
+			<Russian>Шарф из мешковины 02</Russian>
+			<Spanish>Bufanda de malla 02</Spanish>
+		</Key>
+        <Key ID="STR_VN_B_ACC_TOWEL_01_DN">
+			<Chinesesimp>毛巾 01</Chinesesimp>
+			<English>Towel (Neck)</English>
+			<French>Serviette 01</French>
+			<German>Handtuch 01</German>
+			<Italian>Asciugamano 01</Italian>
+			<Original>Towel 01</Original>
+			<Portuguese>Toalha 01</Portuguese>
+			<Russian>Полотенце 01</Russian>
+			<Spanish>Toalla 01</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_ACC_TOWEL_02_DN">
+			<Chinesesimp>毛巾 02</Chinesesimp>
+			<English>Towel (Head)</English>
+			<French>Serviette 02</French>
+			<German>Handtuch 02</German>
+			<Italian>Asciugamano 02</Italian>
+			<Original>Towel 02</Original>
+			<Portuguese>Toalha 02</Portuguese>
+			<Russian>Полотенце 02</Russian>
+			<Spanish>Toalla 02</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_ACC_MS22001_01_DN">
+			<Chinesesimp>面罩 MS-22001</Chinesesimp>
+			<English>MS-22001 Mask</English>
+			<French>Masque MS-22001</French>
+			<German>MS-22001-Maske</German>
+			<Italian>Maschera MS-22001</Italian>
+			<Original>Mask MS-22001</Original>
+			<Portuguese>Máscara MS-22001</Portuguese>
+			<Russian>Маска MS-22001</Russian>
+			<Spanish>Máscara MS-22001</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_ACC_MS22001_02_DN">
+			<Chinesesimp>面具 MS-22001（松）</Chinesesimp>
+			<English>MS-22001 Mask (Loose)</English>
+			<French>Masque MS-22001 (détaché)</French>
+			<German>MS-22001-Maske (locker)</German>
+			<Italian>Maschera MS-22001 (non aderente)</Italian>
+			<Original>Mask MS-22001 (Loose)</Original>
+			<Portuguese>Máscara MS-22001 (Folgada)</Portuguese>
+			<Russian>Маска MS-22001 (опущена)</Russian>
+			<Spanish>Máscara MS-22001 (floja)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_ACC_KM32_01_DN">
+			<Chinesesimp>面罩 KM-32</Chinesesimp>
+			<English>KM-32 Mask</English>
+			<French>Masque KM-32</French>
+			<German>KM-32-Maske</German>
+			<Italian>Maschera KM-32</Italian>
+			<Original>Mask KM-32</Original>
+			<Portuguese>Máscara KM-32</Portuguese>
+			<Russian>Маска КМ-32</Russian>
+			<Spanish>Máscara KM-32</Spanish>
+		</Key>
+    </Package>
+    <Package name="helmet_t56">
+        <Key ID="STR_VN_B_HELMET_T56_02_01_DN">
+			<Chinesesimp>头盔 T56（护目镜）</Chinesesimp>
+			<English>Helmet T56 (Goggles)</English>
+			<French>Casque T56 (lunettes)</French>
+			<German>T56-Helm (Brille)</German>
+			<Italian>Elmetto T56 (occhiali tattici)</Italian>
+			<Original>Helmet T56 (Goggles)</Original>
+			<Portuguese>Capacete T56 (Óculos)</Portuguese>
+			<Russian>Шлем T56 (очки)</Russian>
+			<Spanish>Casco T56 (gafas)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_T56_01_01_DN">
+			<Chinesesimp>头盔 T56</Chinesesimp>
+			<English>Helmet T56</English>
+			<French>Casque T56</French>
+			<German>T56-Helm</German>
+			<Italian>Elmetto T56</Italian>
+			<Original>Helmet T56</Original>
+			<Portuguese>Capacete T56</Portuguese>
+			<Russian>Шлем T56</Russian>
+			<Spanish>Casco T56</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_T56_02_02_DN">
+			<Chinesesimp>头盔 T56 1（护目镜）</Chinesesimp>
+			<English>Helmet T56 (1st Armored/ Goggles)</English>
+			<French>Casque T56 1 (lunettes)</French>
+			<German>T56-Helm 1 (Brille)</German>
+			<Italian>Elmetto T56 1 (occhiali tattici)</Italian>
+			<Original>Helmet T56 1 (Goggles)</Original>
+			<Portuguese>Capacete T56 1 (Óculos)</Portuguese>
+			<Russian>Шлем T56 1 (очки)</Russian>
+			<Spanish>Casco T56 1 (gafas)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_T56_01_02_DN">
+			<Chinesesimp>头盔 T56 1</Chinesesimp>
+			<English>Helmet T56 (1st Armored)</English>
+			<French>Casque T56 1</French>
+			<German>T56-Helm 1</German>
+			<Italian>Elmetto T56 1</Italian>
+			<Original>Helmet T56 1</Original>
+			<Portuguese>Capacete T56 1</Portuguese>
+			<Russian>Шлем T56 1</Russian>
+			<Spanish>Casco T56 1</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_T56_02_03_DN">
+			<Chinesesimp>头盔 T56 2（护目镜）</Chinesesimp>
+			<English>Helmet T56 (Goggles/ Stripe)</English>
+			<French>Casque T56 2 (lunettes)</French>
+			<German>T56-Helm 2 (Brille)</German>
+			<Italian>Elmetto T56 2 (occhiali tattici)</Italian>
+			<Original>Helmet T56 2 (Goggles)</Original>
+			<Portuguese>Capacete T56 2 (Óculos)</Portuguese>
+			<Russian>Шлем T56 2 (очки)</Russian>
+			<Spanish>Casco T56 2 (gafas)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_HELMET_T56_01_03_DN">
+			<Chinesesimp>头盔 T56 2</Chinesesimp>
+			<English>Helmet T56 (Stripe)</English>
+			<French>Casque T56 2</French>
+			<German>T56-Helm 2</German>
+			<Italian>Elmetto T56 2</Italian>
+			<Original>Helmet T56 2</Original>
+			<Portuguese>Capacete T56 2</Portuguese>
+			<Russian>Шлем T56 2</Russian>
+			<Spanish>Casco T56 2</Spanish>
+		</Key>
+    </Package>
+    <Package name="vest_us">
+		<Key ID="STR_VN_B_VEST_AIRCREW_03_DN">
+			<Chinesesimp>背心 - 陆军（飞行员）</Chinesesimp>
+			<English>Vest - US (Pilot)</English>
+			<French>Gilet - armée (pilote)</French>
+			<German>Weste – Army (Pilot)</German>
+			<Italian>Gilet U.S. Army (pilota)</Italian>
+			<Original>Vest - Army (Pilot)</Original>
+			<Portuguese>Colete: Exército (Piloto)</Portuguese>
+			<Russian>Жилет — армия (пилот)</Russian>
+			<Spanish>Chaleco Ejército (piloto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_AIRCREW_03_DS">
+			<Chinesesimp>背心 - 陆军（飞行员），SRU-21/P 救生背心</Chinesesimp>
+			<English>Vest - US (Pilot), SRU-21/P survival vest</English>
+			<French>Gilet - armée (pilote), veste de secours SRU-21/P</French>
+			<German>Weste – Army (Pilot), SRU-21/P-Survivalweste</German>
+			<Italian>Gilet di sopravvivenza SRU-21/P per i piloti dello U.S. Army.</Italian>
+			<Original>Vest - Army (Pilot), SRU-21/P survival vest</Original>
+			<Portuguese>Colete: Exército (Piloto), colete de sobrevivência SRU-21/P</Portuguese>
+			<Russian>Жилет — армия (пилот), спасательный жилет SRU-21/P</Russian>
+			<Spanish>Chaleco de supervivencia SRU-21/P Ejército (piloto)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_AIRCREW_05_DN">
+			<Chinesesimp>背心 - 陆军（飞行员/枪套）</Chinesesimp>
+			<English>Vest - US (Pilot/ holster)</English>
+			<French>Gilet - armée (pilote, holster)</French>
+			<German>Weste – Army (Pilot/Holster)</German>
+			<Italian>Gilet U.S. Army (pilota, fondina)</Italian>
+			<Original>Vest - Army (Pilot/ holster)</Original>
+			<Portuguese>Colete: Exército (Piloto/ coldre)</Portuguese>
+			<Russian>Жилет — армия (пилот/кобура)</Russian>
+			<Spanish>Chaleco Ejército (piloto, pistolera)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_AIRCREW_05_DS">
+			<Chinesesimp>背心 - 陆军（飞行员），SRU-21/P 救生背心，配枪套</Chinesesimp>
+			<English>Vest - US (Pilot), SRU-21/P survival vest with holster</English>
+			<French>Gilet - armée (pilote), veste de secours SRU-21/P avec holster</French>
+			<German>Weste – Army (Pilot), SRU-21/P-Survivalweste mit Holster</German>
+			<Italian>Gilet di sopravvivenza SRU-21/P con fondina per i piloti dello U.S. Army.</Italian>
+			<Original>Vest - Army (Pilot), SRU-21/P survival vest with holster</Original>
+			<Portuguese>Colete: Exército (Piloto), colete de sobrevivência SRU-21/P com coldre</Portuguese>
+			<Russian>Жилет — армия (пилот), спасательный жилет SRU-21/P с кобурой</Russian>
+			<Spanish>Chaleco de supervivencia SRU-21/P Ejército (piloto, pistolera)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_01_DN">
+			<Chinesesimp>背心 - 陆军（哨兵）</Chinesesimp>
+			<English>Vest - US (Sentry)</English>
+			<French>Gilet - armée (sentinelle)</French>
+			<German>Weste – Army (Wache)</German>
+			<Italian>Gilet U.S. Army (sentinella)</Italian>
+			<Original>Vest - Army (Sentry)</Original>
+			<Portuguese>Colete: Exército (Sentinela)</Portuguese>
+			<Russian>Жилет — армия (часовой)</Russian>
+			<Spanish>Chaleco Ejército (centinela)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_01_DS">
+			<Chinesesimp>背心 - 陆军（哨兵）</Chinesesimp>
+			<English>Vest - US (Sentry)</English>
+			<French>Gilet - armée (sentinelle)</French>
+			<German>Weste – Army (Wache)</German>
+			<Italian>Gilet U.S. Army (sentinella)</Italian>
+			<Original>Vest - Army (Sentry)</Original>
+			<Portuguese>Colete: Exército (Sentinela)</Portuguese>
+			<Russian>Жилет — армия (часовой)</Russian>
+			<Spanish>Chaleco Ejército (centinela)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_02_DN">
+			<Chinesesimp>背心 - 陆军（步枪兵 01）</Chinesesimp>
+			<English>Vest - US (Rifleman 01)</English>
+			<French>Gilet - armée (fusilier 01)</French>
+			<German>Weste – Army (Schütze 01)</German>
+			<Italian>Gilet U.S. Army (fuciliere 1)</Italian>
+			<Original>Vest - Army (Rifleman 01)</Original>
+			<Portuguese>Colete: Exército (Fuzileiro 01)</Portuguese>
+			<Russian>Жилет — армия (стрелок 01)</Russian>
+			<Spanish>Chaleco Ejército (fusilero 01)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_02_DS">
+			<Chinesesimp>背心 - 陆军（步枪兵 01）</Chinesesimp>
+			<English>Vest - US (Rifleman 01)</English>
+			<French>Gilet - armée (fusilier 01)</French>
+			<German>Weste – Army (Schütze 01)</German>
+			<Italian>Gilet U.S. Army (fuciliere 1)</Italian>
+			<Original>Vest - Army (Rifleman 01)</Original>
+			<Portuguese>Colete: Exército (Fuzileiro 01)</Portuguese>
+			<Russian>Жилет — армия (стрелок 01)</Russian>
+			<Spanish>Chaleco Ejército (fusilero 01)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_03_DN">
+			<Chinesesimp>背心 - 陆军（步枪兵 02）</Chinesesimp>
+			<English>Vest - US (Rifleman 02)</English>
+			<French>Gilet - armée (fusilier 02)</French>
+			<German>Weste – Army (Schütze 02)</German>
+			<Italian>Gilet U.S. Army (fuciliere 2)</Italian>
+			<Original>Vest - Army (Rifleman 02)</Original>
+			<Portuguese>Colete: Exército (Fuzileiro 02)</Portuguese>
+			<Russian>Жилет — армия (стрелок 02)</Russian>
+			<Spanish>Chaleco Ejército (fusilero 02)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_03_DS">
+			<Chinesesimp>背心 - 陆军（步枪兵 02）</Chinesesimp>
+			<English>Vest - US (Rifleman 02)</English>
+			<French>Gilet - armée (fusilier 02)</French>
+			<German>Weste – Army (Schütze 02)</German>
+			<Italian>Gilet U.S. Army (fuciliere 2)</Italian>
+			<Original>Vest - Army (Rifleman 02)</Original>
+			<Portuguese>Colete: Exército (Fuzileiro 02)</Portuguese>
+			<Russian>Жилет — армия (стрелок 02)</Russian>
+			<Spanish>Chaleco Ejército (fusilero 02)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_04_DN">
+			<Chinesesimp>背心 - 陆军（侦察兵）</Chinesesimp>
+			<English>Vest - US (Scout)</English>
+			<French>Gilet - armée (éclaireur)</French>
+			<German>Weste – Army (Aufklärer)</German>
+			<Italian>Gilet U.S. Army (ricognitore)</Italian>
+			<Original>Vest - Army (Scout)</Original>
+			<Portuguese>Colete: Exército (Batedor)</Portuguese>
+			<Russian>Жилет — армия (разведчик)</Russian>
+			<Spanish>Chaleco Ejército (explorador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_04_DS">
+			<Chinesesimp>背心 - 陆军（侦察兵）</Chinesesimp>
+			<English>Vest - US (Scout)</English>
+			<French>Gilet - armée (éclaireur)</French>
+			<German>Weste – Army (Aufklärer)</German>
+			<Italian>Gilet U.S. Army (ricognitore)</Italian>
+			<Original>Vest - Army (Scout)</Original>
+			<Portuguese>Colete: Exército (Batedor)</Portuguese>
+			<Russian>Жилет — армия (разведчик)</Russian>
+			<Spanish>Chaleco Ejército (explorador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_05_DN">
+			<Chinesesimp>背心 - 陆军（掷弹兵）</Chinesesimp>
+			<English>Vest - US (Grenadier)</English>
+			<French>Gilet - armée (grenadier)</French>
+			<German>Weste – Army (Grenadier)</German>
+			<Italian>Gilet U.S. Army (granatiere)</Italian>
+			<Original>Vest - Army (Grenadier)</Original>
+			<Portuguese>Colete: Exército (Granadeiro)</Portuguese>
+			<Russian>Жилет — армия (гранатометчик)</Russian>
+			<Spanish>Chaleco Ejército (granadero)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_05_DS">
+			<Chinesesimp>背心 - 陆军（掷弹兵）</Chinesesimp>
+			<English>Vest - US (Grenadier)</English>
+			<French>Gilet - armée (grenadier)</French>
+			<German>Weste – Army (Grenadier)</German>
+			<Italian>Gilet U.S. Army (granatiere)</Italian>
+			<Original>Vest - Army (Grenadier)</Original>
+			<Portuguese>Colete: Exército (Granadeiro)</Portuguese>
+			<Russian>Жилет — армия (гранатометчик)</Russian>
+			<Spanish>Chaleco Ejército (granadero)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_06_DN">
+			<Chinesesimp>背心 - 陆军（机枪手）</Chinesesimp>
+			<English>Vest - US (MG)</English>
+			<French>Gilet - armée (mitrailleur)</French>
+			<German>Weste – Army (MG-Schütze)</German>
+			<Italian>Gilet U.S. Army (mitragliere)</Italian>
+			<Original>Vest - Army (MG)</Original>
+			<Portuguese>Colete: Exército (Metralhadora)</Portuguese>
+			<Russian>Жилет — армия (пулеметчик)</Russian>
+			<Spanish>Chaleco Ejército (ametrallador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_06_DS">
+			<Chinesesimp>背心 - 陆军（机枪手）</Chinesesimp>
+			<English>Vest - US (MG)</English>
+			<French>Gilet - armée (mitrailleur)</French>
+			<German>Weste – Army (MG-Schütze)</German>
+			<Italian>Gilet U.S. Army (mitragliere)</Italian>
+			<Original>Vest - Army (MG)</Original>
+			<Portuguese>Colete: Exército (Metralhadora)</Portuguese>
+			<Russian>Жилет — армия (пулеметчик)</Russian>
+			<Spanish>Chaleco Ejército (ametrallador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_07_DN">
+			<Chinesesimp>背心 - 陆军（医疗兵）</Chinesesimp>
+			<English>Vest - US (Medic)</English>
+			<French>Gilet - armée (infirmier)</French>
+			<German>Weste – Army (Sanitäter)</German>
+			<Italian>Gilet U.S. Army (soccorritore militare)</Italian>
+			<Original>Vest - Army (Medic)</Original>
+			<Portuguese>Colete: Exército (Médico)</Portuguese>
+			<Russian>Жилет — армия (врач)</Russian>
+			<Spanish>Chaleco Ejército (médico)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_07_DS">
+			<Chinesesimp>背心 - 陆军（医疗兵）</Chinesesimp>
+			<English>Vest - US (Medic)</English>
+			<French>Gilet - armée (infirmier)</French>
+			<German>Weste – Army (Sanitäter)</German>
+			<Italian>Gilet U.S. Army (soccorritore militare)</Italian>
+			<Original>Vest - Army (Medic)</Original>
+			<Portuguese>Colete: Exército (Médico)</Portuguese>
+			<Russian>Жилет — армия (врач)</Russian>
+			<Spanish>Chaleco Ejército (médico)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_08_DN">
+			<Chinesesimp>背心 - 陆军（射手）</Chinesesimp>
+			<English>Vest - US (Marksman)</English>
+			<French>Gilet - armée (tireur d'élite)</French>
+			<German>Weste – Army (Scharfschütze)</German>
+			<Italian>Gilet U.S. Army (tiratore scelto)</Italian>
+			<Original>Vest - Army (Marksman)</Original>
+			<Portuguese>Colete: Exército (Atirador)</Portuguese>
+			<Russian>Жилет — армия (снайпер)</Russian>
+			<Spanish>Chaleco Ejército (tirador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_08_DS">
+			<Chinesesimp>背心 - 陆军（射手）</Chinesesimp>
+			<English>Vest - US (Marksman)</English>
+			<French>Gilet - armée (tireur d'élite)</French>
+			<German>Weste – Army (Scharfschütze)</German>
+			<Italian>Gilet U.S. Army (tiratore scelto)</Italian>
+			<Original>Vest - Army (Marksman)</Original>
+			<Portuguese>Colete: Exército (Atirador)</Portuguese>
+			<Russian>Жилет — армия (снайпер)</Russian>
+			<Spanish>Chaleco Ejército (tirador)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_09_DN">
+			<Chinesesimp>背心 - 陆军（军官）</Chinesesimp>
+			<English>Vest - US (Officer)</English>
+			<French>Gilet - armée (officier)</French>
+			<German>Weste – Army (Offizier)</German>
+			<Italian>Gilet U.S. Army (ufficiale)</Italian>
+			<Original>Vest - Army (Officer)</Original>
+			<Portuguese>Colete: Exército (Oficial)</Portuguese>
+			<Russian>Жилет — армия (офицер)</Russian>
+			<Spanish>Chaleco Ejército (oficial)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_09_DS">
+			<Chinesesimp>背心 - 陆军（军官）</Chinesesimp>
+			<English>Vest - US (Officer)</English>
+			<French>Gilet - armée (officier)</French>
+			<German>Weste – Army (Offizier)</German>
+			<Italian>Gilet U.S. Army (ufficiale)</Italian>
+			<Original>Vest - Army (Officer)</Original>
+			<Portuguese>Colete: Exército (Oficial)</Portuguese>
+			<Russian>Жилет — армия (офицер)</Russian>
+			<Spanish>Chaleco Ejército (oficial)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_10_DN">
+			<Chinesesimp>背心 - 陆军（队员）</Chinesesimp>
+			<English>Vest - US (Crewman)</English>
+			<French>Gilet - armée (tankiste)</French>
+			<German>Weste – Army (Besatzung)</German>
+			<Italian>Gilet U.S. Army (equipaggio)</Italian>
+			<Original>Vest - Army (Crewman)</Original>
+			<Portuguese>Colete: Exército (Tripulante)</Portuguese>
+			<Russian>Жилет — армия (член экипажа)</Russian>
+			<Spanish>Chaleco Ejército (tripul.)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_10_DS">
+			<Chinesesimp>背心 - 陆军（队员）</Chinesesimp>
+			<English>Vest - US (Crewman)</English>
+			<French>Gilet - armée (tankiste)</French>
+			<German>Weste – Army (Besatzung)</German>
+			<Italian>Gilet U.S. Army (equipaggio)</Italian>
+			<Original>Vest - Army (Crewman)</Original>
+			<Portuguese>Colete: Exército (Tripulante)</Portuguese>
+			<Russian>Жилет — армия (член экипажа)</Russian>
+			<Spanish>Chaleco Ejército (tripul.)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_11_DN">
+			<Chinesesimp>背心 - 陆军（队员 M1952A 枪套）</Chinesesimp>
+			<English>Vest - US (Crewman M1952A holster)</English>
+			<French>Gilet - armée (tankiste, M1952A à holster)</French>
+			<German>Weste – Army (Besatzung/M1952A/Holster)</German>
+			<Italian>Gilet U.S. Army (equip., M1952A, fondina)</Italian>
+			<Original>Vest - Army (Crewman M1952A holster)</Original>
+			<Portuguese>Colete: Exército (Trip. M1952A com coldre)</Portuguese>
+			<Russian>Жилет — армия (кобура члена экипажа M1952A)</Russian>
+			<Spanish>Chaleco Ejército (tripul., pistolera M1952A)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_11_DS">
+			<Chinesesimp>背心 - 陆军（队员 M1952A 枪套，防弹衣，弹道防护）</Chinesesimp>
+			<English>Vest - US (Crewman M1952A holster, flak jacket, ballistic protection)</English>
+			<French>Gilet - armée (tankiste, M1952A à holster, gilet pare-éclats, protection balistique)</French>
+			<German>Weste – Army (Besatzung/M1952A/Holster, Splitterschutzweste, ballistischer Schutz)</German>
+			<Italian>Gilet M1952A per i membri dell’equipaggio dello U.S. Army. Paraschegge, con fondina e protezione balistica.</Italian>
+			<Original>Vest - Army (Crewman M1952A holster, flak jacket, ballistic protection)</Original>
+			<Portuguese>Colete: Exército (Trip. M1952A com coldre, colete antiestilhaços, proteção balística)</Portuguese>
+			<Russian>Жилет — армия (кобура члена экипажа M1952A, бронекуртка, противопулевая защита)</Russian>
+			<Spanish>Chaleco Ejército (tripul., pistolera M1952A, antimetralla, protección balística)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_12_DN">
+			<Chinesesimp>背心 - 陆军（队员 M1952A）</Chinesesimp>
+			<English>Vest - US (Crewman M1952A)</English>
+			<French>Gilet - armée (tankiste, M1952A)</French>
+			<German>Weste – Army (Besatzung/M1952A)</German>
+			<Italian>Gilet U.S. Army (equipaggio, M1952A)</Italian>
+			<Original>Vest - Army (Crewman M1952A)</Original>
+			<Portuguese>Colete: Exército (Trip. M1952A)</Portuguese>
+			<Russian>Жилет — армия (член экипажа M1952A)</Russian>
+			<Spanish>Chaleco Ejército (tripul., M1952A)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_12_DS">
+			<Chinesesimp>背心 - 陆军（队员 M1952A 防弹衣，弹道防护）</Chinesesimp>
+			<English>Vest - US (Crewman M1952A flak jacket, ballistic protection)</English>
+			<French>Gilet - armée (tankiste, M1952A, gilet pare-éclats, protection balistique)</French>
+			<German>Weste – Army (Besatzung/M1952A, Splitterschutzweste, ballistischer Schutz)</German>
+			<Italian>Gilet M1952A per i membri dell’equipaggio dello U.S. Army. Paraschegge, con protezione balistica.</Italian>
+			<Original>Vest - Army (Crewman M1952A flak jacket, ballistic protection)</Original>
+			<Portuguese>Colete: Exército (Trip. M1952A, antiestilhaços, proteção balística)</Portuguese>
+			<Russian>Жилет — армия (бронекуртка члена экипажа M1952A, противопулевая защита)</Russian>
+			<Spanish>Chaleco Ejército (tripul., M1952A, antimetralla, protección balística)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_13_DN">
+			<Chinesesimp>背心 - 陆军（队员 M69 枪套）</Chinesesimp>
+			<English>Vest - US (Crewman M69 holster)</English>
+			<French>Gilet - armée (tankiste, M69 à holster)</French>
+			<German>Weste – Army (Besatzung/M69/Holster)</German>
+			<Italian>Gilet U.S. Army (equipaggio, M69, fondina)</Italian>
+			<Original>Vest - Army (Crewman M69 holster)</Original>
+			<Portuguese>Colete: Exército (Trip. M69 com coldre)</Portuguese>
+			<Russian>Жилет — армия (кобура члена экипажа M69)</Russian>
+			<Spanish>Chaleco Ejército (tripul., pistolera M69)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_13_DS">
+			<Chinesesimp>背心 - 陆军（队员 M69 枪套，防弹衣，弹道防护）</Chinesesimp>
+			<English>Vest - US (Crewman M69 holster, flak jacket, ballistic protection)</English>
+			<French>Gilet - armée (tankiste, M69 à holster, gilet pare-éclats, protection balistique)</French>
+			<German>Weste – Army (Besatzung/M69/Holster, Splitterschutzweste, ballistischer Schutz)</German>
+			<Italian>Gilet M69 per i membri dell’equipaggio dello U.S. Army. Paraschegge, con fondina e protezione balistica.</Italian>
+			<Original>Vest - Army (Crewman M69 holster, flak jacket, ballistic protection)</Original>
+			<Portuguese>Colete: Exército (Trip. M69 com coldre, antiestilhaços, proteção balística)</Portuguese>
+			<Russian>Жилет — армия (кобура члена экипажа M69, бронекуртка, противопулевая защита)</Russian>
+			<Spanish>Chaleco Ejército (tripul., pistolera M69, antimetralla, protección balística)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_14_DN">
+			<Chinesesimp>背心 - 陆军（队员 M69）</Chinesesimp>
+			<English>Vest - US (Crewman M69)</English>
+			<French>Gilet - armée (tankiste, M69)</French>
+			<German>Weste – Army (Besatzung/M69)</German>
+			<Italian>Gilet U.S. Army (equipaggio, M69)</Italian>
+			<Original>Vest - Army (Crewman M69)</Original>
+			<Portuguese>Colete: Exército (Trip. M69)</Portuguese>
+			<Russian>Жилет — армия (член экипажа M69)</Russian>
+			<Spanish>Chaleco Ejército (tripul., M69)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_VEST_USARMY_14_DS">
+			<Chinesesimp>背心 - 陆军（队员 M69，防弹衣，弹道防护）</Chinesesimp>
+			<English>Vest - US (Crewman M69, flak jacket, ballistic protection)</English>
+			<French>Gilet - armée (tankiste, M69, gilet pare-éclats, protection balistique)</French>
+			<German>Weste – Army (Besatzung/M69, Splitterschutzweste, ballistischer Schutz)</German>
+			<Italian>Gilet M69 per i membri dell’equipaggio dello U.S. Army. Paraschegge, con protezione balistica.</Italian>
+			<Original>Vest - Army (Crewman M69, flak jacket, ballistic protection)</Original>
+			<Portuguese>Colete: Exército (Trip. M69, antiestilhaços, proteção balística)</Portuguese>
+			<Russian>Жилет — армия (член экипажа M69, бронекуртка, противопулевая защита)</Russian>
+			<Spanish>Chaleco Ejército (tripul., M69, antimetralla, protección balística)</Spanish>
+		</Key>
+    </Package>
+</Project>

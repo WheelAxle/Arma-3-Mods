@@ -1,0 +1,949 @@
+<?xml version="1.0" ?>
+<Project name="language_f_vietnam_sog_tweaks">
+	<Package name="Factions">
+		<Key ID="STR_VN_B_AUS_Default_DN">
+			<English>Australia (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_B_ADF_DN">
+			<English>AUS Forces (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ADF_1966_DN">
+			<English>AUS Forces 1966 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ADF_1968_DN">
+			<English>AUS Forces 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ADF_1970_DN">
+			<English>AUS Forces 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_SASR_DN">
+			<English>AUS Special Air Service Regiment (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZ_Default_DN">
+			<English>New Zealand (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZDF_DN">
+			<English>NZ Forces (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZDF_1966_DN">
+			<English>NZ Forces 1966 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZDF_1968_DN">
+			<English>NZ Forces 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZDF_1970_DN">
+			<English>NZ Forces 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_NZSAS_DN">
+			<English>NZ Special Air Service (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROK_Default_DN">
+			<English>ROK (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROK_DN">
+			<English>ROK (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKA_DN">
+			<English>ROK Army (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKA_1965_DN">
+			<English>ROK Army 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKA_1968_DN">
+			<English>ROK Army 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKM_DN">
+			<English>ROK Marines (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKM_1965_DN">
+			<English>ROK Marines 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_ROKM_1968_DN">
+			<English>ROK Marines 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_KOTA_DN">
+			<English>KOT Army (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_RTA_DN">
+			<English>Royal Thai Army (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_RTM_DN">
+			<English>Royal Thai Marines (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_AF_DN">
+			<English>US Air Force (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_ARMY_DN">
+			<English>US Army (VN)</English>
+		</Key>
+        <Key ID="STR_VN_B_US_ARMY_1965_DN">
+			<English>US ARMY 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_ARMY_1968_DN">
+			<English>US ARMY 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_ARMY_1970_DN">
+			<English>US ARMY 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_USMC_DN">
+			<English>US Marine Corps (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_USMC_1966_DN">
+			<English>US Marine Corps 1966 (VN)</English>
+		</Key>
+        <Key ID="STR_VN_B_USMC_1968_DN">
+			<English>US Marine Corps 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_USMC_1970_DN">
+			<English>US Marine Corps 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_CIA_DN">
+			<English>US CIA (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_MACV_DN">
+			<English>US MACV SOG (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_SF_DN">
+			<English>US Mike Force (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_MEDT_DN">
+			<English>US MEDT (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_Navy_DN">
+			<English>US Navy (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_Navy_Seals_DN">
+			<English>US Navy Seals (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_Forces_DN">
+			<English>US Forces (VN)</English>
+		</Key>
+		<Key ID="STR_VN_B_US_Default_DN">
+			<English>US (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_O_KR_Default_DN">
+			<English>Khmer Rouge (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_O_KR_DN">
+			<English>Khmer Rouge (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_KR_1970_DN">
+			<English>Khmer Rouge 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_KR_1975_DN">
+			<English>Khmer Rouge 1975 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PL_DN">
+			<English>Pathet Lao (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_Default_DN">
+			<English>PAVN (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_DN">
+			<English>PAVN (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_1965_DN">
+			<English>PAVN 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_1968_DN">
+			<English>PAVN 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_1975_DN">
+			<English>PAVN 1975 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_PAVN_DC_DN">
+			<English>PAVN Dac Cong (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_Default_DN">
+			<English>Viet Cong (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_DN">
+			<English>Viet Cong (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_LF_DN">
+			<English>Viet Cong Local Force (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_RF_DN">
+			<English>Viet Cong Regional Force (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_MF_DN">
+			<English>Viet Cong Main Force (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VC_MF_1965_DN">
+			<English>Viet Cong Main Force 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VPAF_DN">
+			<English>VPAF (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VPN_DN">
+			<English>VPN (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_VPN_M_DN">
+			<English>VPN Marines (VN)</English>
+		</Key>
+		<Key ID="STR_VN_O_USSR_Adv_DN">
+			<English>USSR Advisors (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_Default_DN">
+			<English>ARVN (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_DN">
+			<English>ARVN (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_1965_DN">
+			<English>ARVN 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_1968_DN">
+			<English>ARVN 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_1975_DN">
+			<English>ARVN 1975 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_ARVN_LLDB_DN">
+			<English>ARVN LLDB (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_TQLC_DN">
+			<English>ARVN Marines (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_TQLC_1965_DN">
+			<English>ARVN Marines 1965 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_TQLC_1968_DN">
+			<English>ARVN Marines 1968 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_TQLC_1975_DN">
+			<English>ARVN Marines 1975 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_FANK_Default_DN">
+			<English>FANK (SOG)</English>
+		</Key>
+		<Key ID="STR_VN_I_FANK_DN">
+			<English>FANK (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_FANK_1970_DN">
+			<English>FANK 1970 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_FANK_1971_DN">
+			<English>FANK 1971 (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_RLA_DN">
+			<English>Royal Lao Army (VN)</English>
+		</Key>
+		<Key ID="STR_VN_I_PRC_Adv_DN">
+			<English>PRC Advisors (VN)</English>
+		</Key>
+		<Key ID="STR_VN_C_VIET_DN">
+			<English>Vietnamese (VN)</English>
+		</Key>
+		<Key ID="STR_VN_C_CAM_DN">
+			<English>Cambodians (VN)</English>
+		</Key>
+		<Key ID="STR_VN_C_LAO_DN">
+			<English>Laotians (VN)</English>
+		</Key>
+    </Package>
+	<Package name="Subcategories">
+		<Key ID="STR_VN_B_ART_ADF_66_DN">
+			<English>Artillery (Army 66)</English>
+		</Key>
+		<Key ID="STR_VN_B_APC_ADF_66_DN">
+			<English>APCs (Army 66)</English>
+		</Key>
+		<Key ID="STR_VN_B_BOAT_ADF_66_DN">
+			<English>Boats (RAN 66)</English>
+		</Key>
+		<Key ID="STR_VN_B_CAR_ADF_66_DN">
+			<English>Cars (Army 66)</English>
+		</Key>
+		<Key ID="STR_VN_B_HELI_ADF_66_DN">
+			<English>Helicopters (RAAF 66)</English>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Helicopters_AirCav_DN">
+			<Original>Helicopters (Air Cav)</Original>
+			<Chinese>直升機 (空中騎兵)</Chinese>
+			<French>Hélicoptères (division aérienne)</French>
+			<Spanish>Helicópteros (Caballería Aerotran.)</Spanish>
+			<Italian>Elicotteri (Cavalleria aerea)</Italian>
+			<Polish>Śmigłowce (Kawaleria powietrzna)</Polish>
+			<Russian>Вертолеты (аэромобильные войска)</Russian>
+			<German>Helikopter (Air Cav)</German>
+			<Czech>Vrtulníky (Air Cav)</Czech>
+			<English>Helicopters (Air Cav)</English>
+			<Portuguese>Helicópteros (Cav. Aérea)</Portuguese>
+			<Korean>헬리콥터 (공기 기병)</Korean>
+			<Chinesesimp>直升机 (空中骑兵)</Chinesesimp>
+			<Japanese>ヘリコプター (航空騎兵)</Japanese>
+			<Turkish>Helikopterler (Hava Süvari)</Turkish>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Helicopters_RVNAF_DN">
+			<Original>Helicopters (RVNAF)</Original>
+			<Chinese>直升機 (RVNAF)</Chinese>
+			<French>Hélicoptères (RVNAF)</French>
+			<Spanish>Helicópteros (RVNAF)</Spanish>
+			<Italian>Elicotteri (RVNAF)</Italian>
+			<Polish>Śmigłowce (RVNAF)</Polish>
+			<Russian>Вертолеты (RVNAF)</Russian>
+			<German>Helikopter (RVNAF)</German>
+			<Czech>Vrtulníky (RVNAF)</Czech>
+			<English>Helicopters (RVNAF)</English>
+			<Portuguese>Helicópteros (RVNAF)</Portuguese>
+			<Korean>헬리콥터 (RVNAF)</Korean>
+			<Chinesesimp>直升机 (RVNAF)</Chinesesimp>
+			<Japanese>ヘリコプター (RVNAF)</Japanese>
+			<Turkish>Helikopterler (RVNAF)</Turkish>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_AirCav_DN">
+            <Original>Men (Air Cav)</Original>
+            <Chinese>人員（空中騎兵）</Chinese>
+            <French>Hommes (division aérienne)</French>
+            <Spanish>Hombres (Caballería Aerotran.)</Spanish>
+            <Italian>Uomini (Cavalleria aerea)</Italian>
+            <Polish>Ludzie (Kawaleria powietrzna)</Polish>
+            <Russian>Люди (аэромобильные войска)</Russian>
+            <German>Männer (Air Cav)</German>
+            <Czech>Muži (Air Cav)</Czech>
+            <English>Men (Air Cav)</English>
+            <Portuguese>Homens (Cav. Aérea)</Portuguese>
+            <Korean>사람(공기 기병)</Korean>
+            <Chinesesimp>男人（空中骑兵）</Chinesesimp>
+            <Japanese>男性（航空騎兵）</Japanese>
+            <Turkish>Adamlar (Hava Süvari)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_AirCav_195th_DN">
+            <Original>Men (195th AHC 65)</Original>
+            <Chinese>人員（195th AHC 65）</Chinese>
+            <French>Hommes (195th AHC 65)</French>
+            <Spanish>Hombres (195th AHC 65)</Spanish>
+            <Italian>Uomini (195th AHC 65)</Italian>
+            <Polish>Ludzie (195th AHC 65)</Polish>
+            <Russian>Люди (195th AHC 65)</Russian>
+            <German>Männer (195th AHC 65)</German>
+            <Czech>Muži (195th AHC 65)</Czech>
+            <English>Men (195th AHC 65)</English>
+            <Portuguese>Homens (195th AHC 65)</Portuguese>
+            <Korean>사람(195th AHC 65)</Korean>
+            <Chinesesimp>男人（195th AHC 65）</Chinesesimp>
+            <Japanese>男性（195th AHC 65）</Japanese>
+            <Turkish>Adamlar (195th AHC 65)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Aircrew_DN">
+            <Original>Men (Aircrew)</Original>
+            <Chinese>人員（機組人員）</Chinese>
+            <French>Hommes (équipage aérien)</French>
+            <Spanish>Hombres (tripulación aérea)</Spanish>
+            <Italian>Uomini (equipaggio aereo)</Italian>
+            <Polish>Ludzie (Załoga lotnicza)</Polish>
+            <Russian>Люди (экипаж воздушного судна)</Russian>
+            <German>Männer (Flugbesatzung)</German>
+            <Czech>Muži (Posádka letadla)</Czech>
+            <English>Men (Aircrew)</English>
+            <Portuguese>Homens (Tripulação aérea)</Portuguese>
+            <Korean>사람(항공 승무원)</Korean>
+            <Chinesesimp>男人（空勤人员）</Chinesesimp>
+            <Japanese>男性（航空乗務員）</Japanese>
+            <Turkish>Adamlar (Hava ekibi)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_ForceRecon_DN">
+            <Original>Men (Force Recon)</Original>
+            <Chinese>人員（部隊偵察）</Chinese>
+            <French>Hommes (Force de reconnaissance)</French>
+            <Spanish>Hombres (Reconocimiento de la Fuerza)</Spanish>
+            <Italian>Uomini (Ricognizione forzata)</Italian>
+            <Polish>Ludzie (Zwiad sił)</Polish>
+            <Russian>Люди (Разведка Силы)</Russian>
+            <German>Männer (Force Recon)</German>
+            <Czech>Muži (Force Recon)</Czech>
+            <English>Men (Force Recon)</English>
+            <Portuguese>Homens (Força Recon)</Portuguese>
+            <Korean>사람(포스 리콘)</Korean>
+            <Chinesesimp>男人（部队侦察）</Chinesesimp>
+            <Japanese>男性（フォース・リコン）</Japanese>
+            <Turkish>Adamlar (Kuvvet Keşfi)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_SEAL_DN">
+			<Original>Men (SEAL Team)</Original>
+			<French>Hommes (équipe SEAL)</French>
+			<Spanish>Hombres (Equipo SEAL)</Spanish>
+			<Italian>Uomini (SEAL)</Italian>
+			<Russian>Люди (группа SEAL)</Russian>
+			<German>Charaktere (SEAL-Team)</German>
+			<English>Men (SEAL Team)</English>
+			<Portuguese>Homens (Equipe de SEALs)</Portuguese>
+			<Chinesesimp>男性（美国海军海豹突击队）</Chinesesimp>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_SEAL_DB_DN">
+			<Original>Men (SEAL Det Bravo)</Original>
+			<French>Hommes (SEAL Dét. Bravo)</French>
+			<Spanish>Hombres (SEAL-Waffenkiste, Dest. Bravo)</Spanish>
+			<Italian>Uomini (SEAL dist. Bravo)</Italian>
+			<Russian>Люди (спецотряд SEAL «Браво»)</Russian>
+			<German>Charaktere (SEAL Abt. Bravo)</German>
+			<English>Men (SEAL Det Bravo)</English>
+			<Portuguese>Homens (Dst Bravo, SEALs)</Portuguese>
+			<Chinesesimp>男性（美国海军海豹突击队 Bravo 分遣队）</Chinesesimp>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_SEAL_UDT_DN">
+			<Original>Men (SEAL UDT)</Original>
+			<French>Hommes (SEAL UDT)</French>
+			<Spanish>Hombres (UDT SEAL)</Spanish>
+			<Italian>Uomini (UDT SEAL)</Italian>
+			<Russian>Люди (UDT SEAL)</Russian>
+			<German>Charaktere (SEAL UDT)</German>
+			<English>Men (SEAL UDT)</English>
+			<Portuguese>Homens (UDT de SEALs)</Portuguese>
+			<Chinesesimp>男性（美国海军海豹突击队水下爆破队）</Chinesesimp>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_SEAL_NAD_DN">
+			<Original>Men (MACV-SOG NAD)</Original>
+			<French>Hommes (MACV-SOG NAD)</French>
+			<Spanish>Hombres (Dest. Ases. Naval MACV-SOG)</Spanish>
+			<Italian>Uomini (NAD MACV-SOG)</Italian>
+			<Russian>Люди (консультативная группа MACV-SOG)</Russian>
+			<German>Charaktere (MACV-SOG NAD)</German>
+			<English>Men (MACV-SOG NAD)</English>
+			<Portuguese>Homens (MACV-SOG NAD)</Portuguese>
+			<Chinesesimp>男性（MACV-SOG 海军顾问分遣队）</Chinesesimp>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Ranger_DN">
+			<Chinesesimp>男性（南越陆军别动军）</Chinesesimp>
+			<English>Men (Rangers)</English>
+			<French>Hommes (Rangers)</French>
+			<German>Charaktere (Rangers)</German>
+			<Italian>Uomini (Ranger)</Italian>
+			<Original>Men (Rangers)</Original>
+			<Portuguese>Homens (Rangers)</Portuguese>
+			<Russian>Люди (рейнджеры)</Russian>
+			<Spanish>Hombres (exploradores)</Spanish>
+		</Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Embassy_DN">
+            <Original>Men (Embassy)</Original>
+            <Chinese>人員（大使館）</Chinese>
+            <French>Hommes (Ambassade)</French>
+            <Spanish>Hombres (Embajada)</Spanish>
+            <Italian>Uomini (Ambasciata)</Italian>
+            <Polish>Ludzie (Ambasada)</Polish>
+            <Russian>Люди (Посольство)</Russian>
+            <German>Männer (Botschaft)</German>
+            <Czech>Muži (Velvyslanectví)</Czech>
+            <English>Men (Embassy)</English>
+            <Portuguese>Homens (Embaixada)</Portuguese>
+            <Korean>사람(대사관)</Korean>
+            <Chinesesimp>男人（大使馆）</Chinesesimp>
+            <Japanese>男性（大使館）</Japanese>
+            <Turkish>Adamlar (Elçilik)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Field_DN">
+            <Original>Men (Field)</Original>
+            <Chinese>人員（田）</Chinese>
+            <French>Hommes (Champ)</French>
+            <Spanish>Hombres (Campo)</Spanish>
+            <Italian>Uomini (Campo)</Italian>
+            <Polish>Ludzie (Pole)</Polish>
+            <Russian>Люди (Поле)</Russian>
+            <German>Männer (Feld)</German>
+            <Czech>Muži (Pole)</Czech>
+            <English>Men (Field)</English>
+            <Portuguese>Homens (Domínio)</Portuguese>
+            <Korean>사람(밭)</Korean>
+            <Chinesesimp>男人（田）</Chinesesimp>
+            <Japanese>男性（畑）</Japanese>
+            <Turkish>Adamlar (Alan)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Planes_RVNAF_DN">
+			<Original>Planes (RVNAF)</Original>
+			<Chinese>飛機 (RVNAF)</Chinese>
+			<French>Avions (RVNAF)</French>
+			<Spanish>Aviones (RVNAF)</Spanish>
+			<Italian>Aeroplani (RVNAF)</Italian>
+			<Polish>Samoloty (RVNAF)</Polish>
+			<Russian>Самолеты (RVNAF)</Russian>
+			<German>Flugzeuge (RVNAF)</German>
+			<Czech>Letadla (RVNAF)</Czech>
+			<English>Planes (RVNAF)</English>
+			<Portuguese>Aviões (RVNAF)</Portuguese>
+			<Korean>항공기 (RVNAF)</Korean>
+			<Chinesesimp>飞机 (RVNAF)</Chinesesimp>
+			<Japanese>飛行機 (RVNAF)</Japanese>
+			<Turkish>Uçaklar (RVNAF)</Turkish>
+        </Key>
+	</Package>
+	<Package name="Units">
+		<Key ID="STR_VN_B_MEN_AIRCREW_20SOS_DN">
+			<Chinesesimp>飞行员 (20th SOS)</Chinesesimp>
+			<English>Pilot (20th SOS)</English>
+			<French>Pilote (20th SOS)</French>
+			<German>Pilot (20th SOS)</German>
+			<Italian>Pilota (20th SOS)</Italian>
+			<Original>Pilot (20th SOS)</Original>
+			<Portuguese>Piloto (20th SOS)</Portuguese>
+			<Russian>Пилот (20th SOS)</Russian>
+			<Spanish>Piloto (20th SOS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_20SOS_DN">
+			<Chinesesimp>副驾 (20th SOS)</Chinesesimp>
+			<English>Copilot (20th SOS)</English>
+			<French>Copilote (20th SOS)</French>
+			<German>Copilot (20th SOS)</German>
+			<Italian>Copilota (20th SOS)</Italian>
+			<Original>Copilot (20th SOS)</Original>
+			<Portuguese>Copiloto (20th SOS)</Portuguese>
+			<Russian>2-й пилот (20th SOS)</Russian>
+			<Spanish>Copiloto (20th SOS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_05_DN">
+			<Chinesesimp>飞行员 (空中骑兵)</Chinesesimp>
+			<English>Pilot (Air Cav)</English>
+			<French>Pilote (division aérienne)</French>
+			<German>Pilot (Air Cav)</German>
+			<Italian>Pilota (Cavalleria aerea)</Italian>
+			<Original>Pilot (Air Cav)</Original>
+			<Portuguese>Piloto (Cav. Aérea)</Portuguese>
+			<Russian>Пилот (аэромобильные войска)</Russian>
+			<Spanish>Piloto (Caballería Aerotran.)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_06_DN">
+			<Chinesesimp>副驾 (空中骑兵)</Chinesesimp>
+			<English>Copilot (Air Cav)</English>
+			<French>Copilote (division aérienne)</French>
+			<German>Copilot (Air Cav)</German>
+			<Italian>Copilota (Cavalleria aerea)</Italian>
+			<Original>Copilot (Air Cav)</Original>
+			<Portuguese>Copiloto (Cav. Aérea)</Portuguese>
+			<Russian>2-й пилот (аэромобильные войска)</Russian>
+			<Spanish>Copiloto (Caballería Aerotran.)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_07_DN">
+			<Chinesesimp>队长 (Air Cav)</Chinesesimp>
+			<English>Crew chief (Air Cav)</English>
+			<French>Chef d'équipage (Air Cav)</French>
+			<German>Stabschef (Air Cav)</German>
+			<Italian>Capo equipaggio (Air Cav)</Italian>
+			<Original>Crew chief (Air Cav)</Original>
+			<Portuguese>Comandante de tripulação (Air Cav)</Portuguese>
+			<Russian>Командир экипажа (Air Cav)</Russian>
+			<Spanish>Jefe de tripulantes (Air Cav)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_08_DN">
+			<Chinesesimp>舱门射手 (Air Cav)</Chinesesimp>
+			<English>Door gunner (Air Cav)</English>
+			<French>Artilleur latéral (Air Cav)</French>
+			<German>Türschütze (Air Cav)</German>
+			<Italian>Mitragliere di bordo (Air Cav)</Italian>
+			<Original>Door gunner (Air Cav)</Original>
+			<Portuguese>Artilheiro de porta (Air Cav)</Portuguese>
+			<Russian>Стрелок (Air Cav)</Russian>
+			<Spanish>Artillero de puerta (Air Cav)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_17_DN">
+			<Chinesesimp>飞行员 (195th AHC)</Chinesesimp>
+			<English>Pilot (195th AHC)</English>
+			<French>Pilote (195th AHC)</French>
+			<German>Pilot (195th AHC)</German>
+			<Italian>Pilota (195th AHC)</Italian>
+			<Original>Pilot (195th AHC)</Original>
+			<Portuguese>Piloto (195th AHC)</Portuguese>
+			<Russian>Пилот (195th AHC)</Russian>
+			<Spanish>Piloto (195th AHC)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_18_DN">
+			<Chinesesimp>副驾 (195th AHC)</Chinesesimp>
+			<English>Copilot (195th AHC)</English>
+			<French>Copilote (195th AHC)</French>
+			<German>Copilot (195th AHC)</German>
+			<Italian>Copilota (195th AHC)</Italian>
+			<Original>Copilot (195th AHC)</Original>
+			<Portuguese>Copiloto (195th AHC)</Portuguese>
+			<Russian>2-й пилот (195th AHC)</Russian>
+			<Spanish>Copiloto (195th AHC)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_19_DN">
+			<Chinesesimp>队长 (195th AHC)</Chinesesimp>
+			<English>Crew chief (195th AHC)</English>
+			<French>Chef d'équipage (195th AHC)</French>
+			<German>Stabschef (195th AHC)</German>
+			<Italian>Capo equipaggio (195th AHC)</Italian>
+			<Original>Crew chief (195th AHC)</Original>
+			<Portuguese>Comandante de tripulação (195th AHC)</Portuguese>
+			<Russian>Командир экипажа (195th AHC)</Russian>
+			<Spanish>Jefe de tripulantes (195th AHC)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_20_DN">
+			<Chinesesimp>舱门射手 (195th AHC)</Chinesesimp>
+			<English>Door gunner (195th AHC)</English>
+			<French>Artilleur latéral (195th AHC)</French>
+			<German>Türschütze (195th AHC)</German>
+			<Italian>Mitragliere di bordo (195th AHC)</Italian>
+			<Original>Door gunner (195th AHC)</Original>
+			<Portuguese>Artilheiro de porta (195th AHC)</Portuguese>
+			<Russian>Стрелок (195th AHC)</Russian>
+			<Spanish>Artillero de puerta (195th AHC)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_45_DN">
+			<Chinesesimp>飞行员</Chinesesimp>
+			<English>Pilot</English>
+			<French>Pilote</French>
+			<German>Pilot</German>
+			<Italian>Pilota</Italian>
+			<Original>Pilot</Original>
+			<Portuguese>Piloto</Portuguese>
+			<Russian>Пилот</Russian>
+			<Spanish>Piloto</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_46_DN">
+			<Chinesesimp>副驾</Chinesesimp>
+			<English>Copilot</English>
+			<French>Copilote</French>
+			<German>Copilot</German>
+			<Italian>Copilota</Italian>
+			<Original>Copilot</Original>
+			<Portuguese>Copiloto</Portuguese>
+			<Russian>2-й пилот</Russian>
+			<Spanish>Copiloto</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_47_DN">
+			<Chinesesimp>队长</Chinesesimp>
+			<English>Crew chief</English>
+			<French>Chef d'équipage</French>
+			<German>Stabschef</German>
+			<Italian>Capo equipaggio</Italian>
+			<Original>Crew chief</Original>
+			<Portuguese>Comandante de tripulação</Portuguese>
+			<Russian>Командир экипажа</Russian>
+			<Spanish>Jefe de tripulantes</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_AIRCREW_48_DN">
+			<Chinesesimp>舱门射手</Chinesesimp>
+			<English>Door gunner</English>
+			<French>Artilleur latéral</French>
+			<German>Türschütze</German>
+			<Italian>Mitragliere di bordo</Italian>
+			<Original>Door gunner</Original>
+			<Portuguese>Artilheiro de porta</Portuguese>
+			<Russian>Стрелок</Russian>
+			<Spanish>Artillero de puerta</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_01_DN">
+			<Chinesesimp>喷气飞行员（Wolfpack）</Chinesesimp>
+			<English>Jet Pilot (Wolfpack)</English>
+			<French>Pilote de jet (Wolfpack)</French>
+			<German>Düsenpilot (Wolfpack)</German>
+			<Italian>Pilota di jet (Wolfpack)</Italian>
+			<Original>Jet Pilot (Wolfpack)</Original>
+			<Portuguese>Piloto de jato (Wolfpack)</Portuguese>
+			<Russian>Пилот реактивного самолета (Вулфпэк)</Russian>
+			<Spanish>Piloto de avión (Wolfpack)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_02_DN">
+			<Chinesesimp>喷气机副驾驶（Wolfpack）</Chinesesimp>
+			<English>Jet Copilot (Wolfpack)</English>
+			<French>Jet Copilote (Wolfpack)</French>
+			<German>Jet-Copilot (Wolfpack)</German>
+			<Italian>Copilota (Wolfpack)</Italian>
+			<Original>Jet Copilot (Wolfpack)</Original>
+			<Portuguese>Copiloto de jato (Wolfpack)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (Вулфпэк)</Russian>
+			<Spanish>Copiloto de avión (Wolfpack)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_09_DN">
+			<Chinesesimp>喷气飞行员（Hobo）</Chinesesimp>
+			<English>Jet Pilot (Hobo)</English>
+			<French>Pilote de jet (Hobo)</French>
+			<German>Düsenpilot (Hobo)</German>
+			<Italian>Pilota di jet (Hobo)</Italian>
+			<Original>Jet Pilot (Hobo)</Original>
+			<Portuguese>Piloto de jato (Hobo)</Portuguese>
+			<Russian>Пилот реактивного самолета (Хобо)</Russian>
+			<Spanish>Piloto de avión (Hobo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_10_DN">
+			<Chinesesimp>喷气机副驾驶（Hobo）</Chinesesimp>
+			<English>Jet Copilot (Hobo)</English>
+			<French>Jet Copilote (Hobo)</French>
+			<German>Jet-Copilot (Hobo)</German>
+			<Italian>Copilota (Hobo)</Italian>
+			<Original>Jet Copilot (Hobo)</Original>
+			<Portuguese>Copiloto de jato (Hobo)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (Хобо)</Russian>
+			<Spanish>Copiloto de avión (Hobo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_07_DN">
+			<Chinesesimp>喷气飞行员（VM121）</Chinesesimp>
+			<English>Jet Pilot (VM121)</English>
+			<French>Pilote de jet (VM121)</French>
+			<German>Düsenpilot (VM121)</German>
+			<Italian>Pilota di jet (VM121)</Italian>
+			<Original>Jet Pilot (VM121)</Original>
+			<Portuguese>Piloto de jato (VM121)</Portuguese>
+			<Russian>Пилот реактивного самолета (VM121)</Russian>
+			<Spanish>Piloto de avión (VM121)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_08_DN">
+			<Chinesesimp>喷气机副驾驶（VM121）</Chinesesimp>
+			<English>Jet Copilot (VM121)</English>
+			<French>Jet Copilote (VM121)</French>
+			<German>Jet-Copilot (VM121)</German>
+			<Italian>Copilota (VM121)</Italian>
+			<Original>Jet Copilot (VM121)</Original>
+			<Portuguese>Copiloto de jato (VM121)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (VM121)</Russian>
+			<Spanish>Copiloto de avión (VM121)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_03_DN">
+			<Chinesesimp>喷气飞行员（Sundowners）</Chinesesimp>
+			<English>Jet Pilot (Sundowners)</English>
+			<French>Pilote de jet (Sundowners)</French>
+			<German>Düsenpilot (Sundowners)</German>
+			<Italian>Pilota di jet (Sundowners)</Italian>
+			<Original>Jet Pilot (Sundowners)</Original>
+			<Portuguese>Piloto de jato (Sundowners)</Portuguese>
+			<Russian>Пилот реактивного самолета (Сандаунерс)</Russian>
+			<Spanish>Piloto de avión (Sundowners)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_04_DN">
+			<Chinesesimp>喷气机副驾驶（Sundowners）</Chinesesimp>
+			<English>Jet Copilot (Sundowners)</English>
+			<French>Jet Copilote (Sundowners)</French>
+			<German>Jet-Copilot (Sundowners)</German>
+			<Italian>Copilota (Sundowners)</Italian>
+			<Original>Jet Copilot (Sundowners)</Original>
+			<Portuguese>Copiloto de jato (Sundowners)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (Сандаунерс)</Russian>
+			<Spanish>Copiloto de avión (Sundowners)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_05_DN">
+			<Chinesesimp>喷气飞行员（VA196）</Chinesesimp>
+			<English>Jet Pilot (VA196)</English>
+			<French>Pilote de jet (VA196)</French>
+			<German>Düsenpilot (VA196)</German>
+			<Italian>Pilota di jet (VA196)</Italian>
+			<Original>Jet Pilot (VA196)</Original>
+			<Portuguese>Piloto de jato (VA196)</Portuguese>
+			<Russian>Пилот реактивного самолета (ВА196)</Russian>
+			<Spanish>Piloto de avión (VA196)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_06_DN">
+			<Chinesesimp>喷气机副驾驶（VA196）</Chinesesimp>
+			<English>Jet Copilot (VA196)</English>
+			<French>Jet Copilote (VA196)</French>
+			<German>Jet-Copilot (VA196)</German>
+			<Italian>Copilota (VA196)</Italian>
+			<Original>Jet Copilot (VA196)</Original>
+			<Portuguese>Copiloto de jato (VA196)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (ВА196)</Russian>
+			<Spanish>Copiloto de avión (VA196)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_11_DN">
+			<Chinesesimp>喷气飞行员（虎纹）</Chinesesimp>
+			<English>Jet Pilot (Tiger)</English>
+			<French>Pilote de jet (tigré)</French>
+			<German>Düsenpilot (Tiger)</German>
+			<Italian>Pilota di jet (tigrato)</Italian>
+			<Original>Jet Pilot (Tiger)</Original>
+			<Portuguese>Piloto de jato (Tigre)</Portuguese>
+			<Russian>Пилот реактивного самолета (тайгерстрайп)</Russian>
+			<Spanish>Piloto de avión (tigre)</Spanish>
+		</Key>
+		<Key ID="STR_VN_B_MEN_JETPILOT_12_DN">
+			<Chinesesimp>喷气机副驾驶（卡其色）</Chinesesimp>
+			<English>Jet Copilot (Khaki)</English>
+			<French>Jet Copilote (kaki)</French>
+			<German>Jet-Copilot (Khaki)</German>
+			<Italian>Copilota (cachi)</Italian>
+			<Original>Jet Copilot (Khaki)</Original>
+			<Portuguese>Copiloto de jato (Cáqui)</Portuguese>
+			<Russian>2-й пилот реактивного самолета (хаки)</Russian>
+			<Spanish>Copiloto de avión (caqui)</Spanish>
+		</Key>
+	</Package>
+	<Package name="Groups">
+		<Key ID="STR_VN_GROUP_AIR">
+			<Chinesesimp>空军</Chinesesimp>
+			<English>Air</English>
+			<French>Aérien</French>
+			<German>Luftwaffe</German>
+			<Italian>Aerei</Italian>
+			<Original>Air</Original>
+			<Portuguese>Aérea</Portuguese>
+			<Russian>Авиация</Russian>
+			<Spanish>Fuerza Aérea</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_ARMOR">
+			<Chinesesimp>装甲</Chinesesimp>
+			<English>Armor</English>
+			<French>Blindé</French>
+			<German>Panzer</German>
+			<Italian>Corazzato</Italian>
+			<Original>Armor</Original>
+			<Portuguese>Blindado</Portuguese>
+			<Russian>Бронированный отряд</Russian>
+			<Spanish>Blindados</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_BOAT">
+			<Chinesesimp>船只</Chinesesimp>
+			<English>Ship</English>
+			<French>Naval</French>
+			<German>Marine</German>
+			<Italian>Navale</Italian>
+			<Original>Ship</Original>
+			<Portuguese>Naval</Portuguese>
+			<Russian>Морские силы</Russian>
+			<Spanish>Embarcaciones</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN">
+			<Chinesesimp>男性</Chinesesimp>
+			<English>Men</English>
+			<French>Hommes</French>
+			<German>Charaktere</German>
+			<Italian>Uomini</Italian>
+			<Original>Men</Original>
+			<Portuguese>Homens</Portuguese>
+			<Russian>Люди</Russian>
+			<Spanish>Hombres</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_AIRCREW">
+			<Chinesesimp>男性（空勤人员)</Chinesesimp>
+			<English>Men (Aircrew)</English>
+			<French>Hommes (équipage aérien)</French>
+			<German>Charaktere (Flugbesatzung)</German>
+			<Italian>Uomini (equipaggio aereo)</Italian>
+			<Original>Men (Aircrew)</Original>
+			<Portuguese>Homens (Tripulação aérea)</Portuguese>
+			<Russian>Люди (экипаж воздушного судна)</Russian>
+			<Spanish>Hombres (tripulación aérea)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_FIELD">
+			<Chinesesimp>男性（军野战）</Chinesesimp>
+			<English>Men (Field)</English>
+			<French>Hommes (terrain)</French>
+			<German>Charaktere (Felduniform)</German>
+			<Italian>Uomini (uniforme inzaccherate)</Italian>
+			<Original>Men (Field)</Original>
+			<Portuguese>Homens (barrentos)</Portuguese>
+			<Russian>Люди (полевая группа)</Russian>
+			<Spanish>Hombres (campaña)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_CIDG_66">
+			<Chinesesimp>男性（特种部队 66 式）</Chinesesimp>
+			<English>Men (CIDG 66)</English>
+			<French>Hommes (forces spéciales 66)</French>
+			<German>Charaktere (Special Forces 66)</German>
+			<Italian>Uomini (forze speciali 66)</Italian>
+			<Original>Men (CIDG 66)</Original>
+			<Portuguese>Homens (Forças especiais 66)</Portuguese>
+			<Russian>Люди (спецподразделения 66)</Russian>
+			<Spanish>Hombres (Fuerzas Especiales 66)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_FORCERECON">
+            <Original>Men (Force Recon)</Original>
+            <Chinese>人員（部隊偵察）</Chinese>
+            <French>Hommes (Force de reconnaissance)</French>
+            <Spanish>Hombres (Reconocimiento de la Fuerza)</Spanish>
+            <Italian>Uomini (Ricognizione forzata)</Italian>
+            <Polish>Ludzie (Zwiad sił)</Polish>
+            <Russian>Люди (Разведка Силы)</Russian>
+            <German>Männer (Force Recon)</German>
+            <Czech>Muži (Force Recon)</Czech>
+            <English>Men (Force Recon)</English>
+            <Portuguese>Homens (Força Recon)</Portuguese>
+            <Korean>사람(포스 리콘)</Korean>
+            <Chinesesimp>男人（部队侦察）</Chinesesimp>
+            <Japanese>男性（フォース・リコン）</Japanese>
+            <Turkish>Adamlar (Kuvvet Keşfi)</Turkish>
+        </Key>
+		<Key ID="STR_VN_GROUP_MEN_SEAL">
+			<Chinesesimp>男性（美国海军海豹突击队）</Chinesesimp>
+			<English>Men (Navy SEAL)</English>
+			<French>Hommes (Navy SEAL)</French>
+			<German>Charaktere (Navy SEAL)</German>
+			<Italian>Uomini (Navy SEAL)</Italian>
+			<Original>Men (Navy SEAL)</Original>
+			<Portuguese>Homens (SEALs)</Portuguese>
+			<Russian>Люди (ВМС США SEAL)</Russian>
+			<Spanish>Hombres (SEAL Armada)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_SEAL_NAD">
+			<Chinesesimp>男性（美国海军顾问分遣队）</Chinesesimp>
+			<English>Men (Naval Advisory Detachment)</English>
+			<French>Hommes (Naval Advisory Detachment)</French>
+			<German>Charaktere (Naval Advisory Detachment)</German>
+			<Italian>Uomini (NAD, Naval Advisory Detachment)</Italian>
+			<Original>Men (Naval Advisory Detachment)</Original>
+			<Portuguese>Homens (Destacamento Naval Assessor)</Portuguese>
+			<Russian>Люди (консультативная группа ВМС США)</Russian>
+			<Spanish>Hombres (Dest. Ases. Naval)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_SEAL_DB">
+			<Chinesesimp>男性（美国海军海豹突击队 Bravo 分遣队）</Chinesesimp>
+			<English>Men (Navy SEAL Det Bravo)</English>
+			<French>Hommes (Navy SEAL, Dét. Bravo)</French>
+			<German>Charaktere (Navy SEAL Abt. Bravo)</German>
+			<Italian>Uomini (Navy SEAL dist. Bravo)</Italian>
+			<Original>Men (Navy SEAL Det Bravo)</Original>
+			<Portuguese>Homens (Dst Bravo, SEALs)</Portuguese>
+			<Russian>Люди (спецотряд ВМС США SEAL «Браво»)</Russian>
+			<Spanish>Hombres (SEAL Armada, Dest. Bravo)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MEN_SEAL_UDT">
+			<Chinesesimp>男性（美国海军水下爆破队）</Chinesesimp>
+			<English>Men (Navy SEAL UDT)</English>
+			<French>Hommes (US Navy équipe démolition sous-marine)</French>
+			<German>Charaktere (USN Unterwasser-Sprengstoffteam)</German>
+			<Italian>Uomini (UDT, demolizione subacquea USN)</Italian>
+			<Original>Men (Navy SEAL UDT)</Original>
+			<Portuguese>Homens (Equipe de Demolição Submarina USN)</Portuguese>
+			<Russian>Люди (подводная подрывная группа UDT ВМС США)</Russian>
+			<Spanish>Hombres (Equipo Demoliciones Submarinas USN)</Spanish>
+		</Key>
+		<Key ID="STR_VN_GROUP_MECH">
+			<Original>Mechanized</Original>
+			<Chinese>機械化步兵</Chinese>
+			<French>mécanisée</French>
+			<Spanish>mecanizada</Spanish>
+			<Italian>meccanizzata</Italian>
+			<Polish>zmechanizowana</Polish>
+			<Russian>Механизированая</Russian>
+			<German>Mechanisierte</German>
+			<Czech>Mechanizovaná</Czech>
+			<English>Mechanized</English>
+			<Portuguese>mecanizada</Portuguese>
+			<Korean>기계화보병</Korean>
+			<Chinesesimp>机械化步兵</Chinesesimp>
+			<Japanese>機械化歩兵</Japanese>
+			<Turkish>Mekanize</Turkish>
+        </Key>
+		<Key ID="STR_VN_GROUP_MOTOR">
+			<Original>Motorized</Original>
+			<Chinese>摩托化步兵</Chinese>
+			<French>motorisée</French>
+			<Spanish>motorizada</Spanish>
+			<Italian>motorizzata</Italian>
+			<Polish>zmotoryzowana</Polish>
+			<Russian>Мотопехота</Russian>
+			<German>Motorisierte</German>
+			<Czech>Motorizovaná</Czech>
+			<English>Motorized</English>
+			<Portuguese>motorizada</Portuguese>
+			<Korean>차량화보병</Korean>
+			<Chinesesimp>摩托化步兵</Chinesesimp>
+			<Japanese>自動車化歩兵</Japanese>
+			<Turkish>Motorlu</Turkish>
+        </Key>
+		<Key ID="STR_VN_GROUP_STATIC">
+			<Original>Turrets</Original>
+			<Chinese>砲塔</Chinese>
+			<French>Tourelles</French>
+			<Spanish>Torretas</Spanish>
+			<Italian>Torrette</Italian>
+			<Polish>Wieżyczki</Polish>
+			<Russian>Турели</Russian>
+			<German>Geschütze</German>
+			<Czech>Věže</Czech>
+			<English>Turrets</English>
+			<Portuguese>Torres de artilharia</Portuguese>
+			<Korean>포탑</Korean>
+			<Chinesesimp>炮塔</Chinesesimp>
+			<Japanese>タレット</Japanese>
+			<Turkish>Kuleler</Turkish>
+        </Key>
+	</Package>
+</Project>

@@ -1,0 +1,1302 @@
+<?xml version="1.0" ?>
+<Project name="language_f_vietnam_renames">
+	<Package name="PAVN 1968 soldier names">
+		<Key ID="STR_VN_O_MEN_NVA_01_DN">
+			<Chinesesimp>军官（PSh-41）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (PPSh-41)</French>
+			<German>Offizier (PPSh-41)</German>
+			<Italian>Ufficiale (PPSh-41)</Italian>
+			<Original>Officer (PPSh-41)</Original>
+			<Portuguese>Oficial (PPSh-41)</Portuguese>
+			<Russian>Офицер (ППШ-41)</Russian>
+			<Spanish>Oficial (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_07_DN">
+			<Chinesesimp>掷弹兵（SKS）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (SKS)</French>
+			<German>Grenadier (SKS)</German>
+			<Italian>Granatiere (SKS)</Italian>
+			<Original>Grenadier (SKS)</Original>
+			<Portuguese>Granadeiro (SKS)</Portuguese>
+			<Russian>Гранатометчик (СКС)</Russian>
+			<Spanish>Granadero (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_08_DN">
+			<Chinesesimp>医疗兵（PPS-43）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (PPS-43)</French>
+			<German>Sanitäter (PPS-43)</German>
+			<Italian>Soccorritore militare (PPS-43)</Italian>
+			<Original>Medic (PPS-43)</Original>
+			<Portuguese>Médico (PPS-43)</Portuguese>
+			<Russian>Врач (ППС-43)</Russian>
+			<Spanish>Médico (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_09_DN">
+			<Chinesesimp>工兵（PPSh-41）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (PPSh-41)</French>
+			<German>Pionier (PPSh-41)</German>
+			<Italian>Geniere (PPSh-41)</Italian>
+			<Original>Sapper (PPSh-41)</Original>
+			<Portuguese>Sapador (PPSh-41)</Portuguese>
+			<Russian>Сапер (ППШ-41)</Russian>
+			<Spanish>Zapador (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_12_DN">
+			<Chinesesimp>哨兵（SKS 刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (SKS et baïonnette)</French>
+			<German>Wache (SKS/Bajonett)</German>
+			<Italian>Sentinella (SKS con baionetta)</Italian>
+			<Original>Sentry (SKS Bayo)</Original>
+			<Portuguese>Sentinela (SKS com baioneta)</Portuguese>
+			<Russian>Часовой (СКС со штыком)</Russian>
+			<Spanish>Centinela (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_13_DN">
+			<Chinesesimp>无线电通讯员（PPSh-41）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (PPSh-41)</French>
+			<German>Funker (PPSh-41)</German>
+			<Italian>Operatore radio (PPSh-41)</Italian>
+			<Original>RTO (PPSh-41)</Original>
+			<Portuguese>Radioperador (PPSh-41)</Portuguese>
+			<Russian>Связист (ППШ-41)</Russian>
+			<Spanish>Radiotelefonista (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_14_DN">
+			<Chinesesimp>反坦克弹（SKS/ B40）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (SKS, B40)</French>
+			<German>PANZERABWEHR (SKS/B40)</German>
+			<Italian>Operatore anticarro (SKS, B40)</Italian>
+			<Original>AT (SKS/ B41)</Original>
+			<Portuguese>AT (SKS/B40)</Portuguese>
+			<Russian>ПТ (СКС/ B40)</Russian>
+			<Spanish>Antitanque (SKS, B40)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_43_DN">
+			<Chinesesimp>防空（SKS/9K32）</Chinesesimp>
+			<English>AA</English>
+			<French>Antiaérien (SKS, 9K32)</French>
+			<German>Luftabwehr (SKS/9K32)</German>
+			<Italian>Soldato con armi antiaereo (SKS, 9K32)</Italian>
+			<Original>AA (SKS/ 9K32)</Original>
+			<Portuguese>AA (SKS/9K32)</Portuguese>
+			<Russian>Зенитчик (СКС/ 9K32)</Russian>
+			<Spanish>Antiaéreo (SKS, 9K32)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_29_DN">
+			<Chinesesimp>迫击炮炮手（PPS-43）</Chinesesimp>
+			<English>Mortar gunner</English>
+			<French>Artilleur de mortier (PPS-43)</French>
+			<German>Mörserschütze (PPS-43)</German>
+			<Italian>Artigliere (PPS-43)</Italian>
+			<Original>Mortar gunner (PPS-43)</Original>
+			<Portuguese>Artilheiro de morteiro (PPS-43)</Portuguese>
+			<Russian>Минометчик (ППС-43)</Russian>
+			<Spanish>Artillero de mortero (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_30_DN">
+			<Chinesesimp>迫击炮炮弹（PPS52）</Chinesesimp>
+			<English>Mortar ammo</English>
+			<French>Chargeur de mortier (PPS-52)</French>
+			<German>Mörsermunition (PPS52)</German>
+			<Italian>Portamunizioni mortaio (PPS52)</Italian>
+			<Original>Mortar ammo (PPS52)</Original>
+			<Portuguese>Munição de morteiro (PPS-52)</Portuguese>
+			<Russian>Боеприпасы для миномета (PPS-52)</Russian>
+			<Spanish>Munición de mortero (PPS52)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_31_DN">
+			<Chinesesimp>迫击炮三脚架（PPS-52）</Chinesesimp>
+			<English>Mortar tripod</English>
+			<French>Trépied de mortier (PPS-52)</French>
+			<German>Mörser-Dreifuß (PPS-52)</German>
+			<Italian>Portatreppiede mortaio (PPS-52)</Italian>
+			<Original>Mortar tripod (PPS-52)</Original>
+			<Portuguese>Tripé de morteiro (PPS-52)</Portuguese>
+			<Russian>Тренога миномета (PPS-52)</Russian>
+			<Spanish>Trípode de mortero (PPS-52)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_32_DN">
+			<Chinesesimp>AT-3 枪手（PPS-43）</Chinesesimp>
+			<English>AT-3 gunner</English>
+			<French>Artilleur AC-3 (PPS-43)</French>
+			<German>AT-3-Schütze (PPS-43)</German>
+			<Italian>Artigliere AT-3 (PPS-43)</Italian>
+			<Original>AT-3 gunner (PPS-43)</Original>
+			<Portuguese>Artilheiro AT-3 (PPS-43)</Portuguese>
+			<Russian>Оператор AT-3 (ППС-43)</Russian>
+			<Spanish>Artillero de AT-3 (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_48_DN">
+			<Chinesesimp>掷弹兵（KBKG）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (KBKG)</French>
+			<German>Grenadier (KBKG)</German>
+			<Italian>Granatiere (KBKG)</Italian>
+			<Original>Grenadier (KBKG)</Original>
+			<Portuguese>Granadeiro (KBKG)</Portuguese>
+			<Russian>Гранатометчик (КБКГ)</Russian>
+			<Spanish>Granadero (KBKG)</Spanish>
+		</Key>
+	</Package>
+	<Package name="PAVN 1965 soldier names">
+		<Key ID="STR_VN_O_MEN_NVA_65_01_DN">
+			<Chinesesimp>军官（PPS-43）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (PPS-43)</French>
+			<German>Offizier (PPS-43)</German>
+			<Italian>Ufficiale (PPS-43)</Italian>
+			<Original>Officer (PPS-43)</Original>
+			<Portuguese>Oficial (PPS-43)</Portuguese>
+			<Russian>Офицер (ППС-43)</Russian>
+			<Spanish>Oficial (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_07_DN">
+			<Chinesesimp>掷弹兵（SKS）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (SKS)</French>
+			<German>Grenadier (SKS)</German>
+			<Italian>Granatiere (SKS)</Italian>
+			<Original>Grenadier (SKS)</Original>
+			<Portuguese>Granadeiro (SKS)</Portuguese>
+			<Russian>Гранатометчик (СКС)</Russian>
+			<Spanish>Granadero (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_08_DN">
+			<Chinesesimp>医疗兵（PPSh-41）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (PPSh-41)</French>
+			<German>Sanitäter (PPSh-41)</German>
+			<Italian>Soccorritore militare (PPSh-41)</Italian>
+			<Original>Medic (PPSh-41)</Original>
+			<Portuguese>Médico (PPSh-41)</Portuguese>
+			<Russian>Врач (ППШ-41)</Russian>
+			<Spanish>Médico (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_09_DN">
+			<Chinesesimp>工兵（PPSh-41）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (PPSh-41)</French>
+			<German>Pionier (PPSh-41)</German>
+			<Italian>Geniere (PPSh-41)</Italian>
+			<Original>Sapper (PPSh-41)</Original>
+			<Portuguese>Sapador (PPSh-41)</Portuguese>
+			<Russian>Сапер (ППШ-41)</Russian>
+			<Spanish>Zapador (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_10_DN">
+			<Chinesesimp>射手（SKS）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (SKS)</French>
+			<German>Scharfschütze (SKS)</German>
+			<Italian>Tiratore scelto (SKS)</Italian>
+			<Original>Marksman (SKS)</Original>
+			<Portuguese>Atirador (SKS)</Portuguese>
+			<Russian>Снайпер (СКС)</Russian>
+			<Spanish>Tirador (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_12_DN">
+			<Chinesesimp>哨兵（SKS 刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (SKS et baïonnette)</French>
+			<German>Wache (SKS/Bajonett)</German>
+			<Italian>Sentinella (SKS con baionetta)</Italian>
+			<Original>Sentry (SKS Bayo)</Original>
+			<Portuguese>Sentinela (SKS com baioneta)</Portuguese>
+			<Russian>Часовой (СКС со штыком)</Russian>
+			<Spanish>Centinela (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_13_DN">
+			<Chinesesimp>无线电通讯员（PPSh-41）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (PPSh-41)</French>
+			<German>Funker (PPSh-41)</German>
+			<Italian>Operatore radio (PPSh-41)</Italian>
+			<Original>RTO (PPSh-41)</Original>
+			<Portuguese>Radioperador (PPSh-41)</Portuguese>
+			<Russian>Связист (ППШ-41)</Russian>
+			<Spanish>Radiotelefonista (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_14_DN">
+			<Chinesesimp>反坦克弹（SKS/ B41）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (SKS, B41)</French>
+			<German>PANZERABWEHR (SKS/B41)</German>
+			<Italian>Operatore anticarro (SKS, B41)</Italian>
+			<Original>AT (SKS/ B41)</Original>
+			<Portuguese>AT (SKS/B41)</Portuguese>
+			<Russian>ПТ (СКС/ B41)</Russian>
+			<Spanish>Antitanque (SKS, B41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_29_DN">
+			<Chinesesimp>迫击炮炮手（PPS-43）</Chinesesimp>
+			<English>Mortar gunner</English>
+			<French>Artilleur de mortier (PPS-43)</French>
+			<German>Mörserschütze (PPS-43)</German>
+			<Italian>Artigliere (PPS-43)</Italian>
+			<Original>Mortar gunner (PPS-43)</Original>
+			<Portuguese>Artilheiro de morteiro (PPS-43)</Portuguese>
+			<Russian>Минометчик (ППС-43)</Russian>
+			<Spanish>Artillero de mortero (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_30_DN">
+			<Chinesesimp>迫击炮炮弹（PPS-52）</Chinesesimp>
+			<English>Mortar ammo</English>
+			<French>Chargeur de mortier (PPS-52)</French>
+			<German>Mörsermunition (PPS-52)</German>
+			<Italian>Portamunizioni mortaio (PPS-52)</Italian>
+			<Original>Mortar ammo (PPS-52)</Original>
+			<Portuguese>Munição de morteiro (PPS-52)</Portuguese>
+			<Russian>Боеприпасы для миномета (PPS-52)</Russian>
+			<Spanish>Munición de mortero (PPS-52)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_65_31_DN">
+			<Chinesesimp>迫击炮三脚架（PPS-52）</Chinesesimp>
+			<English>Mortar tripod</English>
+			<French>Trépied de mortier (PPS-52)</French>
+			<German>Mörser-Dreifuß (PPS-52)</German>
+			<Italian>Portatreppiede mortaio (PPS-52)</Italian>
+			<Original>Mortar tripod (PPS-52)</Original>
+			<Portuguese>Tripé de morteiro (PPS-52)</Portuguese>
+			<Russian>Тренога миномета (PPS-52)</Russian>
+			<Spanish>Trípode de mortero (PPS-52)</Spanish>
+		</Key>
+	</Package>
+	<Package name="DC soldier names">
+		<Key ID="STR_VN_O_MEN_NVA_DC_01_DN">
+			<Chinesesimp>军官（56 式）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (Type 56)</French>
+			<German>Offizier (Type 56)</German>
+			<Italian>Ufficiale (Type 56)</Italian>
+			<Original>Officer (Type 56)</Original>
+			<Portuguese>Oficial (Tipo 56)</Portuguese>
+			<Russian>Офицер (Тип 56)</Russian>
+			<Spanish>Oficial (Tipo 56)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_07_DN">
+			<Chinesesimp>掷弹兵（M79）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (M79)</French>
+			<German>Grenadier (M79)</German>
+			<Italian>Granatiere (M79)</Italian>
+			<Original>Grenadier (M79)</Original>
+			<Portuguese>Granadeiro (M79)</Portuguese>
+			<Russian>Гранатометчик (M79)</Russian>
+			<Spanish>Granadero (M79)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_08_DN">
+			<Chinesesimp>医疗兵（PPS-43）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (PPS-43)</French>
+			<German>Sanitäter (PPS-43)</German>
+			<Italian>Soccorritore militare (PPS-43)</Italian>
+			<Original>Medic (PPS-43)</Original>
+			<Portuguese>Médico (PPS-43)</Portuguese>
+			<Russian>Врач (ППС-43)</Russian>
+			<Spanish>Médico (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_09_DN">
+			<Chinesesimp>工兵（PPS-43）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (PPS-43)</French>
+			<German>Pionier (PPS-43)</German>
+			<Italian>Geniere (PPS-43)</Italian>
+			<Original>Sapper (PPS-43)</Original>
+			<Portuguese>Sapador (PPS-43)</Portuguese>
+			<Russian>Сапер (ППС-43)</Russian>
+			<Spanish>Zapador (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_12_DN">
+			<Chinesesimp>哨兵（SKS 刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (SKS et baïonnette)</French>
+			<German>Wache (SKS/Bajonett)</German>
+			<Italian>Sentinella (SKS con baionetta)</Italian>
+			<Original>Sentry (SKS Bayo)</Original>
+			<Portuguese>Sentinela (SKS com baioneta)</Portuguese>
+			<Russian>Часовой (СКС со штыком)</Russian>
+			<Spanish>Centinela (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_13_DN">
+			<Chinesesimp>无线电通讯员（Ish-54）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (ISh-54)</French>
+			<German>Funker (Ish-54)</German>
+			<Italian>Operatore radio (ISh-54)</Italian>
+			<Original>RTO (Ish-54)</Original>
+			<Portuguese>Radioperador (Ish-54)</Portuguese>
+			<Russian>Связист (ИШ-54)</Russian>
+			<Spanish>Radiotelefonista (Ish-54)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_14_DN">
+			<Chinesesimp>反坦克（56 式/ B41）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (Type 56, B41)</French>
+			<German>Panzerabwehr (Type 56/B41)</German>
+			<Italian>Operatore anticarro (Type 56, B41)</Italian>
+			<Original>AT (Type 56/ B41)</Original>
+			<Portuguese>AT (Tipo 56/ B41)</Portuguese>
+			<Russian>ПТ (Тип 56/ B41)</Russian>
+			<Spanish>Antitanque (Tipo 56, B41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_15_DN">
+			<Chinesesimp>迫击炮炮手（PPS-43）</Chinesesimp>
+			<English>Mortar gunner</English>
+			<French>Artilleur de mortier (PPS-43)</French>
+			<German>Mörserschütze (PPS-43)</German>
+			<Italian>Artigliere (PPS-43)</Italian>
+			<Original>Mortar gunner (PPS-43)</Original>
+			<Portuguese>Artilheiro de morteiro (PPS-43)</Portuguese>
+			<Russian>Минометчик (ППС-43)</Russian>
+			<Spanish>Artillero de mortero (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_16_DN">
+			<Chinesesimp>迫击炮炮弹（PPS-52）</Chinesesimp>
+			<English>Mortar ammo</English>
+			<French>Chargeur de mortier (PPS-52)</French>
+			<German>Mörsermunition (PPS-52)</German>
+			<Italian>Portamunizioni mortaio (PPS-52)</Italian>
+			<Original>Mortar ammo (PPS-52)</Original>
+			<Portuguese>Munição de morteiro (PPS-52)</Portuguese>
+			<Russian>Боеприпасы для миномета (PPS-52)</Russian>
+			<Spanish>Munición de mortero (PPS-52)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_DC_17_DN">
+			<Chinesesimp>迫击炮三脚架（PPS-43）</Chinesesimp>
+			<English>Mortar tripod</English>
+			<French>Trépied de mortier (PPS-43)</French>
+			<German>Mörser-Dreifuß (PPS-43)</German>
+			<Italian>Portatreppiede mortaio (PPS-43)</Italian>
+			<Original>Mortar tripod (PPS-43)</Original>
+			<Portuguese>Tripé de morteiro (PPS-43)</Portuguese>
+			<Russian>Тренога миномета (ППС-43)</Russian>
+			<Spanish>Trípode de mortero (PPS-43)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VPN soldier names">
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_01_DN">
+			<Chinesesimp>军官（TT-33）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (TT-33)</French>
+			<German>Offizier (TT-33)</German>
+			<Italian>Ufficiale (TT-33)</Italian>
+			<Original>Officer (TT-33)</Original>
+			<Portuguese>Oficial (TT-33)</Portuguese>
+			<Russian>Офицер (ТТ-33)</Russian>
+			<Spanish>Oficial (TT-33)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_07_DN">
+			<Chinesesimp>掷弹兵（SKS）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (SKS)</French>
+			<German>Grenadier (SKS)</German>
+			<Italian>Granatiere (SKS)</Italian>
+			<Original>Grenadier (SKS)</Original>
+			<Portuguese>Granadeiro (SKS)</Portuguese>
+			<Russian>Гранатометчик (СКС)</Russian>
+			<Spanish>Granadero (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_08_DN">
+			<Chinesesimp>医疗兵（M712）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (M712)</French>
+			<German>Sanitäter (M712)</German>
+			<Italian>Soccorritore militare (M712)</Italian>
+			<Original>Medic (M712)</Original>
+			<Portuguese>Médico (M712)</Portuguese>
+			<Russian>Врач (M712)</Russian>
+			<Spanish>Médico (M712)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_09_DN">
+			<Chinesesimp>工兵（SKS）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (SKS)</French>
+			<German>Pionier (SKS)</German>
+			<Italian>Geniere (SKS)</Italian>
+			<Original>Sapper (SKS)</Original>
+			<Portuguese>Sapador (SKS)</Portuguese>
+			<Russian>Сапер (СКС)</Russian>
+			<Spanish>Zapador (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_10_DN">
+			<Chinesesimp>射手（SKS）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (SKS)</French>
+			<German>Scharfschütze (SKS)</German>
+			<Italian>Tiratore scelto (SKS)</Italian>
+			<Original>Marksman (SKS)</Original>
+			<Portuguese>Atirador (SKS)</Portuguese>
+			<Russian>Снайпер (СКС)</Russian>
+			<Spanish>Tirador (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_12_DN">
+			<Chinesesimp>哨兵（SKS 刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (SKS et baïonnette)</French>
+			<German>Wache (SKS/Bajonett)</German>
+			<Italian>Sentinella (SKS con baionetta)</Italian>
+			<Original>Sentry (SKS Bayo)</Original>
+			<Portuguese>Sentinela (SKS com baioneta)</Portuguese>
+			<Russian>Часовой (СКС со штыком)</Russian>
+			<Spanish>Centinela (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_13_DN">
+			<Chinesesimp>无线电通讯员（PPS-43）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (PPS-43)</French>
+			<German>Funker (PPS-43)</German>
+			<Italian>Operatore radio (PPS-43)</Italian>
+			<Original>RTO (PPS-43)</Original>
+			<Portuguese>Radioperador (PPS-43)</Portuguese>
+			<Russian>Связист (ППС-43)</Russian>
+			<Spanish>Radiotelefonista (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_NAVY_14_DN">
+			<Chinesesimp>反坦克弹（SKS/ B40）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (SKS, B40)</French>
+			<German>PANZERABWEHR (SKS/B40)</German>
+			<Italian>Operatore anticarro (SKS, B40)</Italian>
+			<Original>AT (SKS/ B40)</Original>
+			<Portuguese>AT (SKS/B40)</Portuguese>
+			<Russian>ПТ (СКС/ B40)</Russian>
+			<Spanish>Antitanque (SKS, B40)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VPNMC soldier names">
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_01_DN">
+			<Chinesesimp>军官（PPS-43）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (PPS-43)</French>
+			<German>Offizier (PPS-43)</German>
+			<Italian>Ufficiale (PPS-43)</Italian>
+			<Original>Officer (PPS-43)</Original>
+			<Portuguese>Oficial (PPS-43)</Portuguese>
+			<Russian>Офицер (ППС-43)</Russian>
+			<Spanish>Oficial (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_07_DN">
+			<Chinesesimp>掷弹兵（SKS）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (SKS)</French>
+			<German>Grenadier (SKS)</German>
+			<Italian>Granatiere (SKS)</Italian>
+			<Original>Grenadier (SKS)</Original>
+			<Portuguese>Granadeiro (SKS)</Portuguese>
+			<Russian>Гранатометчик (СКС)</Russian>
+			<Spanish>Granadero (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_08_DN">
+			<Chinesesimp>医疗兵（PPS-43）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (PPS-43)</French>
+			<German>Sanitäter (PPS-43)</German>
+			<Italian>Soccorritore militare (PPS-43)</Italian>
+			<Original>Medic (PPS-43)</Original>
+			<Portuguese>Médico (PPS-43)</Portuguese>
+			<Russian>Врач (ППС-43)</Russian>
+			<Spanish>Médico (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_09_DN">
+			<Chinesesimp>工兵（PPSh-41）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (PPSh-41)</French>
+			<German>Pionier (PPSh-41)</German>
+			<Italian>Geniere (PPSh-41)</Italian>
+			<Original>Sapper (PPSh-41)</Original>
+			<Portuguese>Sapador (PPSh-41)</Portuguese>
+			<Russian>Сапер (ППШ-41)</Russian>
+			<Spanish>Zapador (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_10_DN">
+			<Chinesesimp>射手（SKS）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (SKS)</French>
+			<German>Scharfschütze (SKS)</German>
+			<Italian>Tiratore scelto (SKS)</Italian>
+			<Original>Marksman (SKS)</Original>
+			<Portuguese>Atirador (SKS)</Portuguese>
+			<Russian>Снайпер (СКС)</Russian>
+			<Spanish>Tirador (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_12_DN">
+			<Chinesesimp>哨兵（SKS 刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (SKS et baïonnette)</French>
+			<German>Wache (SKS/Bajonett)</German>
+			<Italian>Sentinella (SKS con baionetta)</Italian>
+			<Original>Sentry (SKS Bayo)</Original>
+			<Portuguese>Sentinela (SKS com baioneta)</Portuguese>
+			<Russian>Часовой (СКС со штыком)</Russian>
+			<Spanish>Centinela (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_13_DN">
+			<Chinesesimp>无线电通讯员（PPS-43）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (PPS-43)</French>
+			<German>Funker (PPS-43)</German>
+			<Italian>Operatore radio (PPS-43)</Italian>
+			<Original>RTO (PPS-43)</Original>
+			<Portuguese>Radioperador (PPS-43)</Portuguese>
+			<Russian>Связист (ППС-43)</Russian>
+			<Spanish>Radiotelefonista (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_NVA_MARINE_14_DN">
+			<Chinesesimp>反坦克弹（SKS/ B40）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (SKS, B40)</French>
+			<German>PANZERABWEHR (SKS/B40)</German>
+			<Italian>Operatore anticarro (SKS, B40)</Italian>
+			<Original>AT (SKS/ B40)</Original>
+			<Portuguese>AT (SKS/B40)</Portuguese>
+			<Russian>ПТ (СКС/ B40)</Russian>
+			<Spanish>Antitanque (SKS, B40)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VPAF soldier names">
+		<Key ID="STR_VN_O_MEN_AIRCREW_01_DN">
+			<Chinesesimp>直升机飞行员（PM）</Chinesesimp>
+			<English>Heli Pilot</English>
+			<French>Pilote hélicoptère (PM)</French>
+			<German>Helikopterpilot (PM)</German>
+			<Italian>Pilota elicottero (PM)</Italian>
+			<Original>Heli Pilot (PM)</Original>
+			<Portuguese>Piloto de helicóptero (PM)</Portuguese>
+			<Russian>Пилот вертолета (ПМ)</Russian>
+			<Spanish>Piloto de helicóptero (PM)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_AIRCREW_02_DN">
+			<Chinesesimp>直升机副驾（TT-33）</Chinesesimp>
+			<English>Heli Co-Pilot</English>
+			<French>Copilote hélicoptère (TT-33)</French>
+			<German>Helikopter-Copilot (TT-33)</German>
+			<Italian>Copilota elicottero (TT-33)</Italian>
+			<Original>Heli Co-Pilot (TT-33)</Original>
+			<Portuguese>Copiloto de helicóptero (TT-33)</Portuguese>
+			<Russian>2-й пилот вертолета (ТТ-33)</Russian>
+			<Spanish>Copiloto de helicóptero (TT-33)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_AIRCREW_03_DN">
+			<Chinesesimp>直升机机长（PM）</Chinesesimp>
+			<English>Heli Crew Chief</English>
+			<French>Chef d'équipage hélicoptère (PM)</French>
+			<German>Helikopter-Stabschef (PM)</German>
+			<Italian>Capo equipaggio elicottero (PM)</Italian>
+			<Original>Heli Crew Chief (PM)</Original>
+			<Portuguese>Comandante de tripulação de helicóptero (PM)</Portuguese>
+			<Russian>Командир экипажа вертолета (ПМ)</Russian>
+			<Spanish>Jefe de tripulantes de helicóptero (PM)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_AIRCREW_04_DN">
+			<Chinesesimp>直升机枪手（TT-33）</Chinesesimp>
+			<English>Heli Gunner</English>
+			<French>Mitrailleur hélicoptère (TT-33)</French>
+			<German>Helikopterschütze (TT-33)</German>
+			<Italian>Mitragliere elicottero (TT-33)</Italian>
+			<Original>Heli Gunner (TT-33)</Original>
+			<Portuguese>Artilheiro de helicóptero (TT-33)</Portuguese>
+			<Russian>Стрелок вертолета (ТТ-33)</Russian>
+			<Spanish>Artillero de helicóptero (TT-33)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VC soldier names">
+		<Key ID="STR_VN_O_MEN_VC_01_DN">
+			<Chinesesimp>军官（K-50M）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (K-50M)</French>
+			<German>Offizier (K-50M)</German>
+			<Italian>Ufficiale (K-50M)</Italian>
+			<Original>Officer (K-50M)</Original>
+			<Portuguese>Oficial (K-50M)</Portuguese>
+			<Russian>Офицер (K-50M)</Russian>
+			<Spanish>Oficial (K-50M)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_07_DN">
+			<Chinesesimp>掷弹兵（SKS）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (SKS)</French>
+			<German>Grenadier (SKS)</German>
+			<Italian>Granatiere (SKS)</Italian>
+			<Original>Grenadier (SKS)</Original>
+			<Portuguese>Granadeiro (SKS)</Portuguese>
+			<Russian>Гранатометчик (СКС)</Russian>
+			<Spanish>Granadero (SKS)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_09_DN">
+			<Chinesesimp>工兵（K-50M）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (K-50M)</French>
+			<German>Pionier (K-50M)</German>
+			<Italian>Geniere (K-50M)</Italian>
+			<Original>Sapper (K-50M)</Original>
+			<Portuguese>Sapador (K-50M)</Portuguese>
+			<Russian>Сапер (K-50M)</Russian>
+			<Spanish>Zapador (K-50M)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_10_DN">
+			<Chinesesimp>射手（M91/30）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (M91/30)</French>
+			<German>Scharfschütze (M91/30)</German>
+			<Italian>Tiratore scelto (M91/30)</Italian>
+			<Original>Marksman (M91/30)</Original>
+			<Portuguese>Atirador (M91/30)</Portuguese>
+			<Russian>Снайпер (M91/30)</Russian>
+			<Spanish>Tirador (M91/30)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_12_DN">
+			<Chinesesimp>哨兵（M91/30，刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (M91/30 et baïonnette)</French>
+			<German>Wache (M91/30/Bajonett)</German>
+			<Italian>Sentinella (M91/30 con baionetta)</Italian>
+			<Original>Sentry (M91/30 Bayo)</Original>
+			<Portuguese>Sentinela (M91/30 com baioneta)</Portuguese>
+			<Russian>Часовой (M91/30 со штыком)</Russian>
+			<Spanish>Centinela (M91/30, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_13_DN">
+			<Chinesesimp>无线电通讯员（PPSh-41）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (PPSh-41)</French>
+			<German>Funker (PPSh-41)</German>
+			<Italian>Operatore radio (PPSh-41)</Italian>
+			<Original>RTO (PPSh-41)</Original>
+			<Portuguese>Radioperador (PPSh-41)</Portuguese>
+			<Russian>Связист (ППШ-41)</Russian>
+			<Spanish>Radiotelefonista (PPSh-41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_14_DN">
+			<Chinesesimp>反坦克（56 式/ B41）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (Type 56, B41)</French>
+			<German>Panzerabwehr (Type 56/B41)</German>
+			<Italian>Operatore anticarro (Type 56, B41)</Italian>
+			<Original>AT (Type 56/ B41)</Original>
+			<Portuguese>AT (Tipo 56/ B41)</Portuguese>
+			<Russian>ПТ (Тип 56/ B41)</Russian>
+			<Spanish>Antitanque (Tipo 56, B41)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_15_DN">
+			<Chinesesimp>迫击炮炮手（PPS-43）</Chinesesimp>
+			<English>Mortar gunner</English>
+			<French>Artilleur de mortier (PPS-43)</French>
+			<German>Mörserschütze (PPS-43)</German>
+			<Italian>Artigliere (PPS-43)</Italian>
+			<Original>Mortar gunner (PPS-43)</Original>
+			<Portuguese>Artilheiro de morteiro (PPS-43)</Portuguese>
+			<Russian>Минометчик (ППС-43)</Russian>
+			<Spanish>Artillero de mortero (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_16_DN">
+			<Chinesesimp>迫击炮炮弹（PPS-52）</Chinesesimp>
+			<English>Mortar ammo</English>
+			<French>Chargeur de mortier (PPS-52)</French>
+			<German>Mörsermunition (PPS-52)</German>
+			<Italian>Portamunizioni mortaio (PPS-52)</Italian>
+			<Original>Mortar ammo (PPS-52)</Original>
+			<Portuguese>Munição de morteiro (PPS-52)</Portuguese>
+			<Russian>Боеприпасы для миномета (PPS-52)</Russian>
+			<Spanish>Munición de mortero (PPS-52)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_17_DN">
+			<Chinesesimp>迫击炮三脚架（K-50M）</Chinesesimp>
+			<English>Mortar tripod</English>
+			<French>Trépied de mortier (K-50M)</French>
+			<German>Mörser-Dreifuß (K-50M)</German>
+			<Italian>Portatreppiede mortaio (K-50M)</Italian>
+			<Original>Mortar tripod (K-50M)</Original>
+			<Portuguese>Tripé de morteiro (K-50M)</Portuguese>
+			<Russian>Тренога миномета (K-50M)</Russian>
+			<Spanish>Trípode de mortero (K-50M)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VC Reg soldier names">
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_01_DN">
+			<Chinesesimp>军官（MAT-49）</Chinesesimp>
+			<English>Officer</English>
+			<French>Officier (MAT-49)</French>
+			<German>Offizier (MAT-49)</German>
+			<Italian>Ufficiale (MAT-49)</Italian>
+			<Original>Officer (MAT-49)</Original>
+			<Portuguese>Oficial (MAT-49)</Portuguese>
+			<Russian>Офицер (MAT-49)</Russian>
+			<Spanish>Oficial (MAT-49)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_07_DN">
+			<Chinesesimp>掷弹兵（M49/56）</Chinesesimp>
+			<English>Grenadier</English>
+			<French>Grenadier (M49/56)</French>
+			<German>Grenadier (M49/56)</German>
+			<Italian>Granatiere (M49/56)</Italian>
+			<Original>Grenadier (M49/56)</Original>
+			<Portuguese>Granadeiro (M49/56)</Portuguese>
+			<Russian>Гранатометчик (M49/56)</Russian>
+			<Spanish>Granadero (M49/56)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_08_DN">
+			<Chinesesimp>医疗兵（Ish-54）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (ISh-54)</French>
+			<German>Sanitäter (Ish-54)</German>
+			<Italian>Soccorritore militare (ISh-54)</Italian>
+			<Original>Medic (Ish-54)</Original>
+			<Portuguese>Médico (Ish-54)</Portuguese>
+			<Russian>Врач (ИШ-54)</Russian>
+			<Spanish>Médico (Ish-54)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_09_DN">
+			<Chinesesimp>工兵（M3A1）</Chinesesimp>
+			<English>Sapper</English>
+			<French>Sapeur (M3A1)</French>
+			<German>Pionier (M3A1)</German>
+			<Italian>Geniere (M3A1)</Italian>
+			<Original>Sapper (M3A1)</Original>
+			<Portuguese>Sapador (M3A1)</Portuguese>
+			<Russian>Сапер (M3A1)</Russian>
+			<Spanish>Zapador (M3A1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_10_DN">
+			<Chinesesimp>射手（M49/56）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (M49/56)</French>
+			<German>Scharfschütze (M49/56)</German>
+			<Italian>Tiratore scelto (M49/56)</Italian>
+			<Original>Marksman (M49/56)</Original>
+			<Portuguese>Atirador (M49/56)</Portuguese>
+			<Russian>Снайпер (M49/56)</Russian>
+			<Spanish>Tirador (M49/56)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_11_DN">
+			<Chinesesimp>机枪手（DP27）</Chinesesimp>
+			<English>Machine Gunner</English>
+			<French>Mitrailleur (DP27)</French>
+			<German>MG-Schütze (DP27)</German>
+			<Italian>Mitragliere (DP27)</Italian>
+			<Original>Machine Gunner (DP27)</Original>
+			<Portuguese>Metralhador (DP27)</Portuguese>
+			<Russian>Пулеметчик (ДП-27)</Russian>
+			<Spanish>Ametrallador (DP27)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_12_DN">
+			<Chinesesimp>哨兵（M49/56，刺刀）</Chinesesimp>
+			<English>Sentry</English>
+			<French>Sentinelle (M49/56 et baïonnette)</French>
+			<German>Wache (M49/56/Bajonett)</German>
+			<Italian>Sentinella (M49/56 con baionetta)</Italian>
+			<Original>Sentry (M49/56 Bayo)</Original>
+			<Portuguese>Sentinela (M49/56 com baioneta)</Portuguese>
+			<Russian>Часовой (M49/56 со штыком)</Russian>
+			<Spanish>Centinela (M49/56, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_13_DN">
+			<Chinesesimp>无线电通讯员（M1891）</Chinesesimp>
+			<English>RTO</English>
+			<French>Radio (M1891)</French>
+			<German>Funker (M1891)</German>
+			<Italian>Operatore radio (M1891)</Italian>
+			<Original>RTO (M1891)</Original>
+			<Portuguese>Radioperador (M1891)</Portuguese>
+			<Russian>Связист (M1891)</Russian>
+			<Spanish>Radiotelefonista (M1891)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_REGIONAL_14_DN">
+			<Chinesesimp>反坦克弹（Ish-54/ B40）</Chinesesimp>
+			<English>AT</English>
+			<French>AC (Ish-54, B40)</French>
+			<German>PANZERABWEHR (Ish-54/B40)</German>
+			<Italian>Operatore anticarro (Ish-54, B40)</Italian>
+			<Original>AT (Ish-54/ B40)</Original>
+			<Portuguese>AT (Ish-54/B40)</Portuguese>
+			<Russian>ПТ (ИШ-54/ В40)</Russian>
+			<Spanish>Antitanque (Ish-54, B40)</Spanish>
+		</Key>
+	</Package>
+	<Package name="VC Local soldier names">
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_01_DN">
+			<Chinesesimp>军官（MAT-49）</Chinesesimp>
+			<English>Officer 1</English>
+			<French>Officier (MAT-49)</French>
+			<German>Offizier (MAT-49)</German>
+			<Italian>Ufficiale (MAT-49)</Italian>
+			<Original>Officer (MAT-49)</Original>
+			<Portuguese>Oficial (MAT-49)</Portuguese>
+			<Russian>Офицер (MAT-49)</Russian>
+			<Spanish>Oficial (MAT-49)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_08_DN">
+			<Chinesesimp>医疗兵（Ish-54）</Chinesesimp>
+			<English>Medic</English>
+			<French>Infirmier (ISh-54)</French>
+			<German>Sanitäter (Ish-54)</German>
+			<Italian>Soccorritore militare (ISh-54)</Italian>
+			<Original>Medic (Ish-54)</Original>
+			<Portuguese>Médico (Ish-54)</Portuguese>
+			<Russian>Врач (ИШ-54)</Russian>
+			<Spanish>Médico (Ish-54)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_09_DN">
+			<Chinesesimp>工兵 1 （M3A1）</Chinesesimp>
+			<English>Sapper 1</English>
+			<French>Sapeur 1 (M3A1)</French>
+			<German>Pionier 1 (M3A1)</German>
+			<Italian>Geniere 1 (M3A1)</Italian>
+			<Original>Sapper 1 (M3A1)</Original>
+			<Portuguese>Sapador 1 (M3A1)</Portuguese>
+			<Russian>Сапер 1 (M3A1)</Russian>
+			<Spanish>Zapador 1 (M3A1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_10_DN">
+			<Chinesesimp>射手 1 （M91/30）</Chinesesimp>
+			<English>Marksman (M91/30)</English>
+			<French>Tireur d'élite 1 (M91/30)</French>
+			<German>Scharfschütze 1 (M91/30)</German>
+			<Italian>Tiratore scelto 1 (M91/30)</Italian>
+			<Original>Marksman 1 (M91/30)</Original>
+			<Portuguese>Atirador 1 (M91/30)</Portuguese>
+			<Russian>Снайпер 1 (M91/30)</Russian>
+			<Spanish>Tirador 1 (M91/30)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_11_DN">
+			<Chinesesimp>机枪手 1（DP27）</Chinesesimp>
+			<English>Machine Gunner 1</English>
+			<French>Mitrailleur 1 (DP27)</French>
+			<German>MG-Schütze 1 (DP27)</German>
+			<Italian>Mitragliere 1 (DP27)</Italian>
+			<Original>Machine Gunner 1 (DP27)</Original>
+			<Portuguese>Metralhador 1 (DP27)</Portuguese>
+			<Russian>Пулеметчик 1 (ДП-27)</Russian>
+			<Spanish>Ametrallador 1 (DP27)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_15_DN">
+			<Chinesesimp>军官 2 （MAT-49）</Chinesesimp>
+			<English>Officer 2</English>
+			<French>Officier 2 (MAT-49)</French>
+			<German>Offizier 2 (MAT-49)</German>
+			<Italian>Ufficiale 2 (MAT-49)</Italian>
+			<Original>Officer 2 (MAT-49)</Original>
+			<Portuguese>Oficial 2 (MAT-49)</Portuguese>
+			<Russian>Офицер 2 (MAT-49)</Russian>
+			<Spanish>Oficial 2 (MAT-49)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_22_DN">
+			<Chinesesimp>医疗兵 2 （Ish-54）</Chinesesimp>
+			<English>Medic 2</English>
+			<French>Infirmier 2 (ISh-54)</French>
+			<German>Sanitäter 2 (Ish-54)</German>
+			<Italian>Soccorritore militare 2 (ISh-54)</Italian>
+			<Original>Medic 2 (Ish-54)</Original>
+			<Portuguese>Médico 2 (Ish-54)</Portuguese>
+			<Russian>Врач 2 (ИШ-54)</Russian>
+			<Spanish>Médico 2 (Ish-54)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_23_DN">
+			<Chinesesimp>工兵 2 （M3A1）</Chinesesimp>
+			<English>Sapper 2</English>
+			<French>Sapeur 2 (M3A1)</French>
+			<German>Pionier 2 (M3A1)</German>
+			<Italian>Geniere 2 (M3A1)</Italian>
+			<Original>Sapper 2 (M3A1)</Original>
+			<Portuguese>Sapador 2 (M3A1)</Portuguese>
+			<Russian>Сапер 2 (M3A1)</Russian>
+			<Spanish>Zapador 2 (M3A1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_24_DN">
+			<Chinesesimp>射手 2 （M91/30）</Chinesesimp>
+			<English>Marksman (M91/30)</English>
+			<French>Tireur d'élite 2 (M91/30)</French>
+			<German>Scharfschütze 2 (M91/30)</German>
+			<Italian>Tiratore scelto 2 (M91/30)</Italian>
+			<Original>Marksman 2 (M91/30)</Original>
+			<Portuguese>Atirador 2 (M91/30)</Portuguese>
+			<Russian>Снайпер 2 (M91/30)</Russian>
+			<Spanish>Tirador 2 (M91/30)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_25_DN">
+			<Chinesesimp>机枪手 2（DP27）</Chinesesimp>
+			<English>Machine Gunner 2</English>
+			<French>Mitrailleur 2 (DP27)</French>
+			<German>MG-Schütze 2 (DP27)</German>
+			<Italian>Mitragliere 2 (DP27)</Italian>
+			<Original>Machine Gunner 2 (DP27)</Original>
+			<Portuguese>Metralhador 2 (DP27)</Portuguese>
+			<Russian>Пулеметчик 2 (ДП-27)</Russian>
+			<Spanish>Ametrallador 2 (DP27)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_29_DN">
+			<Chinesesimp>医疗兵 3 （Ish-54）</Chinesesimp>
+			<English>Medic 3</English>
+			<French>Infirmier 3 (ISh-54)</French>
+			<German>Sanitäter 3 (Ish-54)</German>
+			<Italian>Soccorritore militare 3 (ISh-54)</Italian>
+			<Original>Medic 3 (Ish-54)</Original>
+			<Portuguese>Médico 3 (Ish-54)</Portuguese>
+			<Russian>Врач 3 (ИШ-54)</Russian>
+			<Spanish>Médico 3 (Ish-54)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_30_DN">
+			<Chinesesimp>工兵 3 （M3A1）</Chinesesimp>
+			<English>Sapper 3</English>
+			<French>Sapeur 3 (M3A1)</French>
+			<German>Pionier 3 (M3A1)</German>
+			<Italian>Geniere 3 (M3A1)</Italian>
+			<Original>Sapper 3 (M3A1)</Original>
+			<Portuguese>Sapador 3 (M3A1)</Portuguese>
+			<Russian>Сапер 3 (M3A1)</Russian>
+			<Spanish>Zapador 3 (M3A1)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_31_DN">
+			<Chinesesimp>射手 3 （M91/30）</Chinesesimp>
+			<English>Marksman (M91/30)</English>
+			<French>Tireur d'élite 3 (M91/30)</French>
+			<German>Scharfschütze 3 (M91/30)</German>
+			<Italian>Tiratore scelto 3 (M91/30)</Italian>
+			<Original>Marksman 3 (M91/30)</Original>
+			<Portuguese>Atirador 3 (M91/30)</Portuguese>
+			<Russian>Снайпер 3 (M91/30)</Russian>
+			<Spanish>Tirador 3 (M91/30)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_VC_LOCAL_32_DN">
+			<Chinesesimp>机枪手 3（DP27）</Chinesesimp>
+			<English>Machine Gunner 3</English>
+			<French>Mitrailleur 3 (DP27)</French>
+			<German>MG-Schütze 3 (DP27)</German>
+			<Italian>Mitragliere 3 (DP27)</Italian>
+			<Original>Machine Gunner 3 (DP27)</Original>
+			<Portuguese>Metralhador 3 (DP27)</Portuguese>
+			<Russian>Пулеметчик 3 (ДП-27)</Russian>
+			<Spanish>Ametrallador 3 (DP27)</Spanish>
+		</Key>
+	
+	</Package>
+	<Package name="PL soldier names">
+		<Key ID="STR_VN_O_MEN_PL_08_DN">
+			<Chinesesimp>医疗兵（PPS-43）</Chinesesimp>
+			<English>Medic (PPS-43)</English>
+			<French>Infirmier (PPS-43)</French>
+			<German>Sanitäter (PPS-43)</German>
+			<Italian>Soccorritore militare (PPS-43)</Italian>
+			<Original>Medic (PPS-43)</Original>
+			<Portuguese>Médico (PPS-43)</Portuguese>
+			<Russian>Врач (ППС-43)</Russian>
+			<Spanish>Médico (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_PL_10_DN">
+			<Chinesesimp>射手（M91/30）</Chinesesimp>
+			<English>Marksman (M91/30)</English>
+			<French>Tireur d'élite (M91/30)</French>
+			<German>Scharfschütze (M91/30)</German>
+			<Italian>Tiratore scelto (M91/30)</Italian>
+			<Original>Marksman (M91/30)</Original>
+			<Portuguese>Atirador (M91/30)</Portuguese>
+			<Russian>Снайпер (M91/30)</Russian>
+			<Spanish>Tirador (M91/30)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_PL_11_DN">
+			<Chinesesimp>机枪手（RPD）</Chinesesimp>
+			<English>Machine Gunner (RPD)</English>
+			<French>Mitrailleur (RPD)</French>
+			<German>MG-Schütze (RPD)</German>
+			<Italian>Mitragliere (RPD)</Italian>
+			<Original>Machine Gunner (RPD)</Original>
+			<Portuguese>Metralhador (RPD)</Portuguese>
+			<Russian>Пулеметчик (РПД)</Russian>
+			<Spanish>Ametrallador (RPD)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_PL_21_DN">
+			<Chinesesimp>班长（PPS-43）</Chinesesimp>
+			<English>Squad Leader</English>
+			<French>Chef d'escouade (PPS-43)</French>
+			<German>Truppführer (PPS-43)</German>
+			<Italian>Caposquadra (PPS-43)</Italian>
+			<Original>Squad Leader (PPS-43)</Original>
+			<Portuguese>Líder de esquadrão (PPS-43)</Portuguese>
+			<Russian>Командир отделения (ППС-43)</Russian>
+			<Spanish>Jefe de escuadrón (PPS-43)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_PL_25_DN">
+			<Chinesesimp>机枪手（DP27）</Chinesesimp>
+			<English>Machine Gunner (DP-27)</English>
+			<French>Mitrailleur (DP27)</French>
+			<German>MG-Schütze (DP27)</German>
+			<Italian>Mitragliere (DP27)</Italian>
+			<Original>Machine Gunner (DP27)</Original>
+			<Portuguese>Metralhador (DP27)</Portuguese>
+			<Russian>Пулеметчик (ДП-27)</Russian>
+			<Spanish>Ametrallador (DP27)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_PL_29_DN">
+			<Chinesesimp>工兵（PPSh-41）</Chinesesimp>
+			<English>Sapper (PPSh-41)</English>
+			<French>Sapeur (PPSh-41)</French>
+			<German>Pionier (PPSh-41)</German>
+			<Italian>Geniere (PPSh-41)</Italian>
+			<Original>Sapper (PPSh-41)</Original>
+			<Portuguese>Sapador (PPSh-41)</Portuguese>
+			<Russian>Сапер (ППШ-41)</Russian>
+			<Spanish>Zapador (PPSh-41)</Spanish>
+		</Key>
+	</Package>
+	<Package name="KR soldier names">
+		<Key ID="STR_VN_O_MEN_KR_01_DN">
+				<Chinesesimp>军官（AK）</Chinesesimp>
+				<English>Officer</English>
+				<French>Officier (AK)</French>
+				<German>Offizier (AK)</German>
+				<Italian>Ufficiale (AK)</Italian>
+				<Original>Officer (AK)</Original>
+				<Portuguese>Oficial (AK)</Portuguese>
+				<Russian>Офицер (AK)</Russian>
+				<Spanish>Oficial (AK)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_07_DN">
+				<Chinesesimp>掷弹兵（M79）</Chinesesimp>
+				<English>Grenadier</English>
+				<French>Grenadier (M79)</French>
+				<German>Grenadier (M79)</German>
+				<Italian>Granatiere (M79)</Italian>
+				<Original>Grenadier (M79)</Original>
+				<Portuguese>Granadeiro (M79)</Portuguese>
+				<Russian>Гранатометчик (M79)</Russian>
+				<Spanish>Granadero (M79)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_09_DN">
+				<Chinesesimp>工兵（AK）</Chinesesimp>
+				<English>Sapper</English>
+				<French>Sapeur (AK)</French>
+				<German>Pionier (AK)</German>
+				<Italian>Geniere (AK)</Italian>
+				<Original>Sapper (AK)</Original>
+				<Portuguese>Sapador (AK)</Portuguese>
+				<Russian>Сапер (AK)</Russian>
+				<Spanish>Zapador (AK)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_11_DN">
+				<Chinesesimp>自动步枪手 (M1918A2)</Chinesesimp>
+				<English>Automatic Rifleman</English>
+				<French>Fusilier automatique (M1918A2)</French>
+				<German>Automatikschütze (M1918A2)</German>
+				<Italian>Fuciliere automatico (M1918A2)</Italian>
+				<Original>Automatic Rifleman (M1918A2)</Original>
+				<Portuguese>Fuzileiro automático (M1918A2)</Portuguese>
+				<Russian>Автоматчик (M1918A2)</Russian>
+				<Spanish>Fusilero automático (M1918A2)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_14_DN">
+				<Chinesesimp>反坦克弹（Ish-54/ B41）</Chinesesimp>
+				<English>AT</English>
+				<French>AC (Ish-54, B41)</French>
+				<German>PANZERABWEHR (Ish-54/B41)</German>
+				<Italian>Operatore anticarro (Ish-54, B41)</Italian>
+				<Original>AT (Ish-54/ B41)</Original>
+				<Portuguese>AT (Ish-54/B41)</Portuguese>
+				<Russian>ПТ (ИШ-54/ В41)</Russian>
+				<Spanish>Antitanque (Ish-54, B41)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_15_DN">
+				<Chinesesimp>迫击炮炮手（M36）</Chinesesimp>
+				<English>Mortar gunner</English>
+				<French>Artilleur de mortier (M36)</French>
+				<German>Mörserschütze (M36)</German>
+				<Italian>Artigliere (M36)</Italian>
+				<Original>Mortar gunner (M36)</Original>
+				<Portuguese>Artilheiro de morteiro (M36)</Portuguese>
+				<Russian>Минометчик (М36)</Russian>
+				<Spanish>Artillero de mortero (M36)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_16_DN">
+				<Chinesesimp>迫击炮炮弹（M38）</Chinesesimp>
+				<English>Mortar ammo</English>
+				<French>Chargeur de mortier (M38)</French>
+				<German>Mörsermunition (M38)</German>
+				<Italian>Portamunizioni mortaio (M38)</Italian>
+				<Original>Mortar ammo (M38)</Original>
+				<Portuguese>Munição de morteiro (M38)</Portuguese>
+				<Russian>Боеприпасы для миномета (M38)</Russian>
+				<Spanish>Munición de mortero (M38)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_17_DN">
+				<Chinesesimp>迫击炮三脚架（M38）</Chinesesimp>
+				<English>Mortar tripod</English>
+				<French>Trépied de mortier (M38)</French>
+				<German>Mörser-Dreifuß (M38)</German>
+				<Italian>Portatreppiede mortaio (M38)</Italian>
+				<Original>Mortar tripod (M38)</Original>
+				<Portuguese>Tripé de morteiro (M38)</Portuguese>
+				<Russian>Тренога миномета (M38)</Russian>
+				<Spanish>Trípode de mortero (M38)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_23_DN">
+				<Chinesesimp>侦察兵 (Ish-54)</Chinesesimp>
+				<English>Scout</English>
+				<French>Éclaireur (Ish-54)</French>
+				<German>Aufklärer (Ish-54)</German>
+				<Italian>Ricognitore (Ish-54)</Italian>
+				<Original>Scout (Ish-54)</Original>
+				<Portuguese>Batedor (Ish-54)</Portuguese>
+				<Russian>Разведчик (ИШ-54)</Russian>
+				<Spanish>Explorador (Ish-54)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_30_DN">
+				<Chinesesimp>掷弹兵（B41）</Chinesesimp>
+				<English>Grenadier</English>
+				<French>Grenadier (B41)</French>
+				<German>Grenadier (B41)</German>
+				<Italian>Granatiere (B41)</Italian>
+				<Original>Grenadier (B41)</Original>
+				<Portuguese>Granadeiro (B41)</Portuguese>
+				<Russian>Гранатометчик (B41)</Russian>
+				<Spanish>Granadero (B41)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_31_DN">
+				<Chinesesimp>反坦克弹（TT33/ B41）</Chinesesimp>
+				<English>AT</English>
+				<French>AC (TT33, B41)</French>
+				<German>PANZERABWEHR (TT33/B41)</German>
+				<Italian>Operatore anticarro (TT33, B41)</Italian>
+				<Original>AT (TT33/ B41)</Original>
+				<Portuguese>AT (TT33/B41)</Portuguese>
+				<Russian>ПТ (TT33/ B41)</Russian>
+				<Spanish>Antitanque (TT33, B41)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_32_DN">
+				<Chinesesimp>迫击炮炮手（56 式）</Chinesesimp>
+				<English>Mortar gunner</English>
+				<French>Artilleur de mortier (Type 56)</French>
+				<German>Mörserschütze (Type 56)</German>
+				<Italian>Artigliere (Type 56)</Italian>
+				<Original>Mortar gunner (Type 56)</Original>
+				<Portuguese>Artilheiro de morteiro (Tipo 56)</Portuguese>
+				<Russian>Минометчик (Тип 56)</Russian>
+				<Spanish>Artillero de mortero (Type 56)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_33_DN">
+				<Chinesesimp>迫击炮炮弹（SKS）</Chinesesimp>
+				<English>Mortar ammo</English>
+				<French>Chargeur de mortier (SKS)</French>
+				<German>Mörsermunition (SKS)</German>
+				<Italian>Portamunizioni mortaio (SKS)</Italian>
+				<Original>Mortar ammo (SKS)</Original>
+				<Portuguese>Munição de morteiro (SKS)</Portuguese>
+				<Russian>Боеприпасы для миномета (СКС)</Russian>
+				<Spanish>Munición de mortero (SKS)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_34_DN">
+				<Chinesesimp>迫击炮三脚架（AK）</Chinesesimp>
+				<English>Mortar tripod</English>
+				<French>Trépied de mortier (AK)</French>
+				<German>Mörser-Dreifuß (AK)</German>
+				<Italian>Portatreppiede mortaio (AK)</Italian>
+				<Original>Mortar tripod (AK)</Original>
+				<Portuguese>Tripé de morteiro (AK)</Portuguese>
+				<Russian>Тренога миномета (AK)</Russian>
+				<Spanish>Trípode de mortero (AK)</Spanish>
+			</Key>
+			<Key ID="STR_VN_O_MEN_KR_36_DN">
+				<Chinesesimp>侦察兵 (AK)</Chinesesimp>
+				<English>Scout</English>
+				<French>Éclaireur (AK)</French>
+				<German>Aufklärer (AK)</German>
+				<Italian>Ricognitore (AK)</Italian>
+				<Original>Scout (AK)</Original>
+				<Portuguese>Batedor (AK)</Portuguese>
+				<Russian>Разведчик (AK)</Russian>
+				<Spanish>Explorador (AK)</Spanish>
+			</Key>
+		<Key ID="STR_VN_O_MEN_KR_75_03_DN">
+			<Chinesesimp>步枪手（SKS 刺刀）</Chinesesimp>
+			<English>Rifleman 1 (SKS Bayo)</English>
+			<French>Fusilier 1 (SKS et baïonnette)</French>
+			<German>Schütze 1 (SKS/Bajonett)</German>
+			<Italian>Fuciliere 1 (SKS con baionetta)</Italian>
+			<Original>Rifleman 1 (SKS Bayo)</Original>
+			<Portuguese>Fuzileiro 1 (SKS com baioneta)</Portuguese>
+			<Russian>Стрелок 1 (СКС со штыком)</Russian>
+			<Spanish>Fusilero 1 (SKS, bayoneta)</Spanish>
+		</Key>
+		<Key ID="STR_VN_O_MEN_KR_75_10_DN">
+			<Chinesesimp>射手（M91/30）</Chinesesimp>
+			<English>Marksman</English>
+			<French>Tireur d'élite (M91/30)</French>
+			<German>Scharfschütze (M91/30)</German>
+			<Italian>Tiratore scelto (M91/30)</Italian>
+			<Original>Marksman (M91/30)</Original>
+			<Portuguese>Atirador (M91/30)</Portuguese>
+			<Russian>Снайпер (M91/30)</Russian>
+			<Spanish>Tirador (M91/30)</Spanish>
+		</Key>
+	</Package>
+</Project>
