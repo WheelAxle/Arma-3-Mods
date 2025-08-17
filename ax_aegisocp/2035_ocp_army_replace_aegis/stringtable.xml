@@ -1,0 +1,1724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="AX_Arma3_Aegis_OCP_Textures">
+	<Package name="Language_OCP">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_combat_fatigues">
+					<Original>Combat Fatigues [US] (OCP)</Original>
+					<Chinese>作戰戰鬥服（多地形共用）</Chinese>
+					<French>Treillis (OCP)</French>
+					<Spanish>Traje de combate (OCP)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP)</Italian>
+					<Polish>Mundur bojowy (OCP)</Polish>
+					<Russian>Боевая форма (OCP)</Russian>
+					<German>Kampfanzug (OCP)</German>
+					<Czech>Bojová uniforma (OCP)</Czech>
+					<English>Combat Fatigues [US] (OCP)</English>
+					<Portuguese>Uniforme de combate (OCP)</Portuguese>
+					<Korean>전투병 전투복(OCP)</Korean>
+					<Chinesesimp>作战服（OCP）</Chinesesimp>
+					<Japanese>戦闘服（OCP）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_combat_fatigues_female">
+					<Original>Combat Fatigues [US] (OCP, Female)</Original>
+					<Chinese>作戰戰鬥服（多地形共用）</Chinese>
+					<French>Treillis (OCP)</French>
+					<Spanish>Traje de combate (OCP)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP)</Italian>
+					<Polish>Mundur bojowy (OCP)</Polish>
+					<Russian>Боевая форма (OCP)</Russian>
+					<German>Kampfanzug (OCP)</German>
+					<Czech>Bojová uniforma (OCP)</Czech>
+					<English>Combat Fatigues [US] (OCP, Female)</English>
+					<Portuguese>Uniforme de combate (OCP)</Portuguese>
+					<Korean>전투병 전투복(OCP)</Korean>
+					<Chinesesimp>作战服（OCP）</Chinesesimp>
+					<Japanese>戦闘服（OCP）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_mcam_tshirt0">
+					<Original>Combat Fatigues [US] (OCP, Tee)</Original>
+					<Chinese>作戰戰鬥服（多地形共用，T 恤）</Chinese>
+					<French>Treillis (OCP, T-shirt)</French>
+					<Spanish>Traje de combate (OCP, camiseta)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP, T-shirt)</Italian>
+					<Polish>Mundur bojowy (OCP, Tee)</Polish>
+					<Russian>Боевая форма (OCP, Tee)</Russian>
+					<German>Kampfanzug (OCP, T-Shirt)</German>
+					<Czech>Bojová uniforma (OCP, triko)</Czech>
+					<English>Combat Fatigues [US] (OCP, Tee)</English>
+					<Portuguese>Uniforme de combate (OCP, camisa)</Portuguese>
+					<Korean>전투병 전투복(OCP, 티)</Korean>
+					<Chinesesimp>作战服（OCP，T 字形）</Chinesesimp>
+					<Japanese>戦闘服（OCP、Tシャツ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP, Tişört)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_mcam_tshirt0">
+					<Original>Combat Fatigues [US] (OCP, Tee)</Original>
+					<Chinese>作戰戰鬥服（多地形共用，T 恤）</Chinese>
+					<French>Treillis (OCP, T-shirt)</French>
+					<Spanish>Traje de combate (OCP, camiseta)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP, T-shirt)</Italian>
+					<Polish>Mundur bojowy (OCP, Tee)</Polish>
+					<Russian>Боевая форма (OCP, Tee)</Russian>
+					<German>Kampfanzug (OCP, T-Shirt)</German>
+					<Czech>Bojová uniforma (OCP, triko)</Czech>
+					<English>Combat Fatigues [US] (OCP, Tee)</English>
+					<Portuguese>Uniforme de combate (OCP, camisa)</Portuguese>
+					<Korean>전투병 전투복(OCP, 티)</Korean>
+					<Chinesesimp>作战服（OCP，T 字形）</Chinesesimp>
+					<Japanese>戦闘服（OCP、Tシャツ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP, Tişört)</Turkish>
+				</Key>
+				<Key ID="STR_AX_A_CfgWeapons_U_B_CombatUniform_mcam_shirt0">
+					<Original>Combat Fatigues [US] (OCP, T-Shirt)</Original>
+					<Chinese>作戰戰鬥服（多地形共用，T 恤）</Chinese>
+					<French>Treillis (OCP, T-shirt)</French>
+					<Spanish>Traje de combate (OCP, camiseta)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP, T-shirt)</Italian>
+					<Polish>Mundur bojowy (OCP, Tee)</Polish>
+					<Russian>Боевая форма (OCP, Tee)</Russian>
+					<German>Kampfanzug (OCP, T-Shirt)</German>
+					<Czech>Bojová uniforma (OCP, triko)</Czech>
+					<English>Combat Fatigues [US] (OCP, T-Shirt)</English>
+					<Portuguese>Uniforme de combate (OCP, camisa)</Portuguese>
+					<Korean>전투병 전투복(OCP, 티)</Korean>
+					<Chinesesimp>作战服（OCP，T 字形）</Chinesesimp>
+					<Japanese>戦闘服（OCP、Tシャツ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP, Tişört)</Turkish>
+				</Key>
+				<Key ID="STR_AX_A_CfgWeapons_U_B_CombatUniform_mcam_shirt_scarf0">
+					<Original>Combat Fatigues [US] (OCP, T-Shirt, Shemagh)</Original>
+					<Chinese>作戰戰鬥服（多地形共用，T 恤）</Chinese>
+					<French>Treillis (OCP, T-shirt)</French>
+					<Spanish>Traje de combate (OCP, camiseta)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP, T-shirt)</Italian>
+					<Polish>Mundur bojowy (OCP, Tee)</Polish>
+					<Russian>Боевая форма (OCP, Tee)</Russian>
+					<German>Kampfanzug (OCP, T-Shirt)</German>
+					<Czech>Bojová uniforma (OCP, triko)</Czech>
+					<English>Combat Fatigues [US] (OCP, T-Shirt, Shemagh)</English>
+					<Portuguese>Uniforme de combate (OCP, camisa)</Portuguese>
+					<Korean>전투병 전투복(OCP, 티)</Korean>
+					<Chinesesimp>作战服（OCP，T 字形）</Chinesesimp>
+					<Japanese>戦闘服（OCP、Tシャツ）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP, Tişört)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_U_B_CombatUniform_mcam_vest0">
+					<Original>Combat Fatigues [US] (OCP, Rolled-up)</Original>
+					<Chinese>作戰戰鬥服（多地形共用，捲起）</Chinese>
+					<French>Treillis de combat (OCP, manches retroussées)</French>
+					<Spanish>Traje de combate (OCP, arremangado)</Spanish>
+					<Italian>Uniforme da combattimento (mimetico OCP, maniche arrotolate)</Italian>
+					<Polish>Mundur bojowy (OCP, podwinięty)</Polish>
+					<Russian>Полевая форма (OCP, рукава)</Russian>
+					<German>Kampfanzug (OCP, Hochgekrempelt)</German>
+					<Czech>Bojová uniforma (OCP, vyhrnutá)</Czech>
+					<English>Combat Fatigues [US] (OCP, Rolled-up)</English>
+					<Portuguese>Trajes de combate (OCP, manga dobrada)</Portuguese>
+					<Korean>전투병 전투복(OCP, 롤업)</Korean>
+					<Chinesesimp>战斗迷彩服（OCP，卷起）</Chinesesimp>
+					<Japanese>戦闘服（OCP、袖まくり）</Japanese>
+					<Turkish>Savaş Asker Kıyafeti (OCP, Kolları Kıvrık)</Turkish>
+				</Key>
+                <Key ID="STR_A3_combat_fatigues_worn">
+                    <Original>Worn Combat Fatigues (OCP)</Original>
+                    <Chinese>破舊作戰戰鬥服（多地形共用）</Chinese>
+                    <French>Vieux treillis (OCP)</French>
+                    <Spanish>Traje de combate desgastado (OCP)</Spanish>
+                    <Italian>Uniforme da combattimento logora (mimetico OCP)</Italian>
+                    <Polish>Znoszony mundur bojowy (OCP)</Polish>
+                    <Russian>Поношенная полевая форма (OCP)</Russian>
+                    <German>Getragener Kampfanzug (OCP)</German>
+                    <Czech>Obnošená bojová uniforma (OCP)</Czech>
+                    <English>Worn Combat Fatigues [US] (OCP)</English>
+                    <Portuguese>Uniforme de combate gasto (OCP)</Portuguese>
+                    <Korean>헤진 전투병 전투복(OCP)</Korean>
+                    <Chinesesimp>穿旧的作战服 (OCP)</Chinesesimp>
+                    <Japanese>着古した戦闘服（OCP）</Japanese>
+                    <Turkish>Giyilmiş Savaş Asker Kıyafeti (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_survival_fatigues_F0">
+                    <Original>Survival Fatigues (OCP)</Original>
+                    <Chinese>生存者戰鬥服（OCP）</Chinese>
+                    <French>Treillis de survie (OCP)</French>
+                    <Spanish>Ropa de supervivencia (OCP)</Spanish>
+                    <Italian>Fatiche di sopravvivenza (mimetico OCP)</Italian>
+                    <Polish>Mundur polowy (OCP)</Polish>
+                    <Russian>Одежда для выживания (OCP)</Russian>
+                    <German>Notfallmilitäranzug (OCP)</German>
+                    <Czech>Uniforma pro přežití (OCP)</Czech>
+                    <English>Survival Fatigues (OCP)</English>
+                    <Portuguese>Uniformes de sobrevivência (OCP)</Portuguese>
+                    <Korean>생존복 (OCP)</Korean>
+                    <Chinesesimp>救生服 (OCP)</Chinesesimp>
+                    <Japanese>サバイバル服 (OCP)</Japanese>
+                    <Turkish>Hayatta Kalma Asker Kıyafeti (OCP)</Turkish>
+                </Key>
+				<Key ID="STR_A3_survival_fatigues_US_OCPF0">
+                    <Original>Survival Fatigues [US] (OCP)</Original>
+                    <Chinese>生存者戰鬥服 (美國)（OCP）</Chinese>
+                    <French>Treillis de survie [US] (OCP)</French>
+                    <Spanish>Ropa de supervivencia [EE.UU.] (OCP)</Spanish>
+                    <Italian>Fatiche di sopravvivenza [US] (mimetico OCP)</Italian>
+                    <Polish>Mundur polowy [US] (OCP)</Polish>
+                    <Russian>Одежда для выживания [США] (OCP)</Russian>
+                    <German>Notfallmilitäranzug [US] (OCP)</German>
+                    <Czech>Uniforma pro přežití [USA] (OCP)</Czech>
+                    <English>Survival Fatigues [US] (OCP)</English>
+                    <Portuguese>Uniformes de sobrevivência [EUA] (OCP)</Portuguese>
+                    <Korean>생존복 [미국] (OCP)</Korean>
+                    <Chinesesimp>救生服 [美国] (OCP)</Chinesesimp>
+                    <Japanese>サバイバル服[米国] (OCP)</Japanese>
+                    <Turkish>Hayatta Kalma Asker Kıyafeti [ABD] (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_ghillie_suit">
+					<Original>Ghillie Suit [US] (OCP)</Original>
+					<Chinese>偽裝服 (美國)（OCP）</Chinese>
+					<French>Combinaison de camouflage [US] (OCP)</French>
+					<Spanish>Traje de camuflaje [EE.UU.] (OCP)</Spanish>
+					<Italian>Mimetica da cecchino [US] (mimetico OCP)</Italian>
+					<Polish>Ghillie [US] (OCP)</Polish>
+					<Russian>Маскировочный костюм [США] (OCP)</Russian>
+					<German>Ghillie-Anzug [US] (OCP)</German>
+					<Czech>Hejkal [USA] (OCP)</Czech>
+					<English>Ghillie Suit [US] (OCP)</English>
+					<Portuguese>Traje ghillie [EUA] (OCP)</Portuguese>
+					<Korean>위장복 [미국] (OCP)</Korean>
+					<Chinesesimp>吉利服 [美国] (OCP)</Chinesesimp>
+					<Japanese>ギリースーツ[米国] (OCP)</Japanese>
+					<Turkish>Ghillie Kostümü [ABD] (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_C_CfgWeapons_U_B_CBRN_Suit_01_MTP_F0">
+                    <Original>CBRN Suit [US] (OCP)</Original>
+                    <Chinese>核生化套裝 (美國)（多地形共用）</Chinese>
+                    <French>Combinaison NRBC [US] (OCP)</French>
+                    <Spanish>Traje NRBQ [EE.UU.] (OCP)</Spanish>
+                    <Italian>Tuta NBC [US] (OCP)</Italian>
+                    <Polish>Strój ochronny ABC [US] (OCP)</Polish>
+                    <Russian>Химкостюм [США] (OCP) </Russian>
+                    <German>CBRN-Anzug [US] (OCP)</German>
+                    <Czech>CBRN oblek [USA] (OCP)</Czech>
+                    <English>CBRN Suit [US] (OCP)</English>
+                    <Portuguese>Traje QBRN [EUA] (OCP)</Portuguese>
+                    <Korean>CBRN 수트 [미국] (OCP)</Korean>
+                    <Chinesesimp>生化核辐套装 [美国] (OCP)</Chinesesimp>
+                    <Japanese>CBRN スーツ [米国] (OCP)</Japanese>
+                    <Turkish>KBRN Kıyafeti [ABD] (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_helipilot_coveralls_nato_0">
+                    <Original>Heli Pilot Coveralls [US]</Original>
+                    <Chinese>直升機飛行員連身服（美國）</Chinese>
+                    <French>Combinaisons Pilote Hélicoptère [US]</French>
+                    <Spanish>Mono de piloto de helicóptero [EE.UU.]</Spanish>
+                    <Italian>Tuta da elicotterista [US]</Italian>
+                    <Polish>Kombinezon pilota śmigłowca [US]</Polish>
+                    <Russian>Комбинезон вертолетчика [США]</Russian>
+                    <German>Heli-Pilot-Overall [US]</German>
+                    <Czech>Kombinéza pilota vrtulníku [USA]</Czech>
+                    <English>Heli Pilot Coveralls [US]</English>
+                    <Portuguese>Macacão de piloto de helicóptero [EUA]</Portuguese>
+                    <Korean>헬기 조종사 비행복 [미국]</Korean>
+                    <Chinesesimp>直升机飞行员服 [美国]</Chinesesimp>
+                    <Japanese>ヘリパイロットカバーオール [米国]</Japanese>
+                    <Turkish>Helikopter Pilotu Tulumu [ABD]</Turkish>
+                </Key>
+                <Key ID="STR_LXRF_U_B_HeliPilotCoveralls_MTP">
+                    <Original>Heli Pilot Coveralls [US] (OCP)</Original>
+                    <Chinese>直升機飛行員連身服（美國）(OCP)</Chinese>
+                    <French>Combinaison de pilote d'hélico [US] (OCP)</French>
+                    <Spanish>Mono de piloto de helicóptero [EE.UU.] (OCP)</Spanish>
+                    <Italian>Tuta da elicotterista [US] (OCP)</Italian>
+                    <Polish>Kombinezon pilota śmigłowca [US] (OCP)</Polish>
+                    <Russian>Комбинезон вертолетчика [США] (OCP)</Russian>
+                    <German>Heli-Pilot-Overall [US] (OCP)</German>
+                    <Czech>Kombinéza pilota vrtulníku [USA] (OCP)</Czech>
+                    <English>Heli Pilot Coveralls [US] (OCP)</English>
+                    <Portuguese>Macacão de piloto de helicóptero [EUA] (OCP)</Portuguese>
+                    <Korean>헬기 조종사 비행복 [미국] (OCP)</Korean>
+                    <Chinesesimp>直升机飞行员连体服 [美国] (OCP)</Chinesesimp>
+                    <Japanese>ヘリパイロットカバーオール [米国] (OCP)</Japanese>
+                    <Turkish>Helikopter Pilotu Tulumu [ABD] (OCP)</Turkish>
+                </Key>
+				<Key ID="STR_AX_U_B_HeliPilotCoveralls_gloves_OCP">
+                    <Original>Heli Pilot Coveralls [US] (OCP, Gloves)</Original>
+                    <Chinese>直升機飛行員連身服（美國）(OCP)</Chinese>
+                    <French>Combinaison de pilote d'hélico [US] (OCP)</French>
+                    <Spanish>Mono de piloto de helicóptero [EE.UU.] (OCP)</Spanish>
+                    <Italian>Tuta da elicotterista [US] (OCP)</Italian>
+                    <Polish>Kombinezon pilota śmigłowca [US] (OCP)</Polish>
+                    <Russian>Комбинезон вертолетчика [США] (OCP)</Russian>
+                    <German>Heli-Pilot-Overall [US] (OCP)</German>
+                    <Czech>Kombinéza pilota vrtulníku [USA] (OCP)</Czech>
+                    <English>Heli Pilot Coveralls [US] (OCP, Gloves)</English>
+                    <Portuguese>Macacão de piloto de helicóptero [EUA] (OCP)</Portuguese>
+                    <Korean>헬기 조종사 비행복 [미국] (OCP)</Korean>
+                    <Chinesesimp>直升机飞行员连体服 [美国] (OCP)</Chinesesimp>
+                    <Japanese>ヘリパイロットカバーオール [米国] (OCP)</Japanese>
+                    <Turkish>Helikopter Pilotu Tulumu [ABD] (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_Atlas_U_B_JSOC_StealthUniform_F0">
+					<Original>Stealth Uniform [US] (OCP)</Original>
+					<Chinese>Stealth Uniform [US] (OCP)</Chinese>
+					<French>Stealth Uniform [US] (OCP)</French>
+					<Spanish>Stealth Uniform [EE.UU.] (OCP)</Spanish>
+					<Italian>Stealth Uniform [US] (mimetico OCP)</Italian>
+					<Polish>Stealth Uniform [US] (OCP)</Polish>
+					<Russian>Stealth Uniform [США] (OCP)</Russian>
+					<German>Stealth Uniform [US] (OCP)</German>
+					<Czech>Stealth Uniform [USA] (OCP)</Czech>
+					<English>Stealth Uniform [US] (OCP)</English>
+					<Portuguese>Stealth Uniform [EUA] (OCP)</Portuguese>
+					<Korean>Stealth Uniform [미국] (OCP)</Korean>
+					<Chinesesimp>Stealth Uniform [美国] (OCP)</Chinesesimp>
+					<Japanese>Stealth Uniform [米国] (OCP)</Japanese>
+					<Turkish>Stealth Uniform [ABD] (OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Atlas_U_B_JSOC_StealthUniform_RolledUp_F0">
+					<Original>Stealth Uniform [US] (OCP, Rolled-Up)</Original>
+					<Chinese>Stealth Uniform (美國) (OCP，捲起)</Chinese>
+					<French>Stealth Uniform [US] (OCP, manches retroussées)</French>
+					<Spanish>Stealth Uniform [EE.UU.] (OCP, arremangado)</Spanish>
+					<Italian>Stealth Uniform [US] (mimetico OCP, maniche arrotolate)</Italian>
+					<Polish>Stealth Uniform [US] (OCP, podwinięty)</Polish>
+					<Russian>Stealth Uniform [США] (OCP, рукава)</Russian>
+					<German>Stealth Uniform [US] (OCP, Hochgekrempelt)</German>
+					<Czech>Stealth Uniform [USA] (OCP, vyhrnutá)</Czech>
+					<English>Stealth Uniform [US] (OCP, Rolled-Up)</English>
+					<Portuguese>Stealth Uniform [EUA] (OCP, manga dobrada)</Portuguese>
+					<Korean>Stealth Uniform [미국] (OCP, 롤업)</Korean>
+					<Chinesesimp>Stealth Uniform [美国] (OCP，卷起)</Chinesesimp>
+					<Japanese>Stealth Uniform [米国] (OCP、袖まくり)</Japanese>
+					<Turkish>Stealth Uniform [ABD] (OCP, Kolları Kıvrık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Atlas_U_CombatUniformNCU_01_ocp_F0">
+					<Original>European Combat Uniform (OCP)</Original>
+					<Chinese>European Combat Uniform (OCP)</Chinese>
+					<French>European Combat Uniform (OCP)</French>
+					<Spanish>European Combat Uniform (OCP)</Spanish>
+					<Italian>European Combat Uniform (mimetico OCP)</Italian>
+					<Polish>European Combat Uniform (OCP)</Polish>
+					<Russian>European Combat Uniform (OCP)</Russian>
+					<German>European Combat Uniform (OCP)</German>
+					<Czech>European Combat Uniform (OCP)</Czech>
+					<English>European Combat Uniform (OCP)</English>
+					<Portuguese>European Combat Uniform (OCP)</Portuguese>
+					<Korean>European Combat Uniform (OCP)</Korean>
+					<Chinesesimp>European Combat Uniform (OCP)</Chinesesimp>
+					<Japanese>European Combat Uniform (OCP)</Japanese>
+					<Turkish>European Combat Uniform (OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Atlas_U_CombatUniformNCU_01_dmc_F0">
+					<Original>European Combat Uniform (MC)</Original>
+					<Chinese>European Combat Uniform (MC)</Chinese>
+					<French>European Combat Uniform (MC)</French>
+					<Spanish>European Combat Uniform (MC)</Spanish>
+					<Italian>European Combat Uniform (mimetico MC)</Italian>
+					<Polish>European Combat Uniform (MC)</Polish>
+					<Russian>European Combat Uniform (MC)</Russian>
+					<German>European Combat Uniform (MC)</German>
+					<Czech>European Combat Uniform (MC)</Czech>
+					<English>European Combat Uniform (MC)</English>
+					<Portuguese>European Combat Uniform (MC)</Portuguese>
+					<Korean>European Combat Uniform (MC)</Korean>
+					<Chinesesimp>European Combat Uniform (MC)</Chinesesimp>
+					<Japanese>European Combat Uniform (MC)</Japanese>
+					<Turkish>European Combat Uniform (MC)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Atlas_U_CombatUniformNCU_02_ocp_F0">
+					<Original>European Combat Uniform (OCP, Rolled-up)</Original>
+					<Chinese>European Combat Uniform (OCP，捲起)</Chinese>
+					<French>European Combat Uniform (OCP, manches retroussées)</French>
+					<Spanish>European Combat Uniform (OCP, arremangado)</Spanish>
+					<Italian>European Combat Uniform (mimetico OCP, maniche arrotolate)</Italian>
+					<Polish>European Combat Uniform (OCP, podwinięty)</Polish>
+					<Russian>European Combat Uniform (OCP, рукава)</Russian>
+					<German>European Combat Uniform (OCP, Hochgekrempelt)</German>
+					<Czech>European Combat Uniform (OCP, vyhrnutá)</Czech>
+					<English>European Combat Uniform (OCP, Rolled-up)</English>
+					<Portuguese>European Combat Uniform (OCP, manga dobrada)</Portuguese>
+					<Korean>European Combat Uniform (OCP, 롤업)</Korean>
+					<Chinesesimp>European Combat Uniform (OCP，卷起)</Chinesesimp>
+					<Japanese>European Combat Uniform (OCP、袖まくり)</Japanese>
+					<Turkish>European Combat Uniform (OCP, Kolları Kıvrık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_Atlas_U_CombatUniformNCU_02_dmc_F0">
+					<Original>European Combat Uniform (MC, Rolled-up)</Original>
+					<Chinese>European Combat Uniform (MC，捲起)</Chinese>
+					<French>European Combat Uniform (MC, manches retroussées)</French>
+					<Spanish>European Combat Uniform (MC, arremangado)</Spanish>
+					<Italian>European Combat Uniform (mimetico MC, maniche arrotolate)</Italian>
+					<Polish>European Combat Uniform (MC, podwinięty)</Polish>
+					<Russian>European Combat Uniform (MC, рукава)</Russian>
+					<German>European Combat Uniform (MC, Hochgekrempelt)</German>
+					<Czech>European Combat Uniform (MC, vyhrnutá)</Czech>
+					<English>European Combat Uniform (MC, Rolled-up)</English>
+					<Portuguese>European Combat Uniform (MC, manga dobrada)</Portuguese>
+					<Korean>European Combat Uniform (MC, 롤업)</Korean>
+					<Chinesesimp>European Combat Uniform (MC，卷起)</Chinesesimp>
+					<Japanese>European Combat Uniform (MC、袖まくり)</Japanese>
+					<Turkish>European Combat Uniform (MC, Kolları Kıvrık)</Turkish>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd">
+            		<English>Ranger Fatigues [US] (Multicam)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_vest">
+					<English>Ranger Fatigues [US] (Multicam, Rolled-up)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_tee">
+					<English>Ranger Fatigues [US] (Multicam, T-Shirt)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_djella">
+					<English>Ranger Fatigues [US] (Multicam, Djellaba)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_survival">
+					<English>Ranger Fatigues [US] (Multicam, Diver)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_Casual6">
+					<English>Ranger Fatigues [US] (Multicam, Casual)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_Casual4">
+					<English>Ranger Fatigues [US] (Multicam, White Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_Casual2">
+					<English>Ranger Fatigues [US] (Multicam, Red Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_snd_Casual3">
+					<English>Ranger Fatigues [US] (Multicam, Blue Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_mcam_grn">
+            		<English>Ranger Fatigues [US] (Multicam/Green)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd">
+            		<English>Ranger Fatigues [US] (OCP/Sand)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_vest">
+					<English>Ranger Fatigues [US] (OCP/Sand, Rolled-up)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_tee">
+					<English>Ranger Fatigues [US] (OCP/Sand, T-Shirt)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_djella">
+					<English>Ranger Fatigues [US] (OCP, Djellaba)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_survival">
+					<English>Ranger Fatigues [US] (OCP, Diver)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_Casual6">
+					<English>Ranger Fatigues [US] (OCP, Casual)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_Casual4">
+					<English>Ranger Fatigues [US] (OCP, White Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_Casual2">
+					<English>Ranger Fatigues [US] (OCP, Red Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_snd_Casual3">
+					<English>Ranger Fatigues [US] (OCP, Blue Polo)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_grn">
+            		<English>Ranger Fatigues [US] (OCP/Green)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_grn_vest">
+					<English>Ranger Fatigues [US] (OCP/Green, Rolled-up)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_U_B_RangerUniform_ocp_grn_tee">
+					<English>Ranger Fatigues [US] (OCP/Green, T-Shirt)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_1">
+					<English>Marine Combat Uniform (OCP)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_2">
+					<English>Marine Combat Uniform (OCP/Gloves)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_3">
+					<English>Marine Combat Uniform (OCP/Gloves/Rolled Up)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_4">
+					<English>Marine Combat Uniform (OCP/Gloves/Rolled Up/Knee Pads)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_5">
+					<English>Marine Combat Uniform (OCP/Gloves/Knee Pads)</English>
+				</Key>
+				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_6">
+					<English>Marine Combat Uniform (OCP/Rolled Up)</English>
+				</Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_h_bandanna_mcamo0">
+                    <Original>Bandana (OCP)</Original>
+                    <Chinese>頭巾（多地形共用）</Chinese>
+                    <French>Bandana (OCP)</French>
+                    <Spanish>Pañuelo (OCP)</Spanish>
+                    <Italian>Bandana (mimetica OCP)</Italian>
+                    <Polish>Bandana (OCP)</Polish>
+                    <Russian>Бандана (OCP)</Russian>
+                    <German>Kopftuch (OCP)</German>
+                    <Czech>Šátek (OCP)</Czech>
+                    <English>Bandana (OCP)</English>
+                    <Portuguese>Bandana (OCP)</Portuguese>
+                    <Korean>반다나(OCP)</Korean>
+                    <Chinesesimp>印度方巾 (OCP)</Chinesesimp>
+                    <Japanese>バンダナ（OCP）</Japanese>
+                    <Turkish>Bandana (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_Bandanna_mcamo_hs0">
+					<Original>Bandana (OCP, Headset)</Original>
+					<Chinese>頭巾（多地形共用，耳機）</Chinese>
+					<French>Bandana (OCP, micro-casque)</French>
+					<Spanish>Pañuelo (OCP, auricular)</Spanish>
+					<Italian>Bandana (mimetico OCP, cuffia)</Italian>
+					<Polish>Bandana (OCP, głowa)</Polish>
+					<Russian>Бандана (OCP, гарнитура)</Russian>
+					<German>Kopftuch (OCP, Headset)</German>
+					<Czech>Šátek (OCP, náhlavní souprava)</Czech>
+					<English>Bandana (OCP, Headset)</English>
+					<Portuguese>Bandana (OCP, headset)</Portuguese>
+					<Korean>반다나(OCP, 헤드셋)</Korean>
+					<Chinesesimp>印度方巾（OCP，头戴式耳机）</Chinesesimp>
+					<Japanese>バンダナ（OCP、ヘッドセット）</Japanese>
+					<Turkish>Bandana (OCP, Mik. Kulaklık)</Turkish>
+				</Key>
+                <Key ID="STR_A3_h_booniehat_mcamo0">
+                    <Original>Booniehat (OCP)</Original>
+                    <Chinese>登山帽（多地形共用）</Chinese>
+                    <French>Chapeau de brousse (OCP)</French>
+                    <Spanish>Gorro militar (OCP)</Spanish>
+                    <Italian>Boonie hat (mimetico OCP)</Italian>
+                    <Polish>Kapelusz wojskowy (OCP)</Polish>
+                    <Russian>Панама (OCP)</Russian>
+                    <German>Buschhut (OCP)</German>
+                    <Czech>Klobouk (OCP)</Czech>
+                    <English>Booniehat (OCP)</English>
+                    <Portuguese>Chapéu tático (OCP)</Portuguese>
+                    <Korean>부니햇(OCP)</Korean>
+                    <Chinesesimp>奔尼帽 (OCP)</Chinesesimp>
+                    <Japanese>ブーニーハット（OCP）</Japanese>
+                    <Turkish>Boonie Şapka (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_Booniehat_mcamo_hs0">
+					<Original>Booniehat (OCP, Headset)</Original>
+					<Chinese>登山帽（多地形共用，耳機）</Chinese>
+					<French>Chapeau de brousse (OCP, micro-casque)</French>
+					<Spanish>Sombrero militar (OCP, auricular)</Spanish>
+					<Italian>Cappello militare a falda larga (mimetico OCP, cuffia)</Italian>
+					<Polish>Kapelusz wojskowy (OCP, głowa)</Polish>
+					<Russian>Панама (OCP, гарнитура)</Russian>
+					<German>Tarnhut (OCP, Headset)</German>
+					<Czech>Klobouk (OCP, náhlavní souprava)</Czech>
+					<English>Booniehat (OCP, Headset)</English>
+					<Portuguese>Chapéu tático (OCP, headset)</Portuguese>
+					<Korean>부니햇(OCP, 헤드셋)</Korean>
+					<Chinesesimp>郊区（OCP，头戴式耳机）</Chinesesimp>
+					<Japanese>ブーニーハット（OCP、ヘッドセット）</Japanese>
+					<Turkish>Boonie Şapka (OCP, Mik. Kulaklık)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_Cap_tan_specops_US0">
+					<Original>Cap (US, OCP)</Original>
+					<Chinese>棒球帽（美國，多地形共用）</Chinese>
+					<French>Casquette (OCP, US)</French>
+					<Spanish>Gorra (EE.UU., OCP)</Spanish>
+					<Italian>Cappellino (US mimetico OCP)</Italian>
+					<Polish>Czapka (US, OCP)</Polish>
+					<Russian>Кепка (США, OCP)</Russian>
+					<German>Mütze (US, OCP)</German>
+					<Czech>Čepice (USA, OCP)</Czech>
+					<English>Cap (OCP)</English>
+					<Portuguese>Boné (OCP, EUA)</Portuguese>
+					<Korean>모자(미국, OCP)</Korean>
+					<Chinesesimp>无檐帽（美国，OCP）</Chinesesimp>
+					<Japanese>キャップ（米国、OCP）</Japanese>
+					<Turkish>Şapka (ABD, OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_Cap_tan_specops_US_hs0">
+					<Original>Cap (US, OCP, Headset)</Original>
+					<Chinese>棒球帽（美國，多地形共用，耳機）</Chinese>
+					<French>Casquette (OCP, US, micro-casque)</French>
+					<Spanish>Gorra (EE.UU., OCP, auricular)</Spanish>
+					<Italian>Cappello (US, mimetico OCP, cuffia)</Italian>
+					<Polish>Czapka (US, OCP, headset)</Polish>
+					<Russian>Кепи (США, OCP, гарнитура)</Russian>
+					<German>Mütze (US, OCP, Headset)</German>
+					<Czech>Čepice (US, OCP, náhlavní souprava)</Czech>
+					<English>Cap (OCP, Headset)</English>
+					<Portuguese>Boné (OCP, EUA, headset)</Portuguese>
+					<Korean>모자(미국, OCP, 헤드셋)</Korean>
+					<Chinesesimp>无檐帽（美国，OCP，头戴式耳机）</Chinesesimp>
+					<Japanese>キャップ（米国、OCP、ヘッドセット）</Japanese>
+					<Turkish>Şapka (ABD, OCP, Baş Giysisi)</Turkish>
+				</Key>
+				<Key ID="str_a3_h_milcap_mcamo0">
+            		<Original>Military Cap (Headset, OCP)</Original>
+            		<Chinese>軍用棒球帽（耳機, 多地形共用）</Chinese>
+            		<French>Casquette militaire (micro-casque, OCP)</French>
+            		<Spanish>Gorra militar (auricular, OCP)</Spanish>
+            		<Italian>Cappello militare (cuffia, mimetico OCP)</Italian>
+            		<Polish>Czapka wojskowa (głowa, OCP)</Polish>
+            		<Russian>Армейская кепка (гарнитура, OCP)</Russian>
+            		<German>Militärmütze (Headset, OCP)</German>
+            		<Czech>Vojenská čepice (náhlavní souprava, OCP)</Czech>
+            		<English>Military Cap (Headset, OCP)</English>
+            		<Portuguese>Boné militar (Headset, OCP)</Portuguese>
+            		<Korean>군용 모자(헤드셋, OCP)</Korean>
+            		<Chinesesimp>军帽 (头戴式耳机, OCP)</Chinesesimp>
+            		<Japanese>ミリタリーキャップ（ヘッドセット, OCP）</Japanese>
+            		<Turkish>Askeri Kasket (Mik. Kulaklık, OCP)</Turkish>
+          		</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_MilCap_nohs_mcamo0">
+                    <Original>Military Cap (OCP)</Original>
+                    <Chinese>軍用棒球帽（多地形共用）</Chinese>
+                    <French>Casquette militaire (OCP)</French>
+                    <Spanish>Gorra militar (OCP)</Spanish>
+                    <Italian>Cappello militare (mimetico OCP)</Italian>
+                    <Polish>Czapka wojskowa (OCP)</Polish>
+                    <Russian>Армейская кепка (OCP)</Russian>
+                    <German>Militärmütze (OCP)</German>
+                    <Czech>Vojenská čepice (OCP)</Czech>
+                    <English>Military Cap (OCP)</English>
+                    <Portuguese>Boné militar (OCP)</Portuguese>
+                    <Korean>군용 모자(OCP)</Korean>
+                    <Chinesesimp>军帽 (OCP)</Chinesesimp>
+                    <Japanese>ミリタリーキャップ（OCP）</Japanese>
+                    <Turkish>Askeri Kasket (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetB_alt_tan0">
+					<Original>Combat Helmet (Tan)</Original>
+					<Chinese>戰鬥頭盔（棕褐色）</Chinese>
+					<French>Casque de combat (marron clair)</French>
+					<Spanish>Casco de combate (tostado)</Spanish>
+					<Italian>Elmetto da combattimento (marrone chiaro)</Italian>
+					<Polish>Hełm bojowy (beżowy)</Polish>
+					<Russian>Штурмовой шлем (коричневый)</Russian>
+					<German>Kampfhelm (hellbraun)</German>
+					<Czech>Bojová přilba (okrový)</Czech>
+					<English>Combat Helmet (Tan)</English>
+					<Portuguese>Capacete de combate (Castanha)</Portuguese>
+					<Korean>전투 헬멧(황갈색)</Korean>
+					<Chinesesimp>作战头盔（棕褐色）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（タン）</Japanese>
+					<Turkish>Savaş Miğferi (Ten)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_alt_tan0">
+					<Original>Combat Helmet (Tan, Enhanced)</Original>
+					<Chinese>戰鬥頭盔（棕褐色，加強型）</Chinese>
+					<French>Casque de combat (marron clair, amélioré)</French>
+					<Spanish>Casco de combate (tostado, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (marrone chiaro, migliorato)</Italian>
+					<Polish>Hełm bojowy (beżowy, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (коричневый, улучшенный)</Russian>
+					<German>Kampfhelm (hellbraun, verbesserter)</German>
+					<Czech>Bojová přilba (okrový, vylepšená)</Czech>
+					<English>Combat Helmet (Tan, Enhanced)</English>
+					<Portuguese>Capacete de combate (Castanha, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (황갈색, 강화)</Korean>
+					<Chinesesimp>作战头盔（棕褐色，增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（タン、改良型）</Japanese>
+					<Turkish>Savaş Miğferi (Ten, Gelişmiş)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetB_alt_blk0">
+					<Original>Combat Helmet (Dark Gray)</Original>
+					<Chinese>戰鬥頭盔（黑）</Chinese>
+					<French>Casque de combat (noire)</French>
+					<Spanish>Casco de combate (negro)</Spanish>
+					<Italian>Elmetto da combattimento (nero)</Italian>
+					<Polish>Hełm bojowy (czarna)</Polish>
+					<Russian>Штурмовой шлем (черный)</Russian>
+					<German>Kampfhelm (Schwarz)</German>
+					<Czech>Bojová přilba (černá)</Czech>
+					<English>Combat Helmet (Dark Gray)</English>
+					<Portuguese>Capacete de combate (preta)</Portuguese>
+					<Korean>전투 헬멧(흑색)</Korean>
+					<Chinesesimp>作战头盔（黑色）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（黒）</Japanese>
+					<Turkish>Savaş Miğferi (Siyah)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_alt_blk0">
+					<Original>Combat Helmet (Dark Gray, Enhanced)</Original>
+					<Chinese>戰鬥頭盔（黑，加強型）</Chinese>
+					<French>Casque de combat (noire, amélioré)</French>
+					<Spanish>Casco de combate (negro, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (nero, migliorato)</Italian>
+					<Polish>Hełm bojowy (trawiasty, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (черный, улучшенный)</Russian>
+					<German>Kampfhelm (Schwarz, verbesserter)</German>
+					<Czech>Bojová přilba (černá, vylepšená)</Czech>
+					<English>Combat Helmet (Dark Gray, Enhanced)</English>
+					<Portuguese>Capacete de combate (preta, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (흑색, 강화)</Korean>
+					<Chinesesimp>作战头盔（黑色，增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（黒、改良型）</Japanese>
+					<Turkish>Savaş Miğferi (Siyah, Gelişmiş)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetB_alt_grn0">
+					<Original>Combat Helmet (Olive Green)</Original>
+					<Chinese>戰鬥頭盔（綠）</Chinese>
+					<French>Casque de combat (verte)</French>
+					<Spanish>Casco de combate (verde)</Spanish>
+					<Italian>Elmetto da combattimento (verde)</Italian>
+					<Polish>Hełm bojowy (zielona)</Polish>
+					<Russian>Штурмовой шлем (зеленая)</Russian>
+					<German>Kampfhelm (grün)</German>
+					<Czech>Bojová přilba (zelený)</Czech>
+					<English>Combat Helmet (Olive Green)</English>
+					<Portuguese>Capacete de combate (verde)</Portuguese>
+					<Korean>전투 헬멧(녹색)</Korean>
+					<Chinesesimp>作战头盔（绿色）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（緑）</Japanese>
+					<Turkish>Savaş Miğferi (Yeşil)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_alt_grn0">
+					<Original>Combat Helmet (Olive Green, Enhanced)</Original>
+					<Chinese>戰鬥頭盔（綠，加強型）</Chinese>
+					<French>Casque de combat (verte, amélioré)</French>
+					<Spanish>Casco de combate (verde, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (verde, migliorato)</Italian>
+					<Polish>Hełm bojowy (trawiasty, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (зеленая, улучшенный)</Russian>
+					<German>Kampfhelm (grün, verbesserter)</German>
+					<Czech>Bojová přilba (zelený, vylepšená)</Czech>
+					<English>Combat Helmet (Olive Green, Enhanced)</English>
+					<Portuguese>Capacete de combate (preta, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (흑색, 강화)</Korean>
+					<Chinesesimp>作战头盔（绿色，增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（緑、改良型）</Japanese>
+					<Turkish>Savaş Miğferi (Yeşil, Gelişmiş)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetB_plain_mcamo0">
+					<Original>Combat Helmet (OCP)</Original>
+					<Chinese>戰鬥頭盔（多地形共用）</Chinese>
+					<French>Casque de combat (OCP)</French>
+					<Spanish>Casco de combate (OCP)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP)</Italian>
+					<Polish>Hełm bojowy (OCP)</Polish>
+					<Russian>Штурмовой шлем (OCP)</Russian>
+					<German>Kampfhelm (OCP)</German>
+					<Czech>Bojová přilba (OCP)</Czech>
+					<English>Combat Helmet (OCP)</English>
+					<Portuguese>Capacete de combate (OCP)</Portuguese>
+					<Korean>전투 헬멧(OCP)</Korean>
+					<Chinesesimp>作战头盔（OCP）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（OCP）</Japanese>
+					<Turkish>Savaş Miğferi (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_mcamo0">
+					<Original>Combat Helmet (OCP, Enhanced)</Original>
+					<Chinese>戰鬥頭盔（多地形共用，加強型）</Chinese>
+					<French>Casque de combat (OCP, amélioré)</French>
+					<Spanish>Casco de combate (OCP, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, migliorato)</Italian>
+					<Polish>Hełm bojowy (OCP, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (OCP, улучшенный)</Russian>
+					<German>Kampfhelm (OCP, verbesserter)</German>
+					<Czech>Bojová přilba (OCP, vylepšená)</Czech>
+					<English>Combat Helmet (OCP, Enhanced)</English>
+					<Portuguese>Capacete de combate (OCP, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (OCP, 강화)</Korean>
+					<Chinesesimp>作战头盔（OCP，增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（OCP、改良型）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Gelişmiş)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_halfcover_ocp0">
+					<Original>Combat Helmet (OCP, Halfcover)</Original>
+					<Chinese>戰鬥頭盔（多地形共用, 半蓋）</Chinese>
+					<French>Casque de combat (OCP, demi-couverture)</French>
+					<Spanish>Casco de combate (OCP, sedia cubierta)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, semicopertura)</Italian>
+					<Polish>Hełm bojowy (OCP, Półokładka)</Polish>
+					<Russian>Штурмовой шлем (OCP, Полуобложка)</Russian>
+					<German>Kampfhelm (OCP, halber bezug)</German>
+					<Czech>Bojová přilba (OCP, poloviční kryt)</Czech>
+					<English>Combat Helmet (OCP, Halfcover)</English>
+					<Portuguese>Capacete de combate (OCP, meia-capa)</Portuguese>
+					<Korean>전투 헬멧(OCP, 하프커버)</Korean>
+					<Chinesesimp>作战头盔（OCP, 半盖）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（OCP, ハーフカバー）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Yarım kapak)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_halfcover_ocp0">
+					<Original>Combat Helmet (OCP, Halfcover Enhanced)</Original>
+					<Chinese>戰鬥頭盔（多地形共用，半蓋, 加強型）</Chinese>
+					<French>Casque de combat (OCP, demi-couverture, amélioré)</French>
+					<Spanish>Casco de combate (OCP, media cubierta, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, semicopertura, migliorato)</Italian>
+					<Polish>Hełm bojowy (OCP, półokładka, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (OCP, Полуобложка, улучшенный)</Russian>
+					<German>Kampfhelm (OCP, halber bezug, verbesserter)</German>
+					<Czech>Bojová přilba (OCP, poloviční kryt, vylepšená)</Czech>
+					<English>Combat Helmet (OCP, Halfcover Enhanced)</English>
+					<Portuguese>Capacete de combate (OCP, meia-capa, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (OCP, 하프커버, 강화)</Korean>
+					<Chinesesimp>作战头盔（OCP，半盖, 增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（OCP、ハーフカバー, 改良型）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Yarım kapak, Gelişmiş)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_camo_ocp0">
+					<Original>Combat Helmet (OCP, Camo)</Original>
+					<Chinese>戰鬥頭盔（多地形共用，迷彩型）</Chinese>
+					<French>Casque de combat (OCP, camouflage)</French>
+					<Spanish>Casco de combate (OCP, camuflaje)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, mimetico)</Italian>
+					<Polish>Hełm bojowy (OCP, kamuflaż)</Polish>
+					<Russian>Штурмовой шлем (OCP, камуфляж)</Russian>
+					<German>Kampfhelm (OCP, Tarnfleck)</German>
+					<Czech>Bojová přilba (OCP, kamufláž)</Czech>
+					<English>Combat Helmet (OCP, Camo)</English>
+					<Portuguese>Capacete de combate (OCP, camuflado)</Portuguese>
+					<Korean>전투 헬멧(OCP, 위장)</Korean>
+					<Chinesesimp>作战头盔（OCP，迷彩）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（OCP、迷彩）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Kamuflaj)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_halfcover_camo_ocp0">
+					<Original>Combat Helmet (OCP, Halfcover Camo)</Original>
+					<Chinese>戰鬥頭盔（多地形共用, 半蓋, 迷彩型）</Chinese>
+					<French>Casque de combat (OCP, demi-couverture, camouflage)</French>
+					<Spanish>Casco de combate (OCP, sedia cubierta, camuflaje)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, semicopertura, mimetico)</Italian>
+					<Polish>Hełm bojowy (OCP, Półokładka, kamuflaż)</Polish>
+					<Russian>Штурмовой шлем (OCP, Полуобложка, камуфляж)</Russian>
+					<German>Kampfhelm (OCP, halber bezug, Tarnfleck)</German>
+					<Czech>Bojová přilba (OCP, poloviční kryt, kamufláž)</Czech>
+					<English>Combat Helmet (OCP, Halfcover Camo)</English>
+					<Portuguese>Capacete de combate (OCP, meia-capa, camuflado)</Portuguese>
+					<Korean>전투 헬멧(OCP, 하프커버, 위장)</Korean>
+					<Chinesesimp>作战头盔（OCP, 半盖, 迷彩）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（OCP, ハーフカバー, 迷彩）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Yarım kapak, Kamuflaj)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetB_light_mcamo0">
+					<Original>Light Combat Helmet (OCP)</Original>
+					<Chinese>輕型戰鬥頭盔（多地形共用）</Chinese>
+					<French>Casque léger de combat (OCP)</French>
+					<Spanish>Casco de combate ligero (OCP)</Spanish>
+					<Italian>Elmetto da combattimento leggero (mimetico OCP)</Italian>
+					<Polish>Lekki hełm bojowy (OCP)</Polish>
+					<Russian>Легкий штурмовой шлем (OCP)</Russian>
+					<German>Leichter Kampfhelm (OCP)</German>
+					<Czech>Lehká bojová přilba (OCP)</Czech>
+					<English>Light Combat Helmet (OCP)</English>
+					<Portuguese>Capacete de combate leve (OCP)</Portuguese>
+					<Korean>경 전투 헬멧 (OCP)</Korean>
+					<Chinesesimp>轻型作战头盔（OCP）</Chinesesimp>
+					<Japanese>軽量戦闘用ヘルメット（OCP）</Japanese>
+					<Turkish>Hafif Savaş Miğferi (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_light_mcamo0">
+					<Original>Light Combat Helmet (OCP, Enhanced)</Original>
+					<Chinese>輕型戰鬥頭盔（多地形共用，加強型）</Chinese>
+					<French>Casque léger de combat (OCP, amélioré)</French>
+					<Spanish>Casco de combate ligero (OCP, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento leggero (mimetico OCP, migliorato)</Italian>
+					<Polish>Lekki hełm bojowy (OCP, wzmocniony)</Polish>
+					<Russian>Легкий штурмовой шлем (OCP, улучшенный)</Russian>
+					<German>Leichter Kampfhelm (OCP, verbesserter)</German>
+					<Czech>Lehká bojová přilba (OCP, vylepšená)</Czech>
+					<English>Light Combat Helmet (OCP, Enhanced)</English>
+					<Portuguese>Capacete de combate leve (OCP, melhorado)</Portuguese>
+					<Korean>경 전투 헬멧 (OCP, 강화)</Korean>
+					<Chinesesimp>轻型作战头盔（OCP，增强型）</Chinesesimp>
+					<Japanese>軽量戦闘用ヘルメット（OCP、改良型）</Japanese>
+					<Turkish>Hafif Savaş Miğferi (OCP, Gelişmiş)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_Helmet_FASTMT_Cover_MTP_F0">
+					<Original>Operator Helmet [US] (Cover, OCP)</Original>
+					<Chinese>Operator Helmet [US] (Cover, OCP)</Chinese>
+					<French>Operator Helmet [US] (Cover, OCP)</French>
+					<Spanish>Operator Helmet [US] (Cover, OCP)</Spanish>
+					<Italian>Operator Helmet [US] (Cover, OCP)</Italian>
+					<Polish>Operator Helmet [US] (Cover, OCP)</Polish>
+					<Russian>Operator Helmet [US] (Cover, OCP)</Russian>
+					<German>Operator Helmet [US] (Cover, OCP)</German>
+					<Czech>Operator Helmet [US] (Cover, OCP)</Czech>
+					<English>Operator Helmet [US] (Cover, OCP)</English>
+					<Portuguese>Operator Helmet [US] (Cover, OCP)</Portuguese>
+					<Korean>Operator Helmet [US] (Cover, OCP)</Korean>
+					<Chinesesimp>Operator Helmet [US] (Cover, OCP)</Chinesesimp>
+					<Japanese>Operator Helmet [US] (Cover, OCP)</Japanese>
+					<Turkish>Operator Helmet [US] (Cover, OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Helmet_FASTMT_LITE_Cover_OCP_F0">
+					<English>Operator Helmet [US] (Lite, OCP)</English>
+				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_Helmet_FASTMT_SCRIM_Cover_OCP_F0">
+					<English>Operator Helmet [US] (Scrim, OCP)</English>
+				</Key>
+                <Key ID="STR_LXRF_H_HelmetB_plain_sb_mtp">
+                    <Original>Combat Helmet (Shape Breaker, OCP)</Original>
+                    <English>Combat Helmet (OCP, Shape Breaker)</English>
+                    <French>Casque de combat (mitznefet, OCP)</French>
+                    <Polish>Hełm bojowy (rozbijacz sylwetki, OCP)</Polish>
+                    <German>Kampfhelm (Shape Breaker, OCP)</German>
+                    <Spanish>Casco de combate (con funda, OCP)</Spanish>
+                    <Russian>Штурмовой шлем (маскировка для шлема, OCP)</Russian>
+                    <Chinesesimp>作战头盔（头盔罩，OCP）</Chinesesimp>
+                    <Portuguese>Capacete de combate (Anulador de forma, OCP)</Portuguese>
+                </Key>
+				<Key ID="STR_LXRF_H_HelmetIA_sb_digital">
+					<Original>Modular Helmet (Shape Breaker, Digital)</Original>
+					<English>Modular Helmet (Digital, Shape Breaker)</English>
+					<French>Casque modulable (mitznefet, numérique)</French>
+					<Polish>Hełm modułowy (rozbijacz sylwetki, cyfrowy)</Polish>
+					<German>Modularer Helm (Shape Breaker, Digital)</German>
+					<Spanish>Casco modular (con funda, digital)</Spanish>
+					<Russian>Модульный шлем (маскировка для шлема, цифровой)</Russian>
+					<Chinesesimp>模块化头盔（头盔罩，数字）</Chinesesimp>
+					<Portuguese>Capacete modular (Anulador de forma, digital)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetIA_sb_arid">
+					<Original>Modular Helmet (Shape Breaker, Arid)</Original>
+					<English>Modular Helmet (Arid, Shape Breaker)</English>
+					<French>Casque modulable (mitznefet, aride)</French>
+					<Polish>Hełm modułowy (rozbijacz sylwetki, region suchy)</Polish>
+					<German>Modularer Helm (Shape Breaker, Trocken)</German>
+					<Spanish>Casco modular (con funda, árido)</Spanish>
+					<Russian>Модульный шлем (маскировка для шлема, пустынный)</Russian>
+					<Chinesesimp>模块化头盔（头盔罩，干旱）</Chinesesimp>
+					<Portuguese>Capacete modular (Anulador de forma, árido)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_geo">
+					<Original>Combat Helmet (Shape Breaker, Geometric)</Original>
+					<English>Combat Helmet (Geometric, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, géométrique)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, wz. geometr.)</Polish>
+					<German>Kampfhelm (Shape Breaker, Geometrisch)</German>
+					<Spanish>Casco de combate (con funda, geométrico)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, геометрический)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，几何图形）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, geométrico)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_wdl">
+					<Original>Combat Helmet (Shape Breaker, Woodland)</Original>
+					<English>Combat Helmet (Woodland, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, forêt)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, las)</Polish>
+					<German>Kampfhelm (Shape Breaker, Waldland)</German>
+					<Spanish>Casco de combate (con funda, forestal)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, лесной)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，林地）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, floresta)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_tna">
+					<Original>Combat Helmet (Shape Breaker, Tropic)</Original>
+					<English>Combat Helmet (Tropic, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, tropiques)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, tropik)</Polish>
+					<German>Kampfhelm (Shape Breaker, Tropisch)</German>
+					<Spanish>Casco de combate (con funda, tropical)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, тропический)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，热带）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, tropical)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_mtp">
+					<Original>Combat Helmet (Shape Breaker, MTP)</Original>
+					<English>Combat Helmet (MTP, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, MTP)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, MTP)</Polish>
+					<German>Kampfhelm (Shape Breaker, MTP)</German>
+					<Spanish>Casco de combate (con funda, MTP)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, MTP)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，MTP）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, MTP)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_khaki">
+					<Original>Combat Helmet (Shape Breaker, Khaki)</Original>
+					<English>Combat Helmet (Khaki, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, kaki)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, khaki)</Polish>
+					<German>Kampfhelm (Shape Breaker, Khaki)</German>
+					<Spanish>Casco de combate (con funda, caqui)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, хаки)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，卡其色）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, cáqui)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetB_plain_sb_hex">
+					<Original>Combat Helmet (Shape Breaker, Hex)</Original>
+					<English>Combat Helmet (Hex, Shape Breaker)</English>
+					<French>Casque de combat (mitznefet, hex)</French>
+					<Polish>Hełm bojowy (rozbijacz sylwetki, hex)</Polish>
+					<German>Kampfhelm (Shape Breaker, Hextarn)</German>
+					<Spanish>Casco de combate (con funda, hexagonal)</Spanish>
+					<Russian>Штурмовой шлем (маскировка для шлема, гекс)</Russian>
+					<Chinesesimp>作战头盔（头盔罩，六角形）</Chinesesimp>
+					<Portuguese>Capacete de combate (Anulador de forma, hex)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetO_ocamo_sb_hex">
+					<Original>Protector Helmet (Shape Breaker, Hex)</Original>
+					<English>Protector Helmet (Hex, Shape Breaker)</English>
+					<French>Casque de protection (mitznefet, hex)</French>
+					<Polish>Hełm Protector (rozbijacz sylwetki, hex)</Polish>
+					<German>Schutzhelm (Shape Breaker, Hextarn)</German>
+					<Spanish>Casco protector (con funda, hexagonal)</Spanish>
+					<Russian>Защитный шлем (маскировка для шлема, гекс)</Russian>
+					<Chinesesimp>防护头盔（头盔罩，六角形）</Chinesesimp>
+					<Portuguese>Capacete de proteção (Anulador de forma, hex)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetO_ocamo_sb_urban">
+					<Original>Protector Helmet (Shape Breaker, Urban)</Original>
+					<English>Protector Helmet (Urban, Shape Breaker)</English>
+					<French>Casque de protection (mitznefet, urbain)</French>
+					<Polish>Hełm Protector (rozbijacz sylwetki, miejski)</Polish>
+					<German>Schutzhelm (Shape Breaker, Urban)</German>
+					<Spanish>Casco protector (con funda, urbano)</Spanish>
+					<Russian>Защитный шлем (маскировка для шлема, городской)</Russian>
+					<Chinesesimp>防护头盔（头盔罩，都市）</Chinesesimp>
+					<Portuguese>Capacete de proteção (Anulador de forma, urbano)</Portuguese>
+				</Key>
+				<Key ID="STR_LXRF_H_HelmetAggressor_sb_taiga">
+					<Original>Avenger Helmet (Shape Breaker, Taiga)</Original>
+					<English>Avenger Helmet (Taiga, Shape Breaker)</English>
+					<French>Casque de vengeur (mitznefet, taïga)</French>
+					<Polish>Hełm Avenger (rozbijacz sylwetki, tajga)</Polish>
+					<German>Avenger-Helm (Shape Breaker, Taiga)</German>
+					<Spanish>Casco Avenger (con funda, taiga)</Spanish>
+					<Russian>Шлем Avenger (маскировка для шлема, тайга)</Russian>
+					<Chinesesimp>复仇者头盔（头盔罩，针叶林）</Chinesesimp>
+					<Portuguese>Capacete Avenger (Anulador de forma, taiga)</Portuguese>
+				</Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_A_CfgGlasses_G_Balaclava_light_mtp_F0">
+					<Original>Light Balaclava (OCP)</Original>
+					<Chinese>Light Balaclava (OCP)</Chinese>
+					<French>Light Balaclava (OCP)</French>
+					<Spanish>Light Balaclava (OCP)</Spanish>
+					<Italian>Light Balaclava (OCP)</Italian>
+					<Polish>Light Balaclava (OCP)</Polish>
+					<Russian>Light Balaclava (OCP)</Russian>
+					<German>Light Balaclava (OCP)</German>
+					<Czech>Light Balaclava (OCP)</Czech>
+					<English>Light Balaclava (OCP)</English>
+					<Portuguese>Light Balaclava (OCP)</Portuguese>
+					<Korean>Light Balaclava (OCP)</Korean>
+					<Chinesesimp>Light Balaclava (OCP)</Chinesesimp>
+					<Japanese>Light Balaclava (OCP)</Japanese>
+					<Turkish>Light Balaclava (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgGlasses_G_Balaclava_light_G_mtp_F0">
+					<Original>Light Balaclava (OCP, Goggles)</Original>
+					<Chinese>Light Balaclava (OCP, Goggles)</Chinese>
+					<French>Light Balaclava (OCP, Goggles)</French>
+					<Spanish>Light Balaclava (OCP, Goggles)</Spanish>
+					<Italian>Light Balaclava (OCP, Goggles)</Italian>
+					<Polish>Light Balaclava (OCP, Goggles)</Polish>
+					<Russian>Light Balaclava (OCP, Goggles)</Russian>
+					<German>Light Balaclava (OCP, Goggles)</German>
+					<Czech>Light Balaclava (OCP, Goggles)</Czech>
+					<English>Light Balaclava (OCP, Goggles)</English>
+					<Portuguese>Light Balaclava (OCP, Goggles)</Portuguese>
+					<Korean>Light Balaclava (OCP, Goggles)</Korean>
+					<Chinesesimp>Light Balaclava (OCP, Goggles)</Chinesesimp>
+					<Japanese>Light Balaclava (OCP, Goggles)</Japanese>
+					<Turkish>Light Balaclava (OCP, Goggles)</Turkish>
+				</Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_v_platecarriergl_mtp0">
+                    <Original>Carrier GL Rig (OCP)</Original>
+                    <Chinese>GL 負載外掛（多地形共用）</Chinese>
+                    <French>Gilet modulable pour grenadier (OCP)</French>
+                    <Spanish>Equipo de GL de portaaviones (OCP)</Spanish>
+                    <Italian>Gilet GL Rig (OCP)</Italian>
+                    <Polish>Kamizelka grenadiera (OCP)</Polish>
+                    <Russian>Жилет гранатометчика (OCP)</Russian>
+                    <German>Träger GL-Geschirr (OCP)</German>
+                    <Czech>GL nosič plátů (OCP)</Czech>
+                    <English>Carrier GL Rig (OCP)</English>
+                    <Portuguese>Colete tático GL (Multi-terreno)</Portuguese>
+                    <Korean>캐리어 GL 리그 (OCP)</Korean>
+                    <Chinesesimp>背心 GL 装备 (OCP)</Chinesesimp>
+                    <Japanese>キャリアGLリグ（OCP）</Japanese>
+                    <Turkish>Taşıyıcı GL Yelek (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_v_platecarrierspec_mtp0">
+                    <Original>Carrier Special Rig (OCP)</Original>
+                    <Chinese>負載特製外掛（多地形共用）</Chinese>
+                    <French>Transporteur Spécial Foreuse (OCP)</French>
+                    <Spanish>Equipo especial de portaaviones (OCP)</Spanish>
+                    <Italian>Gilet speciale Rig (OCP)</Italian>
+                    <Polish>Kamizelka specjalna (OCP)</Polish>
+                    <Russian>Специальный жилет (OCP)</Russian>
+                    <German>Träger Spezialgeschirr (OCP)</German>
+                    <Czech>Nosič plátů speciální (OCP)</Czech>
+                    <English>Carrier Special Rig (OCP)</English>
+                    <Portuguese>Colete tático especial (Multi-terreno)</Portuguese>
+                    <Korean>캐리어 스페셜 리그 (OCP)</Korean>
+                    <Chinesesimp>背心特殊装备 (OCP)</Chinesesimp>
+                    <Japanese>キャリア特殊リグ（OCP）</Japanese>
+                    <Turkish>Taşıyıcı Özel Yelek (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier1_mtp0">
+					<Original>Carrier Lite (OCP)</Original>
+					<Chinese>輕型負載背心（多地形共用）</Chinese>
+					<French>Gilet léger (OCP)</French>
+					<Spanish>Cartuchera ligera (OCP)</Spanish>
+					<Italian>Gilet leggero (mimetico OCP)</Italian>
+					<Polish>Kamizelka Lite (OCP)</Polish>
+					<Russian>Облегченный жилет (OCP)</Russian>
+					<German>Leichter Tragegurt (OCP)</German>
+					<Czech>Lehká taktická vesta (OCP)</Czech>
+					<English>Carrier Lite (OCP)</English>
+					<Portuguese>Transportador leve (OCP)</Portuguese>
+					<Korean>캐리어 라이트(OCP)</Korean>
+					<Chinesesimp>轻便背心（OCP）</Chinesesimp>
+					<Japanese>キャリア・ライト（OCP）</Japanese>
+					<Turkish>Hafif Taşıyıcı (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_V_PlateCarrier2_mtp0">
+					<Original>Carrier Rig (OCP)</Original>
+					<Chinese>負載外掛（多地形共用）</Chinese>
+					<French>Gilet modulable léger (OCP)</French>
+					<Spanish>Cartuchera (OCP)</Spanish>
+					<Italian>Gilet (mimetico OCP)</Italian>
+					<Polish>Kamizelka Platecarrier (OCP)</Polish>
+					<Russian>Разгрузочный жилет (OCP)</Russian>
+					<German>Tragegurt (OCP)</German>
+					<Czech>Nosič plátů (OCP)</Czech>
+					<English>Carrier Rig (OCP)</English>
+					<Portuguese>Traje transportador (OCP)</Portuguese>
+					<Korean>캐리어 리그(OCP)</Korean>
+					<Chinesesimp>背心装备（OCP）</Chinesesimp>
+					<Japanese>キャリアリグ（OCP）</Japanese>
+					<Turkish>Taşıyıcı Yelek (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_V_PlateCarrier2_alt_mtp_F0">
+					<Original>Carrier Alt Rig (OCP)</Original>
+					<Chinese>Carrier Alt Rig (OCP)</Chinese>
+					<French>Carrier Alt Rig (OCP)</French>
+					<Spanish>Carrier Alt Rig (OCP)</Spanish>
+					<Italian>Carrier Alt Rig (OCP)</Italian>
+					<Polish>Carrier Alt Rig (OCP)</Polish>
+					<Russian>Carrier Alt Rig (OCP)</Russian>
+					<German>Carrier Alt Rig (OCP)</German>
+					<Czech>Carrier Alt Rig (OCP)</Czech>
+					<English>Carrier Alt Rig (OCP)</English>
+					<Portuguese>Carrier Alt Rig (OCP)</Portuguese>
+					<Korean>Carrier Alt Rig (OCP)</Korean>
+					<Chinesesimp>Carrier Alt Rig (OCP)</Chinesesimp>
+					<Japanese>Carrier Alt Rig (OCP)</Japanese>
+					<Turkish>Carrier Alt Rig (OCP)</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_V_PlateCarrier_RF_mtp_F0">
+					<Original>Carrier Vest Rig (OCP)</Original>
+					<Chinese>Carrier Vest Rig (OCP)</Chinese>
+					<French>Carrier Vest Rig (OCP)</French>
+					<Spanish>Carrier Vest Rig (OCP)</Spanish>
+					<Italian>Carrier Vest Rig (OCP)</Italian>
+					<Polish>Carrier Vest Rig (OCP)</Polish>
+					<Russian>Carrier Vest Rig (OCP)</Russian>
+					<German>Carrier Vest Rig (OCP)</German>
+					<Czech>Carrier Vest Rig (OCP)</Czech>
+					<English>Carrier Vest Rig (OCP)</English>
+					<Portuguese>Carrier Vest Rig (OCP)</Portuguese>
+					<Korean>Carrier Vest Rig (OCP)</Korean>
+					<Chinesesimp>Carrier Vest Rig (OCP)</Chinesesimp>
+					<Japanese>Carrier Vest Rig (OCP)</Japanese>
+					<Turkish>Carrier Vest Rig (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_CfgWeapons_V_TacVest_ocp0">
+                    <Original>Tactical Vest (OCP)</Original>
+                    <Chinese>戰術背心（OCP）</Chinese>
+                    <French>Gilet pare-balles (OCP)</French>
+                    <Spanish>Chaleco táctico (OCP)</Spanish>
+                    <Italian>Gilet tattico (OCP)</Italian>
+                    <Polish>Kamizelka (OCP)</Polish>
+                    <Russian>Тактический жилет (OCP)</Russian>
+                    <German>Taktische Weste (OCP)</German>
+                    <Czech>Taktická vesta (OCP)</Czech>
+                    <English>Tactical Vest (OCP)</English>
+                    <Portuguese>Colete tático (OCP)</Portuguese>
+                    <Korean>전술조끼(OCP)</Korean>
+                    <Chinesesimp>战术背心（OCP）</Chinesesimp>
+                    <Japanese>タクティカルベスト（OCP）</Japanese>
+                    <Turkish>Taktiksel Yelek (OCP)</Turkish>
+                </Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Rifleman_MTP">
+            		<English>Commando Chest Rig (Multicam/Rifleman)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_TL_MTP">
+					<English>Commando Chest Rig (Multicam/Team Leader)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Scout_MTP">
+					<English>Commando Chest Rig (Multicam/Scout)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Support_MTP">
+					<English>Commando Chest Rig (Multicam/Support)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Rifleman_OCP">
+            		<English>Commando Chest Rig (OCP/Rifleman)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_TL_OCP">
+					<English>Commando Chest Rig (OCP/Team Leader)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Scout_OCP">
+					<English>Commando Chest Rig (OCP/Scout)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_CCR_Support_OCP">
+					<English>Commando Chest Rig (OCP/Support)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_MTP">
+					<English>Airborne Assault Vest (Multicam)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Diver_MTP">
+					<English>Airborne Assault Vest (Multicam/Diver)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Rifleman_MTP">
+					<English>Airborne Assault Vest (Multicam/Rifleman)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Sailor_MTP">
+					<English>Airborne Assault Vest (Multicam/Sailor)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Scout_MTP">
+					<English>Airborne Assault Vest (Multicam/Scout)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Support_MTP">
+					<English>Airborne Assault Vest (Multicam/Support)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_TL_MTP">
+					<English>Airborne Assault Vest (Multicam/Team Leader)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_OCP">
+					<English>Airborne Assault Vest (OCP)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Diver_OCP">
+					<English>Airborne Assault Vest (OCP/Diver)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Rifleman_OCP">
+					<English>Airborne Assault Vest (OCP/Rifleman)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Sailor_OCP">
+					<English>Airborne Assault Vest (OCP/Sailor)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Scout_OCP">
+					<English>Airborne Assault Vest (OCP/Scout)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_Support_OCP">
+					<English>Airborne Assault Vest (OCP/Support)</English>
+				</Key>
+				<Key ID="STR_A3_AX_ELF_V_AAV_TL_OCP">
+					<English>Airborne Assault Vest (OCP/Team Leader)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_OCP">
+					<English>Amphibious Assault Vest (OCP)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_Diver_OCP">
+					<English>Amphibious Assault Vest (OCP/Diver)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_Rifleman_OCP">
+					<English>Amphibious Assault Vest (OCP/Rifleman)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_Sailor_OCP">
+					<English>Amphibious Assault Vest (OCP/Sailor)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_Scout_OCP">
+					<English>Amphibious Assault Vest (OCP/Scout)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_Support_OCP">
+					<English>Amphibious Assault Vest (OCP/Support)</English>
+				</Key>
+				<Key ID="STR_AX_EF_V_AAV_TL_OCP">
+					<English>Amphibious Assault Vest (OCP/Team Leader)</English>
+				</Key>
+            </Container>
+            <Container name="Backpacks">
+                <Key ID="STR_A3_B_AssaultPack_mcamo0">
+                    <Original>Assault Pack (OCP)</Original>
+                    <Chinese>突擊背包（多地形共用）</Chinese>
+                    <French>Paquetage d'assaut (OCP)</French>
+                    <Spanish>Mochila de asalto (OCP)</Spanish>
+                    <Italian>Pacco da assalto (mimetico OCP)</Italian>
+                    <Polish>Plecak szturmowy (OCP)</Polish>
+                    <Russian>Штурмовой ранец (OCP)</Russian>
+                    <German>Angriffspack (OCP)</German>
+                    <Czech>Útočný batoh (OCP)</Czech>
+                    <English>Assault Pack (OCP)</English>
+                    <Portuguese>Mochila de assalto (OCP)</Portuguese>
+                    <Korean>강습군장(OCP)</Korean>
+                    <Chinesesimp>突击包 (OCP)</Chinesesimp>
+                    <Japanese>アサルトパック（OCP）</Japanese>
+                    <Turkish>Saldırı Paketi (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgVehicles_B_AssaultPackSpec_mcamo0">
+					<Original>Assault Pack (OCP, Enhanced)</Original>
+					<Chinese>突擊背包（多地形共用，加強型）</Chinese>
+					<French>Paquetage d'assaut (OCP, amélioré)</French>
+					<Spanish>Mochila de asalto (OCP, mejorado)</Spanish>
+					<Italian>Zaino d'assalto (mimetico OCP, avanzato)</Italian>
+					<Polish>Plecak szturmowy (OCP, wzmocniony)</Polish>
+					<Russian>Штурмовой ранец (OCP, улучшенный)</Russian>
+					<German>Angriffspack (OCP, verbesserter)</German>
+					<Czech>Útočný batoh (OCP kamufláž, vylepšená)</Czech>
+					<English>Assault Pack (OCP, Enhanced)</English>
+					<Portuguese>Mochila de assalto (OCP, aprimorado)</Portuguese>
+					<Korean>강습군장(OCP, 강화)</Korean>
+					<Chinesesimp>突击背包（OCP，增强型）</Chinesesimp>
+					<Japanese>アサルトパック（OCP，改良型）</Japanese>
+					<Turkish>Saldırı Paketi (OCP, Gelişmiş)</Turkish>
+				</Key>
+                <Key ID="STR_A3_CfgVehicles_B_Bergen_mcamo0">
+                    <Original>Bergen Backpack (OCP)</Original>
+                    <Chinese>卑爾根背包（多地形共用）</Chinese>
+                    <French>Sac à dos bergen (OCP)</French>
+                    <Spanish>Mochila (OCP)</Spanish>
+                    <Italian>Zaino Bergen (OCP)</Italian>
+                    <Polish>Plecak Bergen (OCP)</Polish>
+                    <Russian>Рюкзак Берген (OCP)</Russian>
+                    <German>Bergen-Rucksack (MTM)</German>
+                    <Czech>Batoh Bergen (OCP)</Czech>
+                    <English>Bergen Backpack (OCP)</English>
+                    <Portuguese>Mochila Bergen (OCP)</Portuguese>
+                    <Korean>베르겐 백팩(OCP)</Korean>
+                    <Chinesesimp>Bergen 背包 (OCP)</Chinesesimp>
+                    <Japanese>ベルゲンバックパック（OCP）</Japanese>
+                    <Turkish>Bergen Sırt Çantası (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_B_Carryall_mcamo0">
+                    <Original>Carryall Backpack (OCP)</Original>
+                    <Chinese>全容量大背包（多地形共用）</Chinese>
+                    <French>Sac à dos multifonction (OCP)</French>
+                    <Spanish>Bolsa de viaje (OCP)</Spanish>
+                    <Italian>Zaino portatutto (mimetico OCP)</Italian>
+                    <Polish>Plecak (OCP)</Polish>
+                    <Russian>Рюкзак (OCP)</Russian>
+                    <German>Großer Rucksack (OCP)</German>
+                    <Czech>Univerzální batoh (OCP)</Czech>
+                    <English>Carryall Backpack (OCP)</English>
+                    <Portuguese>Mochila (OCP)</Portuguese>
+                    <Korean>다용도배낭(OCP)</Korean>
+                    <Chinesesimp>大旅行包 (OCP)</Chinesesimp>
+                    <Japanese>キャリーオールパック（OCP）</Japanese>
+                    <Turkish>Büyük Sırt Çantası (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_B_Kitback_mcamo0">
+                    <Original>Kitbag (OCP)</Original>
+                    <Chinese>背包 (OCP)</Chinese>
+                    <French>Paquetage de terrain (OCP)</French>
+                    <Spanish>Petate (OCP)</Spanish>
+                    <Italian>Zaino militare (mimetico OCP)</Italian>
+                    <Polish>Plecak panelowy (OCP)</Polish>
+                    <Russian>Вещмешок (OCP)</Russian>
+                    <German>Ranzen (OCP)</German>
+                    <Czech>Tlumok (OCP)</Czech>
+                    <English>Kitbag (OCP)</English>
+                    <Portuguese>Bornal (OCP)</Portuguese>
+                    <Korean>잡낭(OCP)</Korean>
+                    <Chinesesimp>行军包 (OCP)</Chinesesimp>
+                    <Japanese>雑嚢（OCP）</Japanese>
+                    <Turkish>Alet Çantası (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_CfgVehicles_B_Static_Designator_01_weapon_ocp_F0">
+                    <Original>Remote Designator Bag [NATO]</Original>
+                    <Chinese>遠距指標器袋（NATO）</Chinese>
+                    <French>Sac de désignateur à distance [OTAN]</French>
+                    <Spanish>Bolsa para marcador remoto [OTAN]</Spanish>
+                    <Italian>Sacca designatore remoto [NATO]</Italian>
+                    <Polish>Torba na zdalny wskaźnik [NATO]</Polish>
+                    <Russian>Сумка для дистанционного целеуказателя [НАТО]</Russian>
+                    <German>Fernmarkierertasche [NATO]</German>
+                    <Czech>Batoh s dálkovým laserovým značkovačem [NATO]</Czech>
+                    <English>Remote Designator Bag (OCP) [NATO]</English>
+                    <Portuguese>Mochila do designador remoto [OTAN]</Portuguese>
+                    <Korean>원격 표시기 가방 [NATO]</Korean>
+                    <Chinesesimp>远程指示器袋 [NATO]</Chinesesimp>
+                    <Japanese>リモート目標指示装置バッグ [NATO]</Japanese>
+                    <Turkish>Uzaktan İşaretleyici Çantası [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_C_CfgVehicles_B_RadioBag_01_mtp_F0">
+                    <Original>Radio Pack (OCP) [NATO]</Original>
+                    <English>Radio Pack (OCP) [NATO]</English>
+                    <Czech>Batoh s vysílačkou (OCP) [NATO]</Czech>
+                    <German>Funkrucksack (OCP) [NATO]</German>
+                    <Russian>Ранец радиста (OCP) [НАТО]</Russian>
+                    <Polish>Plecak z radiostacją (OCP) [NATO]</Polish>
+                    <Italian>Zaino per radio (OCP) [NATO]</Italian>
+                    <Spanish>Mochila para radio (OCP) [OTAN]</Spanish>
+                    <French>Sac à dos radio (OCP) [OTAN]</French>
+                    <Chinese>無線電背包（多地形共用）（NATO）</Chinese>
+                    <Japanese>無線機パック (OCP) [NATO]</Japanese>
+                    <Korean>무전 팩 (OCP) [NATO]</Korean>
+                    <Portuguese>Pacote de rádio (OCP) [OTAN]</Portuguese>
+                    <Chinesesimp>无线电包 (OCP) [NATO]</Chinesesimp>
+                    <Turkish>Telsiz Paketi (OCP) [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_B_TacticalPack_mcamo0">
+                    <Original>Tactical Backpack (OCP)</Original>
+                    <Chinese>戰術背包（多地形共用）</Chinese>
+                    <French>Sac à dos tactique (OCP)</French>
+                    <Spanish>Mochila táctica (OCP)</Spanish>
+                    <Italian>Zaino tattico (mimetico OCP)</Italian>
+                    <Polish>Plecak taktyczny (OCP)</Polish>
+                    <Russian>Тактический ранец (OCP)</Russian>
+                    <German>Taktischer Rucksack (OCP)</German>
+                    <Czech>Taktický batoh (OCP)</Czech>
+                    <English>Tactical Backpack (OCP)</English>
+                    <Portuguese>Mochila tática (OCP)</Portuguese>
+                    <Korean>전술배낭(OCP)</Korean>
+                    <Chinesesimp>战术背包 (OCP)</Chinesesimp>
+                    <Japanese>タクティカルバックパック（OCP）</Japanese>
+                    <Turkish>Taktiksel Sırt Çantası (OCP)</Turkish>
+                </Key>
+                <Key ID="STR_A3_A_CfgVehicles_B_patrolBackpack_mcamo_F0">
+					<Original>Patrol Pack (OCP)</Original>
+					<Chinese>Patrol Pack (OCP)</Chinese>
+					<French>Patrol Pack (OCP)</French>
+					<Spanish>Patrol Pack (OCP)</Spanish>
+					<Italian>Patrol Pack (mimetico OCP)</Italian>
+					<Polish>Patrol Pack (OCP)</Polish>
+					<Russian>Patrol Pack (OCP)</Russian>
+					<German>Patrol Pack (OCP)</German>
+					<Czech>Patrol Pack (OCP)</Czech>
+					<English>Patrol Pack (OCP)</English>
+					<Portuguese>Patrol Pack (OCP)</Portuguese>
+					<Korean>Patrol Pack (OCP)</Korean>
+					<Chinesesimp>Patrol Pack (OCP)</Chinesesimp>
+					<Japanese>Patrol Pack (OCP)</Japanese>
+					<Turkish>Patrol Pack (OCP)</Turkish>
+				</Key>
+                <Key ID="STR_A3_CfgVehicles_B_Mortar_01_ocp_Wpn0">
+                    <Original>Folded Mk6 Mortar Tube (OCP) [NATO]</Original>
+                    <Chinese>折起的 Mk6 迫擊砲砲管（NATO）</Chinese>
+                    <French>Tube pour mortier Mk6 [OTAN]</French>
+                    <Spanish>Tubo de mortero plegado Mk6 [OTAN]</Spanish>
+                    <Italian>Tubo per mortaio Mk6 piegato [NATO]</Italian>
+                    <Polish>Składana lufa moździerza Mk6 [NATO]</Polish>
+                    <Russian>Миномет Mk6 - сложенный ствол [НАТО]</Russian>
+                    <German>Klappbares Mörserrohr für Mörser Mk6 [NATO]</German>
+                    <Czech>Složená hlaveň minometu Mk6 [NATO]</Czech>
+                    <English>Folded Mk6 Mortar Tube (OCP) [NATO]</English>
+                    <Portuguese>Tubo do Morteiro Mk6 Dobrado [OTAN]</Portuguese>
+                    <Korean>접힌 Mk6 박격포 포열 [NATO]</Korean>
+                    <Chinesesimp>折叠的 Mk6 迫击炮管 [NATO]</Chinesesimp>
+                    <Japanese>折り畳み式Mk6迫撃砲発射薬筒 [NATO]</Japanese>
+                    <Turkish>Katlı Mk6 Havan Topu Tüpü [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_CfgVehicles_B_Mortar_01_ocp_Support0">
+                    <Original>Folded Mk6 Mortar Bipod (OCP) [NATO]</Original>
+                    <Chinese>折起的 Mk6 迫擊砲二腳架（NATO）</Chinese>
+                    <French>Bipied repliable pour mortier Mk6 [OTAN]</French>
+                    <Spanish>Mortero bípode plegado Mk6 [OTAN]</Spanish>
+                    <Italian>Cavalletto per mortaio Mk6 piegato [NATO]</Italian>
+                    <Polish>Składany dwójnóg moździerza Mk6 [NATO]</Polish>
+                    <Russian>Миномет Mk6 - сложенная сошка [НАТО]</Russian>
+                    <German>Klappbares Zweibein für Mörser Mk6 [NATO]</German>
+                    <Czech>Složená dvojnožka minometu Mk6 [NATO]</Czech>
+                    <English>Folded Mk6 Mortar Bipod (OCP) [NATO]</English>
+                    <Portuguese>Morteiro Mk6 bípede dobrável [OTAN]</Portuguese>
+                    <Korean>접힌 Mk6 박격포 포다리 [NATO]</Korean>
+                    <Chinesesimp>折叠的 Mk6 迫击炮两脚架 [NATO]</Chinesesimp>
+                    <Japanese>折り畳み式Mk6迫撃砲二脚架 [NATO]</Japanese>
+                    <Turkish>Katlı Mk6 Havan Topu İkili Ayağı [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_CfgVehicles_B_HMG_01_ocp_Wpn0">
+				    <Original>Dismantled Mk30 HMG (OCP) [NATO]</Original>
+				    <Chinese>拆解後的 Mk30 重機槍（OCP）（NATO）</Chinese>
+				    <French>Mk30 HMG démontée (OCP) [OTAN]</French>
+				    <Spanish>Mk30 HMG desmontada (OCP) [OTAN]</Spanish>
+				    <Italian>Mk30 HMG smontato (OCP) [NATO]</Italian>
+				    <Polish>Złożony CKM Mk30 (OCP) [NATO]</Polish>
+				    <Russian>Разобранный пулемет Мк30 (OCP) [НАТО]</Russian>
+				    <German>Demontiertes Mk30 HMG (OCP) [NATO]</German>
+				    <Czech>Rozebraný těžký kulomet Mk30 (OCP) [NATO]</Czech>
+				    <English>Dismantled Mk30 HMG (OCP) [NATO]</English>
+				    <Portuguese>Mk30 HMG desmontada (OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 Mk30 HMG(OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的 Mk30 HMG（OCP）[NATO]</Chinesesimp>
+				    <Japanese>分解Mk30 HMG（OCP） [NATO]</Japanese>
+				    <Turkish>Sökülmüş Mk30 HMG (OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_HMG_01_high_weapon_ocp_F0">
+				    <Original>Dismantled Mk30 HMG (Raised, OCP) [NATO]</Original>
+				    <Chinese>拆解後的 Mk30 重機槍（架高，OCP）（NATO）</Chinese>
+				    <French>Mk30 HMG démontée (rehaussée, OCP) [OTAN]</French>
+				    <Spanish>Mk30 HMG desmontada (alzada, OCP) [OTAN]</Spanish>
+				    <Italian>Mk30 HMG smontato (sollevato, OCP) [NATO]</Italian>
+				    <Polish>Złożony CKM Mk30 (podwyższony, OCP) [NATO]</Polish>
+				    <Russian>Разобранный пулемет Мк30 (установлен, OCP) [НАТО]</Russian>
+				    <German>Demontiertes Mk30 HMG (erhöht, OCP) [NATO]</German>
+				    <Czech>Rozebraný těžký kulomet Mk30 (vztyčený, OCP) [NATO]</Czech>
+				    <English>Dismantled Mk30 HMG (Raised, OCP) [NATO]</English>
+				    <Portuguese>Mk30 HMG desmontada (erguida, OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 Mk30 HMG(상단거치, OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的 Mk30 HMG（升高，OCP）[NATO]</Chinesesimp>
+				    <Japanese>分解Mk30 HMG（持ち上げ、OCP） [NATO]</Japanese>
+				    <Turkish>Sökülmüş Mk30 HMG (Yükseltilmiş, OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_HMG_01_A_ocp_Wpn0">
+				    <Original>Dismantled Autonomous MG (OCP) [NATO]</Original>
+				    <Chinese>拆解後的自動 MG（OCP）（NATO）</Chinese>
+				    <French>Mitrailleuse autonome démontée (OCP) [OTAN]</French>
+				    <Spanish>Ametralladora autónoma desmontada (OCP) [OTAN]</Spanish>
+				    <Italian>Mitragliatore autonomo smontato (OCP) [NATO]</Italian>
+				    <Polish>Złożony samodzielny KM (OCP) [NATO]</Polish>
+				    <Russian>Разобранный станковый пулемет (OCP) [НАТО]</Russian>
+				    <German>Demontiertes autonomes MG (OCP) [NATO]</German>
+				    <Czech>Rozebraný autonomní kulomet (OCP) [NATO]</Czech>
+				    <English>Dismantled Autonomous MG (OCP) [NATO]</English>
+				    <Portuguese>Metralhadora autônoma desmontada (OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 무인MG(OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的自主 MG (OCP) [NATO]</Chinesesimp>
+				    <Japanese>分解自立MG（OCP）[NATO]</Japanese>
+				    <Turkish>Sökülmüş Otonom MG (OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_HMG_01_ocp_Support0">
+				    <Original>Folded Tripod (OCP) [NATO]</Original>
+				    <Chinese>折起的三腳架（OCP）（NATO）</Chinese>
+				    <French>Trépied repliable (OCP) [OTAN]</French>
+				    <Spanish>Trípode plegado (OCP) [OTAN]</Spanish>
+				    <Italian>Treppiede ripiegato (OCP) [NATO]</Italian>
+				    <Polish>Złożony trójnóg (OCP) [NATO]</Polish>
+				    <Russian>Сложенная тренога (OCP) [НАТО]</Russian>
+				    <German>Eingeklapptes Dreibein (OCP) [NATO]</German>
+				    <Czech>Složená trojnožka (OCP) [NATO]</Czech>
+				    <English>Folded Tripod (OCP) [NATO]</English>
+				    <Portuguese>Tripé dobrado (OCP) [OTAN]</Portuguese>
+				    <Korean>접힌 삼각대(OCP) [NATO]</Korean>
+				    <Chinesesimp>折叠的三脚架（OCP）[NATO]</Chinesesimp>
+				    <Japanese>折り畳み三脚支持（OCP）[NATO]</Japanese>
+				    <Turkish>Katlanır Üçayak (OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_HMG_01_support_high_ocp_F0">
+				    <Original>Folded Tripod (Raised, OCP) [NATO]</Original>
+				    <Chinese>折起的三腳架（架高，OCP）（NATO）</Chinese>
+				    <French>Trépied repliable (rehaussé, OCP) [OTAN]</French>
+				    <Spanish>Trípode plegado alzado (OCP) [OTAN]</Spanish>
+				    <Italian>Treppiede ripiegato (sollevato, OCP) [NATO]</Italian>
+				    <Polish>Złożony trójnóg podwyższony (OCP) [NATO]</Polish>
+				    <Russian>Сложенная тренога (поднята, OCP) [НАТО]</Russian>
+				    <German>Eingeklapptes Dreibein (erhöht, OCP) [NATO]</German>
+				    <Czech>Složená trojnožka (vztyčená, OCP) [NATO]</Czech>
+				    <English>Folded Tripod (Raised, OCP) [NATO]</English>
+				    <Portuguese>Tripé dobrado erguido (OCP) [OTAN]</Portuguese>
+				    <Korean>접힌 삼각대(상단거치, OCP) [NATO]</Korean>
+				    <Chinesesimp>折叠的三脚架（升高，OCP）[NATO]</Chinesesimp>
+				    <Japanese>折り畳み三脚支持（OCP）[NATO]</Japanese>
+				    <Turkish>Katlanır Üçayak (Yükseltilmiş, OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_GMG_01_ocp_Wpn0">
+				    <Original>Dismantled Mk32 GMG (OCP) [NATO]</Original>
+				    <Chinese>拆解後的 Mk32 榴彈機槍（OCP）（NATO）</Chinese>
+				    <French>Mk32 GMG démontée (OCP) [OTAN]</French>
+				    <Spanish>Mk32 GMG desmontada (OCP) [OTAN]</Spanish>
+				    <Italian>Mk32 GMG smontato (OCP) [NATO]</Italian>
+				    <Polish>Złożony GA Mk32 (OCP) [NATO]</Polish>
+				    <Russian>Разобранный авт. гранатомет Мк32 (OCP) [НАТО]</Russian>
+				    <German>Demontiertes Mk32 GMG (OCP) [NATO]</German>
+				    <Czech>Rozebraný granátomet Mk32 (OCP) [NATO]</Czech>
+				    <English>Dismantled Mk32 GMG (OCP) [NATO]</English>
+				    <Portuguese>Mk32 GMG desmontado (OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 Mk32 GMG(OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的 Mk32 GMG（OCP）[NATO]</Chinesesimp>
+				    <Japanese>分解Mk32 GMG（OCP） [NATO]</Japanese>
+				    <Turkish>Sökülmüş Mk32 GMG (OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_GMG_01_high_weapon_ocp_F0">
+				    <Original>Dismantled Mk32 GMG (Raised, OCP) [NATO]</Original>
+				    <Chinese>拆解後的 Mk32 榴彈機槍（架高，OCP）（NATO）</Chinese>
+				    <French>Mk32 GMG démontée (rehaussée, OCP) [OTAN]</French>
+				    <Spanish>Mk32 GMG desmontada (alzada, OCP) [OTAN]</Spanish>
+				    <Italian>Mk32 GMG smontato (sollevato, OCP) [NATO]</Italian>
+				    <Polish>Złożony GA Mk32 (podwyższony, OCP) [NATO]</Polish>
+				    <Russian>Разобранный авт. гранатомет Мк32 (установлен, OCP) [НАТО]</Russian>
+				    <German>Demontiertes Mk32 GMG (erhöht, OCP) [NATO]</German>
+				    <Czech>Rozebraný granátomet Mk32 (vztyčený, OCP) [NATO]</Czech>
+				    <English>Dismantled Mk32 GMG (Raised, OCP) [NATO]</English>
+				    <Portuguese>Mk32 GMG desmontado (erguido, OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 Mk32 GMG(상단거치, OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的 Mk32 GMG（升高，OCP）[NATO]</Chinesesimp>
+				    <Japanese>分解Mk32 GMG（持ち上げ、OCP） [NATO]</Japanese>
+				    <Turkish>Sökülmüş Mk32 GMG (Yükseltilmiş, OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_CfgVehicles_B_GMG_01_A_ocp_Wpn0">
+				    <Original>Dismantled Autonomous GMG (OCP) [NATO]</Original>
+				    <Chinese>拆解後的自動榴彈機槍（OCP）（NATO）</Chinese>
+				    <French>GMG autonome démonté (OCP) [OTAN]</French>
+				    <Spanish>GMG autónoma desmontada (OCP) [OTAN]</Spanish>
+				    <Italian>GMG autonomo smontato (OCP) [NATO]</Italian>
+				    <Polish>Złożony samodzielny GA (OCP) [NATO]</Polish>
+				    <Russian>Разобранный автономный авт. гранатомет (OCP) [НАТО]</Russian>
+				    <German>Demontiertes autonomes GMG (OCP) [NATO]</German>
+				    <Czech>Rozebraný autonomní granátomet (OCP) [NATO]</Czech>
+				    <English>Dismantled Autonomous GMG (OCP) [NATO]</English>
+				    <Portuguese>Lança-granadas autônoma desmontada (OCP) [OTAN]</Portuguese>
+				    <Korean>분해된 무인GMG(OCP) [NATO]</Korean>
+				    <Chinesesimp>拆解的自主 GMG (OCP) [NATO]</Chinesesimp>
+				    <Japanese>分解自立GMG（OCP）[NATO]</Japanese>
+				    <Turkish>Sökülmüş Otonom GMG (OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_c_cfgvehicles_b_hmg_02_support_ocp_f0">
+                    <Original>Folded Tripod M2 HMG .50 (OCP) [NATO]</Original>
+                    <English>Folded Tripod M2 HMG .50 (OCP) [NATO]</English>
+                    <Czech>Složená trojnožka na těžký kulomet M2 .50 (OCP) [NATO]</Czech>
+                    <German>Gefaltetes Dreibein für M2 HMG .50 (OCP) [NATO]</German>
+                    <Russian>Сложенная тренога пулемета M2 .50 (OCP) [НАТО]</Russian>
+                    <Polish>CKM M2 .50, złożony trójnóg (OCP) [NATO]</Polish>
+                    <Italian>Cavalletto ripiegato M2 HMG .50 (OCP) [NATO]</Italian>
+                    <Spanish>Trípode de ametralladora pesada M2 plegado de .50 (OCP) [OTAN]</Spanish>
+                    <French>Trépied repliable M2 HMG .50 (OCP) [OTAN]</French>
+                    <Chinese>折起的三腳架 M2 重機槍 .50(OCP)（NATO）</Chinese>
+                    <Japanese>折り畳み式三脚 M2 HMG .50 (OCP) [NATO]</Japanese>
+                    <Korean>접은 삼각대 M2 HMG .50 (OCP) [NATO]</Korean>
+                    <Portuguese>Tripé dobrado M2 MP .50 (OCP) [OTAN]</Portuguese>
+                    <Chinesesimp>折叠的三脚架 M2 HMG .50 (OCP) [NATO]</Chinesesimp>
+                    <Turkish>Katlanır Üçayak M2 HMG .50 (OCP) [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_c_cfgvehicles_b_hmg_02_support_high_ocp_f0">
+                    <Original>Folded Tripod M2 HMG .50 (Raised, OCP) [NATO]</Original>
+                    <English>Folded Tripod M2 HMG .50 (Raised, OCP) [NATO]</English>
+                    <Czech>Složená trojnožka na těžký kulomet M2 .50 (vztyčený, OCP) [NATO]</Czech>
+                    <German>Gefaltetes Dreibein für M2 HMG .50 (erhöht, OCP) [NATO]</German>
+                    <Russian>Сложенная тренога пулемета M2 .50 (поднята, OCP) [НАТО]</Russian>
+                    <Polish>CKM M2 .50, złożony trójnóg (podwyższony, OCP) [NATO]</Polish>
+                    <Italian>Cavalletto ripiegato M2 HMG .50 (alzato, OCP) [NATO]</Italian>
+                    <Spanish>Trípode de ametralladora pesada M2 plegado de .50 (elevado, OCP) [OTAN]</Spanish>
+                    <French>Trépied repliable M2 HMG .50 (rehaussé, OCP) [OTAN]</French>
+                    <Chinese>折起的三腳架 M2 重機槍 .50（立起）（NATO）</Chinese>
+                    <Japanese>折り畳み式三脚 M2 HMG .50（持ち上げ）(OCP) [NATO]</Japanese>
+                    <Korean>접은 삼각대 M2 HMG .50 (상단 거치) (OCP) [NATO]</Korean>
+                    <Portuguese>Tripé dobrado M2 MP .50 (levantado, OCP) [OTAN]</Portuguese>
+                    <Chinesesimp>折叠的三脚架 M2 HMG .50（升高）(OCP) [NATO]</Chinesesimp>
+                    <Turkish>Katlanır Üçayak M2 HMG .50 (Yükseltilmiş, OCP) [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_c_cfgvehicles_b_hmg_02_weapon_ocp_f0">
+                    <Original>Dismantled M2 HMG .50 (OCP) [NATO]</Original>
+                    <English>Dismantled M2 HMG .50 (OCP) [NATO]</English>
+                    <Czech>Rozebraný těžký kulomet M2 .50 (OCP) [NATO]</Czech>
+                    <German>Demontiertes M2 HMG .50 (OCP) [NATO]</German>
+                    <Russian>Снятый пулемет M2 .50 (OCP) [НАТО]</Russian>
+                    <Polish>Rozłożony CKM M2 .50 (OCP) [NATO]</Polish>
+                    <Italian>M2 HMG .50 smontata (OCP) [NATO]</Italian>
+                    <Spanish>Ametralladora pesada M2 desmontada de .50 (OCP) [OTAN]</Spanish>
+                    <French>M2 HMG .50 démontée (OCP) [OTAN]</French>
+                    <Chinese>拆解後的 M2 重機槍 .50 (OCP)（NATO）</Chinese>
+                    <Japanese>分解された M2 HMG .50 (OCP) [NATO]</Japanese>
+                    <Korean>분해한 M2 HMG .50 (OCP) [NATO]</Korean>
+                    <Portuguese>M2 MP desmontada .50 (OCP) [OTAN]</Portuguese>
+                    <Chinesesimp>拆解的 M2 HMG .50 (OCP) [NATO]</Chinesesimp>
+                    <Turkish>Sökülmüş M2 HMG .50 (OCP) [NATO]</Turkish>
+                </Key>
+			    <Key ID="STR_A3_A_CfgVehicles_B_HMG_02_high_weapon_ocp_F0">
+                    <Original>Dismantled M2 HMG .50 (Raised, OCP) [NATO]</Original>
+                    <English>Dismantled M2 HMG .50 (Raised, OCP) [NATO]</English>
+                    <Czech>Rozebraný těžký kulomet M2 .50 (vztyčený, OCP) [NATO]</Czech>
+                    <German>Demontiertes M2 HMG .50 (erhöht, OCP) [NATO]</German>
+                    <Russian>Снятый пулемет M2 .50 (поднята, OCP) [НАТО]</Russian>
+                    <Polish>Rozłożony CKM M2 .50 (podwyższony, OCP) [NATO]</Polish>
+                    <Italian>M2 HMG .50 smontata (alzato, OCP) [NATO]</Italian>
+                    <Spanish>Ametralladora pesada M2 desmontada de .50 (elevado, OCP) [OTAN]</Spanish>
+                    <French>M2 HMG .50 démontée (OCP) [OTAN]</French>
+                    <Chinese>拆解後的 M2 重機槍 .50（立起）（NATO）</Chinese>
+                    <Japanese>分解された M2 HMG .50（持ち上げ）(OCP) [NATO]</Japanese>
+                    <Korean>분해한 M2 HMG .50 (상단 거치) (OCP) [NATO]</Korean>
+                    <Portuguese>M2 MP desmontada .50 (levantado, OCP) [OTAN]</Portuguese>
+                    <Chinesesimp>拆解的 M2 HMG .50（升高）(OCP) [NATO]</Chinesesimp>
+                    <Turkish>Sökülmüş M2 HMG .50 (Yükseltilmiş, OCP) [NATO]</Turkish>
+                </Key>
+                <Key ID="STR_A3_B_static_AA_placeholder_ocp_F0">
+				    <Original>Static Titan Launcher (AA, OCP) [NATO]</Original>
+				    <Chinese>固定式 Titan 發射器（AA，OCP）（NATO）</Chinese>
+				    <French>Lance-roquettes fixe Titan (AA, OCP) [OTAN]</French>
+				    <Spanish>Lanzador Titan estático (AA, OCP) [OTAN]</Spanish>
+				    <Italian>Lanciatore Titan statico (AA, OCP) [NATO]</Italian>
+				    <Polish>Statyczna wyrzutnia Titan (plot, OCP) [NATO]</Polish>
+				    <Russian>Стационарная ПУ Titan (ПВО, OCP) [НАТО]</Russian>
+				    <German>Statischer Titan-Werfer (Flugabwehr, OCP) [NATO]</German>
+				    <Czech>Statický odpalovač Titan (AA, OCP) [NATO]</Czech>
+				    <English>Static Titan Launcher (AA, OCP) [NATO]</English>
+				    <Portuguese>Lançador estático de Titan (ar-ar, OCP) [OTAN]</Portuguese>
+				    <Korean>고정 타이탄발사기(AA, OCP) [NATO]</Korean>
+				    <Chinesesimp>静态 Titan 发射器 (AA，OCP) [NATO]</Chinesesimp>
+				    <Japanese>固定式タイタンランチャー（AA、OCP） [NATO]</Japanese>
+				    <Turkish>Sabit Titan Fırlatıcı (AA, OCP) [NATO]</Turkish>
+			    </Key>
+                <Key ID="STR_A3_B_static_AT_placeholder_ocp_F0">
+				    <Original>Static Titan Launcher (AT, OCP) [NATO]</Original>
+				    <Chinese>固定式 Titan 發射器（AT，OCP）（NATO）</Chinese>
+				    <French>Lance-roquettes fixe Titan (AC, OCP) [OTAN]</French>
+				    <Spanish>Lanzador Titan estático (AT, OCP) [OTAN]</Spanish>
+				    <Italian>Lanciatore Titan statico (AC, OCP) [NATO]</Italian>
+				    <Polish>Statyczna wyrzutnia Titan (ppanc, OCP) [NATO]</Polish>
+				    <Russian>Стационарная ПУ Titan (ПТ, OCP) [НАТО]</Russian>
+				    <German>Statischer Titan-Werfer (Panzerabwehr, OCP) [NATO]</German>
+				    <Czech>Statický odpalovač Titan (AT, OCP) [NATO]</Czech>
+				    <English>Static Titan Launcher (AT, OCP) [NATO]</English>
+				    <Portuguese>Lançador estático de Titan (antitanque, OCP) [OTAN]</Portuguese>
+				    <Korean>고정 타이탄발사기(AT, OCP) [NATO]</Korean>
+				    <Chinesesimp>静态 Titan 发射器 (AT，OCP) [NATO]</Chinesesimp>
+				    <Japanese>固定式タイタンランチャー（AT、OCP） [NATO]</Japanese>
+				    <Turkish>Sabit Titan Fırlatıcı (AT, OCP) [NATO]</Turkish>
+			    </Key>
+				<Key ID="STR_A3_A_CfgVehicles_Land_RallyPoint_01_base_ocp_F0">
+					<Original>Rally Point (OCP) [NATO]</Original>
+					<Chinese>集結點 (OCP) [NATO]</Chinese>
+					<French>Point de ralliement (OCP) [OTAN]</French>
+					<Spanish>Punto de reunión (OCP) [OTAN]</Spanish>
+					<Italian>Punto di radUN (OCP) [NATO]</Italian>
+					<Polish>Punkt rajdowy (OCP) [NATO]</Polish>
+					<Russian>Точка ралли (OCP) [НАТО]</Russian>
+					<German>Sammelpunkt (OCP) [NATO]</German>
+					<Czech>Bod shromáždění</Czech>
+					<English>Rally Point (OCP) [NATO]</English>
+					<Portuguese>Ponto de encontro (OCP) [OTAN]</Portuguese>
+					<Korean>랠리 포인트 (OCP) [NATO]</Korean>
+					<Chinesesimp>集结点 (OCP) [NATO]</Chinesesimp>
+					<Japanese>ラリーポイント (OCP) [NATO]</Japanese>
+					<Turkish>Ralli puanı (OCP) [NATO]</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgVehicles_B_Respawn_RallyPoint_01_bag_ocp_F0">
+					<Original>Rally Point (OCP) [NATO]</Original>
+					<Chinese>集結點 (OCP) [NATO]</Chinese>
+					<French>Point de ralliement (OCP) [OTAN]</French>
+					<Spanish>Punto de reunión (OCP) [OTAN]</Spanish>
+					<Italian>Punto di radUN (OCP) [NATO]</Italian>
+					<Polish>Punkt rajdowy (OCP) [NATO]</Polish>
+					<Russian>Точка ралли (OCP) [НАТО]</Russian>
+					<German>Sammelpunkt (OCP) [NATO]</German>
+					<Czech>Bod shromáždění</Czech>
+					<English>Rally Point (OCP) [NATO]</English>
+					<Portuguese>Ponto de encontro (OCP) [OTAN]</Portuguese>
+					<Korean>랠리 포인트 (OCP) [NATO]</Korean>
+					<Chinesesimp>集结点 (OCP) [NATO]</Chinesesimp>
+					<Japanese>ラリーポイント (OCP) [NATO]</Japanese>
+					<Turkish>Ralli puanı (OCP) [NATO]</Turkish>
+				</Key>
+				<Key ID="STR_LXRF_B_Dufflebag_MTP">
+                    <Original>Duffel Bag (OCP)</Original>
+                    <English>Duffel Bag (OCP)</English>
+                    <French>Sac de voyage (OCP)</French>
+                    <Polish>Torba (OCP)</Polish>
+                    <German>Seesack (OCP)</German>
+                    <Spanish>Bolsa de lona (OCP)</Spanish>
+                    <Russian>Армейская сумка (OCP)</Russian>
+                    <Chinesesimp>行李包（OCP）</Chinesesimp>
+                    <Portuguese>Bolsa marinheira (OCP)</Portuguese>
+                </Key>
+                <Key ID="STR_LXRF_Land_Dufflebag_closed_mtp">
+                    <Original>Duffel Bag (Closed, OCP)</Original>
+                    <English>Duffel Bag (Closed, OCP)</English>
+                    <French>Sac de voyage (fermé, OCP)</French>
+                    <Polish>Torba (zamknięta, OCP)</Polish>
+                    <German>Seesack (Geschlossen, OCP)</German>
+                    <Spanish>Bolsa de lona (cerrada, OCP)</Spanish>
+                    <Russian>Армейская сумка (закрытая, OCP)</Russian>
+                    <Chinesesimp>行李包（拉合，OCP）</Chinesesimp>
+                    <Portuguese>Bolsa marinheira (Fechada, OCP)</Portuguese>
+                </Key>
+                <Key ID="STR_LXRF_Land_Dufflebag_open_mtp">
+                    <Original>Duffel Bag (Open, OCP)</Original>
+                    <English>Duffel Bag (Open, OCP)</English>
+                    <French>Sac de voyage (ouvert, OCP)</French>
+                    <Polish>Torba (otwarta, OCP)</Polish>
+                    <German>Seesack (Geöffnet, OCP)</German>
+                    <Spanish>Bolsa de lona (abierta, OCP)</Spanish>
+                    <Russian>Армейская сумка (открытая, OCP)</Russian>
+                    <Chinesesimp>行李包（敞开，OCP）</Chinesesimp>
+                    <Portuguese>Bolsa marinheira (Aberta, OCP)</Portuguese>
+                </Key>
+            </Container>
+			<Container name="Data">
+				<Key ID="STR_A3_AX_AXLE">
+            		<English>Axle</English>
+				</Key>
+			</Container>
+        </Container>
+    </Package>
+</Project>
