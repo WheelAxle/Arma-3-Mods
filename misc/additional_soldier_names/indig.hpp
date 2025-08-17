@@ -1,0 +1,47 @@
+		class indigmen
+		{
+			class FirstNames
+			{
+				ba="Ba";
+				chem="Chem";
+				chham="Chham";
+				chon="Chon";
+				chote="chote";
+				bon="Bon";
+				danh="Danh";
+				dung="Dung";
+				hoa="Hoa";
+				huong="Huong";
+				kien="Kien";
+				ly="Ly";
+				luc="Luc";
+				nuong="Nuong";
+				rinh="Rinh";
+				set="Set";
+				son="Son";
+				thach="Thach";
+				truong="Truong";
+				lieu="Lieu";
+				biu="Biu";
+				boui="Boui";
+				hai="Hai";
+				gong="Gong";
+				hmoi="Hmoi";
+				hyuk="Hyuk";
+				kai="Kai";
+				klung="Klung";
+				lam="Lam";
+				loi="Loi";
+				lun="Lun";
+				meou="Meou";
+				nguang="Nguang";
+				phung="Phung";
+				phyit="Phyit";
+				quang="Quang";
+				sang="Sang";
+			};
+			class LastNames
+			{
+				empty="";
+			};
+		};

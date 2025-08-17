@@ -1,0 +1,627 @@
+class CfgPatches
+{
+	class mute_ui_unsung
+	{
+		addonRootClass = "mute_ui";
+        requiredVersion = 0.1;
+		requiredAddons[] = 
+		{
+			"uns_main"
+		};
+		skipWhenMissingDependencies = 1;
+		units[] = {};
+		weapons[] = {};
+	};
+};
+
+class UNSRscCombo
+{
+	soundSelect[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundExpand[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundCollapse[]=
+	{
+		"",
+		0.1,
+		1
+	};
+};
+class UNSRscListBox
+{
+	soundSelect[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class UNSRscButton
+{
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class UNSRscShortcutButton
+{
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class UNSRscCheckBox
+{
+	soundEnter[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.1,
+		1
+	};
+};
+class UNSRscButtonMenu
+{
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class UNSRscButtonMenuOK
+{
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+
+class RscButton
+{
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscShortcutButton
+{
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscButtonMenu: RscShortcutButton
+{
+    soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscButtonMenuOK: RscButtonMenu
+{
+    soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscListBox
+{
+    soundSelect[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscXListBox
+{
+	soundSelect[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscActiveText
+{
+	soundEnter[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.1,
+		1
+	};
+};
+class RscCombo
+{
+    soundSelect[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundExpand[]=
+	{
+		"",
+		0.1,
+		1
+	};
+	soundCollapse[]=
+	{
+		"",
+		0.1,
+		1
+	};
+};
+class RscButtonNoColor: RscButton
+{
+	soundEnter[]=
+	{
+		"",
+		0.5,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundClick[]=
+	{
+		"",
+		0.5,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class RscDisplayCampaignLobby
+{
+    class ControlsBackground
+	{
+
+    };
+};
+class RscTestControlTypes
+{
+    class Controls
+	{
+		class _CT_BUTTON
+		{
+            soundClick[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEnter[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundPush[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEscape[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_COMBO
+		{
+            soundExpand[]=
+			{
+				"",
+				0.1,
+				1
+			};
+			soundCollapse[]=
+			{
+				"",
+				0.1,
+				1
+			};
+			soundSelect[]=
+			{
+				"",
+				0.1,
+				1
+			};
+        };
+        class _CT_ACTIVETEXT
+		{
+		};
+		class _CT_LISTBOX
+		{
+            soundSelect[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_SHORTCUTBUTTON
+		{
+            soundClick[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEnter[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundPush[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEscape[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_XBUTTON
+		{
+            soundClick[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEnter[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundPush[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEscape[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_XLISTBOX
+		{
+            soundSelect[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_XCOMBO
+		{
+            soundExpand[]=
+			{
+				"",
+				0.1,
+				1
+			};
+			soundCollapse[]=
+			{
+				"",
+				0.1,
+				1
+			};
+			soundSelect[]=
+			{
+				"",
+				0.1,
+				1
+			};
+        };
+        class _CT_LISTNBOX
+		{
+            soundSelect[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _CT_CHECKBOX
+		{
+            soundClick[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEnter[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundPush[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEscape[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+        class _ST_UPPERCASE
+		{
+            soundClick[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEnter[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundPush[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+			soundEscape[]=
+			{
+				"",
+				0.090000004,
+				1
+			};
+        };
+    };
+};
+class ctrlDefault
+{
+};
+class ctrlCheckbox: ctrlDefault
+{
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
+class ctrlDefaultText: ctrlDefault
+{
+};
+class ctrlDefaultButton: ctrlDefaultText
+{
+	soundClick[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEnter[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundPush[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+	soundEscape[]=
+	{
+		"",
+		0.090000004,
+		1
+	};
+};
