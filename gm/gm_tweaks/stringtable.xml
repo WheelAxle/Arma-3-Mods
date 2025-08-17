@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<Project name="language_f_gm_tweaks">
+    <Package name="factionnames">
+		<Key ID="STR_DN_GM_DK">
+			<English>Denmark (Summer)</English>
+			<German>Dänemark (Sommer)</German>
+		</Key>
+        <Key ID="STR_DN_GM_dk_winter">
+			<English>Denmark (Winter)</English>
+			<German>Dänemark (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_dk_90">
+			<English>Denmark (1990, Summer)</English>
+			<German>Dänemark (1990, Sommer)</German>
+		</Key>
+		<Key ID="STR_DN_GM_dk_90_winter">
+			<English>Denmark (1990, Winter)</English>
+			<German>Dänemark (1990, Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_GE">
+			<English>West Germany (Summer)</English>
+			<German>Deutschland (Sommer)</German>
+		</Key>
+        <Key ID="STR_DN_GM_ge_autumn">
+			<English>West Germany (Autumn)</English>
+			<German>Deutschland (Herbst)</German>
+		</Key>
+        <Key ID="STR_DN_GM_ge_winter">
+			<English>West Germany (Winter)</English>
+			<German>Deutschland (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_ge_90">
+			<English>West Germany (1990, Summer)</English>
+			<German>Deutschland (1990, Sommer)</German>
+		</Key>
+		<Key ID="STR_DN_GM_ge_90_winter">
+			<English>West Germany (1990, Winter)</English>
+			<German>Deutschland (1990, Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_ge_90_bgs">
+			<English>West Germany (1990, Borderguards)</English>
+			<German>Deutschland (1990, Grenzschutz)</German>
+		</Key>
+		<Key ID="STR_DN_GM_GC">
+			<English>East Germany (Summer)</English>
+			<German>DDR (Sommer)</German>
+		</Key>
+		<Key ID="STR_DN_GM_gc_autumn">
+			<English>East Germany (Autumn)</English>
+			<German>DDR (Herbst)</German>
+		</Key>
+        <Key ID="STR_DN_GM_gc_winter">
+			<English>East Germany (Winter)</English>
+			<German>DDR (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_gc_90">
+			<English>East Germany (1990, Summer)</English>
+			<German>DDR (1990, Sommer)</German>
+		</Key>
+		<Key ID="STR_DN_GM_gc_autumn_90">
+			<English>East Germany (1990, Autumn)</English>
+			<German>DDR (1990, Herbst)</German>
+		</Key>
+        <Key ID="STR_DN_GM_gc_winter_90">
+			<English>East Germany (1990, Winter)</English>
+			<German>DDR (1990, Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_pl">
+			<English>Poland (Summer)</English>
+			<German>Polen (Sommer)</German>
+		</Key>
+        <Key ID="STR_DN_GM_pl_autumn">
+			<English>Poland (Autumn)</English>
+			<German>Polen (Herbst)</German>
+		</Key>
+        <Key ID="STR_DN_GM_pl_winter">
+			<English>Poland (Winter)</English>
+			<German>Polen (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_pl_90">
+			<English>Poland (1990, Summer)</English>
+			<German>Polen (1990, Sommer)</German>
+		</Key>
+        <Key ID="STR_DN_GM_pl_autumn_90">
+			<English>Poland (1990, Autumn)</English>
+			<German>Polen (1990, Herbst)</German>
+		</Key>
+        <Key ID="STR_DN_GM_pl_winter_90">
+			<English>Poland (1990, Winter)</English>
+			<German>Polen (1990, Winter)</German>
+		</Key>
+    </Package>
+	<Package name="Subcategory">
+		<Key ID="STR_DN_GM_VC_MEN_80">
+			<English>Men</English>
+			<German>Männer, '80</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_80_AUTUMN">
+			<English>Men</English>
+			<German>Männer, '80 (Herbst)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_80_WINTER">
+			<English>Men (Winter)</English>
+			<German>Männer, '80 (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_90">
+			<English>Men</English>
+			<German>Männer, '90</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_90_AUTUMN">
+			<English>Men</English>
+			<German>Männer, '90 (Herbst)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_90_WINTER">
+			<English>Men (Winter)</English>
+			<German>Männer, '90 (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80">
+			<English>Men (Special Forces)</English>
+			<German>Spezialkräfte, '80</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80_AUTUMN">
+			<English>Men (Special Forces)</English>
+			<German>Spezialkräfte, '80 (Herbst)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_SPECIAL_80_WINTER">
+			<English>Men (Winter, Special Forces)</English>
+			<German>Spezialkräfte, '80 (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_SPECIAL_90">
+			<English>Men (Special Forces)</English>
+			<German>Spezialkräfte, '90</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_SPECIAL_90_WINTER">
+			<English>Men (Winter, Special Forces)</English>
+			<German>Spezialkräfte, '90 (Winter)</German>
+		</Key>
+		<Key ID="STR_DN_GM_VC_MEN_DIE9_90">
+			<English>Men (Special Forces)</English>
+			<German>Spezialkräfte, '90</German>
+		</Key>
+	</Package>
+</Project>
