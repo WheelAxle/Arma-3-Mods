@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3_USMC_Futura">
+	<Package name="Language_USMCLoadouts">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_1">
+                    <English>Marine Combat Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_1">
+                    <English>Marine Combat Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_2">
+                    <English>Marine Combat Uniform [USMC] (Desert/Gloves)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_2">
+                    <English>Marine Combat Uniform [USMC] (Woodland/Gloves)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_3">
+                    <English>Marine Combat Uniform [USMC] (Desert/Gloves/Rolled Up)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_3">
+                    <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Rolled Up)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_4">
+                    <English>Marine Combat Uniform [USMC] (Desert/Gloves/Rolled Up/Knee Pads)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_4">
+                    <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Rolled Up/Knee Pads)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_5">
+                    <English>Marine Combat Uniform [USMC] (Desert/Gloves/Knee Pads)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_5">
+                    <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Knee Pads)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_6">
+                    <English>Marine Combat Uniform [USMC] (Desert/Rolled Up)</English>
+                </Key>
+                <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_6">
+                    <English>Marine Combat Uniform [USMC] (Woodland/Rolled Up)</English>
+                </Key>
+                <Key ID="STR_EF_U_B_MarineCombatUniform_Diver_Des">
+                    <English>Marine Diver Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_EF_U_B_MarineCombatUniform_Diver_Wdl">
+                    <English>Marine Diver Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CSU13BP_Rolled_F0">
+                    <English>Flight Suit [US] (Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CSU13BP_NG_F0">
+                    <English>Flight Suit [US] (Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CSU13BP_Tan_Rolled_F0">
+                    <English>Flight Suit [US] (Tan, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CSU13BP_Tan_NG_F0">
+                    <English>Flight Suit [US] (Tan, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_wdl_cb_F0">
+                    <English>Combat Fatigues [USMC] (Woodland/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_des_cb_F0">
+                    <English>Combat Fatigues [USMC] (Desert/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_vest_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_vest_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland/Coyote, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_vest_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_vest_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert/Coyote, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt2_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland, Tee, Scarf)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt2_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert, Tee, Scarf)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_wdl_blk_F0">
+                    <English>Combat Fatigues [USMC] (Woodland/Black, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_des_blk_F0">
+                    <English>Combat Fatigues [USMC] (Desert/Black, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_wdl_coy_F0">
+                    <English>Combat Fatigues [USMC] (Woodland/Coyote, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_des_coy_F0">
+                    <English>Combat Fatigues [USMC] (Desert/Coyote, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_shirt_wdl_F0">
+                    <English>Combat Fatigues [USMC] (Woodland, Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_shirt_des_F0">
+                    <English>Combat Fatigues [USMC] (Desert, Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_StealthUniform_wdl_F0">
+                    <English>Stealth Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_StealthUniform_des_F0">
+                    <English>Stealth Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_StealthUniform_RolledUp_wdl_F0">
+                    <English>Stealth Uniform [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_StealthUniform_RolledUp_des_F0">
+                    <English>Stealth Uniform [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_SurvivalFatigues_wdl_F0">
+                    <English>Survival Fatigues [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_SurvivalFatigues_des_F0">
+                    <English>Survival Fatigues [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_F0">
+                    <English>Heli Pilot Coveralls [USMC]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_F0">
+                    <English>Pilot Coveralls [USMC]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_F0">
+                    <English>Heli Pilot Coveralls [USMC] (Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_F0">
+                    <English>Pilot Coveralls [USMC] (Gloves)</English>
+                </Key>
+                <Key ID="STR_EF_U_B_CrewCoveralls_Navy">
+                    <English>Coveralls [USN]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CombatUniformNCU_01_des_F0">
+                    <English>European Combat Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CombatUniformNCU_01_wdl_F0">
+                    <English>European Combat Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CombatUniformNCU_02_des_F0">
+                    <English>European Combat Uniform [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CombatUniformNCU_02_wdl_F0">
+                    <English>European Combat Uniform [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_IHWCU_NCU_01_des_F0">
+                    <English>Mixed Combat Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_IHWCU_NCU_01_wdl_F0">
+                    <English>Mixed Combat Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_IHWCU_NCU_02_des_F0">
+                    <English>Mixed Combat Uniform [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_IHWCU_NCU_02_wdl_F0">
+                    <English>Mixed Combat Uniform [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_ACU_NCU_01_des_F0">
+                    <English>Merged Combat Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_ACU_NCU_01_wdl_F0">
+                    <English>Merged Combat Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_ACU_NCU_02_des_F0">
+                    <English>Merged Combat Uniform [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_ACU_NCU_02_wdl_F0">
+                    <English>Merged Combat Uniform [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_wdl_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_wdl_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_des_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_des_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_02_wdl_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_02_wdl_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland/Coyote, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_tee_wdl_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_tee_wdl_brn_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland/Brown, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_02_des_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_02_des_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert/Coyote, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_tee_des_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_tee_des_brn_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert/Brown, Tee)</English>
+                </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_MCFU_JHMCS_MBU20P_F0">
+                    <English>Pilot Helmet (JHMCS)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_JHMCS2_MBU20P_F0">
+                    <English>Pilot Helmet (JHMCS II)</English>
+                </Key>
+                <Key ID="STR_EF_H_Booniehat_Wdl">
+                    <English>Booniehat [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_EF_H_Booniehat_Des">
+                    <English>Booniehat [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Booniehat_wdl_hs">
+                    <English>Booniehat [USMC] (Woodland, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Booniehat_des_hs">
+                    <English>Booniehat [USMC] (Desert, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Booniehat_desert_hs">
+                    <English>Booniehat (Desert, Headset)</English>
+                </Key>
+                <Key ID="STR_EF_H_UtilityCap_Wdl">
+                    <English>Utility Cap [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_EF_H_UtilityCap_Des">
+                    <English>Utility Cap [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_usmc_wdl">
+                    <English>Military Cap [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_usmc_des">
+                    <English>Military Cap [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_hs_usmc_wdl">
+                    <English>Military Cap [USMC] (Headset, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_hs_usmc_des">
+                    <English>Military Cap [USMC] (Headset, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_coy">
+                    <English>Cap (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_coy_hs">
+                    <English>Cap (Coyote Brown, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_headphones_coy">
+                    <English>Rangemaster Cap (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_coy_F">
+                    <English>Operator Helmet [USMC] (Cover, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_MPW_F">
+                    <English>Operator Helmet [USMC] (Cover, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_MPD_F">
+                    <English>Operator Helmet [USMC] (Cover, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Lite_coy_F">
+                    <English>Operator Helmet [USMC] (Lite, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Lite_MPW_F">
+                    <English>Operator Helmet [USMC] (Lite, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Lite_MPD_F">
+                    <English>Operator Helmet [USMC] (Lite, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_coy_F">
+                    <English>Operator Helmet [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_coy_F">
+                    <English>Operator Helmet [USMC] (Headset, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_coy_F">
+                    <English>Operator Helmet [USMC] (Scrim, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPW_F">
+                    <English>Operator Helmet [USMC] (Scrim, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPW_T_F">
+                    <English>Operator Helmet [USMC] (Scrim, Tropic)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPD_F">
+                    <English>Operator Helmet [USMC] (Scrim, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_coy_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPW_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPW_T_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Tropic)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPD_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_coy_worn_F">
+                    <English>Operator Helmet [USMC] (Cover, Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_MPW_worn_F">
+                    <English>Operator Helmet [USMC] (Cover, Woodland, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_MPD_worn_F">
+                    <English>Operator Helmet [USMC] (Cover, Desert, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_coy_worn_F">
+                    <English>Operator Helmet [USMC] (Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_coy_worn_F">
+                    <English>Operator Helmet [USMC] (Headset, Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_coy_worn_F">
+                    <English>Operator Helmet [USMC] (Scrim, Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPW_worn_F">
+                    <English>Operator Helmet [USMC] (Scrim, Woodland, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPD_worn_F">
+                    <English>Operator Helmet [USMC] (Scrim, Desert, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPW_T_worn_F">
+                    <English>Operator Helmet [USMC] (Scrim, Tropic, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPW_worn_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Woodland, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPW_T_worn_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Tropic, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPD_worn_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Desert, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_dirty_F">
+                    <English>Marine Combat Helmet (Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_born2kill_F">
+                    <English>Marine Combat Helmet (Kill)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_born2shit_F">
+                    <English>Marine Combat Helmet (Shit)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_crayon_F">
+                    <English>Marine Combat Helmet (Crayon)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Basic_dirty_F">
+                    <English>Marine Combat Helmet (Basic, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Full_dirty_F">
+                    <English>Marine Combat Helmet (Full, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_BasicNet_Wdl_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Woodland, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_BasicNet_Des_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Desert, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_BasicNet_Coy_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_BasicNet_Olive_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Olive, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_BasicNet_Black_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Black, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Wdl_dirty_F">
+                    <English>Marine Combat Helmet (Full/Woodland, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Des_dirty_F">
+                    <English>Marine Combat Helmet (Full/Desert, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Coy_dirty_F">
+                    <English>Marine Combat Helmet (Full/Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Olive_dirty_F">
+                    <English>Marine Combat Helmet (Full/Olive, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Black_dirty_F">
+                    <English>Marine Combat Helmet (Full/Black, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_light_coy">
+                    <English>Light Combat Helmet (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_light_tan">
+                    <English>Light Combat Helmet (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_coy">
+                    <English>Light Combat Helmet (Coyote Brown, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_tan">
+                    <English>Light Combat Helmet (Tan, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_oli">
+                    <English>Combat Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_dkgrn">
+                    <English>Combat Helmet (Dark Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_oli">
+                    <English>Combat Helmet (Olive, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_dkgrn">
+                    <English>Combat Helmet (Dark Green, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_light_oli">
+                    <English>Light Combat Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_light_dkgrn">
+                    <English>Light Combat Helmet (Dark Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_oli">
+                    <English>Light Combat Helmet (Olive, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_dkgrn">
+                    <English>Light Combat Helmet (Dark Green, Enhanced)</English>
+                </Key>
+                <Key ID="STR_EF_H_HelmetCrew_Coy">
+                    <English>Modular Crew Helmet (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_EF_H_HelmetCrew_Yellow">
+                    <English>Modular Crew Helmet (Yellow)</English>
+                </Key>
+                <Key ID="STR_EF_H_HelmetCrew_White">
+                    <English>Modular Crew Helmet (White)</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_MCFU_SRU21P_LPU9P_PCU15AP_F0">
+                    <English>Pilot Survival Vest [US]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_SRU21P_LPU9P_PCU15AP_Alt_F0">
+                    <English>Pilot Survival Vest [US] (Alt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_mccoy_F0">
+                    <English>Carrier Lite [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_coy_F0">
+                    <English>Carrier Lite (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_mccoy_F0">
+                    <English>Carrier Rig [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_coy_F0">
+                    <English>Carrier Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_mccoy_F0">
+                    <English>Carrier Alt Rig [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_coy_F0">
+                    <English>Carrier Alt Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_mccoy_F0">
+                    <English>Carrier Vest Rig [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_coy_F0">
+                    <English>Carrier Vest Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierGL_coy_F0">
+                    <English>Carrier GL Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierSpec_coy_F0">
+                    <English>Carrier Special Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierLite_coy_F0">
+                    <English>Carrier Lite Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Rifleman_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Sailor_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Sailor, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy">
+                    <English>Pilot Life Vest (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy_dirty">
+                    <English>Pilot Life Vest (Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Scout_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Support_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_TL_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote/Diver, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Rifleman_Coy_dirty">
+                    <English>Commando Chest Rig (Coyote/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_TL_Coy_dirty">
+                    <English>Commando Chest Rig (Coyote/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Scout_Coy_dirty">
+                    <English>Commando Chest Rig (Coyote/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Support_Coy_dirty">
+                    <English>Commando Chest Rig (Coyote/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_grn">
+                    <English>Carrier Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_oli">
+                    <English>Carrier Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_cbr">
+                    <English>Carrier Rig (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_grn">
+                    <English>Carrier Lite (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_oli">
+                    <English>Carrier Lite (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_cbr">
+                    <English>Carrier Lite (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_grn">
+                    <English>Carrier Alt Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_oli">
+                    <English>Carrier Alt Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_cbr">
+                    <English>Carrier Alt Rig (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_BandollierB_grn">
+                    <English>Slash Bandollier (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_BandollierB_oli">
+                    <English>Slash Bandollier (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_BandollierB_cbr">
+                    <English>Slash Bandollier (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_Rangemaster_belt_cbr">
+                    <English>Battle Belt (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierSpec_oli">
+                    <English>Carrier Special Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierSpec_grn">
+                    <English>Carrier Special Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierGL_oli">
+                    <English>Carrier GL Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierGL_grn">
+                    <English>Carrier GL Rig (Green)</English>
+                </Key>
+            </Container>
+            <Container name="Backpacks">
+                <Key ID="STR_A3_MCFU_B_AssaultPack_mdes">
+                    <English>Assault Pack [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_AssaultPack_mwdl">
+                    <English>Assault Pack [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_AssaultPackSpec_mdes">
+                    <English>Assault Pack [USMC] (Desert, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_AssaultPackSpec_mwdl">
+                    <English>Assault Pack [USMC] (Woodland, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_AssaultPackSpec_coy">
+                    <English>Assault Pack (Coyote Brown, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_Kitbag_mdes">
+                    <English>Kitbag [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_Kitbag_mwdl">
+                    <English>Kitbag [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_TacticalPack_mdes">
+                    <English>Tactical Pack [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_TacticalPack_mwdl">
+                    <English>Tactical Pack [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_EF_B_HMG_01_support_MJTF_des">
+                    <English>Folded Tripod [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_HMG_01_support_high_MJTF_des">
+                    <English>Folded Tripod (Raised) [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_HMG_01_weapon_MJTF_des">
+                    <English>Dismantled Mk30 HMG [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_GMG_01_weapon_MJTF_des">
+                    <English>Dismantled Mk32 GMG [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_HMG_01_weapon_high_MJTF_des">
+                    <English>Dismantled Mk30 HMG (Raised) [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_Mortar_01_weapon_MJTF_des">
+                    <English>Folded Mk6 Mortar Tube [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_Mortar_01_support_MJTF_des">
+                    <English>Folded Mk6 Mortar Bipod [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_AA_01_weapon_MJTF_des">
+                    <English>Static Titan Launcher (AA) [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_AT_01_weapon_MJTF_des">
+                    <English>Static Titan Launcher (AT) [USMC]</English>
+                </Key>
+                <Key ID="STR_EF_B_UAV_01_backpack_coy">
+                    <English>UAV Bag (AR-2) [USMC]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_Carryall_mdes">
+                    <English>Carryall Backpack [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_Carryall_mwdl">
+                    <English>Carryall Backpack [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_PatrolPack_mdes">
+                    <English>Patrol Pack [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_PatrolPack_mwdl">
+                    <English>Patrol Pack [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_PatrolPack_coy">
+                    <English>Patrol Pack (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RadioBag_01_mdes">
+                    <English>Radio Pack [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RadioBag_01_mwdl">
+                    <English>Radio Pack [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RadioBag_01_coy">
+                    <English>Radio Pack (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RaiderPack_coy_dirty">
+                    <English>Raider Pack (Coyote Brown, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RaiderPack_blk_dirty">
+                    <English>Raider Pack (Black, Worn)</English>
+                </Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_blk_F0">
+                    <English>Mesh Balaclava</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_G_blk_F0">
+                    <English>Mesh Balaclava (Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_coy_F0">
+                    <English>Mesh Balaclava (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_G_coy_F0">
+                    <English>Mesh Balaclava (Coyote, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_coy_F0">
+                    <English>Bandana (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_F0">
+                    <English>Bandana (Shemag, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_shades_F0">
+                    <English>Bandana (Shemag, Shades, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_sport_F0">
+                    <English>Bandana (Shemag, Sport, Tan)</English>
+                </Key>
+            </Container>
+            <Container name="NVGs">
+                <Key ID="STR_A3_MCFU_NVGoggles_brn_Hidden_F0">
+                    <English>NV Goggles (Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_NVGoggles_brn_hs_Hidden_F0">
+                    <English>NV Goggles (Headset, Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_NVGoggles_grn_Hidden_F0">
+                    <English>NV Goggles (Green, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_NVGoggles_brn_gg_Hidden_F0">
+                    <English>NV Goggles (Goggles, Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_NVGoggles_brn_sm_Hidden_F0">
+                    <English>NV Goggles (Shemagh, Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_blk_Hidden_F0">
+                    <English>LPNVG (Black, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_blk_gg_Hidden_F0">
+                    <English>LPNVG (Black, Goggles, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_blk_sm_Hidden_F0">
+                    <English>LPNVG (Black, Shemagh, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_tan_Hidden_F0">
+                    <English>LPNVG (Tan, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_tan_gg_Hidden_F0">
+                    <English>LPNVG (Tan, Goggles, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_tan_sm_Hidden_F0">
+                    <English>LPNVG (Tan, Shemagh, Hidden)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="Rifles">
+                <Key ID="STR_A3_MCFU_arifle_MXAR_coy_tt_F0">
+                    <English>MXAR 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXAR_GL_coy_tt_F0">
+                    <English>MXAR 3GL 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXC_coy_tt_F0">
+                    <English>MXC 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_coy_tt_F0">
+                    <English>MX 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_GL_coy_tt_F0">
+                    <English>MX 3GL 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_SW_coy_tt_F0">
+                    <English>MX SW 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXM_coy_tt_F0">
+                    <English>MXM 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_blk_F0">
+                    <English>M16E3 5.56 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_FG_blk_F0">
+                    <English>M16E3 FG 5.56 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_GL_blk_F0">
+                    <English>M16E3 GL 5.56 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_spray_F0">
+                    <English>M16E3 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_FG_spray_F0">
+                    <English>M16E3 FG 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_M16A3_GL_spray_F0">
+                    <English>M16E3 GL 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SR25_twotone_F0">
+                    <English>Mk11 7.62 mm (Two-Tone)</English>
+                </Key>
+            </Container>
+            <Container name="Machineguns">
+                <Key ID="STR_A3_MCFU_MMG_02_coy_F0">
+                    <English>SPMG .338 (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_03_blk_F0">
+                    <English>LIM-84 5.56 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_03_khk_F0">
+                    <English>LIM-84 5.56 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_03_tan_F0">
+                    <English>LIM-84 5.56 mm (Tan)</English>
+                </Key>
+            </Container>
+            <Container name="LongRangeRifles">
+                <Key ID="STR_A3_MCFU_srifle_DMR_03_coy_F0">
+                    <English>Mk-I EMR 7.62 mm (Coyote)</English>
+                </Key>
+            </Container>
+            <Container name="Pistols">
+                <Key ID="STR_A3_MCFU_hgun_ACPC2_coy_F0">
+                    <English>M45A3 .45 ACP (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_hgun_P320_coyote_F0">
+                    <English>M17 9 mm (Coyote)</English>
+                </Key>
+            </Container>
+            <Container name="Acessories">
+                <Key ID="STR_EF_snds_mxar">
+                    <English>MX Sound Suppressor (6.5mm, Black)</English>
+                </Key>
+                <Key ID="STR_EF_snds_mxar_sand">
+                    <English>MX Sound Suppressor (6.5mm, Sand)</English>
+                </Key>
+                <Key ID="STR_EF_snds_mxar_coy">
+                    <English>MX Sound Suppressor (6.5mm, Coyote)</English>
+                </Key>
+                <Key ID="STR_EF_snds_mxar_khk">
+                    <English>MX Sound Suppressor (6.5mm, Khaki)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+                <Key ID="STR_A3_MCFU_Texture_DarkGrey0">
+                    <English>Dark Grey</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Texture_DarkGreyCamo0">
+                    <English>Dark Grey Camo</English>
+                </Key>
+            </Container>
+            <Container name="Helicopters">
+                <Key ID="STR_A3_MCFU_Heli_Transport_uh1x_unarmed1_F">
+                    <English>UH-1X Specter (Unarmed)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Heli_Transport_uh1x_unarmed2_F">
+                    <English>UH-1X Specter (Unarmed Seats)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Heli_Transport_uh1x_armed_F">
+                    <English>UH-1X Specter</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Heli_Transport_uh1x_medical_F0">
+                    <English>UH-1X Specter MEV</English>
+                </Key>
+            </Container>
+            <Container name="Cars">
+                <Key ID="STR_A3_GS_MRAP_csk181_F0">
+                    <English>Niutou</English>
+                </Key>
+            </Container>
+            <Container name="APCs">
+                <Key ID="STR_A3_MCFU_APC_Wheeled_acv_m2_F">
+                    <English>ACV-P Frog (HMG)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_AX_APC_Wheeled_acv_gl_F">
+                    <English>ACV-P Frog (GL)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_AX_APC_Wheeled_acv_30_F">
+                    <English>ACV-30 Frog</English>
+                </Key>
+            </Container>
+            <Container name="Tanks">
+                <Key ID="STR_A3_GS_MBT_ztz96b_F0">
+                    <English>XT-96 Xiezhi</English>
+                </Key>
+            </Container>
+            <Container name="Boxes">
+                <Key ID="STR_EF_B_supplyCrate_MJTF">
+                    <English>Supply Box [USMC]</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_MCFU_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Moe">
+                    <English>556Moe</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_John">
+                    <English>JohnHansen</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Leon">
+                    <English>Leon</English>
+                </Key>
+            </Container>
+            <Container name="Faction_Classes">
+                <Key ID="STR_EF_FACTION_MJTF_DES">
+                    <English>USMC (Desert)</English>
+                    <Chinese>USMC (沙漠)</Chinese>
+                    <Chinesesimp>USMC (沙漠)</Chinesesimp>
+                    <Czech>USMC (Poušť)</Czech>
+                    <French>USMC (Désert)</French>
+                    <German>USMC (Wüste)</German>
+                    <Italian>USMC (Deserto)</Italian>
+                    <Japanese>USMC (砂漠)</Japanese>
+                    <Korean>USMC (사막)</Korean>
+                    <Original>USMC (Desert)</Original>
+                    <Polish>USMC (Pustynny)</Polish>
+                    <Portuguese>USMC (Deserto)</Portuguese>
+                    <Russian>USMC (пустыня)</Russian>
+                    <Spanish>USMC (Desierto)</Spanish>
+                    <Turkish>USMC (Çölt)</Turkish>
+                </Key>
+                <Key ID="STR_EF_FACTION_MJTF_Wdl">
+                    <English>USMC (Woodland)</English>
+                    <Chinese>USMC (森林)</Chinese>
+                    <Chinesesimp>USMC (林地)</Chinesesimp>
+                    <Czech>USMC (Lesy)</Czech>
+                    <French>USMC (Forêt)</French>
+                    <German>USMC (Waldland)</German>
+                    <Italian>USMC (Boschi)</Italian>
+                    <Japanese>USMC (森林)</Japanese>
+                    <Korean>USMC (삼림지)</Korean>
+                    <Original>USMC (Woodland)</Original>
+                    <Polish>USMC (Las)</Polish>
+                    <Portuguese>USMC (Floresta)</Portuguese>
+                    <Russian>USMC (лес)</Russian>
+                    <Spanish>USMC (Bosque)</Spanish>
+                    <Turkish>USMC (Ağaçlık)</Turkish>
+                </Key>
+                <Key ID="STR_EF_FACTION_MJTF_Navy">
+                    <English>US Navy</English>
+                    <Chinese>US Navy</Chinese>
+                    <Chinesesimp>US Navy</Chinesesimp>
+                    <Czech>US Navy</Czech>
+                    <French>US Navy</French>
+                    <German>US Navy</German>
+                    <Italian>US Navy</Italian>
+                    <Japanese>US Navy</Japanese>
+                    <Korean>US Navy</Korean>
+                    <Original>US Navy</Original>
+                    <Polish>US Navy</Polish>
+                    <Portuguese>US Navy</Portuguese>
+                    <Russian>US Navy</Russian>
+                    <Spanish>US Navy</Spanish>
+                    <Turkish>US Navy</Turkish>
+                </Key>
+                <Key ID="STR_A3_MCFU_EdSubcat_Personnel_MARSOC">
+                    <English>Men (MARSOC)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC0">
+                    <English>Special Forces (MARSOC)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC_FACTeam0">
+                    <English>MARSOC FAC Team</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC_Team0">
+                    <English>MARSOC Team</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC_Patrol0">
+                    <English>MARSOC Patrol</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC_BF0">
+                    <English>MARSOC Group</English>
+                </Key>
+            </Container>
+            <Container name="Mission_Name">
+                <Key ID="STR_EF_MP_COOP1_Altis_BriefingName">
+                    <English>COOP 12 Rope In Hand</English>
+                </Key>
+                <Key ID="STR_EF_MP_Warlords_Altis_BriefingName">
+                    <English>SC 32 Warlords (Whole Island, USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_Warlords_Malden_BriefingName">
+                    <English>SC 32 Warlords (USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_Warlords_Stratis_BriefingName">
+                    <English>SC 32 Warlords (USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_Warlords_Livonia_BriefingName">
+                    <English>SC 32 Warlords (USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_ZGM_Altis_BriefingName">
+                    <English>Zeus 16+2 Master Altis (USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_ZGM_Malden_BriefingName">
+                    <English>Zeus 16+2 Master Malden (USMC)</English>
+                </Key>
+                <Key ID="STR_EF_MP_ZGM_Stratis_BriefingName">
+                    <English>Zeus 16+2 Master Stratis (USMC)</English>
+                </Key>
+            </Container>
+            <Container name="Insignia">
+                <Key ID="STR_A3_MCFU_UnitInsignia_USMCRaiders0">
+                    <English>Marine Raiders</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_UnitInsignia_USMCMARSOC0">
+                    <English>Marine Special Operations Command</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_UnitInsignia_USMCMARSOC_High0">
+                    <English>Marine Special Operations Command</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_UnitInsignia_USMCMARSOC_Low0">
+                    <English>Marine Special Operations Command (Low-Vis)</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>
