@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3GroundedSoldiers">
+	<Package name="Language_GS">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_GS_Pilot_coveralls_semihex_F0">
+                    <English>Pilot Coveralls [CSAT] (Semi-Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_Pilot_coveralls_hex_F0">
+                    <English>Pilot Coveralls [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_UniformBDU_01_hex_F0">
+                    <English>Battledress Uniform [CSAT] (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_UniformBDU_02_hex_F0">
+                    <English>Battledress Uniform [CSAT] (Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_hex_F0">
+                    <English>CBRN Suit (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_uhex_F0">
+                    <English>CBRN Suit (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_ghex_F0">
+                    <English>CBRN Suit (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_dhex_F0">
+                    <English>CBRN Suit (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_Taiga_F0">
+                    <English>CBRN Suit (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CBRN_Suit_01_Arid_F0">
+                    <English>CBRN Suit (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_gloves_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_gloves_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Gloves, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_02_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_02_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_02_gloves_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-up, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_I_CombatUniform_jacket_02_gloves_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-up, Gloves, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_R_FullGhillie_frst_F0">
+                    <English>Full Ghillie [RU] (Forest)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_R_FullGhillie_dsrt_F0">
+                    <English>Full Ghillie [RU] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CombatFatigues_blk_F0">
+                    <English>Combat Fatigues [CSAT] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CombatFatigues_02_blk_F0">
+                    <English>Combat Fatigues [CSAT] (Black, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CombatFatigues_blksemiarid_F0">
+                    <English>Combat Fatigues [CSAT] (Black/Semi-Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_U_O_CombatFatigues_02_blksemiarid_F0">
+                    <English>Combat Fatigues [CSAT] (Black/Semi-Arid, Rolled-Up)</English>
+                </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_GS_H_PilotHelmetHeli_O_hex_F0">
+                    <English>Heli Pilot Helmet (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_PilotHelmetHeli_O_ghex_F0">
+                    <English>Heli Pilot Helmet (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_PilotHelmetHeli_O_dhex_F0">
+                    <English>Heli Pilot Helmet (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_hex_F0">
+                    <English>Avenger Helmet (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_ghex_F0">
+                    <English>Avenger Helmet (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_dhex_F0">
+                    <English>Avenger Helmet (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_cover_hex_F0">
+                    <English>Avenger Helmet (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_cover_ghex_F0">
+                    <English>Avenger Helmet (Cover, Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetAggressor_cover_dhex_F0">
+                    <English>Avenger Helmet (Cover, Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_bare_base_F0">
+                    <English>Azdahak Helmet BASE</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_bare_blk_F0">
+                    <English>Azdahak Helmet (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_bare_hs_blk_F0">
+                    <English>Azdahak Helmet (Headset, Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_cover_base_F0">
+                    <English>Azdahak Helmet BASE (Cover)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_cover_hex_F0">
+                    <English>Azdahak Helmet (Cover, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_cover_uhex_F0">
+                    <English>Azdahak Helmet (Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_cover_lite_hex_F0">
+                    <English>Azdahak Helmet (Lite, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetPCH_cover_lite_uhex_F0">
+                    <English>Azdahak Helmet (Lite, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetHBK_aaf_F0">
+                    <English>Advanced Modular Helmet [AAF]</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetHBK_aaf_headset_F0">
+                    <English>Advanced Modular Helmet [AAF] (Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetHBK_aaf_ear_F0">
+                    <English>Advanced Modular Helmet [AAF] (Ear Protectors)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetHBK_aaf_chops_F0">
+                    <English>Advanced Modular Helmet [AAF] (Chops)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetCCH_Headset_blktan_F0">
+                    <English>Liberator Helmet Headset (Black/Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetCCH_blktan_F0">
+                    <English>Liberator Helmet (Black/Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetCCH_Cover_blkhex_F0">
+                    <English>Liberator Helmet Cover (Black/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_HelmetCCH_Cover_blksemiarid_F0">
+                    <English>Liberator Helmet Cover (Black/Semi-Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_H_Beret_CSAT_red_F0">
+                    <English>Beret (Red) [CSAT]</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_GS_V_HarnessO_hex_F0">
+                    <English>LBV Harness (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_HarnessOGL_hex_F0">
+                    <English>LBV Grenadier Harness (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_HarnessOSpec_hex_F0">
+                    <English>ELBV Harness (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_CQB_alt_hex_F0">
+                    <English>Type 27 Carrier CQB Rig (Alt, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_CQB_alt_uhex_F0">
+                    <English>Type 27 Carrier CQB Rig (Alt, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_CQB_alt_khkhex_F0">
+                    <English>Type 27 Carrier CQB Rig (Alt, Khaki/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_GL_alt_hex_F0">
+                    <English>Type 27 Carrier GL Rig (Alt, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_GL_alt_uhex_F0">
+                    <English>Type 27 Carrier GL Rig (Alt, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_GL_alt_khkhex_F0">
+                    <English>Type 27 Carrier GL Rig (Alt, Khaki/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_Lite_alt_hex_F0">
+                    <English>Type 27 Carrier Lite (Alt, Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_Lite_alt_uhex_F0">
+                    <English>Type 27 Carrier Lite (Alt, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierRig_Lite_alt_khkhex_F0">
+                    <English>Type 27 Carrier Lite (Alt, Khaki/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_SmershVest_01_taiga_F0">
+                    <English>Kipchak Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_SmershVest_01_radio_taiga_F0">
+                    <English>Kipchak Vest (Taiga, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_SuperLite_F0">
+                    <English>Luchnik Lite Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_SuperLite_arid_F0">
+                    <English>Luchnik Lite Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_SuperLite_blk_F0">
+                    <English>Luchnik Lite Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_GLLite_F0">
+                    <English>Luchnik GL Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_GLLite_arid_F0">
+                    <English>Luchnik GL Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_GLLite_blk_F0">
+                    <English>Luchnik GL Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_CQBLite_F0">
+                    <English>Luchnik CQB Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_CQBLite_arid_F0">
+                    <English>Luchnik CQB Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GS_V_OCarrierLuchnik_CQBLite_blk_F0">
+                    <English>Luchnik CQB Vest (Black)</English>
+                </Key>
+            </Container>
+            <Container name="Backpacks">
+                <Key ID="STR_A3_GS_B_SmershVest_01_F0">
+                    <English>Kipchak Back Harness (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_SmershVest_01_taiga_F0">
+                    <English>Kipchak Back Harness (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_SmershVest_01_radio_F0">
+                    <English>Kipchak Back Harness (Green, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_SmershVest_01_radio_taiga_F0">
+                    <English>Kipchak Back Harness (Taiga, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_EAssaultPack_green_F0">
+                    <English>Eastern Assault Pack (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_EAssaultPack_taiga_F0">
+                    <English>Eastern Assault Pack (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GS_B_EAssaultPack_arid_F0">
+                    <English>Eastern Assault Pack (Arid)</English>
+                </Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_GS_G_Balaclava_mesh_blk_F0">
+                    <English>Mesh Balaclava</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_mesh_G_blk_F0">
+                    <English>Mesh Balaclava (Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_nylon_blk_F0">
+                    <English>Nylon Balaclava</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_nylon_G_blk_F0">
+                    <English>Nylon Balaclava (Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Goggles_AR_F0">
+                    <English>AR Goggles</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Sport_Black_F0">
+                    <English>Sport Shades (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_combat_blk_lxWS">
+                    <English>Balaclava (Thin, Black, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_ribbed_blk_F0">
+                    <English>Ribbed Balaclava (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_ribbed_grn_F0">
+                    <English>Ribbed Balaclava (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_ribbed_G_blk_F0">
+                    <English>Ribbed Balaclava (Black, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GS_G_Balaclava_ribbed_G_grn_F0">
+                    <English>Ribbed Balaclava (Green, Goggles)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="LongRangeRifles">
+                <Key ID="STR_A3_GS_srifle_DMR_04_green_F0">
+                    <English>ASP-1 Kir 12.7 mm (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GS_hgun_M9A1_black_F0">
+                    <English>M9A1 9 mm (Old)</English>
+                </Key>
+                <Key ID="STR_A3_GS_hgun_QSZ92_F0">
+                    <English>Xiàng 9 mm</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+                <Key ID="STR_A3_GS_O_Plane_Fighter_mig29_F0">
+                    <English>To-129 Azhdaha</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_T_Plane_Fighter_mig29_F0">
+                    <English>To-129 Qiang</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_R_Plane_Fighter_mig29_F0">
+                    <English>To-129 Sokol</English>
+                </Key>
+                <Key ID="STR_A3_GS_I_E_Plane_Fighter_mig29_F0">
+                    <English>A-129 Jastrząb</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j31_F0">
+                    <English>Y-31C Denlong</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j35_F0">
+                    <English>Y-35 Kiao</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_Stealth_j35_F0">
+                    <English>Y-35 Kiao (Stealth)</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j10_F0">
+                    <English>Y-10 Zhiming</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j11_F0">
+                    <English>Y-11 Xuanwu</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j15_F0">
+                    <English>Y-15 Shuihu</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j16_F0">
+                    <English>Y-16 Pixiu</English>
+                </Key>
+                <Key ID="STR_A3_GS_Plane_Fighter_j20_F0">
+                    <English>Y-20 Weilong</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_Plane_Fighter_su35_F0">
+                    <English>To-135 Phrynichus</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_R_Plane_Fighter_su35_F0">
+                    <English>To-135 Orel</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_Plane_Fighter_su57_F0">
+                    <English>To-157 Rhinthon</English>
+                </Key>
+                <Key ID="STR_A3_GS_O_R_Plane_Fighter_su57_F0">
+                    <English>To-157 Garpiya</English>
+                </Key>
+            </Container>
+            <Container name="Helicopters">
+                <Key ID="STR_A3_GS_Heli_Transport_z8l_F0">
+                    <English>X-8 Wengzhong</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Attack_z10_F0">
+                    <English>X-10 Huandou</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Attack_z10_F0">
+                    <English>X-10 Huandou</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Light_z11wa_F0">
+                    <English>X-11 Shenlong</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Light_z11wa2_F0">
+                    <English>X-11 Tianlong</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Attack_z19_F0">
+                    <English>X-19 Jiangshi</English>
+                </Key>
+                <Key ID="STR_A3_GS_Heli_Transport_z20_F0">
+                    <English>X-20 Xingtian</English>
+                </Key>
+            </Container>
+            <Container name="Cars">
+                <Key ID="STR_A3_GS_MRAP_csk181_F0">
+                    <English>Niutou</English>
+                </Key>
+                <Key ID="STR_A3_GS_MRAP_csk181_hmg_F0">
+                    <English>Niutou HMG</English>
+                </Key>
+                <Key ID="STR_A3_GS_MRAP_csk181_gmg_F0">
+                    <English>Niutou GMG</English>
+                </Key>
+            </Container>
+            <Container name="APCs">
+                <Key ID="STR_A3_GS_APC_zbd04A_F0">
+                    <English>XBD-4 Sanmiao</English>
+                </Key>
+                <Key ID="STR_A3_GS_APC_zbl09_F0">
+                    <English>XBL-5 Chiyou</English>
+                </Key>
+            </Container>
+            <Container name="Tanks">
+                <Key ID="STR_A3_GS_MBT_ztz96b_F0">
+                    <English>XT-96 Xiezhi</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_GS_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_GS_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_GS_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_GS_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_GS_Jamie">
+                    <English>OokamiJamie</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>
