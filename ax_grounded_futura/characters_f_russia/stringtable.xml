@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3GroundedFutura">
+	<Package name="Language_GRFU">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_Taiga_F0">
+                    <English>CBRN Suit (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_Arid_F0">
+                    <English>CBRN Suit (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_Urban_F0">
+                    <English>CBRN Suit (Urban)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_FullGhillie_frst_F0">
+                    <English>Full Ghillie [RU] (Forest)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_FullGhillie_dsrt_F0">
+                    <English>Full Ghillie [RU] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_taiga_F0">
+                    <English>Granit Suit (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_arid_F0">
+                    <English>Granit Suit (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_taiga_khk_F0">
+                    <English>Granit Suit (Taiga/Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_khk_taiga_F0">
+                    <English>Granit Suit (Khaki/Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_blk_taiga_F0">
+                    <English>Granit Suit (Black/Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_kneepads_taiga_F0">
+                    <English>Granit Suit (Taiga, Kneepads)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_kneepads_arid_F0">
+                    <English>Granit Suit (Arid, Kneepads)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_kneepads_taiga_khk_F0">
+                    <English>Granit Suit (Taiga/Khaki, Kneepads)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_kneepads_khk_taiga_F0">
+                    <English>Granit Suit (Khaki/Taiga, Kneepads)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_R_Gorka_kneepads_blk_taiga_F0">
+                    <English>Granit Suit (Black/Taiga, Kneepads)</English>
+                </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_GRFU_H_HelmetLuchnik_headset_spray_F0">
+                    <English>Luchnik Helmet (Headset, Paint)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet6B28_cover_taiga_F0">
+                    <English>Light Assault Helmet (Cover, Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet6B28_cover_arid_F0">
+                    <English>Light Assault Helmet (Cover, Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Helmet6B28_cover_urban_F0">
+                    <English>Light Assault Helmet (Cover, Urban)</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_GRFU_V_SmershVest_01_taiga_F0">
+                    <English>Kipchak Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_SmershVest_01_radio_taiga_F0">
+                    <English>Kipchak Vest (Taiga, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_SuperLite_F0">
+                    <English>Luchnik Lite Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_SuperLite_arid_F0">
+                    <English>Luchnik Lite Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_SuperLite_blk_F0">
+                    <English>Luchnik Lite Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_GLLite_F0">
+                    <English>Luchnik GL Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_GLLite_arid_F0">
+                    <English>Luchnik GL Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_GLLite_blk_F0">
+                    <English>Luchnik GL Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_CQBLite_F0">
+                    <English>Luchnik CQB Vest (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_CQBLite_arid_F0">
+                    <English>Luchnik CQB Vest (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierLuchnik_CQBLite_blk_F0">
+                    <English>Luchnik CQB Vest (Black)</English>
+                </Key>
+            </Container>
+            <Container name="Backpacks">
+                <Key ID="STR_A3_GRFU_B_SmershVest_01_F0">
+                    <English>Kipchak Back Harness (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_SmershVest_01_taiga_F0">
+                    <English>Kipchak Back Harness (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_SmershVest_01_radio_F0">
+                    <English>Kipchak Back Harness (Green, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_SmershVest_01_radio_taiga_F0">
+                    <English>Kipchak Back Harness (Taiga, Tactical Radio)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_EAssaultPack_green_F0">
+                    <English>Eastern Assault Pack (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_EAssaultPack_taiga_F0">
+                    <English>Eastern Assault Pack (Taiga)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_EAssaultPack_arid_F0">
+                    <English>Eastern Assault Pack (Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_EAssaultPack_urban_F0">
+                    <English>Eastern Assault Pack (Urban)</English>
+                </Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_GRFU_G_Balaclava_ribbed_blk_F0">
+                    <English>Ribbed Balaclava (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_ribbed_grn_F0">
+                    <English>Ribbed Balaclava (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_ribbed_G_blk_F0">
+                    <English>Ribbed Balaclava (Black, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_G_Balaclava_ribbed_G_grn_F0">
+                    <English>Ribbed Balaclava (Green, Goggles)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_O_NVGoggles_grn_hs_F0">
+                    <English>Compact NVG (Green, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_O_NVGoggles_grn_ep_F0">
+                    <English>Compact NVG (Green, Earpiece)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_O_NVGoggles_grn_hidden_F0">
+                    <English>Compact NVG (Green, hidden)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="LongRangeRifles">
+                <Key ID="STR_A3_GRFU_srifle_DMR_04_green_F0">
+                    <English>ASP-1 Kir 12.7 mm (Green)</English>
+                </Key>
+            </Container>
+            <Container name="Magazines">
+                <Key ID="STR_A3_CfgMagazines_ap_tracer_dns">
+					<English>AP/Tracer</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_Mag_F0">
+					<English>5.45 mm 30Rnd AK-12 Reload Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_Mag_Tracer_F0">
+					<English>5.45 mm 30Rnd AK-12 Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_AP_Mag_F0">
+					<English>5.45 mm AP 30Rnd AK-12 Reload Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_AP_Mag_Tracer_F0">
+					<English>5.45 mm AP 30Rnd AK-12 Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_45Rnd_545x39_AP_Mag_F0">
+					<English>5.45 mm AP 45Rnd RPK-74 Reload Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_60Rnd_545x39_AP_Mag_F0">
+					<English>5.45 mm AP 60Rnd RPK-74 Reload Tracer (Green) Mag</English>
+				</Key>
+				<Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_Mag_F1">
+					<English>Caliber: 5.45x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-74, AK-12, RPK-74, RPK-12</English>
+				</Key>
+				<Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_AP_Mag_F1">
+					<English>Caliber: 5.45x39 mm AP&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-74, AK-12, RPK-74, RPK-12</English>
+				</Key>
+				<Key ID="STR_A3_GRFU_CfgMagazines_45Rnd_545x39_AP_Mag_F1">
+					<English>Caliber: 5.45x39 mm AP&lt;br /&gt;Rounds: 45&lt;br /&gt;Used in: AK-74, AK-12, RPK-74, RPK-12</English>
+				</Key>
+				<Key ID="STR_A3_GRFU_CfgMagazines_60Rnd_545x39_AP_Mag_F1">
+					<English>Caliber: 5.45x39 mm AP&lt;br /&gt;Rounds: 60&lt;br /&gt;Used in: AK-74, AK-12, RPK-74, RPK-12</English>
+				</Key>
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+                <Key ID="STR_A3_GRFU_O_R_Plane_Fighter_mig29_F0">
+                    <English>MiG-29SMT Sokol</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_O_R_Plane_Fighter_su35_F0">
+                    <English>Su-35 Orel</English>
+                </Key>
+            </Container>
+            <Container name="Helicopters">
+            </Container>
+            <Container name="Cars">
+            </Container>
+            <Container name="APCs">
+            </Container>
+            <Container name="Tanks">
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Editor_Subcat">
+                <Key ID="STR_A3_CfgEditorSubcategories_EdSubcat_Personnel_RUSOF">
+                    <English>Men (Infiltrators)</English>
+                </Key>
+            </Container>
+            <Container name="Author">
+                <Key ID="STR_A3_GRFU_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Jamie">
+                    <English>OokamiJamie</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Charms">
+                    <English>CommanderCharms</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>

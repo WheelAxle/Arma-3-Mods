@@ -1,0 +1,39 @@
+class CfgPatches
+{
+	class ax_faction_russia_grfu_2035raf
+	{
+		units[]={};
+		weapons[]={};
+		requiredVersion=0.1;
+		requiredAddons[]=
+		{
+			"min_rf_air",
+			"min_rf_boat",
+            "min_rf_data",
+			"min_rf_drones",
+			"min_rf_units",
+			"min_rf_vehicle",
+			"min_rf_wp"
+		};
+		author="Axle";
+		skipwhenmissingdependencies=1;
+	};
+};
+
+class CfgGroups
+{
+	class East
+	{
+        delete min_rf;
+        delete min_rf_desert;
+        delete min_rf_winter;
+    };
+};
+
+class cfgWeapons
+{
+};
+
+class CfgVehicles
+{
+};

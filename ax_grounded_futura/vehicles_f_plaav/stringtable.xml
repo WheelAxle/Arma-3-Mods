@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3GroundedFutura">
+	<Package name="Language_GRFU">
+        <Container name="Characters_F">
+        </Container>
+        <Container name="Weapons_F">
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+                <Key ID="STR_A3_GRFU_O_T_Plane_Fighter_mig29_F0">
+                    <English>J-129 Qiang</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j31_F0">
+                    <English>J-31C Denlong</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j35_F0">
+                    <English>J-35 Kiao</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_Stealth_j35_F0">
+                    <English>J-35 Kiao (Stealth)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j10_F0">
+                    <English>J-10C Zhiming</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j11_F0">
+                    <English>J-11D Xuanwu</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j15_F0">
+                    <English>J-15 Shuihu</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j16_F0">
+                    <English>J-16 Pixiu</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Plane_Fighter_j20_F0">
+                    <English>J-20A Weilong</English>
+                </Key>
+            </Container>
+            <Container name="Helicopters">
+                <Key ID="STR_A3_GRFU_Heli_Transport_z8l_F0">
+                    <English>Z-8L Wengzhong</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Heli_Attack_z10_F0">
+                    <English>Z-10 Huandou</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Heli_Light_z11wa_F0">
+                    <English>Z-11WA Shenlong</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Heli_Light_z11wa2_F0">
+                    <English>Z-11WA Shenlong (Unarmed)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Heli_Attack_z19_F0">
+                    <English>Z-19 Jiangshi</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Heli_Transport_z20_F0">
+                    <English>Z-20 Xingtian</English>
+                </Key>
+            </Container>
+            <Container name="Cars">
+                <Key ID="STR_A3_GRFU_MRAP_csk181_F0">
+                    <English>Niutou</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MRAP_csk181_hmg_F0">
+                    <English>Niutou HMG</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MRAP_csk181_gmg_F0">
+                    <English>Niutou GMG</English>
+                </Key>
+            </Container>
+            <Container name="APCs">
+                <Key ID="STR_A3_GRFU_APC_zbd04A_F0">
+                    <English>ZBD-4A Sanmiao</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_APC_zbl09_F0">
+                    <English>ZBL-5 Chiyou</English>
+                </Key>
+            </Container>
+            <Container name="Tanks">
+                <Key ID="STR_A3_GRFU_MBT_ztz96a_F0">
+                    <English>ZTZ-96A Xiezhi</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MBT_ztz96b_F0">
+                    <English>ZTZ-96B Xiezhi</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MBT_ztz99_F0">
+                    <English>ZTZ-99 Gui</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MBT_ztz99a_F0">
+                    <English>ZTZ-99A Gui</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_MBT_ztz99a_F0">
+                    <English>ZTZ-99B Gui</English>
+                </Key>
+            </Container>
+            <Container name="Misc">
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_GRFU_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Jamie">
+                    <English>OokamiJamie</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Charms">
+                    <English>CommanderCharms</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>

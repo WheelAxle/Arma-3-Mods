@@ -1,0 +1,292 @@
+    class AX_U_O_CBRN_Suit_01_Taiga_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_CBRN_Suit_01_Taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_CBRN_Suit_01_Taiga_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_russia\uniforms\data\CBRN_Suit_01_Taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_CBRN_Man_Oversuit_01_Taiga_F";
+			containerClass="Supply30";
+			mass=45;
+		};
+	};
+	class AX_U_O_CBRN_Suit_01_Arid_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_CBRN_Suit_01_Arid_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_CBRN_Suit_01_Arid_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_russia\uniforms\data\CBRN_Suit_01_Arid_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_CBRN_Man_Oversuit_01_Arid_F";
+			containerClass="Supply30";
+			mass=45;
+		};
+	};
+	class AX_U_O_R_FullGhillie_frst_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_FullGhillie_frst_F0";
+		picture="\A3\characters_f_mark\data\ui\icon_U_B_FullGhillie_lsh_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_R_ghillie_frst_F";
+			containerClass="Supply60";
+			mass=80;
+		};
+	};
+	class AX_U_O_R_FullGhillie_dsrt_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_FullGhillie_dsrt_F0";
+		picture="\A3\characters_f_mark\data\ui\icon_U_B_FullGhillie_lsh_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_R_ghillie_dsrt_F";
+			containerClass="Supply60";
+			mass=80;
+		};
+	};
+	class lk_U_gorka_khk_F: Uniform_Base
+	{
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_khk_01_F_ca.paa";
+	};
+	class lk_U_gorka_blk_F: Uniform_Base
+	{
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_blk_01_F_ca.paa";
+	};
+	class lk_U_gorka_khk_light_F: Uniform_Base
+	{
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_khk_01_F_ca.paa";
+	};
+	class lk_U_gorka_blk_light_F: Uniform_Base
+	{
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_blk_01_F_ca.paa";
+	};
+	class AX_U_O_R_Gorka_taiga_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_taiga_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_taiga_khk_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_taiga_khk_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_taiga_khk_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_taiga_khk_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_khk_taiga_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_khk_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_khk_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_khk_taiga_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_blk_taiga_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_blk_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_blk_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_blk_taiga_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_taiga_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_kneepads_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_taiga_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_taiga_khk_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_kneepads_taiga_khk_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_taiga_khk_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_taiga_khk_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_khk_taiga_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_kneepads_khk_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_khk_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_khk_taiga_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_R_Gorka_blk_taiga_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_R_Gorka_kneepads_blk_taiga_F0";
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_Gorka_blk_taiga_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\a3\Characters_F_Enoch\Uniforms\Data\Gorka_01_Khaki_taiga_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_R_Gorka_blk_taiga_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
