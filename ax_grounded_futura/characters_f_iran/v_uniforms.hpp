@@ -14,6 +14,22 @@
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CBRN_Suit_01_UHex_CO.paa"
 		};
 	};
+	class AX_O_CBRN_Man_Oversuit_01_CHex_F: B_CBRN_Man_Oversuit_01_MTP_F
+	{
+		uniformClass="AX_U_O_CBRN_Suit_01_CHex_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CBRN_Suit_01_CHex_CO.paa"
+		};
+	};
+	class AX_O_CBRN_Man_Oversuit_01_irdpm_F: B_CBRN_Man_Oversuit_01_MTP_F
+	{
+		uniformClass="AX_U_O_CBRN_Suit_01_irdpm_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CBRN_Suit_01_irdpm_CO.paa"
+		};
+	};
     class AX_uniform_CombatUniform_PCU_hex_01_F: O_A_officer_F
 	{
 		scope=1;
@@ -94,7 +110,31 @@
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};
-	 class AX_uniform_CombatUniform_PCU_hex_02_F: O_A_officer_F
+	class AX_uniform_CombatUniform_PCU_chex_01_F: AX_uniform_CombatUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_CombatUniform_PCU_chex_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_CombatUniform_PCU_irdpm_01_F: AX_uniform_CombatUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_CombatUniform_PCU_irdpm_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
+	class AX_uniform_CombatUniform_PCU_hex_02_F: O_A_officer_F
 	{
 		scope=1;
 		scopeCurator=0;
@@ -171,6 +211,30 @@
 		{
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_uhex_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_uhex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
+	class AX_uniform_CombatUniform_PCU_chex_02_F: AX_uniform_CombatUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_CombatUniform_PCU_irdpm_02_F: AX_uniform_CombatUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_CombatUniform_PCU_irdpm_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};
@@ -254,6 +318,30 @@
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};
+	class AX_uniform_OfficerUniform_PCU_chex_01_F: AX_uniform_OfficerUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_OfficerUniform_PCU_chex_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_officer_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_OfficerUniform_PCU_irdpm_01_F: AX_uniform_OfficerUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_OfficerUniform_PCU_irdpm_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_officer_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
 	class AX_uniform_OfficerUniform_PCU_hex_02_F: O_A_officer_F
 	{
 		scope=1;
@@ -334,6 +422,30 @@
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};
+	class AX_uniform_OfficerUniform_PCU_chex_02_F: AX_uniform_OfficerUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_OfficerUniform_PCU_chex_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_officer_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_OfficerUniform_PCU_irdpm_02_F: AX_uniform_OfficerUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_OfficerUniform_PCU_irdpm_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_officer_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
 	class AX_uniform_Uniform_PCU_hex_01_F: AX_uniform_OfficerUniform_PCU_hex_01_F
 	{
 		scope=1;
@@ -358,6 +470,30 @@
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};
+	class AX_uniform_Uniform_PCU_chex_01_F: AX_uniform_OfficerUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_Uniform_PCU_chex_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_Uniform_PCU_irdpm_01_F: AX_uniform_OfficerUniform_PCU_hex_01_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_Uniform_PCU_irdpm_01_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
 	class AX_uniform_Uniform_PCU_hex_02_F: AX_uniform_OfficerUniform_PCU_hex_02_F
 	{
 		scope=1;
@@ -379,6 +515,30 @@
 		{
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_uhex_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_uhex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
+		};
+	};
+	class AX_uniform_Uniform_PCU_chex_02_F: AX_uniform_OfficerUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_Uniform_PCU_chex_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_chex_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_CO.paa"
+		};
+	};
+	class AX_uniform_Uniform_PCU_irdpm_02_F: AX_uniform_OfficerUniform_PCU_hex_02_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformPCU_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\U_UniformBDU_irdpm_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\uniforms\data\CNGloves_blk_khk_CO.paa"
 		};
 	};

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3GroundedFutura">
+	<Package name="Language_GRFU">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_gloves_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_gloves_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_02_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_02_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_02_gloves_tan_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_02_gloves_grn_F0">
+                    <English>Combat Fatigues [AAF] (Jacket, Rolled-Up, Green)</English>
+                </Key>
+            </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_GRFU_H_HelmetHBK_aaf_F0">
+                    <English>Advanced Modular Helmet [AAF]</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetHBK_aaf_headset_F0">
+                    <English>Advanced Modular Helmet [AAF] (Headset)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetHBK_aaf_ear_F0">
+                    <English>Advanced Modular Helmet [AAF] (Ear Protectors)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetHBK_aaf_chops_F0">
+                    <English>Advanced Modular Helmet [AAF] (Chops)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Cap_headphones_digital_F0">
+                    <English>Cap [AAF] (Headphones)</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+            </Container>
+            <Container name="Backpacks">
+            </Container>
+            <Container name="Facewear">
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="LongRangeRifles">
+            </Container>
+            <Container name="Pistols">
+            </Container>
+            <Container name="Magazines">
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+            </Container>
+            <Container name="Helicopters">
+            </Container>
+            <Container name="Cars">
+            </Container>
+            <Container name="APCs">
+            </Container>
+            <Container name="Tanks">
+            </Container>
+            <Container name="Misc">
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_GRFU_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Jamie">
+                    <English>OokamiJamie</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Charms">
+                    <English>CommanderCharms</English>
+                </Key>
+            </Container>
+        </Container>
+    </Package>
+</Project>

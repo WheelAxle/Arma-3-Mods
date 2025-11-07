@@ -132,7 +132,7 @@
         weapons[]=
 		{
 			"arifle_Katiba_ACO_pointer_F",
-			"launch_RPG32_black_F",
+			"AX_launch_RPG32_cbr_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -140,7 +140,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_Katiba_ACO_pointer_F",
-			"launch_RPG32_black_F",
+			"AX_launch_RPG32_cbr_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -173,7 +173,7 @@
         weapons[]=
 		{
 			"arifle_Katiba_ACO_pointer_F",
-			"launch_Titan_short_blk_F",
+			"launch_O_Titan_short_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -181,7 +181,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_Katiba_ACO_pointer_F",
-			"launch_Titan_short_blk_F",
+			"launch_O_Titan_short_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -239,7 +239,7 @@
         weapons[]=
 		{
 			"arifle_Katiba_C_ACO_pointer_F",
-			"launch_Titan_blk_F",
+			"launch_O_Titan_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -247,7 +247,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_Katiba_C_ACO_pointer_F",
-			"launch_Titan_blk_F",
+			"launch_O_Titan_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"

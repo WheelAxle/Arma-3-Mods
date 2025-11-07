@@ -132,6 +132,27 @@ class cfgWeapons
 			};
 		};
 	};
+	class AX_srifle_DMR_01_black_ARCO_IRFL_BI_F: srifle_DMR_01_black_RF
+	{
+		class LinkedItems
+		{
+			class LinkedItemsOptic
+			{
+				slot="CowsSlot";
+				item="optic_Arco_blk_F";
+			};
+			class LinkedItemsAcc
+			{
+				slot="PointerSlot";
+				item="saber_light_ir_lxWS";
+			};
+			class LinkedItemsUnder
+			{
+				slot="UnderBarrelSlot";
+				item="bipod_02_F_blk";
+			};
+		};
+	};
 	class AX_arifle_ash12_LR_blk_DMS_BI_Pointer_RF: arifle_ash12_LR_blk_RF
 	{
 		class LinkedItems
@@ -234,8 +255,10 @@ class cfgVehicles
 	};
 	class O_QRF_Soldier_SL_RF: O_Soldier_SL_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_SL_RF.jpg";
-		backpack="AX_B_TacticalPack_hex_SL_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_01_F";
+		backpack="AX_B_TacticalPack_blk_SL_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_blk_ACO_Pointer_RF",
@@ -292,31 +315,33 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"AX_H_Beret_csat_nohed",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_Beret_csat_nohed_grn",
 			"ItemGPS",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"AX_O_NVGoggles_hex_hidden_F"
+			"AX_O_NVGoggles_blk_hidden_headset_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"AX_H_Beret_csat_nohed",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_Beret_csat_nohed_grn",
 			"ItemGPS",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"AX_O_NVGoggles_hex_hidden_F"
+			"AX_O_NVGoggles_blk_hidden_headset_F"
 		};
 	};
 	class O_QRF_Soldier_RF: O_Soldier_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_RF.jpg";
-		backpack="AX_B_TacticalPack_hex_RI_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_01_F";
+		backpack="AX_B_TacticalPack_blk_RI_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_blk_ACO_Pointer_RF",
@@ -363,29 +388,31 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class O_QRF_Soldier_GL_RF: O_Soldier_GL_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_GL_RF.jpg";
-		backpack="AX_B_TacticalPack_hex_GL_QRF";
+		uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
+		backpack="AX_B_TacticalPack_blk_GL_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_GL_blk_ACO_Pointer_RF",
@@ -430,29 +457,31 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class O_QRF_medic_RF: O_medic_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_medic_RF.jpg";
-		backpack="AX_B_FieldPack_hex_Medic_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
+		backpack="AX_B_FieldPack_blk_Medic_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_blk_ACO_Pointer_RF",
@@ -505,29 +534,31 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"AX_H_Beret_csat_nohed",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_Beret_csat_nohed_grn",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"AX_O_NVGoggles_hex_hidden_F"
+			"AX_O_NVGoggles_blk_hidden_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"AX_H_Beret_csat_nohed",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_Beret_csat_nohed_grn",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"AX_O_NVGoggles_hex_hidden_F"
+			"AX_O_NVGoggles_blk_hidden_F"
 		};
 	};
 	class O_QRF_Soldier_AR_RF: O_Soldier_AR_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_AR_RF.jpg";
-		backpack="AX_B_TacticalPack_hex_AR_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_01_F";
+		backpack="AX_B_TacticalPack_blk_AR_QRF";
 		weapons[]=
 		{
 			"LMG_Zafir_pointer_F",
@@ -566,29 +597,31 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class O_QRF_soldier_M_RF: O_soldier_M_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_soldier_M_RF.jpg";
-		backpack="AX_B_TacticalPack_hex_M_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
+		backpack="AX_B_TacticalPack_blk_M_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_LR_blk_DMS_BI_Pointer_RF",
@@ -639,28 +672,30 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class O_QRF_Soldier_UAV_RF: O_soldier_UAV_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_UAV_RF.jpg";
+        uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
 		weapons[]=
 		{
 			"AX_arifle_ash12_GL_blk_ACO_Pointer_RF",
@@ -717,31 +752,33 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"O_UavTerminal",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"O_UavTerminal",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class O_QRF_Soldier_HAT_RF: O_Soldier_HAT_F
 	{
+		editorSubcategory="EdSubcat_Personnel_IRABSF";
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_QRF_Soldier_HAT_RF.jpg";
-		backpack="AX_B_FieldPack_hex_HAT_QRF";
+        uniformClass="AX_U_CombatUniform_PCU_chex_02_F";
+		backpack="AX_B_FieldPack_blk_HAT_QRF";
 		weapons[]=
 		{
 			"AX_arifle_ash12_blk_ACO_Pointer_RF",
@@ -786,23 +823,23 @@ class cfgVehicles
 		};
 		linkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 		respawnLinkedItems[]=
 		{
-			"Aegis_V_TacVest_RigB_khk_RF",
-			"H_MilCap_ocamo",
+			"Aegis_V_TacVest_RigB_blk_RF",
+			"AX_H_MilCap_chex",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
 			"ItemRadio",
-			"O_NVGoggles_hex_F"
+			"O_NVGoggles_blk_F"
 		};
 	};
 	class Atlas_O_Soldier_R_base_F: O_Soldier_F
@@ -973,6 +1010,25 @@ class cfgVehicles
 			"SmokeShell",
 			"1Rnd_Smoke_Grenade_shell",
 			"1Rnd_Smoke_Grenade_shell"
+		};
+	};
+  	class Atlas_O_Soldier_R_M_F: Atlas_O_Soldier_R_base_F
+	{
+		weapons[]=
+		{
+			"AX_srifle_DMR_01_black_ARCO_IRFL_BI_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
+		};
+		respawnWeapons[]=
+		{
+			"AX_srifle_DMR_01_black_ARCO_IRFL_BI_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
 		};
 	};
 	class Atlas_O_Soldier_R_AA_F: Atlas_O_Soldier_R_base_F

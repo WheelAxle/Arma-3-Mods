@@ -52,7 +52,8 @@
 	{
 		author="$STR_A3_GRFU_Axle";
 		displayName="$STR_A3_GRFU_H_Helmet6B28_cover_urban_F0";
-		scope=2;
+		scope=1;
+		scopeArsenal=1;
 		picture="\ax_grounded_futura\characters_f_russia\headgear\data\ui\icon_H_Helmet6B28_cover_arid_F_ca.paa";
 		hiddenSelectionsTextures[]=
 		{

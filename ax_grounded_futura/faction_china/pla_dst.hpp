@@ -1129,7 +1129,7 @@
 		weapons[]=
 		{
 			"Aegis_arifle_CTAR_tan_ACO_Pointer_F",
-			"launch_RPG32_F",
+			"AX_launch_RPG32_tan_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -1137,7 +1137,7 @@
 		respawnWeapons[]=
 		{
 			"Aegis_arifle_CTAR_tan_ACO_Pointer_F",
-			"launch_RPG32_F",
+			"AX_launch_RPG32_tan_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -1731,7 +1731,7 @@
         weapons[]=
         {
             "Aegis_arifle_CTAR_tan_ACO_Pointer_Snds_F",
-            "launch_RPG32_F",
+            "AX_launch_RPG32_tan_F",
             "AX_hgun_QSZ92_snds_F",
             "Throw",
             "Put"
@@ -1739,7 +1739,7 @@
         respawnWeapons[]=
         {
             "Aegis_arifle_CTAR_tan_ACO_Pointer_Snds_F",
-            "launch_RPG32_F",
+            "AX_launch_RPG32_tan_F",
             "AX_hgun_QSZ92_snds_F",
             "Throw",
             "Put"

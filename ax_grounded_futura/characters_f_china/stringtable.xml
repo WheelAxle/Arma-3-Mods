@@ -312,6 +312,78 @@
                 <Key ID="STR_A3_GRFU_U_O_OfficerUniform_T07_khk_02_F0">
                     <English>Type 07 Officer Uniform (Khaki, Rolled-Up)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_hex_01_F0">
+                    <English>Type 03 Parka (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_01_F0">
+                    <English>Type 03 Parka (Green Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_01_F0">
+                    <English>Type 03 Parka (Desert Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_01_F0">
+                    <English>Type 03 Parka (Oceanic Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_01_F0">
+                    <English>Type 03 Parka (Semi-Arid)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_whex_01_F0">
+                    <English>Type 03 Parka (Woodland Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_01_F0">
+                    <English>Type 03 Parka (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_01_F0">
+                    <English>Type 03 Parka [Venezuela] (Dark Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_oli_01_F0">
+                    <English>Type 03 Parka (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_grn_01_F0">
+                    <English>Type 03 Parka (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_blk_01_F0">
+                    <English>Type 03 Parka (Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_khk_01_F0">
+                    <English>Type 03 Parka (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_hex_02_F0">
+                    <English>Type 03 Parka (Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_02_F0">
+                    <English>Type 03 Parka (Green Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_02_F0">
+                    <English>Type 03 Parka (Desert Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_02_F0">
+                    <English>Type 03 Parka (Oceanic Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_02_F0">
+                    <English>Type 03 Parka (Semi-Arid, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_whex_02_F0">
+                    <English>Type 03 Parka (Woodland Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_02_F0">
+                    <English>Type 03 Parka (Dark Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_02_F0">
+                    <English>Type 03 Parka [Venezuela] (Dark Hex, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_oli_02_F0">
+                    <English>Type 03 Parka (Olive, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_grn_02_F0">
+                    <English>Type 03 Parka (Green, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_blk_02_F0">
+                    <English>Type 03 Parka (Black, Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_ParkaUniform_T03_khk_02_F0">
+                    <English>Type 03 Parka (Khaki, Gloves)</English>
+                </Key>
             </Container>
             <Container name="Headgear">
                 <Key ID="STR_A3_GRFU_H_HelmetAggressor_hex_F0">
@@ -1062,6 +1134,9 @@
                 </Key>
             </Container>
             <Container name="Backpacks">
+                <Key ID="STR_A3_GRFU_B_RadioBag_01_mhex_F0">
+                    <English>Radio Pack (Oceanic Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_B_CombatPack_t07_hex_F0">
                     <English>Type 07 Combat Pack (Hex)</English>
                 </Key>
@@ -1198,6 +1273,20 @@
             <Container name="Pistols">
                 <Key ID="STR_A3_GRFU_hgun_QSZ92_F0">
                     <English>Xiàng 9 mm</English>
+                </Key>
+            </Container>
+            <Container name="Launchers">
+                <Key ID="STR_A3_GRFU_launch_RPG32_drkgrn_F0">
+                    <English>RPG-42 Alamut (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_RPG32_tan_F0">
+                    <English>RPG-42 Alamut (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_Titan_grn_F0">
+                    <English>Titan MPRL (Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_launch_Titan_short_grn_F0">
+                    <English>Titan MPRL Compact (Green)</English>
                 </Key>
             </Container>
             <Container name="Magazines">

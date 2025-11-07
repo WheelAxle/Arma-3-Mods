@@ -5,12 +5,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_CQB_alt_hex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_CQB_alt_hex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_hex_CO.paa",
@@ -25,12 +19,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_CQB_alt_blk_uhex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_CQB_alt_blk_uhex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_blk_CO.paa",
@@ -45,12 +33,6 @@
 		scopeArsenal=1;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_CQB_alt_khk_hex_F0";
 		picture="\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\Atlas_V_OCarrierRig_CQB_khk_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_khk_CO.paa",
@@ -65,12 +47,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_GL_alt_hex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_GL_alt_hex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_hex_CO.paa",
@@ -85,12 +61,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_GL_alt_blk_uhex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_GL_alt_blk_uhex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_blk_CO.paa",
@@ -105,12 +75,6 @@
 		scopeArsenal=1;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_GL_alt_khk_hex_F0";
 		picture="\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\Atlas_V_OCarrierRig_GL_khk_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1",
-			"camo2"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_khk_CO.paa",
@@ -125,11 +89,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_Lite_alt_hex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_alt_hex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_hex_CO.paa",
@@ -143,11 +102,6 @@
 		scopeArsenal=2;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_Lite_alt_blk_uhex_F0";
 		picture="\ax_grounded_futura\characters_f_iran\vests\data\ui\icon_V_OCarrierRig_alt_blk_uhex_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_blk_CO.paa",
@@ -161,15 +115,23 @@
 		scopeArsenal=1;
 		displayName="$STR_A3_GRFU_V_OCarrierRig_Lite_alt_khk_hex_F0";
 		picture="\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\Atlas_V_OCarrierRig_Lite_khk_F_ca.paa";
-		hiddenSelections[]=
-		{
-			"camo",
-			"camo1"
-		};
 		hiddenSelectionsTextures[]=
 		{
 			"\A3_Atlas\Characters_F_Atlas\Vests\data\OCarrierRig_khk_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\vests\data\CarrierRigKBT_01_Hex_CO.paa"
+		};
+	};
+	class AX_V_OCarrierRig_Lite_alt_irdpm_F: Atlas_V_OCarrierRig_Lite_Alt_Oli_F
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		scopeArsenal=1;
+		displayName="$STR_A3_GRFU_V_OCarrierRig_Lite_alt_irdpm_F0";
+		picture="\A3_Atlas\Characters_F_Atlas\Vests\Data\UI\Atlas_V_OCarrierRig_Lite_khk_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\vests\data\OCarrierRig_irdpm_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\vests\data\CarrierRigKBT_01_irdpm_CO.paa"
 		};
 	};
 	class V_HarnessO_gry;

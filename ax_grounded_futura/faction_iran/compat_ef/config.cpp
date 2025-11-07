@@ -25,5 +25,6 @@ class cfgVehicles
 	class Aegis_O_BoatCrew_EF: O_crew_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Aegis_O_BoatCrew_EF.jpg";
+		uniformClass="AX_U_Uniform_PCU_hex_02_F";
 	};
 };

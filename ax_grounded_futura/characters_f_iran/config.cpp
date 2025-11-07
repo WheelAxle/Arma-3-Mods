@@ -17,6 +17,14 @@ class cfgPatches
 	};
 };
 
+class CfgEditorSubcategories
+{
+	class EdSubcat_Personnel_IRABSF
+	{
+		displayName="$STR_A3_CfgEditorSubcategories_EdSubcat_Personnel_IRABSF";
+	};
+};
+
 class cfgGlasses
 {
 	class None;
@@ -55,10 +63,10 @@ class cfgWeapons
 	#include "w_helmets.hpp"
 	#include "w_vests.hpp"
 	#include "w_uniforms.hpp"
-	#include "cfgw_w.hpp"
 	class NVGoggles;
 	class NVGoggles_OPFOR: NVGoggles{class ItemInfo;};
 	class O_NVGoggles_hex_F: NVGoggles{class ItemInfo;};
+	class O_NVGoggles_blk_F: O_NVGoggles_hex_F{class ItemInfo;};
 	class AX_O_NVGoggles_blk_ir_hidden_F: NVGoggles_OPFOR
 	{
 		scope=1;
@@ -79,7 +87,7 @@ class cfgWeapons
 		scope=1;
 		scopeArsenal=1;
 		author="$STR_A3_Bohemia_Interactive";
-		displayName="$STR_A3_GRFU_NVGoggles_hex_ir_hidden_F0";
+		displayName="$STR_A3_GRFU_NVGoggles_hex_hidden_F0";
 		picture="\A3\Weapons_F_Exp\Binocular\Data\UI\icon_O_NVGoggles_hex_F_CA.paa";
 		model="\A3\Weapons_f\binocular\O_NVGoggles_hex_F.p3d";
 		modelOptics="\A3\Weapons_F\Reticle\optics_empty.p3d";
@@ -87,6 +95,51 @@ class cfgWeapons
 		{
 			uniformModel="\A3\weapons_f\binocular\O_NVGoggles_hex_F.p3d";
 			modelOff="";
+		};
+	};
+	class AX_O_NVGoggles_hex_hidden_headset_F: O_NVGoggles_hex_F
+	{
+		scope=1;
+		scopeArsenal=1;
+		author="$STR_A3_Bohemia_Interactive";
+		displayName="$STR_A3_GRFU_NVGoggles_hex_hidden_headset_F0";
+		picture="\A3\Weapons_F_Exp\Binocular\Data\UI\icon_O_NVGoggles_hex_F_CA.paa";
+		model="\A3\Weapons_f\binocular\O_NVGoggles_hex_F.p3d";
+		modelOptics="\A3\Weapons_F\Reticle\optics_empty.p3d";
+		class ItemInfo: ItemInfo
+		{
+			uniformModel="\A3\weapons_f\binocular\O_NVGoggles_hex_F.p3d";
+			modelOff="\A3\Characters_F\Common\headset_light.p3d";
+		};
+	};
+	class AX_O_NVGoggles_blk_hidden_F: O_NVGoggles_blk_F
+	{
+		scope=1;
+		scopeArsenal=1;
+		author="$STR_A3_Bohemia_Interactive";
+		displayName="$STR_A3_GRFU_NVGoggles_blk_hidden_F0";
+		modelOptics="\A3\Weapons_F\Reticle\optics_empty.p3d";
+		model="\A3\Weapons_F_Exp\Binocular\O_NVGoggles_blk_F.p3d";
+		picture="\A3\Weapons_F_Exp\Binocular\Data\UI\icon_O_NVGoggles_blk_F_CA.paa";
+		class ItemInfo: ItemInfo
+		{
+			uniformModel="\A3\Weapons_F_Exp\Binocular\O_NVGoggles_blk_F.p3d";
+			modelOff="";
+		};
+	};
+	class AX_O_NVGoggles_blk_hidden_headset_F: O_NVGoggles_blk_F
+	{
+		scope=1;
+		scopeArsenal=1;
+		author="$STR_A3_Bohemia_Interactive";
+		displayName="$STR_A3_GRFU_NVGoggles_blk_hidden_headset_F0";
+		modelOptics="\A3\Weapons_F\Reticle\optics_empty.p3d";
+		model="\A3\Weapons_F_Exp\Binocular\O_NVGoggles_blk_F.p3d";
+		picture="\A3\Weapons_F_Exp\Binocular\Data\UI\icon_O_NVGoggles_blk_F_CA.paa";
+		class ItemInfo: ItemInfo
+		{
+			uniformModel="\A3\Weapons_F_Exp\Binocular\O_NVGoggles_blk_F.p3d";
+			modelOff="\A3\Characters_F\Common\headset_light.p3d";
 		};
 	};
 };
@@ -99,8 +152,11 @@ class cfgVehicles
 	#include "v_uniforms.hpp"
 
 	class B_Carryall_cbr;
+	class B_FieldPack_blk;
 	class B_FieldPack_cbr;
 	class B_FieldPack_ocamo;
+	class B_TacticalPack_blk;
 	class B_TacticalPack_ocamo;
+    class B_RadioBag_01_hex_F;
 	#include "v_backpacks.hpp"
 };

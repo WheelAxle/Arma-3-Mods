@@ -42,20 +42,85 @@
 			"\ax_grounded_futura\characters_f_iran\headgear\data\h_helmetaggressor_01_Hex_CO.paa"
 		};
 	};
+	class H_Beret_CSAT_01_F;
+	class AX_H_Beret_csat_01_grn_F: H_Beret_CSAT_01_F
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_Beret_CSAT_01_grn_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Beret_csat_01_grn_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_Beret_csat_01_grn_CO.paa"
+		};
+	};
 	class H_Beret_02;
 	class AX_H_Beret_csat_nohed: H_Beret_02
 	{
 		author="$STR_A3_GRFU_Axle";
-		displayName="$STR_A3_GRFU_H_Beret_CSAT_nohed_F0";
+		displayName="$STR_A3_GRFU_H_Beret_CSAT_nohed_tan_F0";
 		scope=2;
 		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Beret_csat_nohed_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_grounded_futura\characters_f_iran\headgear\data\H_Beret_NOHED_01_CO.paa"
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_Beret_NOHED_01_tan_CO.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
 			"ax_grounded_futura\characters_f_iran\headgear\data\H_Beret_NOHED_01.rvmat"
+		};
+	};
+	class AX_H_Beret_csat_nohed_grn: AX_H_Beret_csat_nohed
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_Beret_CSAT_nohed_grn_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Beret_csat_nohed_grn_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_Beret_NOHED_01_grn_CO.paa"
+		};
+	};
+	class H_MilCap_ocamo;
+	class AX_H_MilCap_chex: H_MilCap_ocamo
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_MilCap_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_MilCap_chex_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\cappatrol_chex_co.paa"
+		};
+	};
+	class Aegis_H_Milcap_nohs_ocamo_F;
+	class AX_H_Milcap_nohs_chex_F: Aegis_H_Milcap_nohs_ocamo_F
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_Milcap_nohs_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Milcap_nohs_chex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\cappatrol_chex_co.paa"
+		};
+	};
+	class H_Booniehat_ocamo;
+	class AX_H_Booniehat_chex_F: H_Booniehat_ocamo
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_Booniehat_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Booniehat_chex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\booniehat_chex_CO.paa"
+		};
+	};
+	class H_Booniehat_ocamo_hs;
+	class AX_H_Booniehat_chex_hs_F: H_Booniehat_ocamo_hs
+	{
+		author="$STR_A3_GRFU_Axle";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_Booniehat_chex_hs_F_ca.paa";
+		displayName="$STR_A3_GRFU_H_Booniehat_hs_chex_F0";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\booniehat_chex_CO.paa"
 		};
 	};
 	class AX_H_HelmetPCH_bare_base_F: HelmetBase //Protective or Persian Combat Helmet
@@ -130,6 +195,57 @@
 			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
 		};
 	};
+	class AX_H_HelmetPCH_bare_snd_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_Lukin";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_snd_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_snd_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_snd_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"",
+			"",
+			"",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_bare_oli_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_Lukin";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_oli_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_oli_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_oli_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"",
+			"",
+			"",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_bare_brn_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_Lukin";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_brn_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_brn_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_brn_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"",
+			"",
+			"",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
 	class AX_H_HelmetPCH_bare_hs_blk_F: AX_H_HelmetPCH_bare_base_F
 	{
 		author="$STR_A3_GRFU_Lukin";
@@ -140,6 +256,57 @@
 		{
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_blk_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_bare_hs_snd_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_hs_snd_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_hs_snd_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_snd_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_bare_hs_oli_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_hs_oli_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_hs_oli_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_oli_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_bare_hs_brn_F: AX_H_HelmetPCH_bare_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_hs_brn_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_hs_brn_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_brn_co.paa",
 			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
@@ -226,6 +393,40 @@
 			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
 		};
 	};
+	class AX_H_HelmetPCH_cover_chex_F: AX_H_HelmetPCH_cover_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_cover_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_cover_chex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_cover_chex_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_cover_irdpm_F: AX_H_HelmetPCH_cover_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_cover_irdpm_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_cover_irdpm_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_cover_irdpm_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetFASTMT_blk_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_cover_autumn_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
 	class AX_H_HelmetPCH_cover_lite_hex_F: AX_H_HelmetPCH_cover_base_F
 	{
 		author="$STR_A3_GRFU_Lukin";
@@ -253,6 +454,40 @@
 		{
 			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
 			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_cover_uhex_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"",
+			"",
+			"",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_cover_lite_chex_F: AX_H_HelmetPCH_cover_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_cover_lite_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_cover_lite_chex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_cover_chex_co.paa",
+			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
+			"",
+			"",
+			"",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCCH_Cover_hex_CO.paa"
+		};
+	};
+	class AX_H_HelmetPCH_cover_lite_irdpm_F: AX_H_HelmetPCH_cover_base_F
+	{
+		author="$STR_A3_GRFU_LukinAxle";
+		scope=2;
+		displayName="$STR_A3_GRFU_H_HelmetPCH_cover_lite_irdpm_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_cover_lite_irdpm_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Headgear\Data\H_HelmetSpecter_01_CO.paa",
+			"\ax_grounded_futura\characters_f_iran\headgear\data\ach_cover_irdpm_co.paa",
 			"\A3_Atlas\characters_f_atlas\Headgear\Data\H_HelmetCCH_blk_CO.paa",
 			"",
 			"",

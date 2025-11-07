@@ -998,7 +998,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_O_Titan_short_ghex_F",
+			"AX_launch_Titan_short_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -1006,7 +1006,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_O_Titan_short_ghex_F",
+			"AX_launch_Titan_short_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -1398,7 +1398,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_RPG32_ghex_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -1406,7 +1406,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_RPG32_ghex_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -2021,7 +2021,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_Snds_F",
-			"launch_RPG32_ghex_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_snds_F",
 			"Throw",
 			"Put"
@@ -2029,7 +2029,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_Snds_F",
-			"launch_RPG32_ghex_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_snds_F",
 			"Throw",
 			"Put"

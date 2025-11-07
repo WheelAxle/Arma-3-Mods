@@ -1,0 +1,96 @@
+    class AX_soldier_U_I_CombatUniform_jacket_tan_F: I_E_Man_Base_F
+	{
+		scope=1;
+		model="lxws\characters_f_lxWS\uniform\I_E_Soldier_01_lxWS.p3d";
+		uniformClass="AX_U_I_CombatUniform_jacket_tan_F";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"flag",
+			"insignia"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Tan_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Tan_aaf_CO.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_grn_F: AX_soldier_U_I_CombatUniform_jacket_tan_F
+	{
+		uniformClass="AX_U_I_CombatUniform_jacket_grn_F";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"flag",
+			"insignia"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Olive_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Olive_aaf_CO.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_gloves_tan_F: I_E_Man_Base_F
+	{
+		scope=1;
+		model="\A3\Characters_F_Enoch\Uniforms\I_E_Soldier_01_F.p3d";
+		uniformClass="AX_U_I_CombatUniform_jacket_gloves_tan_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Tan_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Tan_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Gloves_black.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_gloves_grn_F: AX_soldier_U_I_CombatUniform_jacket_gloves_tan_F
+	{
+		uniformClass="AX_U_I_CombatUniform_jacket_gloves_grn_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Olive_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Olive_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Gloves_black.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_02_tan_F: I_E_Man_Base_F
+	{
+		scope=1;
+		model="\A3\Characters_F_Enoch\Uniforms\I_E_Soldier_01_ShortSleeve_F.p3d";
+		uniformClass="AX_U_I_CombatUniform_jacket_02_tan_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Tan_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Tan_aaf_CO.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_02_grn_F: AX_soldier_U_I_CombatUniform_jacket_02_tan_F
+	{
+		uniformClass="AX_U_I_CombatUniform_jacket_02_grn_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Olive_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Olive_aaf_CO.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_02_gloves_tan_F: I_E_Man_Base_F
+	{
+		scope=1;
+		model="\lxws\characters_f_lxws\uniform\I_E_Soldier_01_ShortSleeve_lxWS.p3d";
+		uniformClass="AX_U_I_CombatUniform_jacket_02_gloves_tan_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Tan_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Tan_aaf_CO.paa"
+		};
+	};
+	class AX_soldier_U_I_CombatUniform_jacket_02_gloves_grn_F: AX_soldier_U_I_CombatUniform_jacket_02_gloves_tan_F
+	{
+		uniformClass="AX_U_I_CombatUniform_jacket_02_gloves_grn_F";
+		hiddenSelectionsTextures[]=
+		{
+			"ax_grounded_futura\characters_f_altis\uniforms\data\Officer_Insignia_Olive_aaf_CO.paa",
+			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Olive_aaf_CO.paa"
+		};
+	};

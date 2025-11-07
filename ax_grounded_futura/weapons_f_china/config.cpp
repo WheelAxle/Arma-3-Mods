@@ -80,6 +80,7 @@ class CfgWeapons
 	class srifle_DMR_04_Tan_F;
 	class sgun_aa40_lxWS;
 	#include "pistols.hpp"
+	#include "launchers.hpp"
 };
 
 class CfgMagazines

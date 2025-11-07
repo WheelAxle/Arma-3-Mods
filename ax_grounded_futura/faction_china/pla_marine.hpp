@@ -301,7 +301,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_B_Titan_Olive_F",
+			"AX_launch_Titan_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -309,7 +309,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_B_Titan_Olive_F",
+			"AX_launch_Titan_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -344,7 +344,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_I_Titan_short_F",
+			"AX_launch_Titan_short_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -352,7 +352,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_I_Titan_short_F",
+			"AX_launch_Titan_short_grn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -387,7 +387,7 @@
 		weapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_RPG32_green_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -395,7 +395,7 @@
 		respawnWeapons[]=
 		{
 			"arifle_CTAR_blk_ACO_Pointer_F",
-			"launch_RPG32_green_F",
+			"AX_launch_RPG32_drkgrn_F",
 			"AX_hgun_QSZ92_F",
 			"Throw",
 			"Put"
@@ -515,6 +515,7 @@
 	class Atlas_O_C_Marine_RadioOp_F: Atlas_O_C_Marine_base_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_china\expansion\Atlas_O_C_Marine_RadioOp_F.jpg";
+		backpack="AX_B_RadioBag_01_MHex_F";
 	};
 	class Atlas_O_C_Marine_UAV_F: Atlas_O_C_Marine_base_F
 	{

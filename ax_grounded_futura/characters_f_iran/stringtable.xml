@@ -6,11 +6,23 @@
                 <Key ID="STR_A3_GRFU_Pilot_coveralls_hex">
                     <English>Pilot Coveralls [CSAT] (Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_Pilot_coveralls_uhex">
+                    <English>Pilot Coveralls [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_Pilot_coveralls_chex">
+                    <English>Pilot Coveralls [CSAT] (Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_BDU_hex_01_F0">
                     <English>Battledress Uniform [CSAT] (Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_BDU_uhex_01_F0">
                     <English>Battledress Uniform [CSAT] (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_BDU_chex_01_F0">
+                    <English>Battledress Uniform [CSAT] (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_BDU_irdpm_01_F0">
+                    <English>Battledress Uniform [CSAT] (Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_BDU_hex_02_F0">
                     <English>Battledress Uniform [CSAT] (Hex, Rolled-Up)</English>
@@ -18,11 +30,23 @@
                 <Key ID="STR_A3_GRFU_U_Uniform_BDU_uhex_02_F0">
                     <English>Battledress Uniform [CSAT] (Urban Hex, Rolled-Up)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_BDU_chex_02_F0">
+                    <English>Battledress Uniform [CSAT] (Commando Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_BDU_irdpm_02_F0">
+                    <English>Battledress Uniform [CSAT] (Arid DPM, Rolled-Up)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_PCU_hex_01_F0">
                     <English>Pahlavan Uniform (Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_PCU_uhex_01_F0">
                     <English>Pahlavan Uniform (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_PCU_chex_01_F0">
+                    <English>Pahlavan Uniform (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_PCU_irdpm_01_F0">
+                    <English>Pahlavan Uniform (Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_Uniform_PCU_hex_02_F0">
                     <English>Pahlavan Uniform (Hex, Rolled-Up)</English>
@@ -30,11 +54,23 @@
                 <Key ID="STR_A3_GRFU_U_Uniform_PCU_uhex_02_F0">
                     <English>Pahlavan Uniform (Urban Hex, Rolled-Up)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_PCU_chex_02_F0">
+                    <English>Pahlavan Uniform (Commando Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_Uniform_PCU_irdpm_02_F0">
+                    <English>Pahlavan Uniform (Arid DPM, Rolled-Up)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_hex_01_F0">
                     <English>Pahlavan Combat Uniform (Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_uhex_01_F0">
                     <English>Pahlavan Combat Uniform (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_chex_01_F0">
+                    <English>Pahlavan Combat Uniform (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_irdpm_01_F0">
+                    <English>Pahlavan Combat Uniform (Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_hex_02_F0">
                     <English>Pahlavan Combat Uniform (Hex, Rolled-Up)</English>
@@ -42,11 +78,23 @@
                 <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_uhex_02_F0">
                     <English>Pahlavan Combat Uniform (Urban Hex, Rolled-Up)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_chex_02_F0">
+                    <English>Pahlavan Combat Uniform (Commando Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_CombatUniform_PCU_irdpm_02_F0">
+                    <English>Pahlavan Combat Uniform (Arid DPM, Rolled-Up)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_hex_01_F0">
                     <English>Pahlavan Officer Uniform (Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_uhex_01_F0">
                     <English>Pahlavan Officer Uniform (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_chex_01_F0">
+                    <English>Pahlavan Officer Uniform (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_irdpm_01_F0">
+                    <English>Pahlavan Officer Uniform (Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_hex_02_F0">
                     <English>Pahlavan Officer Uniform (Hex, Rolled-Up)</English>
@@ -54,25 +102,73 @@
                 <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_uhex_02_F0">
                     <English>Pahlavan Officer Uniform (Urban Hex, Rolled-Up)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_chex_02_F0">
+                    <English>Pahlavan Officer Uniform (Commando Hex, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_OfficerUniform_PCU_irdpm_02_F0">
+                    <English>Pahlavan Officer Uniform (Arid DPM, Rolled-Up)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_hex_F0">
                     <English>CBRN Suit (Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_uhex_F0">
                     <English>CBRN Suit (Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_chex_F0">
+                    <English>CBRN Suit (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_U_O_CBRN_Suit_01_irdpm_F0">
+                    <English>CBRN Suit (Arid DPM)</English>
+                </Key>
             </Container>
             <Container name="Headgear">
                 <Key ID="STR_A3_GRFU_H_PilotHelmetHeli_O_hex_F0">
                     <English>Heli Pilot Helmet (Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_H_PilotHelmetHeli_O_uhex_F0">
+                    <English>Heli Pilot Helmet (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_PilotHelmetHeli_O_chex_F0">
+                    <English>Heli Pilot Helmet (Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetAggressor_hex_F0">
                     <English>Avenger Helmet (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_uhex_F0">
+                    <English>Avenger Helmet (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_chex_F0">
+                    <English>Avenger Helmet (Commando Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_hex_F0">
                     <English>Avenger Helmet (Cover, Hex)</English>
                 </Key>
-                <Key ID="STR_A3_GRFU_H_Beret_CSAT_nohed_F0">
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_uhex_F0">
+                    <English>Avenger Helmet (Cover, Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_chex_F0">
+                    <English>Avenger Helmet (Cover, Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_01_grn_F0">
+                    <English>Beret (Green) [CSAT]</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_nohed_tan_F0">
                     <English>Beret (NOHED)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Beret_CSAT_nohed_grn_F0">
+                    <English>Beret (NOHED, Green)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_MilCap_chex_F0">
+                    <English>Military Cap (Headset, Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Milcap_nohs_chex_F0">
+                    <English>Military Cap (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Booniehat_chex_F0">
+                    <English>Booniehat (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_Booniehat_hs_chex_F0">
+                    <English>Booniehat (Commando Hex, Headset)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_base_F0">
                     <English>Azdahak Helmet BASE</English>
@@ -80,8 +176,38 @@
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_blk_F0">
                     <English>Azdahak Helmet (Black)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_snd_F0">
+                    <English>Azdahak Helmet (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_tan_F0">
+                    <English>Azdahak Helmet (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_brn_F0">
+                    <English>Azdahak Helmet (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_oli_F0">
+                    <English>Azdahak Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_grn_F0">
+                    <English>Azdahak Helmet (Green)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_blk_F0">
                     <English>Azdahak Helmet (Headset, Black)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_snd_F0">
+                    <English>Azdahak Helmet (Headset, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_tan_F0">
+                    <English>Azdahak Helmet (Headset, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_brn_F0">
+                    <English>Azdahak Helmet (Headset, Brown)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_oli_F0">
+                    <English>Azdahak Helmet (Headset, Olive)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_bare_hs_grn_F0">
+                    <English>Azdahak Helmet (Headset, Green)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_base_F0">
                     <English>Azdahak Helmet BASE (Cover)</English>
@@ -92,22 +218,52 @@
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_uhex_F0">
                     <English>Azdahak Helmet (Cover, Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_chex_F0">
+                    <English>Azdahak Helmet (Cover, Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_irdpm_F0">
+                    <English>Azdahak Helmet (Cover, Arid DPM)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_lite_hex_F0">
                     <English>Azdahak Helmet (Lite, Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_lite_uhex_F0">
                     <English>Azdahak Helmet (Lite, Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_lite_chex_F0">
+                    <English>Azdahak Helmet (Lite, Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetPCH_cover_lite_irdpm_F0">
+                    <English>Azdahak Helmet (Lite, Arid DPM)</English>
+                </Key>
             </Container>
             <Container name="Vests">
                 <Key ID="STR_A3_GRFU_V_HarnessO_hex_F0">
                     <English>LBV Harness (Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessO_uhex_F0">
+                    <English>LBV Harness (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessO_chex_F0">
+                    <English>LBV Harness (Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_V_HarnessOGL_hex_F0">
                     <English>LBV Grenadier Harness (Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessOGL_uhex_F0">
+                    <English>LBV Grenadier Harness (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessOGL_chex_F0">
+                    <English>LBV Grenadier Harness (Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_V_HarnessOSpec_hex_F0">
                     <English>ELBV Harness (Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessOSpec_uhex_F0">
+                    <English>ELBV Harness (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_HarnessOSpec_chex_F0">
+                    <English>ELBV Harness (Commando Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_hex_F0">
                     <English>Type 27 Carrier CQB Rig (Alt, Hex)</English>
@@ -115,11 +271,17 @@
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_uhex_F0">
                     <English>Type 27 Carrier CQB Rig (Alt, Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_chex_F0">
+                    <English>Type 27 Carrier CQB Rig (Alt, Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_blk_uhex_F0">
                     <English>Type 27 Carrier CQB Rig (Alt, Black/Urban Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_khk_hex_F0">
                     <English>Type 27 Carrier CQB Rig (Alt, Khaki/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_CQB_alt_irdpm_F0">
+                    <English>Type 27 Carrier CQB Rig (Alt, Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_hex_F0">
                     <English>Type 27 Carrier GL Rig (Alt, Hex)</English>
@@ -127,11 +289,17 @@
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_uhex_F0">
                     <English>Type 27 Carrier GL Rig (Alt, Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_chex_F0">
+                    <English>Type 27 Carrier GL Rig (Alt, Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_blk_uhex_F0">
                     <English>Type 27 Carrier GL Rig (Alt, Black/Urban Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_khk_hex_F0">
                     <English>Type 27 Carrier GL Rig (Alt, Khaki/Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_GL_alt_irdpm_F0">
+                    <English>Type 27 Carrier GL Rig (Alt, Arid DPM)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_hex_F0">
                     <English>Type 27 Carrier Lite (Alt, Hex)</English>
@@ -139,14 +307,29 @@
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_uhex_F0">
                     <English>Type 27 Carrier Lite (Alt, Urban Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_chex_F0">
+                    <English>Type 27 Carrier Lite (Alt, Commando Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_blk_uhex_F0">
                     <English>Type 27 Carrier Lite (Alt, Black/Urban Hex)</English>
                 </Key>
                 <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_khk_hex_F0">
                     <English>Type 27 Carrier Lite (Alt, Khaki/Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_V_OCarrierRig_Lite_alt_irdpm_F0">
+                    <English>Type 27 Carrier Lite (Alt, Arid DPM)</English>
+                </Key>
             </Container>
             <Container name="Backpacks">
+                <Key ID="STR_A3_GRFU_B_RadioBag_01_uhex_F0">
+                    <English>Radio Pack (Urban Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioBag_01_chex_F0">
+                    <English>Radio Pack (Commando Hex)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_B_RadioBag_01_irdpm_F0">
+                    <English>Radio Pack (Arid DPM)</English>
+                </Key>
             </Container>
             <Container name="Facewear">
                 <Key ID="STR_A3_GRFU_G_Balaclava_combat_blk_lxWS">
@@ -161,13 +344,25 @@
                 <Key ID="STR_A3_GRFU_NVGoggles_blk_ir_hidden_F0">
                     <English>NV Goggles (Black, Hidden)</English>
                 </Key>
-                <Key ID="STR_A3_GRFU_NVGoggles_hex_ir_hidden_F0">
+                <Key ID="STR_A3_GRFU_NVGoggles_hex_hidden_F0">
                     <English>Compact NVG (Hex, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_NVGoggles_hex_hidden_headset_F0">
+                    <English>Compact NVG (Headset, Hex, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_NVGoggles_blk_hidden_F0">
+                    <English>Compact NVG (Black, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_NVGoggles_blk_hidden_headset_F0">
+                    <English>Compact NVG (Headset, Black, Hidden)</English>
                 </Key>
             </Container>
         </Container>
         <Container name="Weapons_F">
-            <Container name="LongRangeRifles">
+            <Container name="Launchers">
+                <Key ID="STR_A3_GRFU_launch_RPG32_cbr_F0">
+                    <English>RPG-42 Alamut (Coyote)</English>
+                </Key>
             </Container>
         </Container>
         <Container name="Vehicles_F">
@@ -181,8 +376,18 @@
             </Container>
             <Container name="Tanks">
             </Container>
+            <Container name="Characters">
+                <Key ID="STR_A3_GRFU_O_Soldier_R_G3_F0">
+                    <English>Rifleman (G3A3)</English>
+                </Key>
+            </Container>
         </Container>
         <Container name="Data_F">
+            <Container name="Editor_Subcat">
+                <Key ID="STR_A3_CfgEditorSubcategories_EdSubcat_Personnel_IRABSF">
+                    <English>Men (Airborne Commandos)</English>
+                </Key>
+            </Container>
             <Container name="Author">
                 <Key ID="STR_A3_GRFU_Axle">
                     <English>Axle</English>
@@ -198,6 +403,9 @@
                 </Key>
                 <Key ID="STR_A3_GRFU_Jamie">
                     <English>OokamiJamie</English>
+                </Key>
+                <Key ID="STR_A3_GRFU_LukinAxle">
+                    <English>Lukin and Axle</English>
                 </Key>
             </Container>
         </Container>

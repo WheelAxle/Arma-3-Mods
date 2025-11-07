@@ -824,6 +824,22 @@
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_Soldier_LAT_F.jpg";
         uniformClass="AX_U_CombatUniform_PCU_hex_01_F";
+		weapons[]=
+		{
+			"arifle_Katiba_ACO_pointer_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"arifle_Katiba_ACO_pointer_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
 		linkedItems[]=
 		{
 			"AX_H_HelmetPCH_cover_hex_F",
@@ -1186,6 +1202,22 @@
 	class O_recon_LAT_F: O_Soldier_recon_base
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_recon_LAT_F.jpg";
+		weapons[]=
+		{
+			"arifle_Katiba_C_ACO_pointer_snds_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_snds_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"arifle_Katiba_C_ACO_pointer_snds_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_snds_F",
+			"Throw",
+			"Put"
+		};
 		linkedItems[]=
 		{
 			"V_TacVest_khk",
@@ -1434,4 +1466,12 @@
 			"ItemRadio",
 			"O_NVGoggles_hex_F"
 		};
+	};
+	class O_sniper_F: O_Soldier_sniper_base_F
+	{
+		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_sniper_F.jpg";
+	};
+	class O_spotter_F: O_Soldier_sniper_base_F
+	{
+		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_spotter_F.jpg";
 	};

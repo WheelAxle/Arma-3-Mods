@@ -44,6 +44,52 @@
 			mass=45;
 		};
 	};
+	class AX_U_O_CBRN_Suit_01_CHex_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_CBRN_Suit_01_chex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_O_CBRN_Suit_01_CHex_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CBRN_Suit_01_CHex_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_CBRN_Man_Oversuit_01_CHex_F";
+			containerClass="Supply30";
+			mass=45;
+		};
+	};
+	class AX_U_O_CBRN_Suit_01_irdpm_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_CBRN_Suit_01_irdpm_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_O_CBRN_Suit_01_irdpm_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\uniforms\data\CBRN_Suit_01_irdpm_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_O_CBRN_Man_Oversuit_01_irdpm_F";
+			containerClass="Supply30";
+			mass=45;
+		};
+	};
     class AX_U_CombatUniform_PCU_hex_01_F: Uniform_Base //Persian Combat Uniform
 	{
 		author="$STR_A3_GRFU_Axle";
@@ -86,6 +132,52 @@
 		{
 			uniformModel="-";
 			uniformClass="AX_uniform_CombatUniform_PCU_uhex_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_CombatUniform_PCU_chex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_CombatUniform_PCU_chex_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_chex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_CombatUniform_PCU_chex_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_CombatUniform_PCU_irdpm_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_CombatUniform_PCU_irdpm_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_irdpm_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_CombatUniform_PCU_irdpm_01_F";
 			containerClass="Supply40";
 			mass=80;
 		};
@@ -136,6 +228,52 @@
 			mass=80;
 		};
 	};
+	class AX_U_CombatUniform_PCU_chex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_CombatUniform_PCU_chex_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_chex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_CombatUniform_PCU_chex_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_CombatUniform_PCU_irdpm_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_CombatUniform_PCU_irdpm_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_irdpm_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_CombatUniform_PCU_irdpm_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
 	class AX_U_OfficerUniform_PCU_hex_01_F: Uniform_Base
 	{
 		author="$STR_A3_GRFU_Axle";
@@ -178,6 +316,52 @@
 		{
 			uniformModel="-";
 			uniformClass="AX_uniform_OfficerUniform_PCU_uhex_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_OfficerUniform_PCU_chex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_OfficerUniform_PCU_chex_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_OfficerUniform_PCU_chex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_OfficerUniform_PCU_chex_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_OfficerUniform_PCU_irdpm_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_OfficerUniform_PCU_irdpm_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_OfficerUniform_PCU_irdpm_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_OfficerUniform_PCU_irdpm_01_F";
 			containerClass="Supply40";
 			mass=80;
 		};
@@ -228,6 +412,52 @@
 			mass=80;
 		};
 	};
+	class AX_U_OfficerUniform_PCU_chex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_OfficerUniform_PCU_chex_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_OfficerUniform_PCU_chex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_OfficerUniform_PCU_chex_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_OfficerUniform_PCU_irdpm_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_OfficerUniform_PCU_irdpm_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_OfficerUniform_PCU_irdpm_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_OfficerUniform_PCU_irdpm_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
 	class AX_U_Uniform_PCU_hex_01_F: Uniform_Base
 	{
 		author="$STR_A3_GRFU_Axle";
@@ -274,6 +504,52 @@
 			mass=80;
 		};
 	};
+	class AX_U_Uniform_PCU_chex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_Uniform_PCU_chex_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_chex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_Uniform_PCU_chex_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_Uniform_PCU_irdpm_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_Uniform_PCU_irdpm_01_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_irdpm_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_Uniform_PCU_irdpm_01_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
 	class AX_U_Uniform_PCU_hex_02_F: Uniform_Base
 	{
 		author="$STR_A3_GRFU_Axle";
@@ -316,6 +592,52 @@
 		{
 			uniformModel="-";
 			uniformClass="AX_uniform_Uniform_PCU_uhex_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_Uniform_PCU_chex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_Uniform_PCU_chex_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_chex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_Uniform_PCU_chex_02_F";
+			containerClass="Supply40";
+			mass=80;
+		};
+	};
+	class AX_U_Uniform_PCU_irdpm_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_Uniform_PCU_irdpm_02_F0";
+		picture="\ax_grounded_futura\characters_f_iran\uniforms\data\ui\icon_U_CombatUniform_PCU_irdpm_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_oucamo_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_Uniform_PCU_irdpm_02_F";
 			containerClass="Supply40";
 			mass=80;
 		};

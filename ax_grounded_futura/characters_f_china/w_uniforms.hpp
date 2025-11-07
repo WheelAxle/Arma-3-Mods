@@ -854,7 +854,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_grn_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_oli_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -877,7 +877,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_blk_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_blk_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -900,7 +900,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_khk_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_khk_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1084,7 +1084,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_grn_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_oli_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1107,7 +1107,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_blk_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_blk_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1130,7 +1130,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_Uniform_T07_khk_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_Uniform_T07_khk_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1314,7 +1314,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_grn_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_oli_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1337,7 +1337,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_blk_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_blk_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1360,7 +1360,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_khk_01_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_01_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_khk_01_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1544,7 +1544,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_grn_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_oli_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1567,7 +1567,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_blk_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_blk_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1590,7 +1590,7 @@
 		author="$STR_A3_GRFU_Axle";
 		scope=2;
 		displayName="$STR_A3_GRFU_U_O_CombatUniform_T07_khk_02_F0";
-		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_whex_02_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_CombatUniform_T07_khk_02_F_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
 		hiddenSelections[]=
 		{
@@ -1792,4 +1792,511 @@
 			mass=40;
 		};
 	};
-	
+	class AX_U_O_ParkaUniform_T03_hex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_hex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_hex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_hex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_ghex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_ghex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F_Exp\OPFOR\Data\clothing_tna_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_ghex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_dhex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_dhex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_oicamo_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_dhex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_sahex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_sahex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_tka_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_sahex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_mhex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_mhex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_mhex_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_mhex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_whex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_whex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_whex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_whex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_vhex_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_vhex_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_vhex_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_vhex_vz_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		scopeArsenal=1;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_vhex_vz_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_vhex_vz_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_oli_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_grn_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_oli_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_oli_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_blk_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_blk_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_blk_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_blk_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_khk_01_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_khk_01_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_khk_01_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_khk_01_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_hex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_hex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_hex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\OPFOR\Data\clothing_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_hex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_ghex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_ghex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_ghex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F_Exp\OPFOR\Data\clothing_tna_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_ghex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_dhex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_dhex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_dhex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Aegis\Characters_F_Aegis\Uniforms\Data\clothing_oicamo_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_dhex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_sahex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_sahex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_sahex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_tka_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_sahex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_mhex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_mhex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_mhex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_mhex_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_mhex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_whex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_whex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_whex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_whex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_vhex_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_vhex_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_vhex_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_vhex_vz_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		scopeArsenal=1;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_vhex_vz_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_vhex_vz_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3_Atlas\Characters_F_Atlas\Uniforms\Data\clothing_wdl_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_vhex_vz_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_oli_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_grn_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_oli_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_oli_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_blk_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_blk_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_blk_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_blk_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_O_ParkaUniform_T03_khk_02_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_O_ParkaUniform_T03_khk_02_F0";
+		picture="\ax_grounded_futura\characters_f_china\uniforms\data\ui\icon_U_O_ParkaUniform_T03_khk_02_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\Data\suitpack_soldier_OPFOR_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_O_ParkaUniform_T03_khk_02_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};

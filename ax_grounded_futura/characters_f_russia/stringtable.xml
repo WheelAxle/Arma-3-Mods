@@ -173,8 +173,20 @@
                 <Key ID="STR_A3_GRFU_CfgMagazines_45Rnd_545x39_AP_Mag_F0">
 					<English>5.45 mm AP 45Rnd RPK-74 Reload Tracer (Green) Mag</English>
 				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_45Rnd_545x39_AP_Mag_Tracer_Yellow_F0">
+					<English>5.45 mm AP 45Rnd RPK-74 Tracer (Yellow) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_45Rnd_545x39_AP_Mag_Tracer_Green_F0">
+					<English>5.45 mm AP 45Rnd RPK-74 Tracer (Green) Mag</English>
+				</Key>
                 <Key ID="STR_A3_GRFU_CfgMagazines_60Rnd_545x39_AP_Mag_F0">
 					<English>5.45 mm AP 60Rnd RPK-74 Reload Tracer (Green) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_60Rnd_545x39_AP_Mag_Tracer_Yellow_F0">
+					<English>5.45 mm 60Rnd RPK-74 Tracer (Yellow) Mag</English>
+				</Key>
+                <Key ID="STR_A3_GRFU_CfgMagazines_60Rnd_545x39_AP_Mag_Tracer_Green_F0">
+					<English>5.45 mm 60Rnd RPK-74 Tracer (Green) Mag</English>
 				</Key>
 				<Key ID="STR_A3_GRFU_CfgMagazines_30Rnd_545x39_Mag_F1">
 					<English>Caliber: 5.45x39 mm&lt;br /&gt;Rounds: 30&lt;br /&gt;Used in: AK-74, AK-12, RPK-74, RPK-12</English>

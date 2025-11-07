@@ -84,7 +84,7 @@
     class Aegis_O_R_Conscript_AT_F: Aegis_O_R_Conscript_Base_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\Aegis_O_R_Conscript_AT_F.jpg";
-		backpack="AX_B_EAssaultPack_taiga_RPG7_AT_F";
+		//backpack="AX_B_EAssaultPack_taiga_RPG7_AT_F";
 		weapons[]=
 		{
 			"arifle_AK12U_545_FL_F",
@@ -364,7 +364,7 @@
     class Aegis_O_R_Conscript_AT_ard_F: Aegis_O_R_Conscript_AT_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\Aegis_O_R_Conscript_AT_ard_F.jpg";
-		backpack="AX_B_EAssaultPack_arid_RPG7_AT_F";
+		//backpack="AX_B_EAssaultPack_arid_RPG7_AT_F";
         linkedItems[]=
 		{
 			"Aegis_V_ChestrigEast_RUarid_F",

@@ -1,7 +1,7 @@
 	class Atlas_O_Soldier_R_base_F: O_Soldier_F
 	{
 		editorSubcategory="EdSubcat_Personnel_Reservists";
-		uniformClass="AX_U_Uniform_PCU_hex_01_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_01_F";
 		linkedItems[]=
 		{
 			"Atlas_V_OCarrierRig_Lite_alt_khk_F",
@@ -35,7 +35,7 @@
   	class Atlas_O_Soldier_R_Medic_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_Medic_F.jpg";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
 		backpack="B_FieldPack_cbr_Medic";
 		linkedItems[]=
 		{
@@ -62,10 +62,10 @@
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Crew_R_F.jpg";
 		editorSubcategory="EdSubcat_Personnel_Reservists";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
   	  	linkedItems[]=
 		{
-			"V_BandollierB_khk",
+			"Atlas_V_OCarrierRig_khk_F",
 			"lxWS_H_tank_tan_F",
 			"NVGoggles_OPFOR",
 			"ItemMap",
@@ -75,7 +75,7 @@
 		};
 		respawnLinkedItems[]=
 		{
-			"V_BandollierB_khk",
+			"Atlas_V_OCarrierRig_khk_F",
 			"lxWS_H_tank_tan_F",
 			"NVGoggles_OPFOR",
 			"ItemMap",
@@ -141,18 +141,34 @@
   	class Atlas_O_Soldier_R_HG_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_HG_F.jpg";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
 	};
   	class Atlas_O_Soldier_R_M_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_M_F.jpg";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
 	};
   	class Atlas_O_Soldier_R_AA_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_AA_F.jpg";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
 		backpack="B_FieldPack_cbr_AA";
+		weapons[]=
+		{
+			"Atlas_arifle_Katiba_C_ACO_IRFL_F",
+			"launch_O_Titan_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"Atlas_arifle_Katiba_C_ACO_IRFL_F",
+			"launch_O_Titan_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
 	};
   	class Atlas_O_Soldier_R_AT_F: Atlas_O_Soldier_R_base_F
   	{
@@ -161,6 +177,7 @@
   	class Atlas_O_Soldier_R_RadioOp_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_RadioOp_F.jpg";
+		backpack="AX_B_RadioBag_01_irdpm_F";
   	};
   	class Atlas_O_Soldier_R_F: Atlas_O_Soldier_R_base_F
   	{
@@ -170,6 +187,22 @@
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_LAT_F.jpg";
 		backpack="AX_B_FieldPack_cbr_LAT";
+		weapons[]=
+		{
+			"Atlas_arifle_Katiba_ACO_IRFL_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"Atlas_arifle_Katiba_ACO_IRFL_F",
+			"AX_launch_RPG32_cbr_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
 	};
   	class Atlas_O_Soldier_R_SL_F: Atlas_O_Soldier_R_base_F
   	{
@@ -200,7 +233,7 @@
   	class Atlas_O_Soldier_R_TL_F: Atlas_O_Soldier_R_base_F
   	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\Atlas_O_Soldier_R_TL_F.jpg";
-		uniformClass="AX_U_Uniform_PCU_hex_02_F";
+		uniformClass="AX_U_Uniform_PCU_irdpm_02_F";
 		linkedItems[]=
 		{
 			"Atlas_V_OCarrierRig_GL_alt_khk_F",

@@ -1,4 +1,24 @@
-    class AX_B_Carryall_cbr_Ammo: B_Carryall_cbr
+	class AX_B_RadioBag_01_irdpm_F: B_RadioBag_01_hex_F
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_B_RadioBag_01_irdpm_F0";
+		picture="\ax_grounded_futura\characters_f_iran\backpacks\data\ui\icon_B_RadioBag_01_irdpm_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\backpacks\data\B_RadioBag_01_irdpm_CO.paa"
+		};
+	};
+	class AX_B_RadioBag_01_CHex_F: B_RadioBag_01_hex_F
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_B_RadioBag_01_CHex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\backpacks\data\ui\icon_B_RadioBag_01_CHex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\backpacks\data\B_RadioBag_01_CHex_CO.paa"
+		};
+	};
+	class AX_B_Carryall_cbr_Ammo: B_Carryall_cbr
 	{
 		author="$STR_A3_GRFU_Axle";
 		scope=1;
@@ -253,6 +273,136 @@
 		};
 	};
 	class AX_B_TacticalPack_hex_SL_QRF: B_TacticalPack_ocamo
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				magazine="20Rnd_127x55_Mag_RF";
+				count=5;
+			};
+		};
+	};
+	class AX_B_FieldPack_blk_Medic_QRF: B_FieldPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_Medikit
+			{
+				name="Medikit";
+				count=1;
+			};
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=10;
+			};
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				name="20Rnd_127x55_Mag_RF";
+				count=1;
+			};
+			class _xx_10Rnd_127x55_Mag_RF
+			{
+				name="10Rnd_127x55_Mag_RF";
+				count=1;
+			};
+		};
+	};
+	class AX_B_FieldPack_blk_HAT_QRF: B_FieldPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_Vorona_HEAT
+			{
+				magazine="Vorona_HEAT";
+				count=1;
+			};
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				magazine="20Rnd_127x55_Mag_RF";
+				count=3;
+			};
+		};
+	};
+	class AX_B_TacticalPack_blk: B_TacticalPack_blk
+	{
+		scope=1;
+		author="$STR_A3_GRFU_Axle";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\backpacks\data\backpack_small_blk_co.paa"
+		};
+	};
+	class AX_B_TacticalPack_blk_AR_QRF: AX_B_TacticalPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_150Rnd_762x54_Box
+			{
+				magazine="150Rnd_762x54_Box";
+				count=4;
+			};
+		};
+	};
+	class AX_B_TacticalPack_blk_GL_QRF: AX_B_TacticalPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				magazine="20Rnd_127x55_Mag_RF";
+				count=4;
+			};
+			class _xx_1Rnd_HE_Grenade_shell
+			{
+				magazine="1Rnd_HE_Grenade_shell";
+				count=4;
+			};
+			class _xx_1Rnd_Smoke_Grenade_shell
+			{
+				magazine="1Rnd_Smoke_Grenade_shell";
+				count=3;
+			};
+		};
+	};
+	class AX_B_TacticalPack_blk_RI_QRF: AX_B_TacticalPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				magazine="20Rnd_127x55_Mag_RF";
+				count=5;
+			};
+		};
+	};
+	class AX_B_TacticalPack_blk_M_QRF: AX_B_TacticalPack_blk
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_20Rnd_127x55_Mag_RF
+			{
+				magazine="20Rnd_127x55_Mag_RF";
+				count=4;
+			};
+		};
+	};
+	class AX_B_TacticalPack_blk_SL_QRF: AX_B_TacticalPack_blk
 	{
 		author="$STR_A3_GRFU_Axle";
 		scope=1;
