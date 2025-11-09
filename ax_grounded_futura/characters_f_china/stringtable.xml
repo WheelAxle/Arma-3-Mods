@@ -1274,6 +1274,40 @@
                 <Key ID="STR_A3_GRFU_hgun_QSZ92_F0">
                     <English>Xiàng 9 mm</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_ds_hgun_QSZ92_F0">
+                    <Original>Handgun&lt;br /&gt;Caliber: 9x19 mm</Original>
+                    <Chinese>手槍&lt;br /&gt;口徑：9x19 mm</Chinese>
+                    <French>Arme de poing&lt;br /&gt;Calibre : 9x19 mm</French>
+                    <Spanish>Pistola&lt;br /&gt;Calibre: 9x19 mm</Spanish>
+                    <Italian>Pistola&lt;br /&gt;Calibro: 9x19 mm</Italian>
+                    <Polish>Pistolet&lt;br /&gt;Kaliber: 9x19 mm</Polish>
+                    <Russian>Пистолет&lt;br /&gt;Калибр: 9x19 мм</Russian>
+                    <German>Handfeuerwaffe&lt;br /&gt;Kaliber: 9x19 mm</German>
+                    <Czech>Pistole&lt;br /&gt;Ráže: 9x19 mm</Czech>
+                    <English>Handgun&lt;br /&gt;Caliber: 9x19 mm</English>
+                    <Portuguese>Pistola&lt;br /&gt;Calibre: 9 x 19 mm</Portuguese>
+                    <Korean>권총&lt;br /&gt;구경: 9x19mm</Korean>
+                    <Chinesesimp>手枪&lt;br /&gt;口径：9x19 毫米</Chinesesimp>
+                    <Japanese>拳銃&lt;br /&gt;口径：9x19 mm</Japanese>
+                    <Turkish>Tabanca&lt;br /&gt;Kalibre: 9x19 mm</Turkish>
+                </Key>
+				<Key ID="STR_A3_A_CfgMagazines_17Rnd_9x21_Mag1">
+					<Original>Caliber: 9x19 mm&lt;br /&gt;Rounds: 17&lt;br /&gt;Used in: G17, Rook-40, Xiàng</Original>
+					<Chinese>口徑：9x19 mm&lt;br /&gt;個數：17&lt;br /&gt;用於：G17，Rook-40, Xiàng</Chinese>
+					<French>Calibre : 9x19 mm&lt;br /&gt;Munitions : 17&lt;br /&gt;Application : G17, Rook-40, Xiàng</French>
+					<Spanish>Calibre: 9x19 mm&lt;br /&gt;Cargas: 17&lt;br /&gt;Se usa en: G17, Rook-40, Xiàng</Spanish>
+					<Italian>Calibro: 9x19 mm&lt;br /&gt;Munizioni: 17&lt;br /&gt;Si usa in: G17, Rook-40, Xiàng</Italian>
+					<Polish>Kaliber: 9x19 mm&lt;br /&gt;Magazynki: 17&lt;br /&gt;Używane w: G17, Rook-40, Xiàng</Polish>
+					<Russian>Калибр: 9x19 мм&lt;br /&gt;Кол-во: 17&lt;br /&gt;Применение: G17, Rook-40, Xiàng</Russian>
+					<German>Kaliber: 9x19 mm&lt;br /&gt;Patronen: 17 &lt;br /&gt;Eingesetzt von: G17, Rook-40, Xiàng</German>
+					<Czech>Ráže: 9x19 mm&lt;br /&gt;Munice: 17&lt;br /&gt;Použití: G17, Rook-40, Xiàng</Czech>
+					<English>Caliber: 9x19 mm&lt;br /&gt;Rounds: 17&lt;br /&gt;Used in: G17, Rook-40, Xiàng</English>
+					<Portuguese>Calibre: 9x19 mm&lt;br /&gt;Balas: 17&lt;br /&gt;Usada em: G17, Rook-40, Xiàng</Portuguese>
+					<Korean>구경: 9x19mm&lt;br /&gt;탄 수: 17&lt;br /&gt;사용 가능: G17, 루크-40, Xiàng</Korean>
+					<Chinesesimp>类型：9x19 毫米&lt;br /&gt;容弹量：17&lt;br /&gt;用于：G17、Rook-40、Xiàng</Chinesesimp>
+					<Japanese>口径：9x19 mm&lt;br /&gt;弾薬：17&lt;br /&gt;使用：G17、Rook-40、Xiàng</Japanese>
+					<Turkish>Kalibre: 9x19 mm&lt;br /&gt;Mermi: 17&lt;br /&gt;Kullanıldığı Yer: G17, Rook-40, Xiàng</Turkish>
+				</Key>
             </Container>
             <Container name="Launchers">
                 <Key ID="STR_A3_GRFU_launch_RPG32_drkgrn_F0">

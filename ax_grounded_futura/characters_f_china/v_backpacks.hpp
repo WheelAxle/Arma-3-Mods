@@ -1,12 +1,17 @@
-    class B_RadioBag_01_hex_F;
-	class AX_B_RadioBag_01_MHex_F: B_RadioBag_01_hex_F
+    class B_RadioBag_01_base_F;
+	class B_RadioBag_01_hex_F;
+	class B_RadioBag_01_ghex_F: B_RadioBag_01_base_F
+	{
+		picture="\ax_grounded_futura\characters_f_china\backpacks\data\ui\icon_B_RadioBag_01_ghex_F_ca.paa";
+	};
+	class AX_B_RadioBag_01_mhex_F: B_RadioBag_01_hex_F
 	{
 		author="$STR_A3_GRFU_Axle";
 		displayName="$STR_A3_GRFU_B_RadioBag_01_mhex_F0";
-		picture="\ax_grounded_futura\characters_f_china\backpacks\data\ui\icon_B_RadioBag_01_MHex_F_ca.paa";
+		picture="\ax_grounded_futura\characters_f_china\backpacks\data\ui\icon_B_RadioBag_01_mhex_F_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_grounded_futura\characters_f_china\backpacks\data\B_RadioBag_01_MHex_CO.paa"
+			"\ax_grounded_futura\characters_f_china\backpacks\data\B_RadioBag_01_mhex_CO.paa"
 		};
 	};
 	class AX_B_CombatPack_t07_hex_F: JAM_AE_B_CombatPack_t99

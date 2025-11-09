@@ -1,4 +1,4 @@
-    class O_Soldier_A_F;
+	class O_Soldier_A_F;
     class O_Soldier_AAR_F;
 	class O_support_AMG_F;
 	class O_support_AMort_F;
@@ -40,6 +40,8 @@
 	class O_recon_F;
 	class O_recon_LAT_F;
 	class O_recon_TL_F;
+	class O_sniper_F;
+	class O_spotter_F;
 	class O_recon_CQ_F;
 	class O_recon_AR_F;
 	class O_recon_GL_F;
@@ -868,6 +870,18 @@
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_china\expansion\O_T_Helipilot_F.jpg";
         uniformClass="U_O_T_Pilot_F";
+		weapons[]=
+		{
+			"AX_SMG_02_ACO_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"AX_SMG_02_ACO_F",
+			"Throw",
+			"Put"
+		};
         linkedItems[]=
 		{
 			"H_PilotHelmetHeli_O",
@@ -1155,6 +1169,18 @@
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_china\expansion\O_T_Pilot_F.jpg";
         uniformClass="U_O_T_Pilot_F";
+		weapons[]=
+		{
+			"AX_SMG_02_ACO_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"AX_SMG_02_ACO_F",
+			"Throw",
+			"Put"
+		};
         linkedItems[]=
 		{
 			"H_PilotHelmetHeli_O",
@@ -2101,6 +2127,82 @@
 			"ItemWatch",
 			"ItemRadio",
 			"O_NVGoggles_ghex_F"
+		};
+	};
+	class O_T_Sniper_F: O_sniper_F
+	{
+		weapons[]=
+		{
+			"srifle_GM6_ghex_LRPS_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
+		};
+		respawnWeapons[]=
+		{
+			"srifle_GM6_ghex_LRPS_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
+		};
+	};
+	class O_T_Spotter_F: O_spotter_F
+	{
+		weapons[]=
+		{
+			"arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Laserdesignator_02_ghex_F"
+		};
+		respawnWeapons[]=
+		{
+			"arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Laserdesignator_02_ghex_F"
+		};
+	};
+	class O_T_ghillie_tna_F: O_ghillie_base_F
+	{
+		weapons[]=
+		{
+			"srifle_GM6_ghex_LRPS_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
+		};
+		respawnWeapons[]=
+		{
+			"srifle_GM6_ghex_LRPS_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Rangefinder"
+		};
+	};
+	class O_T_ghillie_spotter_tna_F: O_T_ghillie_tna_F
+	{
+		weapons[]=
+		{
+			"arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Laserdesignator_02_ghex_F"
+		};
+		respawnWeapons[]=
+		{
+			"arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+			"AX_hgun_QSZ92_snds_F",
+			"Throw",
+			"Put",
+			"Laserdesignator_02_ghex_F"
 		};
 	};
 	class O_T_Recon_CQ_F: O_recon_CQ_F

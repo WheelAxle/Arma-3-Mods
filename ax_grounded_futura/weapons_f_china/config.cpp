@@ -63,6 +63,7 @@ class WeaponSlotsInfo;
 
 class CfgWeapons
 {
+	class srifle_GM6_ghex_F;
 	class LMG_Zafir_F;
 	class LMG_03_F;
 	class Rifle_Base_F;
@@ -81,6 +82,8 @@ class CfgWeapons
 	class sgun_aa40_lxWS;
 	#include "pistols.hpp"
 	#include "launchers.hpp"
+	#include "snipers.hpp"
+	#include "smgs.hpp"
 };
 
 class CfgMagazines

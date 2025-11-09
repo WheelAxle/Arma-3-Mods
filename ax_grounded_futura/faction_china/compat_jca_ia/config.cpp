@@ -10,6 +10,7 @@ class CfgPatches
 			"A3_Data_F_Decade_Loadorder",
 			"A3_Aegis_Data_F_Aegis_Loadorder",
 			"A3_Atlas_Data_F_Atlas_Loadorder",
+			"ax_weapons_f_china_grfu",
 			"Weapons_F_JCA_IA"
 		};
 		author="Axle";
@@ -181,6 +182,19 @@ class CfgWeapons
 			{
 				slot="PointerSlot";
 				item="acc_pointer_IR_sand_LxWS";
+			};
+		};
+	};
+	class SMG_02_F;
+	class AX_SMG_02_ACO_F: SMG_02_F
+	{
+		author="$STR_A3_Bohemia_Interactive";
+		class LinkedItems
+		{
+			class LinkedItemsOptic
+			{
+				slot="CowsSlot";
+				item="JCA_optic_ARO_black";
 			};
 		};
 	};

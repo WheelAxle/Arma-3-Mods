@@ -25,8 +25,10 @@ class CfgWeapons
 class CfgVehicles
 {
 	class O_Soldier_base_F;
+    class O_ghillie_base_F;
 	#include "pla.hpp"
 	#include "pla_dst.hpp"
 	#include "pla_marine.hpp"
 	#include "viper.hpp"
+	#include "supplies.hpp"
 };

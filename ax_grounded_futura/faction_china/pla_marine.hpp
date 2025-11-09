@@ -515,7 +515,7 @@
 	class Atlas_O_C_Marine_RadioOp_F: Atlas_O_C_Marine_base_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_china\expansion\Atlas_O_C_Marine_RadioOp_F.jpg";
-		backpack="AX_B_RadioBag_01_MHex_F";
+		backpack="AX_B_RadioBag_01_mhex_F";
 	};
 	class Atlas_O_C_Marine_UAV_F: Atlas_O_C_Marine_base_F
 	{

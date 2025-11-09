@@ -4,7 +4,7 @@
 		author="$STR_A3_GRFU_Axle";
 		baseWeapon="AX_hgun_QSZ92_F";
 		displayName="$STR_A3_GRFU_hgun_QSZ92_F0";
-		descriptionShort="$STR_A3_CfgWeapons_hgun_P071";
+		descriptionShort="$STR_A3_GRFU_ds_hgun_QSZ92_F0";
 		picture="\ax_grounded_futura\weapons_f_china\pistols\qsz92\data\ui\icon_qsz92_ca.paa";
 		hiddenSelections[]=
 		{
