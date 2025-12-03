@@ -1006,15 +1006,59 @@
     class O_R_ghillie_base_F: O_R_Soldier_sniper_base
 	{
     };
-	class O_R_spotter_F: O_R_ghillie_base_F
+	class O_R_spotter_F: O_R_Soldier_sniper_base
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_spotter_F.jpg";
-		uniformClass="AX_U_O_R_FullGhillie_frst_F";
+		uniformClass="U_O_R_Gorka_01_camo_F";
+		linkedItems[]=
+		{
+			"H_Booniehat_taiga_hs",
+			"Aegis_V_ChestrigEast_RUtaiga_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_Booniehat_taiga_hs",
+			"Aegis_V_ChestrigEast_RUtaiga_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
     };
-    class O_R_sniper_F: O_R_ghillie_base_F
+    class O_R_sniper_F: O_R_Soldier_sniper_base
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_sniper_F.jpg";
-		uniformClass="AX_U_O_R_FullGhillie_frst_F";
+		uniformClass="U_O_R_Gorka_01_camo_F";
+		linkedItems[]=
+		{
+			"H_Booniehat_taiga_hs",
+			"Aegis_V_ChestrigEast_RUtaiga_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_Booniehat_taiga_hs",
+			"Aegis_V_ChestrigEast_RUtaiga_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
     };
     class O_R_Soldier_universal_F: O_R_Soldier_F
 	{

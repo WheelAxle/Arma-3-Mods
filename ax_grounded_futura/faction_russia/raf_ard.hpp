@@ -919,12 +919,56 @@
     class O_R_spotter_ard_F: O_R_spotter_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_spotter_ard_F.jpg";
-		uniformClass="AX_U_O_R_FullGhillie_dsrt_F";
+		uniformClass="U_O_R_Gorka_01_brown_F";
+		linkedItems[]=
+		{
+			"H_Booniehat_mgrn_hs",
+			"Aegis_V_ChestrigEast_RUarid_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_Booniehat_mgrn_hs",
+			"Aegis_V_ChestrigEast_RUarid_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
     };
     class O_R_sniper_ard_F: O_R_sniper_F
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_sniper_ard_F.jpg";
-		uniformClass="AX_U_O_R_FullGhillie_dsrt_F";
+		uniformClass="U_O_R_Gorka_01_brown_F";
+		linkedItems[]=
+		{
+			"H_Booniehat_mgrn_hs",
+			"Aegis_V_ChestrigEast_RUarid_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_Booniehat_mgrn_hs",
+			"Aegis_V_ChestrigEast_RUarid_F",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"O_NVGoggles_grn_F"
+		};
     };
     class O_R_Soldier_universal_ard_F: O_R_Soldier_ard_F
 	{

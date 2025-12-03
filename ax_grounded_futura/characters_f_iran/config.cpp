@@ -57,6 +57,7 @@ class cfgWeapons
 	class H_HelmetAggressor_cover_base_F;
 	class H_HelmetO_ocamo;
 	class H_HelmetO_oucamo;
+	class H_HelmetCrew_O;
 	class Atlas_V_OCarrierRig_Lite_Alt_Oli_F;
 	class Atlas_V_OCarrierRig_CQB_alt_oli_F;
 	class Atlas_V_OCarrierRig_GL_alt_Oli_F;

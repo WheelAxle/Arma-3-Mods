@@ -88,18 +88,7 @@ class CfgWeapons
 	#include "rifles.hpp"
 	#include "lmgs.hpp"
 	#include "lrr.hpp"
-	class AX_sgun_Mp153_black_F: sgun_Mp153_black_F
-	{
-		reloadAction="lxWS_GestureReload_galat";
-		reloadMagazineSound[]=
-		{
-			"\A3_Aegis\Sounds_F_Aegis\arsenal\weapons\SMGs\SMG04\SMG04_reload",
-			"db0",
-			1,
-			30
-		};
-	};
-	class AX_sgun_Mp153_black_LP_F: AX_sgun_Mp153_black_F
+	class AX_sgun_Mp153_black_LP_F: sgun_Mp153_black_F
 	{
 		class LinkedItems
 		{

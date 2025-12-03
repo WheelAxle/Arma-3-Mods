@@ -43,11 +43,9 @@ class CfgVehicles
             "AX_O_NVGoggles_grn_ep_F"
         };
     };
-	class O_R_ghillie_base_F;
-	class O_R_spotter_F: O_R_ghillie_base_F
+	class O_R_Soldier_sniper_base;
+	class O_R_spotter_F: O_R_Soldier_sniper_base
 	{
-		uniformClass="U_O_R_Gorka_01_camo_F";
-		backpack="AX_B_EAssaultPack_taiga_F";
 		linkedItems[]=
 		{
 			"ReconCloaks_H_SniperHoodSpec_taiga",
@@ -71,10 +69,8 @@ class CfgVehicles
 			"O_NVGoggles_grn_F"
 		};
     };
-	class O_R_sniper_F: O_R_ghillie_base_F
+	class O_R_sniper_F: O_R_Soldier_sniper_base
 	{
-		uniformClass="U_O_R_Gorka_01_camo_F";
-		backpack="B_AssaultPack_taiga_F";
 		linkedItems[]=
 		{
 			"ReconCloaks_H_SniperHoodSpec_taiga",
@@ -100,8 +96,6 @@ class CfgVehicles
     };
 	class O_R_spotter_ard_F: O_R_spotter_F
 	{
-		uniformClass="U_O_R_Gorka_01_brown_F";
-		backpack="AX_B_EAssaultPack_arid_F";
 		linkedItems[]=
 		{
 			"ReconCloaks_H_SniperHoodSpec_khk",
@@ -127,8 +121,6 @@ class CfgVehicles
     };
 	class O_R_sniper_ard_F: O_R_sniper_F
 	{
-		uniformClass="U_O_R_Gorka_01_brown_F";
-		backpack="B_AssaultPack_rgr";
 		linkedItems[]=
 		{
 			"ReconCloaks_H_SniperHoodSpec_khk",

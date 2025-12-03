@@ -356,7 +356,20 @@ class CfgVehicles
 	};
 	class Aegis_O_R_SoldierU_CQ_F: Aegis_O_R_Soldier_Urban_Base_F
 	{
-		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\Aegis_O_R_SoldierU_CQ_F.jpg";
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\Aegis_O_R_SoldierU_CQ_F.jpg";weapons[]=
+		{
+			"AX_sgun_Mp153_black_LP_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"AX_sgun_Mp153_black_LP_F",
+			"hgun_Rook40_F",
+			"Throw",
+			"Put"
+		};
 		linkedItems[]=
 		{
 			"Aegis_V_OCarrierLuchnik_CQB_blk_F",

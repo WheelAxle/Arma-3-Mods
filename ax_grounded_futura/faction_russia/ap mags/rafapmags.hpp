@@ -5,7 +5,6 @@
     class O_soldier_PG_F;
     class O_R_Soldier_Base_F: O_R_Man_Base_F
 	{
-        uniformClass="Aegis_U_O_Luchnik_taiga_F";
     };
     class O_R_Soldier_TL_F: O_R_Soldier_Base_F
 	{
@@ -1152,7 +1151,6 @@
     };
     class O_R_Soldier_CBRN_F: O_R_Soldier_F
 	{
-        uniformClass="U_O_R_CombatUniform_taiga_F";
         magazines[]=
 		{
 			"AX_30Rnd_545x39_AP_Mag_F",
@@ -1288,7 +1286,6 @@
     };
     class O_R_Soldier_PG_F: O_soldier_PG_F
 	{
-        uniformClass="Aegis_U_O_LightCombatFatigues_rutaiga_F";
         magazines[]=
 		{
 			"AX_30Rnd_545x39_AP_Mag_F",
@@ -1326,26 +1323,6 @@
 			"HandGrenade_East",
 			"SmokeShell",
 			"SmokeShell"
-		};
-		linkedItems[]=
-		{
-			"V_SmershVest_01_F",
-			"H_HelmetAggressor_cover_taiga_F",
-			"ItemMap",
-			"ItemCompass",
-			"ItemWatch",
-			"ItemRadio",
-			"O_NVGoggles_grn_F"
-		};
-		respawnLinkedItems[]=
-		{
-			"V_SmershVest_01_F",
-			"H_HelmetAggressor_cover_taiga_F",
-			"ItemMap",
-			"ItemCompass",
-			"ItemWatch",
-			"ItemRadio",
-			"O_NVGoggles_grn_F"
 		};
     };
     class O_R_Soldier_diver_base: O_R_Soldier_Base_F

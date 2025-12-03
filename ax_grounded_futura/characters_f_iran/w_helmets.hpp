@@ -42,6 +42,16 @@
 			"\ax_grounded_futura\characters_f_iran\headgear\data\h_helmetaggressor_01_Hex_CO.paa"
 		};
 	};
+	class AX_H_HelmetCrew_O_uhex_F: H_HelmetCrew_O
+	{
+		author="$STR_A3_GRFU_Axle";
+		displayName="$STR_A3_GRFU_H_HelmetCrew_uhex_F0";
+		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetCrew_O_uhex_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_grounded_futura\characters_f_iran\headgear\data\H_HelmetCrew_UHex_CO.paa"
+		};
+	};
 	class H_Beret_CSAT_01_F;
 	class AX_H_Beret_csat_01_grn_F: H_Beret_CSAT_01_F
 	{

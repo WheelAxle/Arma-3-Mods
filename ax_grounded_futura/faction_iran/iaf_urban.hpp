@@ -2,16 +2,16 @@
 	{
 		editorPreview="\ax_grounded_futura\editor_previews_iran\futura\O_soldierU_F.jpg";
         uniformClass="AX_U_CombatUniform_PCU_uhex_01_F";
-        weapons[]=
+		weapons[]=
 		{
-			"arifle_Katiba_ARCO_pointer_F",
+			"arifle_Katiba_C_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
 		};
 		respawnWeapons[]=
 		{
-			"arifle_Katiba_ARCO_pointer_F",
+			"arifle_Katiba_C_F",
 			"hgun_Rook40_F",
 			"Throw",
 			"Put"
@@ -24,16 +24,15 @@
 			"30Rnd_65x39_caseless_green",
 			"30Rnd_65x39_caseless_green",
 			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"17Rnd_9x21_Mag",
-			"17Rnd_9x21_Mag",
-			"HandGrenade_East",
-			"HandGrenade_East",
+			"16Rnd_9x21_Mag",
+			"16Rnd_9x21_Mag",
+			"16Rnd_9x21_Mag",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
-			"SmokeShell"
+			"SmokeShellRed",
+			"Chemlight_red",
+			"Chemlight_red"
 		};
 		respawnMagazines[]=
 		{
@@ -43,16 +42,15 @@
 			"30Rnd_65x39_caseless_green",
 			"30Rnd_65x39_caseless_green",
 			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"30Rnd_65x39_caseless_green",
-			"17Rnd_9x21_Mag",
-			"17Rnd_9x21_Mag",
-			"HandGrenade_East",
-			"HandGrenade_East",
+			"16Rnd_9x21_Mag",
+			"16Rnd_9x21_Mag",
+			"16Rnd_9x21_Mag",
+			"HandGrenade",
+			"HandGrenade",
 			"SmokeShell",
-			"SmokeShell"
+			"SmokeShellRed",
+			"Chemlight_red",
+			"Chemlight_red"
 		};
         linkedItems[]=
 		{

@@ -151,7 +151,7 @@
         <Container name="Weapons_F">
             <Container name="LongRangeRifles">
                 <Key ID="STR_A3_GRFU_srifle_DMR_04_green_F0">
-                    <English>ASP-1 Kir 12.7 mm (Green)</English>
+                    <English>ASP-1 Kir 12.7 mm (Lush)</English>
                 </Key>
             </Container>
             <Container name="Magazines">

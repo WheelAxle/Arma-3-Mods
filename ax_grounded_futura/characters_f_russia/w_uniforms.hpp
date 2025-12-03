@@ -1,3 +1,7 @@
+	class U_O_R_PilotCoveralls: Uniform_Base
+	{
+		picture="\ax_grounded_futura\characters_f_russia\uniforms\data\ui\icon_U_O_R_PilotCoveralls_ca.paa";
+	};
     class AX_U_O_CBRN_Suit_01_Taiga_F: Uniform_Base
 	{
 		author="$STR_A3_GRFU_Axle";

@@ -444,6 +444,15 @@
 				<Key ID="STR_AX_EF_U_B_MarineCombatUniform_OCP_6">
 					<English>Marine Combat Uniform (OCP/Rolled Up)</English>
 				</Key>
+				<Key ID="STR_A3_AX_AddGis_U_UniformUS_ocp_F0">
+					<English>Assault Fatigues [US] (OCP)</English>
+				</Key>
+				<Key ID="STR_A3_AX_AddGis_U_UniformUS_02_ocp_F0">
+					<English>Assault Fatigues [US] (OCP, Rolled-Up)</English>
+				</Key>
+				<Key ID="STR_A3_AX_AddGis_U_UniformUS_03_ocp_F0">
+					<English>Assault Fatigues [US] (OCP, T-Shirt)</English>
+				</Key>
             </Container>
             <Container name="Headgear">
                 <Key ID="STR_A3_h_bandanna_mcamo0">
@@ -752,6 +761,40 @@
 					<Japanese>戦闘用ヘルメット（OCP、ハーフカバー, 改良型）</Japanese>
 					<Turkish>Savaş Miğferi (OCP, Yarım kapak, Gelişmiş)</Turkish>
 				</Key>
+				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_cover_ocp0">
+					<Original>Combat Helmet (OCP, Cover)</Original>
+					<Chinese>戰鬥頭盔（多地形共用, 覆蓋）</Chinese>
+					<French>Casque de combat (OCP, couverture)</French>
+					<Spanish>Casco de combate (OCP, cubierta)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, copertura)</Italian>
+					<Polish>Hełm bojowy (OCP, okładka)</Polish>
+					<Russian>Штурмовой шлем (OCP, крышка)</Russian>
+					<German>Kampfhelm (OCP, bezug)</German>
+					<Czech>Bojová přilba (OCP, pokrýt)</Czech>
+					<English>Combat Helmet (OCP, Cover)</English>
+					<Portuguese>Capacete de combate (OCP, capa)</Portuguese>
+					<Korean>전투 헬멧(OCP, 씌우다)</Korean>
+					<Chinesesimp>作战头盔（OCP, 覆盖）</Chinesesimp>
+					<Japanese>戦闘ヘルメット（OCP, カバー）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, kapak)</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgWeapons_H_HelmetSpecB_cover_ocp0">
+					<Original>Combat Helmet (OCP, Cover Enhanced)</Original>
+					<Chinese>戰鬥頭盔（多地形共用，覆蓋, 加強型）</Chinese>
+					<French>Casque de combat (OCP, couverture, amélioré)</French>
+					<Spanish>Casco de combate (OCP, cubierta, mejorado)</Spanish>
+					<Italian>Elmetto da combattimento (mimetico OCP, copertura, migliorato)</Italian>
+					<Polish>Hełm bojowy (OCP, okładka, wzmocniony)</Polish>
+					<Russian>Штурмовой шлем (OCP, крышка, улучшенный)</Russian>
+					<German>Kampfhelm (OCP, bezug, verbesserter)</German>
+					<Czech>Bojová přilba (OCP, pokrýt, vylepšená)</Czech>
+					<English>Combat Helmet (OCP, Cover Enhanced)</English>
+					<Portuguese>Capacete de combate (OCP, capa, melhorado)</Portuguese>
+					<Korean>전투 헬멧 (OCP, 씌우다, 강화)</Korean>
+					<Chinesesimp>作战头盔（OCP，覆盖, 增强型）</Chinesesimp>
+					<Japanese>戦闘用ヘルメット（OCP、カバー, 改良型）</Japanese>
+					<Turkish>Savaş Miğferi (OCP, Kapak, Gelişmiş)</Turkish>
+				</Key>
 				<Key ID="STR_A3_A_CfgWeapons_H_HelmetB_camo_ocp0">
 					<Original>Combat Helmet (OCP, Camo)</Original>
 					<Chinese>戰鬥頭盔（多地形共用，迷彩型）</Chinese>
@@ -974,6 +1017,21 @@
 					<Russian>Шлем Avenger (маскировка для шлема, тайга)</Russian>
 					<Chinesesimp>复仇者头盔（头盔罩，针叶林）</Chinesesimp>
 					<Portuguese>Capacete Avenger (Anulador de forma, taiga)</Portuguese>
+				</Key>
+				<Key ID="STR_A3_AX_CfgWeapons_ReconHood_ocp0">
+					<English>Recon Hood (OCP)</English>
+				</Key>
+				<Key ID="STR_A3_AX_CfgWeapons_ReconHood_Cap_ocp0">
+					<English>Recon Hood (OCP, Cap)</English>
+				</Key>
+				<Key ID="STR_A3_AX_CfgWeapons_ReconHood_Down_ocp0">
+					<English>Recon Hood (OCP, Down)</English>
+				</Key>
+				<Key ID="STR_A3_AX_CfgWeapons_SniperHood_ocp0">
+					<English>Sniper Hood (OCP)</English>
+				</Key>
+				<Key ID="STR_A3_AX_CfgWeapons_SniperHood_Scrim_ocp0">
+					<English>Sniper Hood (OCP, Scrim)</English>
 				</Key>
             </Container>
             <Container name="Facewear">
@@ -1218,6 +1276,18 @@
 				</Key>
 				<Key ID="STR_AX_EF_V_AAV_TL_OCP">
 					<English>Amphibious Assault Vest (OCP/Team Leader)</English>
+				</Key>
+				<Key ID="STR_AX_AddGis_V_AssaultCarrier_ocp_F0">
+					<English>Assault Carrier Vest (OCP)</English>
+				</Key>
+				<Key ID="STR_AX_AddGis_V_AssaultCarrier_Lite_ocp_F0">
+					<English>Assault Carrier Lite (OCP)</English>
+				</Key>
+				<Key ID="STR_AX_AddGis_V_AssaultCarrier_TL_ocp_F0">
+					<English>Assault Carrier Leader Rig (OCP)</English>
+				</Key>
+				<Key ID="STR_AX_AddGis_V_AssaultCarrier_MG_ocp_F0">
+					<English>Assault Carrier Support Rig (OCP)</English>
 				</Key>
             </Container>
             <Container name="Backpacks">

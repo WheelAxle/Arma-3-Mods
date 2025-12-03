@@ -31,7 +31,7 @@ class CfgWeapons
 	class U_B_ParadeUniform_01_US_F;
 	class ADDUS_H_HelmetBCover_mtp: H_HelmetB
 	{
-		displayName="Combat Helmet (OCP, Cover)";
+		displayName="$STR_A3_A_CfgWeapons_H_HelmetB_cover_ocp0";
 		picture="\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_HelmetB_plain_mcamo_CA.paa";
 		hiddenSelectionsTextures[]=
 		{
@@ -56,7 +56,7 @@ class CfgWeapons
 	};
 	class ADDUS_H_HelmetSpecBCover_mtp: H_HelmetSpecB
 	{
-		displayName="Combat Helmet (OCP, Cover, Enhanced)";
+		displayName="$STR_A3_A_CfgWeapons_H_HelmetSpecB_cover_ocp0";
 		picture="\A3_Aegis\Characters_F_Aegis\Headgear\Data\UI\icon_H_HelmetSpecB_mcamo_CA.paa";
 		hiddenSelectionsTextures[]=
 		{

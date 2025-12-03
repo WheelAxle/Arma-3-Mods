@@ -11,7 +11,8 @@ class cfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"FA_Mig29"
+			"FA_Mig29",
+			"ax_bruh"
 		};
 		author="Axle";
 		skipwhenmissingdependencies=1;

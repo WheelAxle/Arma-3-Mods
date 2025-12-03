@@ -149,6 +149,9 @@
                 <Key ID="STR_A3_GRFU_H_HelmetAggressor_cover_chex_F0">
                     <English>Avenger Helmet (Cover, Commando Hex)</English>
                 </Key>
+                <Key ID="STR_A3_GRFU_H_HelmetCrew_uhex_F0">
+                    <English>Modular Crew Helmet (Urban Hex)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_H_Beret_CSAT_01_grn_F0">
                     <English>Beret (Green) [CSAT]</English>
                 </Key>

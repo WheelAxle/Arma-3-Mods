@@ -1,0 +1,118 @@
+	class O_R_Soldier_recon_base;
+    class O_R_Soldier_sniper_base;
+	class O_R_recon_TL_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_TL_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+	class O_R_recon_exp_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_exp_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_khk_F";
+    };
+    class O_R_recon_AR_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_AR_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+	class O_R_recon_M_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_M_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+	class O_R_recon_medic_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_medic_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+	class O_R_recon_GL_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_GL_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_khk_F";
+    };
+	class O_R_recon_LAT_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_LAT_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_khk_F";
+    };
+	class O_R_recon_JTAC_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_JTAC_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+	class O_R_recon_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+    class O_R_recon_CQ_F: O_R_Soldier_recon_base
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_CQ_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_khk_F";
+    };
+	class O_R_spotter_F: O_R_Soldier_sniper_base
+	{
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+    class O_R_sniper_F: O_R_Soldier_sniper_base
+	{
+        uniformClass="AddGis_U_O_Gorka_rutaiga_F";
+    };
+    class O_R_recon_TL_ard_F: O_R_recon_TL_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_TL_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_exp_ard_F: O_R_recon_exp_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_exp_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_tan_F";
+    };
+	class O_R_recon_AR_ard_F: O_R_recon_AR_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_AR_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_M_ard_F: O_R_recon_M_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_M_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_medic_ard_F: O_R_recon_medic_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_medic_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_GL_ard_F: O_R_recon_GL_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_GL_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_tan_F";
+    };
+	class O_R_recon_LAT_ard_F: O_R_recon_LAT_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_LAT_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_tan_F";
+    };
+	class O_R_recon_JTAC_ard_F: O_R_recon_JTAC_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_JTAC_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_ard_F: O_R_recon_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_recon_CQ_ard_F: O_R_recon_CQ_F
+    {
+		editorPreview="\ax_grounded_futura\editor_previews_russia\enoch\O_R_recon_CQ_ard_F.jpg";
+        uniformClass="AddGis_U_O_Gorka_tan_F";
+    };
+	class O_R_spotter_ard_F: O_R_spotter_F
+    {
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
+	class O_R_sniper_ard_F: O_R_sniper_F
+    {
+        uniformClass="AddGis_U_O_Gorka_ruarid_F";
+    };
