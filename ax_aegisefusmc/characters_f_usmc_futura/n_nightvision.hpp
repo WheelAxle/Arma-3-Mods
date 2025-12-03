@@ -1,5 +1,7 @@
 	class AX_LPNVG_Hidden: EF_LPNVG
 	{
+		scope=1;
+		scopeArsenal=1;
 		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_LPNVG_blk_Hidden_F0";
 		class ItemInfo
@@ -12,6 +14,8 @@
 	};
 	class AX_LPNVG_tan_Hidden: EF_LPNVG_Tan
 	{
+		scope=1;
+		scopeArsenal=1;
 		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_LPNVG_tan_Hidden_F0";
 		class ItemInfo
@@ -27,7 +31,7 @@
 		scope=1;
 		scopeArsenal=1;
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_NVGoggles_brn_gg_Hidden_F0";
+		displayName="$STR_A3_MCFU_LPNVG_tan_gg_Hidden_F0";
 		class ItemInfo: ItemInfo
 		{
 			uniformModel="\ef\ef_weapons\lpnvg\ef_lpnvg.p3d";
@@ -39,7 +43,7 @@
 		scope=1;
 		scopeArsenal=1;
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_NVGoggles_brn_sm_Hidden_F0";
+		displayName="$STR_A3_MCFU_LPNVG_tan_sm_Hidden_F0";
 		class ItemInfo: ItemInfo
 		{
 			uniformModel="\ef\ef_weapons\lpnvg\ef_lpnvg.p3d";
@@ -51,7 +55,7 @@
 		scope=1;
 		scopeArsenal=1;
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_NVGoggles_brn_sm_Hidden_F0";
+		displayName="$STR_A3_MCFU_LPNVG_tan_sm_Hidden_F0";
 		class ItemInfo: ItemInfo
 		{
 			uniformModel="\ef\ef_weapons\lpnvg\ef_lpnvg.p3d";

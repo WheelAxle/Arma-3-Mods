@@ -1,4 +1,12 @@
-    class EF_V_AAV_Coy: Vest_NoCamo_Base //desat 10%
+    class V_DeckCrew_base_F;
+	class V_DeckCrew_brown_F: V_DeckCrew_base_F
+	{
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\V_DeckCrew_brown_CO.paa"
+		};
+	};
+	class EF_V_AAV_Coy: Vest_NoCamo_Base //desat 10%
 	{
 		hiddenSelectionsTextures[]=
 		{
@@ -26,6 +34,8 @@
 	class EF_V_CCR_TL_Coy: EF_V_CCR_Rifleman_Coy{};
 	class EF_V_CCR_Scout_Coy: EF_V_CCR_Rifleman_Coy{};
 	class EF_V_CCR_Support_Coy: EF_V_CCR_Rifleman_Coy{};
+	class EF_V_AAV_Sailor_Black;
+	class EF_V_AAV_Sailor_Olive;
     class V_PlateCarrier1_rgr;
     class V_PlateCarrier2_rgr;
 	class Aegis_V_PlateCarrier2_alt_rgr;
@@ -114,10 +124,43 @@
 			"\ef\ef_weapons\mx\data\arifle_mx_coy_co.paa"
 		};
 	};
+	class AX_V_AAV_Sailor_Black_dirty: EF_V_AAV_Sailor_Black
+	{
+		scope=1;
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_V_AAV_Sailor_Coy_dirty";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\AA_Vest_black_dirty_CO.paa",
+			"\a3\weapons_f_epb\Rifles\MX_Black\Data\XMX_Base_Black_co.paa"
+		};
+	};
+	class AX_V_AAV_Pilot_Black: EF_V_AAV_Sailor_Black
+	{
+		scope=1;
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_V_AAV_Pilot_Black";
+		hiddenSelectionsTextures[]=
+		{
+			"\ef\ef_marines\data\aa_vest_black_co.paa",
+			""
+		};
+	};
+	class AX_V_AAV_Pilot_Olive: EF_V_AAV_Sailor_Olive
+	{
+		scope=1;
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_V_AAV_Pilot_Olive";
+		hiddenSelectionsTextures[]=
+		{
+			"\ef\ef_marines\data\aa_vest_olive_co.paa",
+			""
+		};
+	};
 	class AX_V_AAV_Pilot_Coy: EF_V_AAV_Sailor_Coy
 	{
-		author="$STR_A3_MCFU_Axle";
 		scope=1;
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_V_AAV_Pilot_Coy";
 		hiddenSelectionsTextures[]=
 		{
@@ -127,8 +170,8 @@
 	};
 	class AX_V_AAV_Pilot_Coy_sd: AX_V_AAV_Pilot_Coy
 	{
-		author="$STR_A3_MCFU_Axle";
 		scope=1;
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_V_AAV_Pilot_Coy";
 		hiddenSelectionsTextures[]=
 		{
@@ -136,7 +179,18 @@
 			""
 		};
 	};
-	class AX_V_AAV_Pilot_Coy_dirty: AX_V_AAV_Pilot_Coy
+	class AX_V_AAV_Pilot_Black_sd: EF_V_AAV_Sailor_Black
+	{
+		scope=1;
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_V_AAV_Pilot_Black";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\AA_Vest_black_sd_CO.paa",
+			""
+		};
+	};
+	class AX_V_AAV_Pilot_Coy_dirty: EF_V_AAV_Sailor_Coy
 	{
 		scope=1;
 		author="$STR_A3_MCFU_Axle";
@@ -144,6 +198,17 @@
 		hiddenSelectionsTextures[]=
 		{
 			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\AA_Vest_dirty_CO.paa",
+			""
+		};
+	};
+	class AX_V_AAV_Pilot_Black_dirty: EF_V_AAV_Sailor_Black
+	{
+		scope=1;
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_V_AAV_Pilot_Black_dirty";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\AA_Vest_black_dirty_CO.paa",
 			""
 		};
 	};

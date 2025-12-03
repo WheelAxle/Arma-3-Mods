@@ -33,10 +33,34 @@
 		};
 		identityTypes[]={};
 	};
+	class AX_G_Shemag_khk_tactical_blk: G_Shemag_tactical
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Shemag_khk_tactical_blk_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Shemag_khk_tactical_blk_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\tactical_blk_CA.paa",
+			"\A3_Aegis\Characters_F_Aegis\Facewear\Data\Shemag_khk_CO.paa"
+		};
+		identityTypes[]={};
+	};
+	class AX_G_Shemag_tan_tactical_blk: G_Shemag_tactical
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Shemag_tan_tactical_blk_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Shemag_tan_tactical_blk_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\tactical_blk_CA.paa",
+			"\A3_Aegis\Characters_F_Aegis\Facewear\Data\Shemag_tan_CO.paa"
+		};
+		identityTypes[]={};
+	};
 	class AX_G_Balaclava_mesh_blk_F: G_Balaclava_light_blk_F
 	{
 		scope=2;
-		author="$STR_A3_GS_Axle";
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_G_Balaclava_mesh_blk_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_blk_F_ca.paa";
 		hiddenSelectionsTextures[]=
@@ -51,7 +75,7 @@
 	};
 	class AX_G_Balaclava_mesh_coy_F: AX_G_Balaclava_mesh_blk_F
 	{
-		author="$STR_A3_GS_Axle";
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_G_Balaclava_mesh_coy_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_coy_F_ca.paa";
 		hiddenSelectionsTextures[]=
@@ -62,7 +86,7 @@
 	class AX_G_Balaclava_mesh_G_blk_F: G_Balaclava_light_G_blk_F
 	{
 		scope=2;
-		author="$STR_A3_GS_Axle";
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_G_Balaclava_mesh_G_blk_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_G_blk_F_ca.paa";
 		hiddenSelectionsTextures[]=
@@ -78,7 +102,7 @@
 	};
 	class AX_G_Balaclava_mesh_G_coy_F: AX_G_Balaclava_mesh_G_blk_F
 	{
-		author="$STR_A3_GS_Axle";
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_G_Balaclava_mesh_G_coy_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_G_coy_F_ca.paa";
 		hiddenSelectionsTextures[]=

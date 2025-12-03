@@ -4,46 +4,158 @@
         <Container name="Characters_F">
             <Container name="Uniforms">
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_1">
+                    <Original>Marine Combat Uniform (Desert)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert)</English>
+                    <German>Marine-Kampfuniform (Wüste)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto)</Spanish>
+                    <French>Uniforme de combat des Marines (désert)</French>
+                    <Polish>Mundur bojowy marines (pustynia)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_1">
+                    <Original>Marine Combat Uniform (Woodland)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt)</French>
+                    <Polish>Mundur bojowy marines (las)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_2">
+                    <Original>Marine Combat Uniform (Desert/Gloves)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Gloves)</English>
+                    <German>Marine-Kampfuniform (Wüste/Handschuhe)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto, guantes)</Spanish>
+                    <French>Uniforme de combat des Marines (désert/gants)</French>
+                    <Polish>Mundur bojowy marines (pustynia, rękawice)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto/luvas)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня/перчатки)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠/手套）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_2">
+                    <Original>Marine Combat Uniform (Woodland/Gloves)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland/Gloves)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet/Handschuhe)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque, guantes)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt/gants)</French>
+                    <Polish>Mundur bojowy marines (las, rękawice)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta/luvas)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная/перчатки)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地/手套）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_3">
+                    <Original>Marine Combat Uniform (Desert/Gloves/Rolled Up)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Gloves/Rolled Up)</English>
+                    <German>Marine-Kampfuniform (Wüste/Handschuhe/hochgekrempelt)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto, guantes, remangado)</Spanish>
+                    <French>Uniforme de combat des Marines (désert/gants/manches retroussées)</French>
+                    <Polish>Mundur bojowy marines (pustynia, rękawice, podkasany)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto/luvas/manga dobrada)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня/перчатки/закатанные рукава)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠/手套/卷边）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_3">
+                    <Original>Marine Combat Uniform (Woodland/Gloves/Rolled Up)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Rolled Up)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet/Handschuhe/hochgekrempelt)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque, guantes, remangado)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt/gants/manches retroussées)</French>
+                    <Polish>Mundur bojowy marines (las, rękawice, podkasany)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta/luvas/manga dobrada)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная/перчатки/закатанные рукава)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地/手套/卷边）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_4">
+                    <Original>Marine Combat Uniform (Desert/Gloves/Rolled Up/Knee Pads)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Gloves/Rolled Up/Knee Pads)</English>
+                    <German>Marine-Kampfuniform (Wüste/Handschuhe/hochgekrempelt/Knieschoner)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto, guantes, remangado, rodilleras)</Spanish>
+                    <French>Uniforme de combat des Marines (désert/gants/manches retroussées/genouillères)</French>
+                    <Polish>Mundur bojowy marines (pustynia, rękawice, podkasany, ochraniacze kolan)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto/luvas/manga dobrada/joelheiras)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня/перчатки/закатанные рукава/наколенники)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠/手套/卷边/护膝垫）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_4">
+                    <Original>Marine Combat Uniform (Woodland/Gloves/Rolled Up/Knee Pads)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Rolled Up/Knee Pads)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet/Handschuhe/hochgekrempelt/Knieschoner)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque, guantes, remangado, rodilleras)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt/gants/manches retroussées/genouillères)</French>
+                    <Polish>Mundur bojowy marines (las, rękawice, ochraniacze kolan)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta/luvas/manga dobrada/joelheiras)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная/перчатки/закатанные рукава/наколенники)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地/手套/卷边/护膝垫）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_5">
+                    <Original>Marine Combat Uniform (Desert/Gloves/Knee Pads)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Gloves/Knee Pads)</English>
+                    <German>Marine-Kampfuniform (Wüste/Handschuhe/Knieschoner)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto, guantes, rodilleras)</Spanish>
+                    <French>Uniforme de combat des Marines (désert/gants/genouillères)</French>
+                    <Polish>Mundur bojowy marines (pustynia, rękawice, ochraniacze kolan)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto/luvas/joelheiras)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня/перчатки/наколенники)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠/手套/护膝垫）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_5">
+                    <Original>Marine Combat Uniform (Woodland/Gloves/Knee Pads)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland/Gloves/Knee Pads)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet/Handschuhe/Knieschoner)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque, guantes, rodilleras)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt/gants/genouillères)</French>
+                    <Polish>Mundur bojowy marines (las, rękawice, podkasany, ochraniacze kolan)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta/luvas/joelheiras)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная/перчатки/наколенники)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地/手套/护膝垫）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_6">
+                    <Original>Marine Combat Uniform (Desert/Rolled Up)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Rolled Up)</English>
+                    <German>Marine-Kampfuniform (Wüste/hochgekrempelt)</German>
+                    <Spanish>Uniforme de combate de los marines (desierto, remangado)</Spanish>
+                    <French>Uniforme de combat des Marines (désert/manches retroussées)</French>
+                    <Polish>Mundur bojowy marines (pustynia, podkasany)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Deserto/manga dobrada)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (пустыня/закатанные рукава)</Russian>
+                    <Chinesesimp>海军陆战队作战服（沙漠/卷边）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_WDL_6">
+                    <Original>Marine Combat Uniform (Woodland/Rolled Up)</Original>
                     <English>Marine Combat Uniform [USMC] (Woodland/Rolled Up)</English>
+                    <German>Marine-Kampfuniform (Waldgebiet/hochgekrempelt)</German>
+                    <Spanish>Uniforme de combate de los marines (bosque, remangado)</Spanish>
+                    <French>Uniforme de combat des Marines (forêt/manches retroussées)</French>
+                    <Polish>Mundur bojowy marines (las, podkasany)</Polish>
+                    <Portuguese>Uniforme de combate de fuzileiro naval (Floresta/manga dobrada)</Portuguese>
+                    <Russian>Боевая форма морского пехотинца (лесная/закатанные рукава)</Russian>
+                    <Chinesesimp>海军陆战队作战服（林地/卷边）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_B_MarineCombatUniform_Diver_Des">
+                    <Original>Marine Diver Uniform (Desert)</Original>
                     <English>Marine Diver Uniform [USMC] (Desert)</English>
+                    <German>Marine-Taucheruniform (Wüste)</German>
+                    <Spanish>Uniforme de submarinista de los marines (desierto)</Spanish>
+                    <French>Uniforme de plongeur des Marines (désert)</French>
+                    <Polish>Mundur nurka marines (pustynia)</Polish>
+                    <Portuguese>Uniforme de fuzileiro naval mergulhador (Deserto)</Portuguese>
+                    <Russian>Униформа водолаза (пустыня)</Russian>
+                    <Chinesesimp>海军陆战队潜水服（沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_U_B_MarineCombatUniform_Diver_Wdl">
+                    <Original>Marine Diver Uniform (Woodland)</Original>
                     <English>Marine Diver Uniform [USMC] (Woodland)</English>
+                    <German>Marine-Taucheruniform (Waldgebiet)</German>
+                    <Spanish>Uniforme de submarinista de los marines (bosque)</Spanish>
+                    <French>Uniforme de plongeur des Marines (forêt)</French>
+                    <Polish>Mundur nurka marines (las)</Polish>
+                    <Portuguese>Uniforme de fuzileiro naval mergulhador (Floresta)</Portuguese>
+                    <Russian>Униформа водолаза (лесная)</Russian>
+                    <Chinesesimp>海军陆战队潜水服（林地）</Chinesesimp>
                 </Key>
                 <Key ID="STR_A3_MCFU_CSU13BP_Rolled_F0">
                     <English>Flight Suit [US] (Rolled-Up)</English>
@@ -138,17 +250,91 @@
                 <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_F0">
                     <English>Heli Pilot Coveralls [USMC]</English>
                 </Key>
-                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_F0">
-                    <English>Pilot Coveralls [USMC]</English>
+                <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_tan_F0">
+                    <English>Heli Pilot Coveralls [USMC] (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_F0">
+                    <English>Heli Pilot Coveralls [USN]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_tan_F0">
+                    <English>Heli Pilot Coveralls [USN] (Tan)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_F0">
                     <English>Heli Pilot Coveralls [USMC] (Gloves)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_tan_F0">
+                    <English>Heli Pilot Coveralls [USMC] (Gloves, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_Gloves_F0">
+                    <English>Heli Pilot Coveralls [USN] (Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_Gloves_tan_F0">
+                    <English>Heli Pilot Coveralls [USN] (Gloves, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_F0">
+                    <English>Pilot Coveralls [USMC]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_tan_F0">
+                    <English>Pilot Coveralls [USMC] (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_PilotCoveralls_F0">
+                    <English>Pilot Coveralls [USN]</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_PilotCoveralls_tan_F0">
+                    <English>Pilot Coveralls [USN] (Tan)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_F0">
                     <English>Pilot Coveralls [USMC] (Gloves)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_tan_F0">
+                    <English>Pilot Coveralls [USMC] (Gloves, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_PilotCoveralls_Gloves_F0">
+                    <English>Pilot Coveralls [USN] (Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_PilotCoveralls_Gloves_tan_F0">
+                    <English>Pilot Coveralls [USN] (Gloves, Tan)</English>
+                </Key>
                 <Key ID="STR_EF_U_B_CrewCoveralls_Navy">
+                    <Original>Navy Coveralls (Blue)</Original>
                     <English>Coveralls [USN]</English>
+                    <German>Navy-Overall (Blau)</German>
+                    <Spanish>Mono de la armada (azul)</Spanish>
+                    <French>Combinaison de marine (bleue)</French>
+                    <Polish>Kombinezon marynarki (niebieski)</Polish>
+                    <Portuguese>Macacão da marinha (Azul)</Portuguese>
+                    <Russian>Комбинезон ВМС (синий)</Russian>
+                    <Chinesesimp>海军连体服（蓝色）</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_worn">
+                    <English>Coveralls [USN] (Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_White">
+                    <English>Coveralls [USN] (White)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Yellow">
+                    <English>Coveralls [USN] (Yellow)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Red">
+                    <English>Coveralls [USN] (Red)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Green">
+                    <English>Coveralls [USN] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Brown">
+                    <English>Coveralls [USN] (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Blue">
+                    <English>Coveralls [USN] (Blue)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Violet">
+                    <English>Coveralls [USN] (Violet)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Black">
+                    <English>Coveralls [USN] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_CrewCoveralls_Navy_Gloves">
+                    <English>Coveralls [USN] (Gloves)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_CombatUniformNCU_01_des_F0">
                     <English>European Combat Uniform [USMC] (Desert)</English>
@@ -189,14 +375,26 @@
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_wdl_F0">
                     <English>Marine Assault Uniform [USMC] (Woodland)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_Cloak_01_wdl_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland, Cloak)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_wdl_cb_F0">
                     <English>Marine Assault Uniform [USMC] (Woodland/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_Cloak_01_wdl_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Woodland/Coyote, Cloak)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_des_F0">
                     <English>Marine Assault Uniform [USMC] (Desert)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_Cloak_01_des_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert, Cloak)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_01_des_cb_F0">
                     <English>Marine Assault Uniform [USMC] (Desert/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_G3_NCU_Cloak_01_des_cb_F0">
+                    <English>Marine Assault Uniform [USMC] (Desert/Coyote, Cloak)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_02_wdl_F0">
                     <English>Marine Assault Uniform [USMC] (Woodland, Rolled-Up)</English>
@@ -222,6 +420,24 @@
                 <Key ID="STR_A3_MCFU_U_B_G3_NCU_tee_des_brn_F0">
                     <English>Marine Assault Uniform [USMC] (Desert/Brown, Tee)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_wdl_F0">
+                    <English>Assault Fatigues [USMC] (Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_des_F0">
+                    <English>Assault Fatigues [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_02_wdl_F0">
+                    <English>Assault Fatigues [USMC] (Woodland, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_02_des_F0">
+                    <English>Assault Fatigues [USMC] (Desert, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_03_wdl_F0">
+                    <English>Assault Fatigues [USMC] (Woodland, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_MC_UniformUS_03_des_F0">
+                    <English>Assault Fatigues [USMC] (Desert, T-Shirt)</English>
+                </Key>
             </Container>
             <Container name="Headgear">
                 <Key ID="STR_A3_MCFU_JHMCS_MBU20P_F0">
@@ -230,11 +446,27 @@
                 <Key ID="STR_A3_MCFU_JHMCS2_MBU20P_F0">
                     <English>Pilot Helmet (JHMCS II)</English>
                 </Key>
-                <Key ID="STR_EF_H_Booniehat_Wdl">
+                <Key ID="STR_EF_H_BoonieHat_Wdl">
+                    <Original>Booniehat (Woodland)</Original>
                     <English>Booniehat [USMC] (Woodland)</English>
+                    <German>Buschhut (Waldgebiet)</German>
+                    <Spanish>Sombrero boonie (bosque)</Spanish>
+                    <French>Chapeau de brousse (forêt)</French>
+                    <Polish>Kapelusz polowy (las)</Polish>
+                    <Portuguese>Chapéu militar estilo pescador (Floresta)</Portuguese>
+                    <Russian>Панама (лесная)</Russian>
+                    <Chinesesimp>圆边帽（林地）</Chinesesimp>
                 </Key>
-                <Key ID="STR_EF_H_Booniehat_Des">
+                <Key ID="STR_EF_H_BoonieHat_Des">
+                    <Original>Booniehat (Desert)</Original>
                     <English>Booniehat [USMC] (Desert)</English>
+                    <German>Buschhut (Wüste)</German>
+                    <Spanish>Sombrero boonie (desierto)</Spanish>
+                    <French>Chapeau de brousse (désert)</French>
+                    <Polish>Kapelusz polowy (pustynia)</Polish>
+                    <Portuguese>Chapéu militar estilo pescador (Deserto)</Portuguese>
+                    <Russian>Панама (пустыня)</Russian>
+                    <Chinesesimp>圆边帽（沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Booniehat_wdl_hs">
                     <English>Booniehat [USMC] (Woodland, Headset)</English>
@@ -246,10 +478,26 @@
                     <English>Booniehat (Desert, Headset)</English>
                 </Key>
                 <Key ID="STR_EF_H_UtilityCap_Wdl">
+                    <Original>Utility Cap (Woodland)</Original>
                     <English>Utility Cap [USMC] (Woodland)</English>
+                    <German>Allzweck-Kappe (Waldgebiet)</German>
+                    <Spanish>Gorra de faena (bosque)</Spanish>
+                    <French>Casquette militaire (forêt)</French>
+                    <Polish>Marineska (las)</Polish>
+                    <Portuguese>Boina utilitária (Floresta)</Portuguese>
+                    <Russian>Кепка морской пехоты (лесная)</Russian>
+                    <Chinesesimp>通用军帽（林地）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_H_UtilityCap_Des">
+                    <Original>Utility Cap (Desert)</Original>
                     <English>Utility Cap [USMC] (Desert)</English>
+                    <German>Allzweck-Kappe (Wüste)</German>
+                    <Spanish>Gorra de faena (desierto)</Spanish>
+                    <French>Casquette militaire (désert)</French>
+                    <Polish>Marineska (pustynia)</Polish>
+                    <Portuguese>Boina utilitária (Deserto)</Portuguese>
+                    <Russian>Кепка морской пехоты (пустыня)</Russian>
+                    <Chinesesimp>通用军帽（沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_usmc_wdl">
                     <English>Military Cap [USMC] (Woodland)</English>
@@ -257,11 +505,60 @@
                 <Key ID="STR_A3_MCFU_H_MilCap_usmc_des">
                     <English>Military Cap [USMC] (Desert)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_usn">
+                    <English>Military Cap (Navy Blue)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_hs_usmc_wdl">
                     <English>Military Cap [USMC] (Headset, Woodland)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_hs_usmc_des">
                     <English>Military Cap [USMC] (Headset, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_hs_usn">
+                    <English>Military Cap (Navy Blue, Headset)</English>
+                </Key>
+                 <Key ID="STR_EF_H_Cap_Navy">
+                    <Original>Cap (Navy)</Original>
+                    <English>Cap (Navy Blue)</English>
+                    <German>Kappe (Navy)</German>
+                    <Spanish>Gorra (armada)</Spanish>
+                    <French>Casquette (marine)</French>
+                    <Polish>Czapka (marynarka)</Polish>
+                    <Portuguese>Boné (Marinha)</Portuguese>
+                    <Russian>Кепка (ВМС)</Russian>
+                    <Chinesesimp>帽子（海军）</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_navyblue_hs">
+                    <English>Cap (Navy Blue, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_Khk">
+                    <English>Cap (Navy Khaki)</English>
+                </Key>
+                <Key ID="STR_EF_H_Cap_Takmyr">
+                    <Original>Cap (USS Takmyr)</Original>
+                    <English>Cap [USN] (Takmyr)</English>
+                    <German>Kappe (USS Takmyr)</German>
+                    <Spanish>Gorra (USS Takmyr)</Spanish>
+                    <French>Casquette (USS Takmyr)</French>
+                    <Polish>Czapka (USS Takmyr)</Polish>
+                    <Portuguese>Boné (USS Takmyr)</Portuguese>
+                    <Russian>Кепка (авианосец Такмир)</Russian>
+                    <Chinesesimp>帽子（塔克米尔号）</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_Navy">
+                    <English>Cap [USN] (Navy)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_Anchor">
+                    <English>Cap [USN] (Anchor)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_SGOT">
+                    <English>Cap [USN] (SGOT)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_Makin">
+                    <English>Cap [USN] (Makin)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_Boxes">
+                    <English>Cap [USN] (Boxer)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Cap_coy">
                     <English>Cap (Coyote Brown)</English>
@@ -271,6 +568,9 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Cap_headphones_coy">
                     <English>Rangemaster Cap (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Cap_headphones_navy">
+                    <English>Rangemaster Cap (Navy Blue)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_coy_F">
                     <English>Operator Helmet [USMC] (Cover, Coyote Brown)</English>
@@ -293,8 +593,14 @@
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_coy_F">
                     <English>Operator Helmet [USMC] (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_snk_ard_F">
+                    <English>Operator Helmet [USMC] (Snakeskin)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_coy_F">
                     <English>Operator Helmet [USMC] (Headset, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_snk_ard_F">
+                    <English>Operator Helmet [USMC] (Headset, Snakeskin)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_coy_F">
                     <English>Operator Helmet [USMC] (Scrim, Coyote Brown)</English>
@@ -332,8 +638,14 @@
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_coy_worn_F">
                     <English>Operator Helmet [USMC] (Coyote, Worn)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_snk_ard_worn_F">
+                    <English>Operator Helmet [USMC] (Snakeskin, Worn)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_coy_worn_F">
                     <English>Operator Helmet [USMC] (Headset, Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_snk_ard_worn_F">
+                    <English>Operator Helmet [USMC] (Headset, Snakeskin, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_coy_worn_F">
                     <English>Operator Helmet [USMC] (Scrim, Coyote, Worn)</English>
@@ -404,6 +716,60 @@
                 <Key ID="STR_A3_MCFU_H_MCH_FullCamo_Black_dirty_F">
                     <English>Marine Combat Helmet (Full/Black, Worn)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_F">
+                    <English>Marine Combat Helmet (Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_Basic_F">
+                    <English>Marine Combat Helmet (Basic, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_Full_F">
+                    <English>Marine Combat Helmet (Full, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Wdl_F">
+                    <English>Marine Combat Helmet (Basic/Woodland, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Des_F">
+                    <English>Marine Combat Helmet (Basic/Desert, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Coy_F">
+                    <English>Marine Combat Helmet (Basic/Coyote, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Wdl_F">
+                    <English>Marine Combat Helmet (Full/Woodland, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Des_F">
+                    <English>Marine Combat Helmet (Full/Desert, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Coy_F">
+                    <English>Marine Combat Helmet (Full/Coyote, Velcro)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_dirty_F">
+                    <English>Marine Combat Helmet (Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_Basic_dirty_F">
+                    <English>Marine Combat Helmet (Basic, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_Full_dirty_F">
+                    <English>Marine Combat Helmet (Full, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Wdl_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Woodland, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Des_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Desert, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_BasicNet_Coy_dirty_F">
+                    <English>Marine Combat Helmet (Basic/Coyote, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Wdl_dirty_F">
+                    <English>Marine Combat Helmet (Full/Woodland, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Des_dirty_F">
+                    <English>Marine Combat Helmet (Full/Desert, Velcro/Dirty)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MCH_Velcro_FullCamo_Coy_dirty_F">
+                    <English>Marine Combat Helmet (Full/Coyote, Velcro/Dirty)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_HelmetB_light_coy">
                     <English>Light Combat Helmet (Coyote Brown)</English>
                 </Key>
@@ -441,13 +807,76 @@
                     <English>Light Combat Helmet (Dark Green, Enhanced)</English>
                 </Key>
                 <Key ID="STR_EF_H_HelmetCrew_Coy">
+                    <Original>Crew Helmet [MJTF]</Original>
                     <English>Modular Crew Helmet (Coyote Brown)</English>
+                    <German>Besatzungshelm [MJTF]</German>
+                    <Spanish>Casco de tripulante (FOCM)</Spanish>
+                    <French>Casque d&apos;équipage [MJTF]</French>
+                    <Polish>Hełm załogi [MJTF]</Polish>
+                    <Portuguese>Capacete de equipe [MJTF]</Portuguese>
+                    <Russian>Шлем экипажа [MJTF]</Russian>
+                    <Chinesesimp>乘员头盔 [MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Navy">
+                    <English>Modular Crew Helmet (Navy Blue)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Black">
+                    <English>Modular Crew Helmet [USN] (Black)</English>
                 </Key>
                 <Key ID="STR_EF_H_HelmetCrew_Yellow">
-                    <English>Modular Crew Helmet (Yellow)</English>
+                    <Original>Crew Helmet [Yellow]</Original>
+                    <English>Modular Crew Helmet [USN] (Yellow)</English>
+                    <German>Besatzungshelm [Gelb]</German>
+                    <Spanish>Casco de tripulante (amarillo)</Spanish>
+                    <French>Casque d&apos;équipage [jaune]</French>
+                    <Polish>Hełm załogi (żółty)</Polish>
+                    <Portuguese>Capacete de equipe [Amarelo]</Portuguese>
+                    <Russian>Шлем экипажа [желтый]</Russian>
+                    <Chinesesimp>乘员头盔 [黄色]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_H_HelmetCrew_White">
-                    <English>Modular Crew Helmet (White)</English>
+                    <Original>Crew Helmet [White]</Original>
+                    <English>Modular Crew Helmet [USN] (White)</English>
+                    <German>Besatzungshelm [Weiß]</German>
+                    <Spanish>Casco de tripulante (blanco)</Spanish>
+                    <French>Casque d&apos;équipage [blanc]</French>
+                    <Polish>Hełm załogi (biały)</Polish>
+                    <Portuguese>Capacete de equipe [Branco]</Portuguese>
+                    <Russian>Шлем экипажа [белый]</Russian>
+                    <Chinesesimp>乘员头盔 [白色]</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Red">
+                    <English>Modular Crew Helmet [USN] (Red)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Green">
+                    <English>Modular Crew Helmet [USN] (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Brown">
+                    <English>Modular Crew Helmet [USN] (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Blue">
+                    <English>Modular Crew Helmet [USN] (Blue)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Violet">
+                    <English>Modular Crew Helmet [USN] (Violet)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_Black">
+                    <English>Modular Crew Helmet [USN] (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_ReconCloaks_H_Hood_coy">
+                    <English>Recon Hood (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_ReconCloaks_H_Hood_Cap_coy">
+                    <English>Recon Hood (Coyote, Cap)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_ReconCloaks_H_Hood_Cap_coy_wdl">
+                    <English>Recon Hood [USMC] (Coyote, Cap, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_ReconCloaks_H_Hood_Cap_coy_des">
+                    <English>Recon Hood [USMC] (Coyote, Cap, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_ReconCloaks_H_Hood_Down_coy">
+                    <English>Recon Hood (Coyote, Down)</English>
                 </Key>
             </Container>
             <Container name="Vests">
@@ -502,8 +931,20 @@
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy">
                     <English>Pilot Life Vest (Coyote)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Black">
+                    <English>Pilot Life Vest (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Olive">
+                    <English>Pilot Life Vest (Olive)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy_dirty">
                     <English>Pilot Life Vest (Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Black_dirty">
+                    <English>Pilot Life Vest (Black, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Olive_dirty">
+                    <English>Pilot Life Vest (Olive, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Scout_Coy_dirty">
                     <English>Amphibious Assault Vest (Coyote/Scout, Worn)</English>
@@ -580,8 +1021,26 @@
                 <Key ID="STR_A3_MCFU_V_PlateCarrierGL_grn">
                     <English>Carrier GL Rig (Green)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_coy_F0">
+                    <English>Assault Carrier Vest (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_Lite_coy_F0">
+                    <English>Assault Carrier Lite (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_MG_coy_F0">
+                    <English>Assault Carrier Support Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_TL_coy_F0">
+                    <English>Assault Carrier Leader Rig (Coyote Brown)</English>
+                </Key>
             </Container>
             <Container name="Backpacks">
+                <Key ID="STR_A3_MCFU_B_Hydrationpack_coy">
+                    <English>Hydration Pack (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_Ammo_Bandolier">
+                    <English>Bullet Bandolier (Back)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_B_AssaultPack_mdes">
                     <English>Assault Pack [USMC] (Desert)</English>
                 </Key>
@@ -610,34 +1069,158 @@
                     <English>Tactical Pack [USMC] (Woodland)</English>
                 </Key>
                 <Key ID="STR_EF_B_HMG_01_support_MJTF_des">
+                    <Original>Folded Tripod [MJTF]</Original>
                     <English>Folded Tripod [USMC]</English>
+                    <German>Eingeklapptes Dreibein [MJTF]</German>
+                    <Spanish>Trípode plegado [FOCM]</Spanish>
+                    <French>Trépied replié [MJTF]</French>
+                    <Polish>Złożony trójnóg [MJTF]</Polish>
+                    <Portuguese>Tripé dobrado [MJTF]</Portuguese>
+                    <Russian>Сложенная тренога [MJTF]</Russian>
+                    <Chinesesimp>折叠的三脚架 [MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_HMG_01_support_high_MJTF_des">
+                    <Original>Folded Tripod (Raised) [MJTF]</Original>
                     <English>Folded Tripod (Raised) [USMC]</English>
+                    <German>Eingeklapptes Dreibein (erhöht) [MJTF]</German>
+                    <Spanish>Trípode plegado (elevado) [FOCM]</Spanish>
+                    <French>Trépied replié (rehaussé) [MJTF]</French>
+                    <Polish>Złożony trójnóg (podwyższony) [MJTF]</Polish>
+                    <Portuguese>Tripé dobrado (elevado) [MJTF]</Portuguese>
+                    <Russian>Сложенная тренога (поднята) [MJTF]</Russian>
+                    <Chinesesimp>折叠的三脚架（升高）[MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_HMG_01_weapon_MJTF_des">
+                    <Original>Dismantled Mk30 HMG [MJTF]</Original>
                     <English>Dismantled Mk30 HMG [USMC]</English>
+                    <German>Demontiertes Mk30-HMG [MJTF]</German>
+                    <Spanish>Ametralladora pes. desmontada Mk30 [FOCM]</Spanish>
+                    <French>HMG Mk30 démontée [MJTF]</French>
+                    <Polish>Rozłożony CKM Mk30 [MJTF]</Polish>
+                    <Portuguese>Mk30 MP desmontada [MJTF]</Portuguese>
+                    <Russian>Снятый пулемет Mk30 [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk30 重机枪 [MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_B_HMG_01_A_weapon_MJTF_des">
+                    <Original>Dismantled Mk30A HMG [MJTF]</Original>
+                    <English>Dismantled Mk30A HMG [USMC]</English>
+                    <German>Demontiertes Mk30A-HMG [MJTF]</German>
+                    <Spanish>Ametralladora pes. desmontada Mk30 [FOCM]</Spanish>
+                    <French>HMG Mk30A démontée [MJTF]</French>
+                    <Polish>Rozłożony CKM Mk30A [MJTF]</Polish>
+                    <Portuguese>Mk30A MP desmontada [MJTF]</Portuguese>
+                    <Russian>Снятый пулемет Mk30A [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk30A 重机枪 [MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_GMG_01_weapon_MJTF_des">
+                    <Original>Dismantled Mk32 GMG [MJTF]</Original>
                     <English>Dismantled Mk32 GMG [USMC]</English>
+                    <German>Demontiertes Mk32-GMG [MJTF]</German>
+                    <Spanish>Lanzagranadas auto. desmontado Mk32 [FOCM]</Spanish>
+                    <French>GMG Mk32 démontée [MJTF]</French>
+                    <Polish>Rozłożony GA Mk32 [MJTF]</Polish>
+                    <Portuguese>Mk32 MLG desmontada [MJTF]</Portuguese>
+                    <Russian>Снятый авт. гранатомет Mk32 [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk32 榴弹机枪 [MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_B_GMG_01_A_weapon_MJTF_des">
+                    <Original>Dismantled Mk32A GMG [MJTF]</Original>
+                    <English>Dismantled Mk32A GMG [USMC]</English>
+                    <German>Demontiertes Mk32A-GMG [MJTF]</German>
+                    <Spanish>Lanzagranadas auto. desmontado Mk32 [FOCM]</Spanish>
+                    <French>GMG Mk32A démontée [MJTF]</French>
+                    <Polish>Rozłożony GMG Mk32A [MJTF]</Polish>
+                    <Portuguese>Mk32A MLG desmontada [MJTF]</Portuguese>
+                    <Russian>Снятый авт. гранатомет Mk32A [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk32A 榴弹机枪 [MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_HMG_01_weapon_high_MJTF_des">
+                    <Original>Dismantled Mk30 HMG (Raised) [MJTF]</Original>
                     <English>Dismantled Mk30 HMG (Raised) [USMC]</English>
+                    <German>Demontiertes Mk30-HMG (erhöht) [MJTF]</German>
+                    <Spanish>Ametralladora pes. desmontada Mk30 (alta) [FOCM]</Spanish>
+                    <French>HMG Mk30 démontée (rehaussée) [MJTF]</French>
+                    <Polish>Rozłożony CKM Mk30 (podwyższony) [MJTF]</Polish>
+                    <Portuguese>Mk30 MP desmontada (levantada) [MJTF]</Portuguese>
+                    <Russian>Снятый пулемет Mk30 (поднят) [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk30 重机枪（升高）[MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_B_GMG_01_weapon_high_MJTF_des">
+                    <Original>Dismantled Mk32 GMG (Raised) [MJTF]</Original>
+                    <English>Dismantled Mk32 GMG (Raised) [USMC]</English>
+                    <German>Demontiertes Mk32-GMG (erhöht) [MJTF]</German>
+                    <Spanish>Lanzagranadas auto. desmontado Mk32 (alto) [FOCM]</Spanish>
+                    <French>GMG Mk32 démontée (rehaussée) [MJTF]</French>
+                    <Polish>Rozłożony GMG Mk32 (podwyższony) [MJTF]</Polish>
+                    <Portuguese>Mk32 MLG desmontada (levantada) [FDL]</Portuguese>
+                    <Russian>Снятый авт. гранатомет Mk32 (поднят) [MJTF]</Russian>
+                    <Chinesesimp>拆解的 Mk32A 榴弹机枪（加高）[MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_Mortar_01_weapon_MJTF_des">
+                    <Original>Folded Mk6 Mortar Tube [MJTF]</Original>
                     <English>Folded Mk6 Mortar Tube [USMC]</English>
+                    <German>Eingeklapptes Mk6-Mörserrohr [MJTF]</German>
+                    <Spanish>Tubo de mortero plegado Mk6 [FOCM]</Spanish>
+                    <French>Tube replié pour mortier Mk6 [MJTF]</French>
+                    <Polish>Złożona lufa moździerza Mk6 [MJTF]</Polish>
+                    <Portuguese>Tubo de morteiro Mk6 dobrado [MJTF]</Portuguese>
+                    <Russian>Сложенный ствол миномета Mk6 [MJTF]</Russian>
+                    <Chinesesimp>折叠的 Mk6 迫击炮管 [MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_Mortar_01_support_MJTF_des">
+                    <Original>Folded Mk6 Mortar Bipod [MJTF]</Original>
                     <English>Folded Mk6 Mortar Bipod [USMC]</English>
+                    <German>Eingeklapptes Mk6-Mörserstandbein [MJTF]</German>
+                    <Spanish>Bípode de mortero plegado Mk6 [FOCM]</Spanish>
+                    <French>Bipied replié pour mortier Mk6 [MJTF]</French>
+                    <Polish>Złożony dwójnóg moździerza Mk6 [MJTF]</Polish>
+                    <Portuguese>Bipé de morteiro Mk6 dobrado [MJTF]</Portuguese>
+                    <Russian>Сложенная сошка миномета Mk6 [MJTF]</Russian>
+                    <Chinesesimp>折叠的 Mk6 迫击炮两脚架 [MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_Compat_CommandoMortar_weapon">
+                    <Original>Folded Commando Mortar [MJTF]</Original>
+                    <English>Folded Commando Mortar [USMC]</English>
+                    <German>Eingeklappter Kommandomörser [MJTF]</German>
+                    <Spanish>Mortero Commando plegado [MJTF]</Spanish>
+                    <French>Mortier Commando plié [MJTF]</French>
+                    <Polish>Złożony moździerz Commando [MJTF]</Polish>
+                    <Portuguese>Morteiro Commando dobrado [MJTF]</Portuguese>
+                    <Russian>Сложенный миномет Commando [MJTF]</Russian>
+                    <Chinesesimp>折叠式突击迫击炮 [MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_AA_01_weapon_MJTF_des">
+                    <Original>Static Titan Launcher (AA) [MJTF]</Original>
                     <English>Static Titan Launcher (AA) [USMC]</English>
+                    <German>Statischer Titan-Werfer (AA) [MJTF]</German>
+                    <Spanish>Lanzador Titan estático (AA) [FOCM]</Spanish>
+                    <French>Lanceur fixe Titan (AA) [MJTF]</French>
+                    <Polish>Statyczna wyrzutnia Titan (plot) [MJTF]</Polish>
+                    <Portuguese>Lança-mísseis estático Titan (AA) [MJTF]</Portuguese>
+                    <Russian>Стационарная ПУ Titan (ПВО) [MJTF]</Russian>
+                    <Chinesesimp>固定式 Titan 发射器（防空）[MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_AT_01_weapon_MJTF_des">
+                    <Original>Static Titan Launcher (AT) [MJTF]</Original>
                     <English>Static Titan Launcher (AT) [USMC]</English>
+                    <German>Statischer Titan-Werfer (AT) [MJTF]</German>
+                    <Spanish>Lanzador Titan estático (AT) [FOCM]</Spanish>
+                    <French>Lanceur fixe Titan (AC) [MJTF]</French>
+                    <Polish>Statyczna wyrzutnia Titan (ppanc) [MJTF]</Polish>
+                    <Portuguese>Lança-mísseis estático Titan (AT) [MJTF]</Portuguese>
+                    <Russian>Стационарная ПУ Titan (ПТ) [MJTF]</Russian>
+                    <Chinesesimp>固定式 Titan 发射器（反坦克）[MJTF]</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_B_UAV_01_backpack_coy">
+                    <Original>UAV Bag (AR-2/Coyote Brown) [NATO]</Original>
                     <English>UAV Bag (AR-2) [USMC]</English>
+                    <German>UAV-Tragetasche (AR-2, Coyote-Braun) [NATO]</German>
+                    <Spanish>Bolsa de VANT (AR-2, marrón coyote) [OTAN]</Spanish>
+                    <French>Sac drone (AR-2/marron coyote) [OTAN]</French>
+                    <Polish>Torba na drona (AR-2, brąz coyote) [NATO]</Polish>
+                    <Portuguese>Bolsa VANT (AR-2/Coiote marrom) [OTAN]</Portuguese>
+                    <Russian>Сумка для БПЛА (AR-2/коричневый койот) [НАТО]</Russian>
+                    <Chinesesimp>UAV 包（AR-2/狼棕色）[NATO]</Chinesesimp>
                 </Key>
                 <Key ID="STR_A3_MCFU_B_Carryall_mdes">
                     <English>Carryall Backpack [USMC] (Desert)</English>
@@ -695,6 +1278,12 @@
                 <Key ID="STR_A3_MCFU_G_Bandana_shemag_sport_F0">
                     <English>Bandana (Shemag, Sport, Tan)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_G_Shemag_khk_tactical_blk_F0">
+                    <English>Shemag (Khaki, Tactical, Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Shemag_tan_tactical_blk_F0">
+                    <English>Shemag (Tan, Tactical, Black)</English>
+                </Key>
             </Container>
             <Container name="NVGs">
                 <Key ID="STR_A3_MCFU_NVGoggles_brn_Hidden_F0">
@@ -730,6 +1319,9 @@
                 <Key ID="STR_A3_MCFU_LPNVG_tan_sm_Hidden_F0">
                     <English>LPNVG (Tan, Shemagh, Hidden)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_LPNVG_tan_ReconCloak_Hidden_F0">
+                    <English>LPNVG (Tan, Recon Cloak, Hidden)</English>
+                </Key>
             </Container>
         </Container>
         <Container name="Weapons_F">
@@ -737,23 +1329,44 @@
                 <Key ID="STR_A3_MCFU_arifle_MXAR_coy_tt_F0">
                     <English>MXAR 6.5 mm (Black/Coyote)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXAR_spray_F0">
+                    <English>MXAR 6.5 mm (Spray/Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_arifle_MXAR_GL_coy_tt_F0">
                     <English>MXAR 3GL 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXAR_GL_spray_F0">
+                    <English>MXAR 3GL 6.5 mm (Spray/Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_arifle_MXC_coy_tt_F0">
                     <English>MXC 6.5 mm (Black/Coyote)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXC_spray_F0">
+                    <English>MXC 6.5 mm (Spray/Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_arifle_MX_coy_tt_F0">
                     <English>MX 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_spray_F0">
+                    <English>MX 6.5 mm (Spray/Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_arifle_MX_GL_coy_tt_F0">
                     <English>MX 3GL 6.5 mm (Black/Coyote)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_GL_spray_F0">
+                    <English>MX 3GL 6.5 mm (Spray/Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_arifle_MX_SW_coy_tt_F0">
                     <English>MX SW 6.5 mm (Black/Coyote)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_arifle_MX_SW_spray_F0">
+                    <English>MX SW 6.5 mm (Spray/Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_arifle_MXM_coy_tt_F0">
                     <English>MXM 6.5 mm (Black/Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_MXM_spray_F0">
+                    <English>MXM 6.5 mm (Spray/Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_arifle_M16A3_blk_F0">
                     <English>M16E3 5.56 mm</English>
@@ -776,10 +1389,172 @@
                 <Key ID="STR_A3_MCFU_arifle_SR25_twotone_F0">
                     <English>Mk11 7.62 mm (Two-Tone)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_01_coy_F0">
+                    <English>SPAR-16C 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_01_spray_F0">
+                    <English>SPAR-16C 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_01_GL_coy_F0">
+                    <English>SPAR-16C GL 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_01_GL_spray_F0">
+                    <English>SPAR-16C GL 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_02_coy_F0">
+                    <English>SPAR-16S 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_02_spray_F0">
+                    <English>SPAR-16S 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_03_coy_F0">
+                    <English>SPAR-17 7.62 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_03_spray_F0">
+                    <English>SPAR-17 7.62 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_02_inf_coy_F0">
+                    <English>SPAR-16 FG 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SPAR_02_inf_spray_F0">
+                    <English>SPAR-16 FG 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_coy_F0">
+                    <English>Mk17 7.62 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_spray_F0">
+                    <English>Mk17 7.62 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_GL_coy_F0">
+                    <English>Mk17C GL 7.62 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_GL_spray_F0">
+                    <English>Mk17C GL 7.62 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_short_coy_F0">
+                    <English>Mk17C 7.62 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_short_spray_F0">
+                    <English>Mk17C 7.62 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_grip_coy_F0">
+                    <English>Mk17 FG 7.62 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_grip_spray_F0">
+                    <English>Mk17 FG 7.62 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_F0">
+                    <English>Mk24 6.5 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_blk_F0">
+                    <English>Mk24 6.5 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_khk_F0">
+                    <English>Mk24 6.5 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_coy_F0">
+                    <English>Mk24 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_spray_F0">
+                    <English>Mk24 6.5 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_GL_F0">
+                    <English>Mk24C GL 6.5 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_GL_blk_F0">
+                    <English>Mk24C GL 6.5 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_GL_khk_F0">
+                    <English>Mk24C GL 6.5 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_GL_coy_F0">
+                    <English>Mk24C GL 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_GL_spray_F0">
+                    <English>Mk24C GL 6.5 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_F0">
+                    <English>Mk24C 6.5 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_blk_F0">
+                    <English>Mk24C 6.5 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_khk_F0">
+                    <English>Mk24C 6.5 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_coy_F0">
+                    <English>Mk24C 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_spray_F0">
+                    <English>Mk24C 6.5 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_grip_F0">
+                    <English>Mk24 FG 6.5 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_grip_blk_F0">
+                    <English>Mk24 FG 6.5 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_grip_khk_F0">
+                    <English>Mk24 FG 6.5 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_grip_coy_F0">
+                    <English>Mk24 FG 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_grip_spray_F0">
+                    <English>Mk24 FG 6.5 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_grip_F0">
+                    <English>Mk24C FG 6.5 mm</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_grip_blk_F0">
+                    <English>Mk24C FG 6.5 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_grip_khk_F0">
+                    <English>Mk24C FG 6.5 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_grip_coy_F0">
+                    <English>Mk24C FG 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_M_short_grip_spray_F0">
+                    <English>Mk24C FG 6.5 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_coy_F0">
+                    <English>Mk16 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_spray_F0">
+                    <English>Mk16 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_GL_coy_F0">
+                    <English>Mk16C GL 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_GL_spray_F0">
+                    <English>Mk16C GL 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_short_coy_F0">
+                    <English>Mk16C 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_short_spray_F0">
+                    <English>Mk16C 5.56 mm (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_grip_coy_F0">
+                    <English>Mk16 FG 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_arifle_SCAR_L_grip_spray_F0">
+                    <English>Mk16 FG 5.56 mm (Spray)</English>
+                </Key>
             </Container>
             <Container name="Machineguns">
                 <Key ID="STR_A3_MCFU_MMG_02_coy_F0">
                     <English>SPMG .338 (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_MMG_02_spray_F0">
+                    <English>SPMG .338 (Spray)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_Mk200_coy_F0">
+                    <English>M200 6.5 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_Mk200_spray_F0">
+                    <English>M200 6.5 mm (Spray)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_LMG_03_blk_F0">
                     <English>LIM-84 5.56 mm</English>
@@ -789,6 +1564,12 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_LMG_03_tan_F0">
                     <English>LIM-84 5.56 mm (Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_03_coy_F0">
+                    <English>LIM-85 5.56 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_LMG_03_spray_F0">
+                    <English>LIM-85 5.56 mm (Spray)</English>
                 </Key>
             </Container>
             <Container name="LongRangeRifles">
@@ -801,21 +1582,56 @@
                     <English>M45A3 .45 ACP (Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_hgun_P320_coyote_F0">
-                    <English>M17 9 mm (Coyote)</English>
+                    <English>P320 9 mm (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_hgun_M17_coyote_F0">
+                    <English>M18 9 mm (Coyote)</English>
                 </Key>
             </Container>
             <Container name="Acessories">
                 <Key ID="STR_EF_snds_mxar">
+                    <Original>MXAR Sound Suppressor (6.5mm)</Original>
                     <English>MX Sound Suppressor (6.5mm, Black)</English>
+                    <German>MXAR-Schalldämpfer (6,5 mm)</German>
+                    <Spanish>Silenciador de MXAR (6,5 mm)</Spanish>
+                    <French>Silencieux MXAR (6,5 mm)</French>
+                    <Polish>Tłumik dźwięku MXAR (6,5 mm)</Polish>
+                    <Portuguese>Supressor de som MXAR (6,5 mm)</Portuguese>
+                    <Russian>Глушитель для MXAR (6,5 мм)</Russian>
+                    <Chinesesimp>MXAR 消音器（6.5 毫米）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_snds_mxar_sand">
+                    <Original>MXAR Sound Suppressor (6.5mm, Sand)</Original>
                     <English>MX Sound Suppressor (6.5mm, Sand)</English>
+                    <German>MXAR-Schalldämpfer (6,5 mm, Sand)</German>
+                    <Spanish>Silenciador de MXAR (6,5 mm, arena)</Spanish>
+                    <French>Silencieux MXAR (6,5 mm, sable)</French>
+                    <Polish>Tłumik dźwięku MXAR (6,5 mm, piaskowy)</Polish>
+                    <Portuguese>Supressor de som MXAR (6,5 mm, areia)</Portuguese>
+                    <Russian>Глушитель для MXAR (6,5 мм, песочный)</Russian>
+                    <Chinesesimp>MXAR 消音器（6.5 毫米，沙色）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_snds_mxar_coy">
+                    <Original>MXAR Sound Suppressor (6.5mm, Coyote)</Original>
                     <English>MX Sound Suppressor (6.5mm, Coyote)</English>
+                    <German>MXAR-Schalldämpfer (6,5 mm, Coyote)</German>
+                    <Spanish>Silenciador de MXAR (6,5 mm, coyote)</Spanish>
+                    <French>Silencieux MXAR (6,5 mm, coyote)</French>
+                    <Polish>Tłumik dźwięku MXAR (6,5 mm, coyote)</Polish>
+                    <Portuguese>Supressor de som MXAR (6,5 mm, coiote)</Portuguese>
+                    <Russian>Глушитель для MXAR (6,5 мм, койот)</Russian>
+                    <Chinesesimp>MXAR 消音器（6.5 毫米，狼棕色）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_snds_mxar_khk">
+                    <Original>MXAR Sound Suppressor (6.5mm, Khaki)</Original>
                     <English>MX Sound Suppressor (6.5mm, Khaki)</English>
+                    <German>MXAR-Schalldämpfer (6,5 mm, Khaki)</German>
+                    <Spanish>Silenciador de MXAR (6,5 mm, caqui)</Spanish>
+                    <French>Silencieux MXAR (6,5 mm, kaki)</French>
+                    <Polish>Tłumik dźwięku MXAR (6,5 mm, khaki)</Polish>
+                    <Portuguese>Supressor de som MXAR (6,5 mm, cáqui)</Portuguese>
+                    <Russian>Глушитель для MXAR (6,5 мм, хаки)</Russian>
+                    <Chinesesimp>MXAR 消音器（6.5 毫米，卡其色）</Chinesesimp>
                 </Key>
             </Container>
         </Container>
@@ -826,6 +1642,17 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_Texture_DarkGreyCamo0">
                     <English>Dark Grey Camo</English>
+                </Key>
+                <Key ID="STR_EF_MJTF_Camo">
+                    <Original>MJTF Camo</Original>
+                    <English>Sea Snake</English>
+                    <German>MJTF-Tarnung</German>
+                    <Spanish>Camuflaje de la FOCM</Spanish>
+                    <French>Camouflage MJTF</French>
+                    <Polish>Kamuflaż MJTF</Polish>
+                    <Portuguese>MJTF (Camuflado)</Portuguese>
+                    <Russian>Камуфляж MJTF</Russian>
+                    <Chinesesimp>MJTF 迷彩</Chinesesimp>
                 </Key>
             </Container>
             <Container name="Helicopters">
@@ -865,7 +1692,15 @@
             </Container>
             <Container name="Boxes">
                 <Key ID="STR_EF_B_supplyCrate_MJTF">
+                    <Original>Supply Box [MJTF]</Original>
                     <English>Supply Box [USMC]</English>
+                    <German>Versorgungskiste [MJTF]</German>
+                    <Spanish>Caja de suministros [FOCM]</Spanish>
+                    <French>Caisse de ravitaillement [MJTF]</French>
+                    <Polish>Skrzynia z zaopatrzeniem [MJTF]</Polish>
+                    <Portuguese>Caixa de suprimentos [MJTF]</Portuguese>
+                    <Russian>Ящик с припасами [MJTF]</Russian>
+                    <Chinesesimp>补给箱 [MJTF]</Chinesesimp>
                 </Key>
             </Container>
         </Container>
@@ -886,58 +1721,75 @@
                 <Key ID="STR_A3_MCFU_Leon">
                     <English>Leon</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_Lukin">
+                    <English>Lukin</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_Lukin_Axle">
+                    <English>Lukin and Axle</English>
+                </Key>
             </Container>
             <Container name="Faction_Classes">
+                <Key ID="STR_EF_FACTION_MJTF">
+                    <Original>MJTF</Original>
+                    <English>USMC</English>
+                    <German>MJTF</German>
+                    <Spanish>FOCM</Spanish>
+                    <French>MJTF</French>
+                    <Polish>MJTF</Polish>
+                    <Portuguese>MJTF</Portuguese>
+                    <Russian>MJTF</Russian>
+                    <Chinesesimp>MJTF</Chinesesimp>
+                </Key>
                 <Key ID="STR_EF_FACTION_MJTF_DES">
+                    <Original>MJTF (Desert)</Original>
                     <English>USMC (Desert)</English>
-                    <Chinese>USMC (沙漠)</Chinese>
-                    <Chinesesimp>USMC (沙漠)</Chinesesimp>
-                    <Czech>USMC (Poušť)</Czech>
-                    <French>USMC (Désert)</French>
-                    <German>USMC (Wüste)</German>
-                    <Italian>USMC (Deserto)</Italian>
-                    <Japanese>USMC (砂漠)</Japanese>
-                    <Korean>USMC (사막)</Korean>
-                    <Original>USMC (Desert)</Original>
-                    <Polish>USMC (Pustynny)</Polish>
-                    <Portuguese>USMC (Deserto)</Portuguese>
-                    <Russian>USMC (пустыня)</Russian>
-                    <Spanish>USMC (Desierto)</Spanish>
-                    <Turkish>USMC (Çölt)</Turkish>
+                    <Chinese>MJTF (沙漠)</Chinese>
+                    <Chinesesimp>MJTF (沙漠)</Chinesesimp>
+                    <Czech>MJTF (Poušť)</Czech>
+                    <French>MJTF (Désert)</French>
+                    <German>MJTF (Wüste)</German>
+                    <Italian>MJTF (Deserto)</Italian>
+                    <Japanese>MJTF (砂漠)</Japanese>
+                    <Korean>MJTF (사막)</Korean>
+                    <Polish>MJTF (Pustynny)</Polish>
+                    <Portuguese>MJTF (Deserto)</Portuguese>
+                    <Russian>MJTF (пустыня)</Russian>
+                    <Spanish>FOCM (Desierto)</Spanish>
+                    <Turkish>MJTF (Çölt)</Turkish>
                 </Key>
                 <Key ID="STR_EF_FACTION_MJTF_Wdl">
+                    <Original>MJTF (Woodland)</Original>
                     <English>USMC (Woodland)</English>
-                    <Chinese>USMC (森林)</Chinese>
-                    <Chinesesimp>USMC (林地)</Chinesesimp>
-                    <Czech>USMC (Lesy)</Czech>
-                    <French>USMC (Forêt)</French>
-                    <German>USMC (Waldland)</German>
-                    <Italian>USMC (Boschi)</Italian>
-                    <Japanese>USMC (森林)</Japanese>
-                    <Korean>USMC (삼림지)</Korean>
-                    <Original>USMC (Woodland)</Original>
-                    <Polish>USMC (Las)</Polish>
-                    <Portuguese>USMC (Floresta)</Portuguese>
-                    <Russian>USMC (лес)</Russian>
-                    <Spanish>USMC (Bosque)</Spanish>
-                    <Turkish>USMC (Ağaçlık)</Turkish>
+                    <Chinese>MJTF (森林)</Chinese>
+                    <Chinesesimp>MJTF (林地)</Chinesesimp>
+                    <Czech>MJTF (Lesy)</Czech>
+                    <French>MJTF (Forêt)</French>
+                    <German>MJTF (Waldland)</German>
+                    <Italian>MJTF (Boschi)</Italian>
+                    <Japanese>MJTF (森林)</Japanese>
+                    <Korean>MJTF (삼림지)</Korean>
+                    <Polish>MJTF (Las)</Polish>
+                    <Portuguese>MJTF (Floresta)</Portuguese>
+                    <Russian>MJTF (лес)</Russian>
+                    <Spanish>FOCM (Bosque)</Spanish>
+                    <Turkish>MJTF (Ağaçlık)</Turkish>
                 </Key>
                 <Key ID="STR_EF_FACTION_MJTF_Navy">
+                    <Original>MJTF (Navy)</Original>
                     <English>US Navy</English>
-                    <Chinese>US Navy</Chinese>
-                    <Chinesesimp>US Navy</Chinesesimp>
-                    <Czech>US Navy</Czech>
-                    <French>US Navy</French>
-                    <German>US Navy</German>
-                    <Italian>US Navy</Italian>
-                    <Japanese>US Navy</Japanese>
-                    <Korean>US Navy</Korean>
-                    <Original>US Navy</Original>
-                    <Polish>US Navy</Polish>
-                    <Portuguese>US Navy</Portuguese>
-                    <Russian>US Navy</Russian>
-                    <Spanish>US Navy</Spanish>
-                    <Turkish>US Navy</Turkish>
+                    <Chinese>MJTF (海軍)</Chinese>
+                    <Chinesesimp>MJTF（海军）</Chinesesimp>
+                    <Czech>MJTF (Námořnictvo)</Czech>
+                    <French>MJTF (marine)</French>
+                    <German>MJTF (Marine)</German>
+                    <Italian>MJTF (Marina)</Italian>
+                    <Japanese>MJTF (海軍)</Japanese>
+                    <Korean>MJTF (해군)</Korean>
+                    <Polish>MJTF (marynarka)</Polish>
+                    <Portuguese>MJTF (Marinha)</Portuguese>
+                    <Russian>MJTF (ВМС)</Russian>
+                    <Spanish>FOCM (armada)</Spanish>
+                    <Turkish>MJTF (Donanma)</Turkish>
                 </Key>
                 <Key ID="STR_A3_MCFU_EdSubcat_Personnel_MARSOC">
                     <English>Men (MARSOC)</English>
@@ -957,31 +1809,185 @@
                 <Key ID="STR_A3_MCFU_CfgGroups_West_MJTF_F_MARSOC_BF0">
                     <English>MARSOC Group</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_character_assault_F0">
+                    <English>Assault</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_engineer_F0">
+                    <English>Engineer</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_support_F0">
+                    <English>Support</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_recon_F0">
+                    <English>Recon</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_dunn_F0">
+                    <English>Dunn</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_recker_F0">
+                    <English>Recker</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_irish_F0">
+                    <English>Irish</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_pac_F0">
+                    <English>Pac</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_hannah_F0">
+                    <English>Hannah</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_kovic_F0">
+                    <English>Kovic</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_dima_F0">
+                    <English>Dima</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_garrison_F0">
+                    <English>Garrison</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_character_greenland_F0">
+                    <English>Greenland</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_EdSubcat_Personnel_SEAL">
+                    <English>Men (SEAL)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_white_F0">
+                    <English>Deck Crewman (White)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_yellow_F0">
+                    <English>Deck Crewman (Yellow)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_red_F0">
+                    <English>Deck Crewman (Red)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_green_F0">
+                    <English>Deck Crewman (Green)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_brown_F0">
+                    <English>Deck Crewman (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_blue_F0">
+                    <English>Deck Crewman (Blue)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_flightdeck_violet_F0">
+                    <English>Deck Crewman (Violet)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_unarmed_F0">
+                    <English>Sailor (Unarmed)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_armed_F0">
+                    <English>Sailor (Armed)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_captain_F0">
+                    <English>Captain</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_corpsman_F0">
+                    <English>Corpsman</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_corpsman_usmc_F0">
+                    <English>Corpsman (FMTB)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_corpsman_usmc_des_F0">
+                    <English>Corpsman (FMTB, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_corpsman_usmc_wdl_F0">
+                    <English>Corpsman (FMTB, Woodland)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_mechanic_F0">
+                    <English>Mechanic</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_sailor_gunner_F0">
+                    <English>Gunner</English>
+                </Key>
             </Container>
             <Container name="Mission_Name">
                 <Key ID="STR_EF_MP_COOP1_Altis_BriefingName">
+                    <Original>[EF] COOP 12 Rope In Hand</Original>
                     <English>COOP 12 Rope In Hand</English>
+                    <German>[EF] COOP 12 Rope In Hand</German>
+                    <Spanish>[EF] COOP 12 Rope In Hand</Spanish>
+                    <French>[EF] COOP 12 Rope In Hand</French>
+                    <Polish>[EF] COOP 12 Z liną w dłoni</Polish>
+                    <Portuguese>[EF] COOP 12 Corda na mão</Portuguese>
+                    <Russian>[EF] COOP 12 Rope In Hand</Russian>
+                    <Chinesesimp>[EF] COOP 12 手中的绳索</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_Warlords_Altis_BriefingName">
+                    <Original>[EF] SC 32 Warlords (Whole Island) (MJTF Desert)</Original>
                     <English>SC 32 Warlords (Whole Island, USMC)</English>
+                    <German>[EF] SC 32 Warlords (ganze Insel) (MJTF Wüste)</German>
+                    <Spanish>[EF] SC 32 Warlords (toda la isla) (FOCM, desierto)</Spanish>
+                    <French>[EF] SC 32 Warlords (toute l&apos;île) (MJTF désert)</French>
+                    <Polish>[EF] SC 32 Warlords (cała wyspa) (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] SC 32 Warlords (Ilha inteira) (MJTF deserto)</Portuguese>
+                    <Russian>[EF] SC 32 Warlords (весь остров) (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] SC 32 Warlords（全岛）（MJTF 沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_Warlords_Malden_BriefingName">
+                    <Original>[EF] SC 32 Warlords (MJTF Desert)</Original>
                     <English>SC 32 Warlords (USMC)</English>
+                    <German>[EF] SC 32 Warlords (MJTF Wüste)</German>
+                    <Spanish>[EF] SC 32 Warlords (FOCM, desierto)</Spanish>
+                    <French>[EF] SC 32 Warlords (MJTF désert)</French>
+                    <Polish>[EF] SC 32 Warlords (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] SC 32 Warlords (MJTF deserto)</Portuguese>
+                    <Russian>[EF] SC 32 Warlords (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] SC 32 Warlords（MJTF 沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_Warlords_Stratis_BriefingName">
+                    <Original>[EF] SC 32 Warlords (MJTF Desert)</Original>
                     <English>SC 32 Warlords (USMC)</English>
+                    <German>[EF] SC 32 Warlords (MJTF Wüste)</German>
+                    <Spanish>[EF] SC 32 Warlords (FOCM, desierto)</Spanish>
+                    <French>[EF] SC 32 Warlords (MJTF désert)</French>
+                    <Polish>[EF] SC 32 Warlords (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] SC 32 Warlords (MJTF deserto)</Portuguese>
+                    <Russian>[EF] SC 32 Warlords (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] SC 32 Warlords（MJTF 沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_Warlords_Livonia_BriefingName">
+                    <Original>[EF] SC 32 Warlords (MJTF Woodland)</Original>
                     <English>SC 32 Warlords (USMC)</English>
+                    <German>[EF] SC 32 Warlords (MJTF Waldgebiet)</German>
+                    <Spanish>[EF] SC 32 Warlords (FOCM, bosque)</Spanish>
+                    <French>[EF] SC 32 Warlords (MJTF forêt)</French>
+                    <Polish>[EF] SC 32 Warlords (MJTF, las)</Polish>
+                    <Portuguese>[EF] SC 32 Warlords (MJTF floresta)</Portuguese>
+                    <Russian>[EF] SC 32 Warlords (MJTF (лесной камуфляж))</Russian>
+                    <Chinesesimp>[EF] SC 32 Warlords（MJTF 林地）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_ZGM_Altis_BriefingName">
+                    <Original>[EF] Zeus 16+2 Master Altis (MJTF Desert)</Original>
                     <English>Zeus 16+2 Master Altis (USMC)</English>
+                    <German>[EF] Zeus 16+2 Master Altis (MJTF Wüste)</German>
+                    <Spanish>[EF] Zeus 16+2 Master Altis (FOCM, desierto)</Spanish>
+                    <French>[EF] Zeus 16+2 Master Altis (MJTF désert)</French>
+                    <Polish>[EF] Zeus 16+2 Master Altis (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] Zeus 16+2 Master Altis (MJTF deserto)</Portuguese>
+                    <Russian>[EF] Zeus 16+2 Master Altis (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] Zeus 16+2 Master Altis（MJTF 沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_ZGM_Malden_BriefingName">
+                    <Original>[EF] Zeus 16+2 Master Malden (MJTF Desert)</Original>
                     <English>Zeus 16+2 Master Malden (USMC)</English>
+                    <German>[EF] Zeus 16+2 Master Malden (MJTF Wüste)</German>
+                    <Spanish>[EF] Zeus 16+2 Master Malden (FOCM, desierto)</Spanish>
+                    <French>[EF] Zeus 16+2 Master Malden (MJTF désert)</French>
+                    <Polish>[EF] Zeus 16+2 Master Malden (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] Zeus 16+2 Master Malden (MJTF deserto)</Portuguese>
+                    <Russian>[EF] Zeus 16+2 Master Malden (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] Zeus 16+2 Master Malden（MJTF 沙漠）</Chinesesimp>
                 </Key>
                 <Key ID="STR_EF_MP_ZGM_Stratis_BriefingName">
+                    <Original>[EF] Zeus 16+2 Master Stratis (MJTF Desert)</Original>
                     <English>Zeus 16+2 Master Stratis (USMC)</English>
+                    <German>[EF] Zeus 16+2 Master Stratis (MJTF Wüste)</German>
+                    <Spanish>[EF] Zeus 16+2 Master Stratis (FOCM, desierto)</Spanish>
+                    <French>[EF] Zeus 16+2 Master Stratis (MJTF désert)</French>
+                    <Polish>[EF] Zeus 16+2 Master Stratis (MJTF, pustynia)</Polish>
+                    <Portuguese>[EF] Zeus 16+2 Master Stratis (MJTF deserto)</Portuguese>
+                    <Russian>[EF] Zeus 16+2 Master Stratis (MJTF (пустыня))</Russian>
+                    <Chinesesimp>[EF] Zeus 16+2 Master Stratis（MJTF 沙漠）</Chinesesimp>
                 </Key>
             </Container>
             <Container name="Insignia">
@@ -996,6 +2002,74 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_UnitInsignia_USMCMARSOC_Low0">
                     <English>Marine Special Operations Command (Low-Vis)</English>
+                </Key>
+            </Container>
+            <Container name="DLC">
+                <Key ID="STR_EF_RC_OverviewText">
+                    <Original>On the eve of the NATO invasion on Altis, Marines from the 29th MEU are tasked with securing the western part of the island.</Original>
+                    <English>On the eve of the NATO invasion on Altis, US Marines from the 29th MEU are tasked with securing the western part of the island.</English>
+                    <German>Kurz vor der NATO-Invasion von Altis werden Marines des 29th MEU damit beauftragt, die Westseite der Insel zu sichern.</German>
+                    <Spanish>En la víspera de la invasión de la OTAN contra Altis, la 29.ª Unidad Expedicionaria de Marines recibe la misión de tomar la parte occidental de la isla.</Spanish>
+                    <French>À la veille de l&apos;invasion de l&apos;OTAN sur Altis, les Marines de la 29e MEU ont pour mission de sécuriser la partie ouest de l&apos;île.</French>
+                    <Polish>W przededniu operacji NATO na Altis 29. Jednostka Ekspedycyjna Marines otrzymała zadanie zabezpieczenia zachodniej części wyspy.</Polish>
+                    <Portuguese>Na véspera da invasão da OTAN em Altis, os fuzileiros navais da 29ª UEFN têm a tarefa de proteger a parte ocidental da ilha.</Portuguese>
+                    <Russian>Накануне вторжения НАТО на Алтис морским пехотинцам 29-го экспедиционного отряда поручено зачистить западную часть острова.</Russian>
+                    <Chinesesimp>在 NATO 入侵阿尔蒂斯前夕，第 29 MEU 的海军陆战队员接到的任务是控制该岛屿西部。</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_CfgHints_EF_Premium_description">
+                    <Original>%11%1%12%1%2MJTF - the Marine Joint Task Force, a self-contained armed force capable of operating independently from amphibious warfare ships, featuring specialized troops, equipment and vehicles%1%2AAV-9 Mack - an amphibious IFV capable of carrying a squad of 13 marines rapidly across water and provide fire support with either a 30mm or a 50mm autocannon%1%2Combat Boat - a fast, armored troop transport boat with room for 16 men plus crew and different weapon configurations%1%2LCC-1 - a high speed catamaran landing craft capable of ferrying up to 200 tons of vehicles and supplies from ship to shore%1%2Amphibious Warfare Ship - a ship capable of a wide variety of missions, the flight deck and well deck allow you to launch and retrieve helicopters, VTOL planes, boats and amphibious vehicles%1%2Marines - highly trained troops specialized in fighting around littoral areas%1%2Resolute Cyclone - a mini-campaign contemporary to the NATO invasion of Altis during the events of The East Wind%1%2Rope In Hand - a multiplayer cooperative scenario featuring the new Hunter FSV and Hunter AT vehicles%1%2Titan NLOS - a vehicle-mounted anti-tank cruise missile, uses datalink and laser designation to attack targets even without direct line of sight%1%2Hunter FSV - based on the Hunter chassis, its powerful electro-optical sensor suite and weapons makes it an excellent reconnaissance vehicle%1%2Hunter AT - based on the Hunter chassis, the Titan NLOS allows it to either perform direct tank hunting missions or provide indirect fire to friendly units over long distances%1%2Hunter LAAD - based on the Hunter chassis, it provides the backbone of short range air defenses against enemy airplanes, helicopters, and drones%1%2MBS - a 6x combat sight with an integrated laser rangefinder%1%2Microsight - a low profile red dot sight that can be used on rifles, pistols or as short range auxiliary sight for the MBS%1%2Equipment - new uniforms, vests, backpacks and headgear for the Marines%1%2LPNVG - Low Profile Night Vision Goggles, can be fit with an additional thermal module%1%2MXAR - the standard service rifle for Marines, featuring a lengthened barrel, coyote camouflage and a purpose built suppressor%1%2Six new identities with additional Desert and Lush camouflages</Original>
+                    <English>%11%1%12%1%2USMC - the United States Marine Corps, a self-contained armed force capable of operating independently from amphibious warfare ships, featuring specialized troops, equipment and vehicles%1%2AAV-9 Mack - an amphibious IFV capable of carrying a squad of 13 marines rapidly across water and provide fire support with either a 30mm or a 50mm autocannon%1%2Combat Boat - a fast, armored troop transport boat with room for 16 men plus crew and different weapon configurations%1%2LCC-1 - a high speed catamaran landing craft capable of ferrying up to 200 tons of vehicles and supplies from ship to shore%1%2Amphibious Warfare Ship - a ship capable of a wide variety of missions, the flight deck and well deck allow you to launch and retrieve helicopters, VTOL planes, boats and amphibious vehicles%1%2Marines - highly trained troops specialized in fighting around littoral areas%1%2Resolute Cyclone - a mini-campaign contemporary to the NATO invasion of Altis during the events of The East Wind%1%2Rope In Hand - a multiplayer cooperative scenario featuring the new Hunter FSV and Hunter AT vehicles%1%2Titan NLOS - a vehicle-mounted anti-tank cruise missile, uses datalink and laser designation to attack targets even without direct line of sight%1%2Hunter FSV - based on the Hunter chassis, its powerful electro-optical sensor suite and weapons makes it an excellent reconnaissance vehicle%1%2Hunter AT - based on the Hunter chassis, the Titan NLOS allows it to either perform direct tank hunting missions or provide indirect fire to friendly units over long distances%1%2Hunter LAAD - based on the Hunter chassis, it provides the backbone of short range air defenses against enemy airplanes, helicopters, and drones%1%2MBS - a 6x combat sight with an integrated laser rangefinder%1%2Microsight - a low profile red dot sight that can be used on rifles, pistols or as short range auxiliary sight for the MBS%1%2Equipment - new uniforms, vests, backpacks and headgear for the Marines%1%2LPNVG - Low Profile Night Vision Goggles, can be fit with an additional thermal module%1%2MXAR - the standard service rifle for Marines, featuring a lengthened barrel, coyote camouflage and a purpose built suppressor%1%2Six new identities with additional Desert and Lush camouflages</English>
+                    <German>%11%1%12%1%2MJTF – die „Marine Joint Task Force“, eine eigenständige Streitkraft, die autonom von amphibischen Kriegsschiffen aus operiert und spezialisierte Truppen und Fahrzeuge zur Verfügung hat%1%2AAV-9 Mack – ein amphibischer Schützenpanzer, der einen Trupp mit bis zu 13 Marines schnell über Gewässer transportieren und Feuerunterstützung mit seiner 30mm- oder 50mm-Autokanone liefern kann%1%2Kampfboot – ein schnelles, gepanzertes Truppentransportboot mit Platz für 16 Soldaten plus Besatzung und verschiedenen Waffenkonfigurationen%1%2LCC-1 – ein Hochgeschwindigkeits-Katamaran-Landeboot, das bis zu 200 Tonnen an Fahrzeugen und Versorgungsgütern von Schiffen an die Küste transportieren kann%1%2Amphibisches Kriegsschiff – ein Schiff, das auf zahlreiche Missionen ausgerichtet ist. Die Flug- und Welldecks ermöglichen den Start und die Landung von Helikoptern, VTOL-Flugzeugen, Booten und Amphibienfahrzeugen%1%2Marines – extrem gut ausgebildete Spezialeinheiten, die auf Gefechte in Küstenbereichen spezialisiert sind%1%2Resolute Cyclone – eine Mini-Kampagne, die zeitgleich mit der NATO-Invasion von Altis während des Ostwind-Konflikts stattfindet%1%2Rope in Hand – Mehrspieler-Koop-Kampagnenszenario, in dem die neuen Hunter-Aufklärungs- und Panzerabwehrfahrzeuge zum Einsatz kommen%1%2Titan-NLOS-Rakete – ein fahrzeugmontierter Panzerabwehr-Marschflugkörper, der Datalink- und Lasermarkierungen verwendet, um Ziele ohne direkte Sichtlinie zu erreichen%1%2Hunter-FSV – ein auf der Hunter-Karosserie basierendes Aufklärungsfahrzeug, das durch seine leistungsstarke elektrooptische Sensorik und Bewaffnung hervorsticht%1%2Hunter-AT – ein auf der Hunter-Karosserie basierendes Panzerabwehrfahrzeug, dessen Titan-NLOS direkte Jagd auf Panzer oder indirektes Unterstützungsfeuer für verbündete Einheiten über große Entfernungen hinweg ermöglicht%1%2Hunter LAAD – ein auf der Hunter-Karosserie basierendes Kurzstrecken-Flugabwehrfahrzeug, das das Rückgrat der Truppen im Kampf gegen feindliche Flugzeuge, Helikopter und Drohnen bildet%1%2MBS – ein 6-faches Kampfvisier mit integriertem Laser-Entfernungsmesser%1%2Mikrovisier – Rotpunktvisier für verdeckte Einsätze, das an Gewehren und Pistolen montiert oder als Kurzstrecken-Hilfsvisier für das MBS genutzt werden kann%1%2Ausrüstung – neue Uniformen, Westen, Rucksäcke und Kopfbedeckungen für die Marines%1%2LPNVG – Nachtsichtgerät für verdeckte Einsätze, die mit einem zusätzlichen Wärmebildmodul ausgestattet werden können%1%2MXAR – das standardmäßige Ordonnanzgewehr für Marines mit verlängertem Lauf, Coyote-Tarnmuster und speziell konstruiertem Schalldämpfer%1%2Sechs neue Identitäten mit zusätzlichen Tarnmustern (Wüste und Üppig)</German>
+                    <Spanish>%11%1%12%1%2FOCM: La Fuerza Operativa Conjunta de Marines es una unidad armada autónoma capaz de operar de forma independiente desde buques de guerra anfibios que cuenta con soldados, equipamientos y vehículos especializados%1%2AAV-9 Mack: Un VCI con capacidad para llevar un escuadrón de 13 marines rápidamente a través del agua y proporcionar apoyo de fuego con un cañón automático de 30 o 50 mm%1%2Lancha de combate: Una nave de transporte de tropas rápida y blindada con capacidad para 16 efectivos más tripulación y distintas configuraciones de armamento%1%2LCC-1: Un catamarán de desembarco de gran velocidad con capacidad para transportar hasta 200 toneladas de vehículos y suministros desde la flota hasta tierra.%1%2Buque de asalto anfibio: Una nave apta para gran variedad de misiones con una cubierta de vuelo y un dique inundable que permiten lanzar y recibir helicópteros, aviones de despegue y aterrizaje vertical, lanchas y vehículos anfibios%1%2Marines: Soldados con una amplia formación especializados en combate en zonas costeras%1%2Resolute Cyclone: Una minicampaña que tiene lugar durante la invasión de la OTAN a Altis en el transcurso de «El viento del este»%1%2Rope In Hand: Un escenario multijugador cooperativo en que se emplean los nuevos vehículos Hunter FSV y Hunter AT%1%2Titan NLOS: Un misil de crucero antitanque montado en vehículos que emplea conexión de datos y marcado por láser para atacar objetivos sin línea de visión directa%1%2Hunter FSV: Un chasis de Hunter y un potente conjunto de sensores electroópticos y armas lo convierten en un excelente vehículo de reconocimiento%1%2Hunter AT: Un chasis de Hunter y un Titan NLOS le permiten actuar como cazacarros o proporcionar fuego indirecto a unidades aliadas a larga distancia%1%2Hunter LAAD: Tiene un chasis de Hunter y ofrece defensa antiaérea a corta distancia contra aviones, helicópteros y drones enemigos%1%2MBS: Una mira de combate de 6x con telémetro láser integrado%1%2MicroSight: Un discreto punto rojo que puede emplearse con fusiles y pistolas o como mira auxiliar de corto alcance para la MBS%1%2Equipamiento: Nuevos uniformes, chalecos, mochilas y material para la cabeza de los marines%1%2LPNVG: Unas gafas de visión nocturna de perfil bajo que pueden llevar un módulo de visión térmica adicional%1%2MXAR: El fusil reglamentario de los marines, con cañón alargado, camuflaje tipo coyote y silenciador específico%1%2Seis nuevas identidades con camuflajes desérticos y exuberantes adicionales</Spanish>
+                    <French>%11%1%12%1%2Le groupe de forces interarmées des Marines (MJTF) est une force armée autonome capable d&apos;opérer indépendamment depuis des navires amphibies, avec des troupes, des équipements et des véhicules spécialisés.%1%2L&apos;AAV-9 Mack est un VCI amphibie capable de transporter rapidement 13 Marines et de fournir un appui feu avec un canon automatique de 30 mm ou 50 mm.%1%2Le bateau de combat est un navire blindé rapide capable de transporter 16 soldats et de s&apos;adapter à diverses configurations d&apos;armement.%1%2Le LCC-1 est un catamaran de débarquement à grande vitesse capable de transporter jusqu&apos;à 200 tonnes de véhicules et de provisions du navire à la côte.%1%2Le navire de guerre amphibie peut mener une grande variété de missions, grâce à son pont d&apos;envol et à son coffre, qui permettent de lancer et de récupérer des hélicoptères, des ADAV, des bateaux et des véhicules amphibies.%1%2Les Marines sont des troupes d&apos;élite spécialisées dans les combats en zones côtières.%1%2&quot;Resolute Cyclone&quot; est une mini-campagne parallèle à l&apos;invasion de l&apos;OTAN sur Altis pendant les événements de la campagne &quot;Vent d&apos;est&quot;.%1%2&quot;Corde en main&quot; est un scénario multijoueur coopératif avec les nouveaux véhicules d&apos;appui feu et antichars Hunter.%1%2Le Titan NLOS est un missile de croisière antichar monté sur véhicule, utilisant une liaison de données et un désignateur laser pour attaquer des cibles sans visibilité directe.%1%2Le véhicule d&apos;appui feu Hunter, basé sur le châssis Hunter, est un excellent véhicule de reconnaissance grâce à son système de capteurs électro-optiques puissant et à ses armes.%1%2Le véhicule antichar Hunter, également basé sur le châssis Hunter, utilise le Titan NLOS pour des missions d&apos;attaques antichars ou offrir des tirs d&apos;appui indirects aux unités alliées sur de longues distances.%1%2Le Hunter LAAD, basé sur le châssis Hunter, joue un rôle crucial dans la défense aérienne rapprochée contre les avions, hélicoptères et drones ennemis.%1%2Le MBS est un viseur de combat 6x avec télémètre laser intégré.%1%2Le Microsight est un viseur point rouge discret utilisable sur des fusils, pistolets, ou comme viseur auxiliaire pour le MBS.%1%2L&apos;équipement est constitué de nouveaux uniformes, gilets, sacs à dos et casques pour les Marines.%1%2Les LPNVG sont des lunettes de vision nocturne discrètes, pouvant être équipées d&apos;un module thermique supplémentaire.%1%2Le MXAR est le fusil standard des Marines, avec canon allongé, camouflage coyote et silencieux intégré.%1%2Six nouvelles identités avec des camouflages supplémentaires pour les environnements désertiques et luxuriants.</French>
+                    <Polish>%11%1%12%1%2MJTF – Połączone Siły Zadaniowe Marines (ang. Marine Joint Task Force), samodzielne siły zbrojne zdolne prowadzić operacje z okrętów do walk morskich; w ich skład wchodzą wyspecjalizowani żołnierze, sprzęt oraz pojazdy%1%2AAV-9 Mack – amfibia bojowa piechoty zdolna pomieścić drużynę 13 marines, z dużą prędkością przemieszczać się po wodach i zapewniać wsparcie ogniowe za sprawą działka automatycznego 30 lub 50 mm%1%2Łódź bojowa – szybka, opancerzona łódź do transportu żołnierzy, mieszcząca 16 marines oraz załogę, pozwalająca na montaż różnego rodzaju uzbrojenia%1%2LCC-1 – szybki katamaran desantowy, zdolny dostarczyć z okrętu na brzeg do 200 ton pojazdów i zaopatrzenia%1%2Uniwersalny okręt desantowy – okręt umożliwiający wykonywanie szerokiej gamy operacji; pokład lotniczy i hangarowy pozwalają wysyłać i przechowywać śmigłowce, samoloty VTOL, łodzie oraz amfibie%1%2Marines – doskonale wyszkoleni żołnierze wyspecjalizowani w walkach nabrzeżnych%1%2Resolute Cyclone – minikampania rozgrywana w trakcie operacji NATO na Altis z kampanii „Wschodni wiatr”%1%2Z liną w dłoni – kooperacyjny scenariusz wieloosobowy, zawierający nowe pojazdy Hunter FSV i Hunter AT%1%2Titan NLOS – montowany na pojazdach przeciwpancerny pocisk manewrujący, korzystający z systemu transmisji danych i znaczników laserowych do atakowania celów nieznajdujących się w polu widzenia%1%2Hunter FSV – oparty na podwoziu Hunter pojazd wyposażony w komplet czujników elektrooptycznych oraz broń idealnie nadające się do operacji zwiadowczych%1%2Hunter AT – oparty na podwoziu Hunter pojazd, mogący za sprawą wyposażenia w pociski Titan NLOS uczestniczyć w bezpośrednich działaniach przeciwpancernych, jak również zapewniać długodystansowe, pośrednie wsparcie ogniowe innym jednostkom%1%2Hunter LAAD – oparty na podwoziu Hunter pojazd stanowiący podporę krótkodystansowej obrony przeciwlotniczej w starciach z samolotami, śmigłowcami i dronami%1%2MBS – celownik dysponujący 6-krotnym zbliżeniem oraz wbudowanym dalmierzem laserowym%1%2Microsight – dyskretny celownik kolimatorowy używany w karabinach i pistoletach, a także jako dodatkowy, krótkodystansowy celownik do MBS%1%2Wyposażenie – nowe mundury, kamizelki, plecaki i nakrycia głowy dla marines%1%2LPNVG – dyskretny noktowizor z możliwością dopasowania modułu termowizyjnego%1%2MXAR – standardowy karabin na wyposażeniu marines, wyróżniający się wydłużoną lufą, kamuflażem coyote oraz specjalnie dopasowanym tłumikiem%1%2Sześć nowych postaci z dodatkowymi kamuflażami typu „pustynia” i „gąszcz”</Polish>
+                    <Portuguese>%11%1%12%1%2MJTF: a força-tarefa conjunta de fuzileiros navais, uma força armada autônoma capaz de operar sem depender de navios de guerra anfíbios, composta por veículos, equipamentos e tropas especializadas%1%2AAV-9 Mack: um VCI anfíbio capaz de carregar um esquadrão de 13 fuzileiros navais rapidamente pelas águas e fornecer suporte de fogo tanto com o canhão automático de 30 mm quanto com o de 50 mm%1%2Barco de combate: um barco de transporte de tropas rápido e blindado, com capacidade para 16 homens, além da tripulação, e diferentes configurações de armas%1%2LCC-1: um catamarã de desembarque de alta velocidade, capaz de transportar até 200 toneladas de veículos e suprimentos do navio até a costa.%1%2Navio de guerra anfíbio: um navio capaz de realizar diversas missões, com convés de voo e de poço, permitindo o lançamento e a recuperação de helicópteros, veículos de decolagem e pouso vertical (VTOL), barcos e veículos anfíbios%1%2Fuzileiros navais: tropas altamente treinadas e especializadas no combate em áreas litorâneas%1%2Resolute Cyclone: uma minicampanha contemporânea da invasão de Altis pela OTAN durante os eventos de The East Wind%1%2Corda na mão: um cenário multijogador cooperativo que apresenta o novo Hunter FSV e veículos Hunter AT%1%2Titan NLOS: um míssil de cruzeiro antitanque montado em veículo, que utiliza enlace de dados e designação a laser para atacar alvos, mesmo sem uma linha de visão direta%1%2Hunter FSV: montado sobre o chassi do Hunter, suas armas e sensores eletro-ópticos poderosos o tornam um excelente veículo de reconhecimento%1%2Hunter AT: montado sobre o chassi do Hunter, o Titan NLOS permite realizar missões diretas de caça a tanques ou fornecer fogo indireto a longa distância para unidades aliadas%1%2Hunter LAAD: montado sobre o chassi do Hunter, ele forma a base das defesas antiaéreas contra drones, aeronaves e helicópteros inimigos%1%2MBS: uma mira de combate 6x com telêmetro a laser integrado%1%2Microsight: uma mira de ponto vermelho discreta que pode ser usada em fuzis, pistolas ou como mira auxiliar de curto alcance na MBS%1%2Equipamento: novos uniformes, coletes, mochilas e acessórios de cabeça para os fuzileiros navais%1%2LPNVG: um óculos de visão noturna furtivo, pode ser equipado com um módulo térmico adicional%1%2MXAR: o fuzil de serviço padrão dos fuzileiros navais, com cano alongado, camuflagem coiote e silenciador sob medida.%1%2Seis novas identidades com as camuflagens adicionais Deserto e Exuberante</Portuguese>
+                    <Russian>%11%1%12%1%2MJTF — объединенная оперативная группа морской пехоты, представляющая собой автономные вооруженные силы, способные действовать независимо от десантных кораблей и включающие специализированные войска, оборудование и транспортные средства.%1%2AAV-9 Mack — амфибийная боевая машина пехоты, способная быстро переправить отряд из 13 морских пехотинцев по воде и обеспечить огневую поддержку с помощью 30-мм или 50-мм автоматической пушки.%1%2Боевой катер — быстрый бронированный катер для десантирования, вмещающий до 16 бойцов плюс экипаж, с различными конфигурациями вооружения.%1%2LCC-1 — высокоскоростной десантный катамаран, способный доставить до 200 тонн техники и припасов с корабля на берег.%1%2Десантно-вертолетный корабль-док — корабль, способный выполнять широкий спектр задач, с полетной палубой и стапельной палубой, что дает возможность отправлять и принимать вертолеты, самолеты с вертикальным взлетом, катера и амфибийные машины.%1%2Морские пехотинцы — высококвалифицированные войска, специализирующиеся на боевых операциях в прибрежных зонах.%1%2«Resolute Cyclone» — мини-кампания, разворачивающаяся параллельно вторжению НАТО на Алтис во время событий кампании «The East Wind».%1%2«Rope In Hand» — кооперативный многопользовательский сценарий с участием новых машин Hunter FSV и Hunter AT.%1%2Titan NLOS — противотанковая крылатая ракета, установленная на транспортном средстве; при использовании канала передачи данных и лазерного наведения может поражать цели даже без прямой видимости.%1%2Hunter FSV — разведывательная машина на базе шасси Hunter, оснащенная мощным электрооптическим сенсорным комплексом и вооружением, что делает ее превосходным средством разведки.%1%2Hunter AT — машина на шасси Hunter, оснащенная системой Titan NLOS, что позволяет ей как вести прямую охоту на танки, так и поддерживать союзные подразделения огнем с закрытых позиций на больших дистанциях.%1%2Hunter LAAD — боевая машина на базе шасси Hunter, составляющая основу системы войсковой ПВО малой дальности, предназначенная для борьбы с пилотируемой авиацией, вертолетами и беспилотными летательными аппаратами противника.%1%2MBS — 6-кратный боевой прицел со встроенным лазерным дальномером.%1%2Microsight — низкопрофильный коллиматорный прицел, который можно использовать на винтовках, пистолетах или в качестве вспомогательного прицела ближнего действия для MBS.%1%2Снаряжение — новая униформа, жилеты, рюкзаки и головные уборы для морской пехоты.%1%2LPNVG — низкопрофильные очки ночного видения, которые могут быть оснащены дополнительным тепловизионным модулем.%1%2MXAR — стандартная служебная винтовка морской пехоты с удлиненным стволом, камуфляжем «Койот» и специально разработанным глушителем.%1%2Шесть новых обликов персонажей с дополнительными «Пустынным» и «Болотным» камуфляжами.</Russian>
+                    <Chinesesimp>%11%1%12%1%2MJTF - 海军陆战联合特遣部队，一支独立的武装部队，能够独立于两栖战舰作战，拥有专门的部队、装备和载具%1%2AAV-9 Mack - 一款两栖步兵战车，能够载运一个由 13 名陆战队员组成的班并快速穿越水路，该步兵战车可通过一门 30 毫米或 50 毫米机炮提供火力支援。%1%2作战艇 - 一款快速装甲运兵艇，可容纳 16 位人员和船员，并具有多种不同的武器配置%1%2LCC-1 - 一款高速双体船登陆艇，能够将重达 200 吨的载具和补给物资从舰船上运输到岸上%1%2两栖作战舰 - 一款可执行多种任务的舰船，能够通过飞行甲板和井型甲板发射和回收直升机、垂直起降飞机、船只和两栖载具%1%2海军陆战队 - 训练有素的部队，专门在沿海地区作战%1%2Resolute Cyclone - 在“东风”事件期间 NATO 入侵阿尔蒂斯的小规模战役%1%2手中的绳索 - 多人合作场景，可以使用新型 Hunter FSV 和 Hunter 反坦克载具%1%2Titan NLOS - 车载反坦克巡航导弹%1%2Hunter FSV - 基于 Hunter 系列的底盘，强大的光电传感器套件和武器使其成为出色的侦察载具%1%2Hunter AT - 基于 Hunter 系列的底盘，配备的 Titan NLOS 使其能够执行直接猎杀坦克的任务，或向远距离的友军部队提供间接火力支援%1%2Hunter LAAD - 基于 Hunter 系列的底盘，它是短程防空的中坚力量，可抵御敌军飞机、直升机和无人机的攻击%1%2MBS - 一款集成激光测距仪的 6 倍战斗瞄准具%1%2Microsight - 一款低调的内红点瞄准具，可用于步枪、手枪，或作为 MBS 的短距离辅助瞄准具%1%2装备 - 海军陆战队的新型制服、背心、背包和头盔%1%2LPNVG - 低调的夜视镜%1%2MXAR - 由海军陆战队使用的制式步枪，采用加长的枪管和土狼迷彩，并配有专门设计的消音器%1%2六种新的身份标识，配有额外的沙漠和繁茂迷彩</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_CfgMods_Marines_DS">
+                    <Original>The backbone of the Marine Joint Task Force, these highly trained men feature new equipment and a long-barreled variant of the iconic MX rifle, dubbed MXAR.</Original>
+                    <English>The infantry of the United States Marine Corps, these highly trained men feature new equipment and a long-barreled variant of the iconic MX rifle, dubbed MXAR.</English>
+                    <German>Diese extrem gut ausgebildeten Soldaten bilden das Rückgrat der Marine Joint Task Force und sind mit neuer Ausrüstung sowie dem MXAR ausgerüstet, einer Variante des MX-Gewehrs mit verlängertem Lauf.</German>
+                    <Spanish>Estos soldados de amplia formación son el corazón de la Fuerza Operativa Conjunta de Marines y disponen de equipamiento nuevo y del MXAR, una variante de cañón largo del icónico fusil MX.</Spanish>
+                    <French>Piliers du groupe de forces interarmées des Marines, ces hommes hautement qualifiés sont équipés de nouveaux équipements et d&apos;une variante à canon long du fusil MX emblématique, le MXAR.</French>
+                    <Polish>Trzon Połączonych Sił Zadaniowych Marines. Ci doskonale przeszkoleni żołnierze dysponują nowym wyposażeniem oraz długolufowym wariantem słynnego karabinu MX zwanym MXAR.</Polish>
+                    <Portuguese>Esses soldados altamente treinados, a base da força-tarefa conjunta dos fuzileiros navais, têm novos equipamentos e uma variante de cano longo do icônico fuzil MX, conhecida como MXAR.</Portuguese>
+                    <Russian>Основу объединенной оперативной группы морской пехоты составляют эти высококвалифицированные бойцы, оснащенные новым снаряжением и длинноствольным вариантом культовой винтовки MX под названием MXAR.</Russian>
+                    <Chinesesimp>作为海军陆战联合特遣部队的中坚力量，这些训练有素的队员们配备了最新的装备和标志性 MX 步枪的枪管加长变款（简称 MXAR）。</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_CfgMods_MarineCombatUniform_DS">
+                    <Original>The standard issue uniform for MJTF troops. Made out of flame-resistant materials and a lightweight, moisture-wicking shirt for hot and humid environments.</Original>
+                    <English>The standard issue uniform for USMC troops. Made out of flame-resistant materials and a lightweight, moisture-wicking shirt for hot and humid environments.</English>
+                    <German>Die standardmäßige Uniform für MJTF-Truppen. Gefertigt aus flammfesten Materialien und einem leichten, feuchtigkeitsabführenden Hemd für heiße und feuchte Umgebungen.</German>
+                    <Spanish>El uniforme reglamentario de los soldados de la FOCM. Está hecho con materiales ignífugos y cuenta con una camiseta ligera y absorbente para entornos cálidos húmedos.</Spanish>
+                    <French>L&apos;uniforme standard des troupes du MJTF, fabriqué à partir de matériaux ignifuges et doté d&apos;un maillot léger qui évacue l&apos;humidité pour les environnements chauds et humides.</French>
+                    <Polish>Standardowy mundur żołnierzy MJTF. Wykonany z ognioodpornego materiału i uzupełniony o lekką, odprowadzającą wilgoć koszulę odpowiednią do gorącego klimatu o dużej wilgotności.</Polish>
+                    <Portuguese>O uniforme padrão de tropas da MJTF. Feito de materiais resistentes a chamas e com uma camisa leve que absorve a umidade, adequada para ambientes quentes e úmidos.</Portuguese>
+                    <Russian>Стандартная униформа морской пехоты. Изготовлена из огнестойких материалов и включает легкую рубашку с влагоотводящими свойствами для жарких и влажных условий.</Russian>
+                    <Chinesesimp>MJTF 部队的标准制服。该制服由阻燃材料制成，其衬衫质地轻盈，吸湿排汗性能出色，适合炎热潮湿的环境。</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_arifle_MXAR_Library">
+                    <Original>The MXAR is part of the MX family of rifles. It is the standard service rifle for the MJTF infantrymen. It features a longer, heavier barrel derived from the MX SW to allow for more accurate fire over longer distances and is usually paired with a purpose-made suppressor.</Original>
+                    <English>The MXAR is part of the MX family of rifles. It is the standard service rifle for the USMC infantrymen. It features a longer, heavier barrel derived from the MX SW to allow for more accurate fire over longer distances and is usually paired with a purpose-made suppressor.</English>
+                    <German>Das MXAR gehört zur Serie der MX-Gewehre und ist die Ordonnanzwaffe der MJTF-Infanterie. Es ist mit einem längeren, schwereren Lauf ausgestattet, der vom MX SW übernommen wurde, um genauere Feuerstöße über größere Entfernungen zu ermöglichen. Üblicherweise wird dieses Gewehr auch mit dem eigens konstruierten Schalldämpfer kombiniert.</German>
+                    <Spanish>El MXAR pertenece a la familia de fusiles MX y es el reglamentario de la infantería de la FOCM. Cuenta con un cañón más largo y pesado derivado del MX SW para ofrecer un tiro más preciso a mayor distancia y suele incorporar un silenciador específico.</Spanish>
+                    <French>Le MXAR fait partie de la famille de fusils MX. C&apos;est le fusil de service standard pour les soldats d&apos;infanterie du MJTF. Il est doté d&apos;un canon plus long et plus lourd dérivé du MX SW, permettant un tir plus précis à longue distance, et il est généralement associé à un silencieux spécialement conçu.</French>
+                    <Polish>MXAR należy do rodziny karabinów MX. Stanowi część standardowego wyposażenia piechoty MJTF. Posiada dłuższą, cięższą lufę, zaczerpniętą z konstrukcji MX SW, zapewniającą większą precyzję na dłuższych dystansach. Zazwyczaj towarzyszy mu wykonany specjalnie na potrzeby tego modelu tłumik.</Polish>
+                    <Portuguese>O MXAR faz parte da família de fuzis MX. Ele é o fuzil padrão dos soldados de infantaria da MJTF e possui um cano mais longo e pesado, derivado do MX SW, para disparos mais precisos a longas distâncias. Costuma ser equipado com um silenciador desenvolvido especificamente para ele.</Portuguese>
+                    <Russian>MXAR из семейства винтовок MX является стандартной служебной винтовкой для пехотинцев MJTF. Она оснащена удлиненным и утяжеленным стволом, заимствованным от MX SW, что обеспечивает более точный огонь на дальние дистанции, и обычно используется со специально разработанным глушителем.</Russian>
+                    <Chinesesimp>MXAR 是 MX 系列步枪中的一款。它是配发给 MJTF 部队步兵使用的制式步枪。它的枪管更长、更重，其设计源自 MX SW，以便在更远距离内进行更精确的射击，通常还会配备专用的消音器。</Chinesesimp>
+                </Key>
+                <Key ID="STR_EF_LPD_Library">
+                    <Original>The Amphibious Warfare Ship is the core of Marine Expeditionary Units. Acting as floating barracks, it allows MJTFs to deploy all the assets required to sustain operations abroad. Named after the Takistani capital following one of the fiercest battles of Operation Arrowhead, the LPD-36 USS Takmyr is the ship assigned to carry the 29th MEU to Altis and execute Operation Resolute Cyclone.</Original>
+                    <English>The Amphibious Warfare Ship is the core of Marine Expeditionary Units. Acting as floating barracks, it allows the Marine Corps to deploy all the assets required to sustain operations abroad. Named after the Takistani capital following one of the fiercest battles of Operation Arrowhead, the LPD-36 USS Takmyr is the ship assigned to carry the 29th MEU to Altis and execute Operation Resolute Cyclone.</English>
+                    <German>Das amphibische Kriegsschiff ist das Herz der Marine-Expeditionsstreitkräfte. Es fungiert als schwimmende Kaserne und erlaubt es den MJTF, alle erforderlichen Elemente einzusetzen, um Operationen im Ausland am Laufen zu halten. Das LPD-36 „USS Takmyr“ wurde infolge einer der heftigsten Auseinandersetzungen von Operation Arrowhead nach der takistanischen Hauptstadt benannt und trägt nun das 29th MEU nach Altis, um Operation Resolute Cyclone durchzuführen.</German>
+                    <Spanish>El buque de asalto anfibio es la base de las Unidades Expedicionarias de Marines. Es un barracón flotante desde el que las FOCM pueden desplegar todos los recursos necesarios para llevar a cabo operaciones en el extranjero. El LPD-36 USS Takmyr, bautizado en honor a la capital de Takistán tras una de las batallas más cruentas de la Operación Arrowhead, es el buque que transporta a la 29.ª Unidad Expedicionaria de Marines a Altis para ejecutar la Operación Resolute Cyclone.</Spanish>
+                    <French>Le navire de guerre amphibie est l&apos;épine dorsale des unités du corps expéditionnaire des Marines, servant de caserne flottante pour permettre aux membres du MJTF de déployer toutes les ressources nécessaires à des opérations prolongées à l&apos;étranger. Baptisé en hommage à la capitale takistanaise après une bataille décisive de l&apos;opération Arrowhead, le LPD-36 USS Takmyr est chargé de transporter la 29e MEU vers Altis pour l&apos;opération Resolute Cyclone.</French>
+                    <Polish>Uniwersalny okręt desantowy stanowi fundament Jednostek Ekspedycyjnych Marines. Pełniąc rolę swego rodzaju pływających koszarów, pozwala MJTF sięgać po wszelkie narzędzia niezbędne do prowadzenia operacji na obcym terytorium. Nazwany na cześć stolicy Takistanu i jednej z najbardziej zaciekłych walk w ramach operacji Arrowhead, LPD-36 USS Takmyr ma za zadanie dostarczyć 29. Jednostkę Ekspedycyjną Marines na Altis i umożliwić przeprowadzenie operacji Resolute Cyclone.</Polish>
+                    <Portuguese>O Navio de guerra anfíbio é o núcleo das Unidades expedicionárias de fuzileiros navais. Funciona como quartel flutuante e permite que as Forças-tarefas conjuntas de fuzileiros navais (MJTFs) distribuam todos os recursos necessários para manter operações no exterior. Nomeado em homenagem à capital do Taquistão após uma das batalhas mais intensas da Operação Arrowhead, o LPD-36 USS Takmyr é o navio designado para transportar a 29ª MEU até Altis e executar a Operação Resolute Cyclone.</Portuguese>
+                    <Russian>Десантно-вертолетный корабль-док является основным кораблем экспедиционных формирований морской пехоты. Выполняя роль плавучей базы, он обеспечивает оперативно-тактические группы всеми средствами, необходимыми для ведения длительных операций за пределами своей территории. LPD-36 USS Takmyr, названный в честь столицы Такистана в память об одном из самых ожесточенных сражений операции «Arrowhead», назначен для переброски 29-го экспедиционного отряда морской пехоты на территорию Алтиса и проведения операции «Resolute Cyclone».</Russian>
+                    <Chinesesimp>两栖战舰是海军陆战队远征部队的核心。作为浮动的兵营，它使 MJTF 能够部署所有必要的资产，以便维持海外行动。LPD-36 塔克米尔号以 Arrowhead 行动中塔基斯坦尼首都的名字命名，那座城市在该行动中经历了一场无比激烈的战斗。塔克米尔号受命运送第 29 MEU 前往阿尔蒂斯执行 Resolute Cyclone 行动。</Chinesesimp>
                 </Key>
             </Container>
         </Container>

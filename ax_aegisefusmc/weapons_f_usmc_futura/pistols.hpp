@@ -13,7 +13,7 @@
 	{
 		author="$STR_A3_MCFU_Axle";
 		baseWeapon="AX_hgun_P320_coyote_F";
-		displayname="$STR_A3_MCFU_hgun_P320_coyote_F0";
+		displayname="$STR_A3_MCFU_hgun_M17_coyote_F0";
 		picture="\ax_aegisefusmc\weapons_f_usmc_futura\pistols\p320\data\ui\Icon_hgun_P320_coy_F_CA.paa";
 		hiddenSelectionsTextures[]=
 		{

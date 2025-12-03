@@ -95,6 +95,7 @@ class CfgWeapons
 	class UGL_F;
 	class Aegis_arifle_M16A4_base_F;
 	class Aegis_arifle_SR25_base_F;
+	class Aegis_arifle_SR25_snd_F;
 
 	#include "pistols.hpp"
 	#include "rifles.hpp"

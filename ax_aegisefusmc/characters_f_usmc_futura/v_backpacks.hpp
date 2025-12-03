@@ -185,6 +185,51 @@
 			"\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\B_radiobag_01_coy_CO.paa"
 		};
 	};
+	class AX_B_Hydrationpack_base: Bag_Base
+	{
+		scope=0;
+		model="a3\characters_f\common\equip_chestrig.p3d";
+		hiddenSelections[]=
+		{
+			"Camo1",
+			"Camo2"
+		};
+		maximumLoad=0;
+		mass=7;
+	};
+	class AX_B_Hydrationpack_coy: AX_B_Hydrationpack_base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_B_Hydrationpack_coy";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\ui\icon_B_Hydrationpack_coy_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"",
+			"\ax_aegisefusmc\characters_f_usmc_futura\vests\data\vests_coy_CO.paa"
+		};
+	};
+	class AX_B_Ammo_Bandolier_base: Bag_Base
+	{
+		scope=0;
+		model="\A3_Aegis\Characters_F_Aegis\Vests\Aegis_Ammobelt.p3d";
+		/*
+		hiddenSelections[]=
+		{
+			"Camo1",
+			"Camo2"
+		};
+		*/
+		maximumLoad=40;
+		mass=10;
+	};
+	class AX_B_Ammo_Bandolier: AX_B_Ammo_Bandolier_base
+	{
+		author="$STR_A3_A_POLPOX";
+		scope=1;
+		displayName="$STR_A3_MCFU_B_Ammo_Bandolier";
+		picture="\A3_Aegis\Characters_F_Aegis\Vests\Data\UI\icon_Aegis_V_Ammo_Bandolier_F_ca.paa";
+	};
 	class EF_B_RaiderPack_coy: B_AssaultPack_Base
     {
         hiddenSelectionsTextures[]=
@@ -447,6 +492,68 @@
 			};
 		};
 	};
+	class AX_B_RaiderPack_black_LAT: EF_B_RaiderPack_black
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_NLAW_F
+			{
+				magazine="NLAW_F";
+				count=2;
+			};
+		};
+	};
+	class AX_B_RaiderPack_black_LAT2: EF_B_RaiderPack_black
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_MRAWS_HEAT_F
+			{
+				magazine="MRAWS_HEAT_F";
+				count=2;
+			};
+			class _xx_MRAWS_HE_F
+			{
+				magazine="MRAWS_HE_F";
+				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_black_Medic: EF_B_RaiderPack_black
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_Medikit
+			{
+				name="Medikit";
+				count=1;
+			};
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=10;
+			};
+		};
+	};
+	class AX_B_RaiderPack_black_Repair: EF_B_RaiderPack_black
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_ToolKit
+			{
+				name="ToolKit";
+				count=1;
+			};
+		};
+	};
 	class AX_B_RaiderPack_black_dirty: EF_B_RaiderPack_coy
 	{
 		scope=1;
@@ -500,6 +607,24 @@
 			{
 				name="Rangefinder";
 				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_black_dirty_Medic: AX_B_RaiderPack_black_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_Medikit
+			{
+				name="Medikit";
+				count=1;
+			};
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=10;
 			};
 		};
 	};
@@ -630,6 +755,32 @@
 			{
 				magazine="MRAWS_HE_F";
 				count=2;
+			};
+		};
+	};
+	class AX_B_Carryall_mdes_MARSOC_AR: AX_B_Carryall_mdes
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_200Rnd_65x39_cased_Box
+			{
+				magazine="200Rnd_65x39_cased_Box";
+				count=3;
+			};
+		};
+	};
+	class AX_B_Carryall_mwdl_MARSOC_AR: AX_B_Carryall_mwdl
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_200Rnd_65x39_cased_Box
+			{
+				magazine="200Rnd_65x39_cased_Box";
+				count=3;
 			};
 		};
 	};

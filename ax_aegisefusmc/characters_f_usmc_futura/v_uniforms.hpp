@@ -353,7 +353,17 @@
 		uniformClass="AX_U_B_MC_HeliPilotCoveralls";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_HeliPilotCoveralls_tan: B_Helipilot_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_HeliPilotCoveralls_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_tan_CO.paa"
 		};
 	};
 	class AX_uniform_B_MC_PilotCoveralls: B_Helipilot_F
@@ -363,7 +373,34 @@
 		uniformClass="AX_U_B_MC_PilotCoveralls";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_pilot_usmc_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_PilotCoveralls_tan: B_Helipilot_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_PilotCoveralls_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_tan_CO.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_worn: B_Helipilot_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_worn";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_CO.paa"
+		};
+	};
+	class EF_B_Navy_FlightDeckCrew: B_Helipilot_F
+	{
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_CO.paa"
 		};
 	};
 	class AX_uniform_B_MC_HeliPilotCoveralls_Gloves: I_E_Uniform_01_coveralls_F
@@ -373,9 +410,45 @@
 		uniformClass="AX_U_B_MC_HeliPilotCoveralls_Gloves";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coy_boots.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\rg_gloves.paa"
+		};
+	};
+	class AX_uniform_B_MC_HeliPilotCoveralls_Gloves_tan: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_HeliPilotCoveralls_Gloves_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_tan_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coy_boots.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\rg_gloves.paa"
+		};
+	};
+	class AX_uniform_B_USN_HeliPilotCoveralls_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_HeliPilotCoveralls_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_helipilot_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_HeliPilotCoveralls_Gloves_tan: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_HeliPilotCoveralls_Gloves_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_helipilot_tan_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
 		};
 	};
 	class AX_uniform_B_MC_PilotCoveralls_Gloves: I_E_Uniform_01_coveralls_F
@@ -385,9 +458,141 @@
 		uniformClass="AX_U_B_MC_PilotCoveralls_Gloves";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_pilot_usmc_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coy_boots.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\rg_gloves.paa"
+		};
+	};
+	class AX_uniform_B_MC_PilotCoveralls_Gloves_tan: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_PilotCoveralls_Gloves_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_tan_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coy_boots.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\rg_gloves.paa"
+		};
+	};
+	class AX_uniform_B_USN_PilotCoveralls_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_PilotCoveralls_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_pilot_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_PilotCoveralls_Gloves_tan: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_PilotCoveralls_Gloves_tan";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_pilot_tan_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_White_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_White_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_white_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Yellow_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Yellow_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_yellow_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Red_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Red_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_red_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Green_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Green_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_green_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Brown_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Brown_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_brown_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Blue_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Blue_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_blue_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
+		};
+	};
+	class AX_uniform_B_USN_CrewCoveralls_Violet_Gloves: I_E_Uniform_01_coveralls_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_USN_CrewCoveralls_Violet_Gloves";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_violet_CO.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_pants_co.paa",
+			"a3\characters_f_enoch\uniforms\data\i_e_soldier_01_gloves_black_co.paa"
 		};
 	};
 /*
@@ -900,7 +1105,7 @@
 		hiddenSelectionsTextures[]=
 		{
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_brn_co.paa",
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_mpw_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\Boots_coy_CO.paa"
 		};
@@ -931,3 +1136,491 @@
 			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\Boots_coy_CO.paa"
 		};
 	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F: B_soldier_F
+	{
+		scope=1;
+		scopeCurator=0;
+		modelSides[]={6};
+		model="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\U_Uniform_G3_NCU_Cloak_01.p3d";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"camo3",
+			"camo4",
+			"camoboots",
+			"insignia"
+		};
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_Cloak_wdl_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_oli_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\H_ReconCloak_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\Boots_coy_CO.paa"
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
+		armorstructural=4;
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_01_des_F: AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_Cloak_des_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\H_ReconCloak_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\Boots_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F: B_soldier_F
+	{
+		scope=1;
+		scopeCurator=0;
+		modelSides[]={6};
+		model="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\U_Uniform_G3_NCU_unbl_01.p3d";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"camo3",
+			"insignia"
+		};
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_mpw_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
+		armorstructural=4;
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb2_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb2_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_flag_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb2_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb2_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_flag_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F: B_soldier_F
+	{
+		scope=1;
+		scopeCurator=0;
+		modelSides[]={6};
+		model="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\U_Uniform_G3_NCU_unbl_02.p3d";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"camo3",
+			"insignia"
+		};
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
+		armorstructural=4;
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_des_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_des_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_cb_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_cb_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_des_cb_F: AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_des_cb_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F: B_soldier_F
+	{
+		scope=1;
+		scopeCurator=0;
+		modelSides[]={6};
+		model="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\U_Uniform_G3_NCU_unbl_03.p3d";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"camo3",
+			"insignia"
+		};
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_grn_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu2.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
+		armorstructural=4;
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_brn_F: AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_brn_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_brn_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_des_F: AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_des_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_tan_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_des_brn_F: AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_des_brn_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\basicbody_alt_brn_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa"
+		};
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_wdl_F: B_soldier_F
+	{
+		scope=1;
+		scopeCurator=0;
+		modelSides[]={6};
+		model="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\U_Uniform_G3_NCU_Cloak_unbl_01.p3d";
+		hiddenSelections[]=
+		{
+			"camo1",
+			"camo2",
+			"camo3",
+			"camo4",
+			"insignia"
+		};
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_Cloak_unbl_wdl_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_oli_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpw_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\H_ReconCloak_coy_CO.paa"
+		};
+		class Wounds
+		{
+			tex[]={};
+			mat[]=
+			{
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Common\Data\basicbody_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_black_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_hairy_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_white_old_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F\Heads\Data\hl_asian_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_tanoan_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat",
+				"A3\Characters_F_Exp\Heads\Data\hl_asian_02_bald_muscular_injury.rvmat"
+			};
+		};
+		armorstructural=4;
+	};
+	class AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_des_F: AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_wdl_F
+	{
+		scope=1;
+		scopeCurator=0;
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_Cloak_unbl_des_F";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_g3_coy_co.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_ncu_mpd_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\CombatGloves_coy_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\H_ReconCloak_coy_CO.paa"
+		};
+	};
+	

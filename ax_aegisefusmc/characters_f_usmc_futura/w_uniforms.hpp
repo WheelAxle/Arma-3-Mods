@@ -566,12 +566,36 @@
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\A3\Characters_F\Common\Data\coveralls_sage_co.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_CO.paa"
 		};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
 			uniformClass="AX_uniform_B_MC_HeliPilotCoveralls";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_MC_HeliPilotCoveralls_tan: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		scopeArsenal=1;
+		displayName="$STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_tan_F0";
+		picture="\A3\characters_f\data\ui\icon_U_B_coveralls_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_helipilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_HeliPilotCoveralls_tan";
 			containerClass="Supply40";
 			mass=60;
 		};
@@ -590,7 +614,7 @@
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_pilot_usmc_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_CO.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -600,12 +624,13 @@
 			mass=60;
 		};
 	};
-	class AX_U_B_MC_HeliPilotCoveralls_Gloves: Uniform_Base
+	class AX_U_B_MC_PilotCoveralls_tan: Uniform_Base
 	{
 		author="$STR_A3_MCFU_Axle";
-		scope=2;
-		displayName="$STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_F0";
-		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_HeliPilotCoveralls_Gloves_ca.paa";
+		scope=1;
+		scopeArsenal=1;
+		displayName="$STR_A3_MCFU_U_B_MC_PilotCoveralls_tan_F0";
+		picture="\A3\characters_f\data\ui\icon_U_B_coveralls_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		hiddenSelections[]=
 		{
@@ -613,7 +638,30 @@
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_pilot_usmc_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_PilotCoveralls_tan";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_MC_HeliPilotCoveralls_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_HeliPilotCoveralls_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_CO.paa"
 		};
 		class ItemInfo: UniformItem
 		{
@@ -623,12 +671,12 @@
 			mass=60;
 		};
 	};
-	class AX_U_B_MC_PilotCoveralls_Gloves: Uniform_Base
+	class AX_U_B_MC_HeliPilotCoveralls_Gloves_tan: Uniform_Base
 	{
 		author="$STR_A3_MCFU_Axle";
 		scope=2;
-		displayName="$STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_F0";
-		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_PilotCoveralls_Gloves_ca.paa";
+		displayName="$STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_Gloves_tan_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_HeliPilotCoveralls_Gloves_tan_ca.paa";
 		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
 		hiddenSelections[]=
 		{
@@ -636,12 +684,357 @@
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_pilot_usmc_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_helipilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_HeliPilotCoveralls_Gloves_tan";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_HeliPilotCoveralls_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_Gloves_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_HeliPilotCoveralls_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_helipilot_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_HeliPilotCoveralls_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_HeliPilotCoveralls_Gloves_tan: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_HeliPilotCoveralls_Gloves_tan_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_HeliPilotCoveralls_Gloves_tan_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_helipilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_HeliPilotCoveralls_Gloves_tan";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_MC_PilotCoveralls_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_PilotCoveralls_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_CO.paa"
 		};
 		class ItemInfo: UniformItem
 		{
 			uniformModel="-";
 			uniformClass="AX_uniform_B_MC_PilotCoveralls_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_MC_PilotCoveralls_Gloves_tan: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_MC_PilotCoveralls_Gloves_tan_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_PilotCoveralls_Gloves_tan_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usmc_pilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_PilotCoveralls_Gloves_tan";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_PilotCoveralls_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_PilotCoveralls_Gloves_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_PilotCoveralls_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_pilot_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_PilotCoveralls_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_PilotCoveralls_Gloves_tan: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_PilotCoveralls_Gloves_tan_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_PilotCoveralls_Gloves_tan_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_usn_pilot_tan_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_PilotCoveralls_Gloves_tan";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_worn: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_worn";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_worn_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_worn";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Gloves";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ef\ef_marines\Data\u_coveralls_navy_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_White_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_White";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_White_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_white_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_White_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Yellow_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Yellow";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Yellow_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_yellow_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Yellow_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Red_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Red";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Red_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_red_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Red_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Green_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Green";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Green_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_green_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Green_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Brown_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Brown";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Brown_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_brown_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Brown_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Blue_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Blue";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Blue_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_blue_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Blue_Gloves";
+			containerClass="Supply40";
+			mass=60;
+		};
+	};
+	class AX_U_B_USN_CrewCoveralls_Violet_Gloves: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_CrewCoveralls_Navy_Violet";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CrewCoveralls_Violet_Gloves_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_civilian_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\coveralls_navy_deck_violet_CO.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CrewCoveralls_Violet_Gloves";
 			containerClass="Supply40";
 			mass=60;
 		};
@@ -1152,3 +1545,418 @@
 			mass=40;
 		};
 	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_Cloak_01_wdl_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_Cloak_01_des_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_Cloak_01_des_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_Cloak_01_des_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_01_des_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_wdl_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_wdl_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_des_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_des_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_wdl_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_wdl_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb2_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_wdl_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_wdl_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb2_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_des_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_des_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb2_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_01_des_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_01_des_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_01_des_cb2_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_02_wdl_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_02_wdl_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_des_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_02_des_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_02_des_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_des_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_cb_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_02_wdl_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_02_wdl_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_cb_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_des_cb_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_02_des_cb_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_02_des_cb_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_unbl_02_des_cb_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_tee_wdl_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_tee_wdl_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_brn_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_tee_wdl_brn_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_tee_wdl_brn_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_brn_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_des_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_tee_des_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_tee_des_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_des_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_des_brn_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_tee_des_brn_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_tee_des_brn_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpd_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_tee_unbl_des_brn_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_wdl_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_Cloak_01_wdl_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_Cloak_01_wdl_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_wdl_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_des_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		displayName="$STR_A3_MCFU_U_B_G3_NCU_Cloak_01_des_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_MC_CombatUniform_G3_NCU_Cloak_01_des_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+            "\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing1_mpw_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_des_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	

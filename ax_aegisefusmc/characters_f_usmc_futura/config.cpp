@@ -35,6 +35,7 @@ class CfgGlasses
 	class G_Shades_Black;
 	class G_Sport_Checkered;
 	class G_Squares;
+	class G_Shemag_tactical;
     #include "g_facewear.hpp"
 };
 
@@ -85,7 +86,9 @@ class CfgWeapons
     class H_HelmetB_light;
 	class H_HelmetSpecB_light;
 	class H_Cap_blk;
+	class H_Cap_red;
 	class H_Cap_headphones;
+	class H_HelmetCrew_B;
     #include "w_helmets.hpp"
     #include "w_uniforms.hpp"
     #include "w_vests.hpp"
@@ -127,6 +130,7 @@ class CfgVehicles
 	//class Atlas_I_E_SF_CombatUniformNCU_01_F;
 	//class Atlas_I_E_SF_CombatUniformNCU_02_F;
 
+	class Bag_Base;
 	class B_ViperHarness_blk_F;
     class B_FieldPack_green_F;
 	class B_Carryall_cbr;
@@ -141,6 +145,7 @@ class CfgVehicles
 	class Aegis_B_patrolBackpack_blk_F;
 	class EF_B_Carryall_coy;
 	class EF_B_TacticalPack_coy;
+	class EF_B_RaiderPack_black;
 
     #include "v_uniforms.hpp"
     #include "v_backpacks.hpp"
@@ -151,5 +156,9 @@ class CfgEditorSubcategories
 	class EdSubcat_Personnel_MARSOC
 	{
 		displayName="$STR_A3_MCFU_EdSubcat_Personnel_MARSOC";
+	};
+	class EdSubcat_Personnel_SEAL
+	{
+		displayName="$STR_A3_MCFU_EdSubcat_Personnel_SEAL";
 	};
 };
