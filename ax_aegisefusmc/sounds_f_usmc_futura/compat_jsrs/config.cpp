@@ -11,7 +11,7 @@ class CfgPatches
 			"data_f_lxWS_Loadorder",
 			"A3_Aegis_Data_F_Aegis_Loadorder",
 			"EF_Sounds_C",
-			"jsrs_soundmod_2025_Beta"
+			"jsrs2025_config_c"
 		};
 		author="Axle";
 		skipwhenmissingdependencies=1;

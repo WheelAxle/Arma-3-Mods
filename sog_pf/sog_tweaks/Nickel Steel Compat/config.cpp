@@ -16,6 +16,45 @@ class CfgPatches
 
 class cfgVehicles
 {
+    class All;
+	class AllVehicles: All
+	{
+		class NewTurret
+		{
+			class ViewGunner;
+			class ViewOptics;
+		};
+	};
+	class Land: AllVehicles
+	{
+	};
+	class LandVehicle: Land
+	{
+	};
+	class Tank: LandVehicle
+	{
+		class ViewPilot;
+	};
+	class Tank_F: Tank
+	{
+		class Components;
+		class Turrets;
+	};
+	class vn_armor_tank_base: Tank_F
+	{
+		class CargoTurret;
+		class CommanderOptics;
+		class EventHandlers;
+		class Turrets: Turrets
+		{
+			class MainTurret: NewTurret
+			{
+				class ViewGunner;
+				class ViewOptics;
+			};
+		};
+		class ViewOptics;
+	};
     class vnx_air_c119_transport_base;
     class vnx_b_air_ac119_02_01: vnx_air_c119_transport_base
 	{
@@ -128,6 +167,12 @@ class cfgVehicles
 		editorSubcategory="EdSubcat_Helicopters";
     };
 
+    #include "bronco.hpp"
+    #include "lvtp5.hpp"
+    #include "m163.hpp"
+    #include "skyhawk.hpp"
+    #include "ontos.hpp"
+
     class vn_b_men_aircrew_01;
 	class vnx_b_men_aircrew_01: vn_b_men_aircrew_01
     {
@@ -137,4 +182,56 @@ class cfgVehicles
 	class vnx_b_men_aircrew_02: vnx_b_men_aircrew_01
     {
     };
+    class vn_b_men_sog_base;
+    class vnx_b_men_usaf_base: vn_b_men_sog_base
+	{
+		faction="B_vn_USAF";
+		editorSubcategory="EdSubcat_Personnel_Security";
+    };
+	class vnx_b_men_usaf_thai_base: vnx_b_men_usaf_base
+    {
+		editorSubcategory="EdSubcat_Personnel_Security_Thailand";
+    };
+    class vnx_b_men_aircrew_thai_base: vnx_b_men_aircrew_01
+	{
+		faction="B_vn_USAF";
+		editorSubcategory="EdSubcat_Personnel_Security_Thailand";
+    };
+    class vnx_b_men_aircrew_11;
+    class vnx_b_men_aircrew_14: vnx_b_men_aircrew_11
+	{
+		faction="B_vn_USN";
+		editorSubcategory="EdSubcat_Personnel_aircrew";
+    };
+    class vnx_b_men_aircrew_15: vnx_b_men_aircrew_11
+	{
+		faction="B_vn_USN";
+		editorSubcategory="EdSubcat_Personnel_aircrew";
+    };
+    class vnx_b_men_aircrew_16: vnx_b_men_aircrew_11
+	{
+		faction="B_vn_USMC_68";
+		editorSubcategory="EdSubcat_Personnel_aircrew";
+    };
+	class vnx_b_men_aircrew_17: vnx_b_men_aircrew_16
+	{
+		faction="B_vn_USMC_68";
+		editorSubcategory="EdSubcat_Personnel_aircrew";
+    };
+	class vnx_b_men_aircrew_23: vnx_b_men_aircrew_16
+	{
+		faction="B_vn_USMC_68";
+		editorSubcategory="EdSubcat_Personnel_aircrew";
+    };
+    class vnx_b_men_aircrew_27: vnx_b_men_aircrew_thai_base
+	{
+		editorSubcategory="EdSubcat_Personnel_Aircrew_Thailand";
+    };
+
+    class vn_static_dp28_high_base;
+	class vn_o_nva_static_dp28_high: vn_static_dp28_high_base
+	{
+		editorSubcategory="EdSubcat_Turrets";
+		editorPreview="\vn\editorpreviews_f_vietnam\static\preview_vn_o_vc_static_dp28_high.jpg";
+	};
 };

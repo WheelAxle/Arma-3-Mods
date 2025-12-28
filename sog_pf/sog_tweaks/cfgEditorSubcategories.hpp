@@ -1089,6 +1089,18 @@ class CfgEditorSubcategories
 	{
 		displayName="$STR_VN_EdSubcat_Personnel_Field_DN";
 	};
+	class EdSubcat_Personnel_Security
+	{
+		displayName="$STR_VN_EdSubcat_Personnel_Security_DN";
+	};
+	class EdSubcat_Personnel_Security_Thailand
+	{
+		displayName="$STR_VN_EdSubcat_Personnel_Security_Thailand_DN";
+	};
+	class EdSubcat_Personnel_Aircrew_Thailand
+	{
+		displayName="$STR_VN_EdSubcat_Personnel_Aircrew_Thailand_DN";
+	};
 	class EdSubcat_Planes_RVNAF
 	{
 		displayName="$STR_VN_EdSubcat_Planes_RVNAF_DN";

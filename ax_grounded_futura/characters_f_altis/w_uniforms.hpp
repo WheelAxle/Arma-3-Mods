@@ -182,3 +182,26 @@
 			mass=40;
 		};
 	};
+	class AX_U_I_CombatUniform_cut_F: Uniform_Base
+	{
+		author="$STR_A3_GRFU_Axle";
+		scope=2;
+		displayName="$STR_A3_GRFU_U_I_CombatUniform_cut_F0";
+		picture="\A3\characters_f_beta\data\ui\icon_U_IR_CrewUniform_rucamo_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_universal_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F\Common\Suitpacks\data\suitpack_soldier_indep_co.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_soldier_U_I_CombatUniform_cut_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};

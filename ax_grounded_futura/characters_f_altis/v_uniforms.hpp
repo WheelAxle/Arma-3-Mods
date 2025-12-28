@@ -94,3 +94,18 @@
 			"ax_grounded_futura\characters_f_altis\uniforms\data\I_I_Soldier_01_Olive_aaf_CO.paa"
 		};
 	};
+	class AX_soldier_U_I_CombatUniform_cut_F: I_E_Man_Base_F
+	{
+		scope=1;
+		model="\lxws\characters_1_f_lxws\uniform\U_CombatUniform_01_cut_lxws.p3d";
+		uniformClass="AX_U_I_CombatUniform_cut_F";
+		hiddenSelections[]=
+		{
+			"Camo",
+			"insignia"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\A3\Characters_F_Beta\INDEP\Data\ia_soldier_01_clothing_co.paa"
+		};
+	};

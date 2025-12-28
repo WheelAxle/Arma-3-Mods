@@ -13,8 +13,7 @@
 				soundsetshot[]=
 				{
 					"jsrs_2025_mx_shot_soundset",
-					"jsrs_2025_65mm_tails_soundset",
-					"jsrs_2025_65mm_echo_soundset"
+					"jsrs_2025_tailsystem_65mm_rifle_soundset"
 				};
 			};
 			class SilencedSound: BaseSoundModeType
@@ -22,7 +21,7 @@
 				soundsetshot[]=
 				{
 					"jsrs_2025_mx_shot_silenced_soundset",
-					"jsrs_2025_65mm_silenced_tails_soundset"
+					"jsrs_2025_tailsystem_65mm_rifle_silenced_soundset"
 				};
 			};
 		};
@@ -34,8 +33,7 @@
 				soundsetshot[]=
 				{
 					"jsrs_2025_mx_shot_soundset",
-					"jsrs_2025_65mm_tails_soundset",
-					"jsrs_2025_65mm_echo_soundset"
+					"jsrs_2025_tailsystem_65mm_rifle_soundset"
 				};
 			};
 			class SilencedSound: BaseSoundModeType
@@ -43,7 +41,7 @@
 				soundsetshot[]=
 				{
 					"jsrs_2025_mx_shot_silenced_soundset",
-					"jsrs_2025_65mm_silenced_tails_soundset"
+					"jsrs_2025_tailsystem_65mm_rifle_silenced_soundset"
 				};
 			};
 		};

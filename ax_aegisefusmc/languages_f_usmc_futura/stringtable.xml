@@ -25,6 +25,9 @@
                     <Russian>Боевая форма морского пехотинца (лесная)</Russian>
                     <Chinesesimp>海军陆战队作战服（林地）</Chinesesimp>
                 </Key>
+                <Key ID="STR_A3_MCFU_U_MARINECOMBATUNIFORM_AOR2_1">
+                    <English>Marine Combat Uniform [USN] (AOR2)</English>
+                </Key>
                 <Key ID="STR_EF_U_MARINECOMBATUNIFORM_DES_2">
                     <Original>Marine Combat Uniform (Desert/Gloves)</Original>
                     <English>Marine Combat Uniform [USMC] (Desert/Gloves)</English>
@@ -200,10 +203,10 @@
                     <English>Combat Fatigues [USMC] (Desert, Tee)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt2_wdl_F0">
-                    <English>Combat Fatigues [USMC] (Woodland, Tee, Scarf)</English>
+                    <English>Combat Fatigues [USMC] (Woodland, Tee, Shemagh)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt2_des_F0">
-                    <English>Combat Fatigues [USMC] (Desert, Tee, Scarf)</English>
+                    <English>Combat Fatigues [USMC] (Desert, Tee, Shemagh)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_CombatUniform_tshirt3_wdl_F0">
                     <English>Combat Fatigues [USMC] (Woodland, T-Shirt)</English>
@@ -246,6 +249,24 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_SurvivalFatigues_des_F0">
                     <English>Survival Fatigues [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_01_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_02_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_03_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2, T-Shirt)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_03_shemagh_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2, T-Shirt, Shemagh)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_04_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2, Tee)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_U_B_USN_CombatFatigues_05_aor2_F0">
+                    <English>Combat Fatigues [USN] (AOR2, Tank Top)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_U_B_MC_HeliPilotCoveralls_F0">
                     <English>Heli Pilot Coveralls [USMC]</English>
@@ -468,14 +489,17 @@
                     <Russian>Панама (пустыня)</Russian>
                     <Chinesesimp>圆边帽（沙漠）</Chinesesimp>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_Booniehat_aor2">
+                    <English>Booniehat [USN] (AOR2)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_Booniehat_wdl_hs">
                     <English>Booniehat [USMC] (Woodland, Headset)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Booniehat_des_hs">
                     <English>Booniehat [USMC] (Desert, Headset)</English>
                 </Key>
-                <Key ID="STR_A3_MCFU_H_Booniehat_desert_hs">
-                    <English>Booniehat (Desert, Headset)</English>
+                <Key ID="STR_A3_MCFU_H_Booniehat_aor2_hs">
+                    <English>Booniehat [USN] (AOR2, Headset)</English>
                 </Key>
                 <Key ID="STR_EF_H_UtilityCap_Wdl">
                     <Original>Utility Cap (Woodland)</Original>
@@ -499,11 +523,17 @@
                     <Russian>Кепка морской пехоты (пустыня)</Russian>
                     <Chinesesimp>通用军帽（沙漠）</Chinesesimp>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_UtilityCap_aor2">
+                    <English>Utility Cap [USN] (AOR2)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_usmc_wdl">
                     <English>Military Cap [USMC] (Woodland)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_usmc_des">
                     <English>Military Cap [USMC] (Desert)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_MilCap_usn_aor2">
+                    <English>Military Cap [USN] (AOR2)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_MilCap_usn">
                     <English>Military Cap (Navy Blue)</English>
@@ -593,17 +623,26 @@
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_coy_F">
                     <English>Operator Helmet [USMC] (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_brncoy_F">
+                    <English>Operator Helmet [USMC] (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_snk_ard_F">
                     <English>Operator Helmet [USMC] (Snakeskin)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_coy_F">
                     <English>Operator Helmet [USMC] (Headset, Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_brncoy_F">
+                    <English>Operator Helmet [USMC] (Headset, Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Headset_snk_ard_F">
                     <English>Operator Helmet [USMC] (Headset, Snakeskin)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_coy_F">
                     <English>Operator Helmet [USMC] (Scrim, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_brncoy_F">
+                    <English>Operator Helmet [USMC] (Scrim, Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Scrim_MPW_F">
                     <English>Operator Helmet [USMC] (Scrim, Woodland)</English>
@@ -616,6 +655,9 @@
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_coy_F">
                     <English>Operator Helmet [USMC] (Cover/Scrim, Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_brncoy_F">
+                    <English>Operator Helmet [USMC] (Cover/Scrim, Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_Helmet_FASTMT_Cover_Scrim_MPW_F">
                     <English>Operator Helmet [USMC] (Cover/Scrim, Woodland)</English>
@@ -773,11 +815,17 @@
                 <Key ID="STR_A3_MCFU_H_HelmetB_light_coy">
                     <English>Light Combat Helmet (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetB_light_brncoy">
+                    <English>Light Combat Helmet (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_H_HelmetB_light_tan">
                     <English>Light Combat Helmet (Tan)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_coy">
                     <English>Light Combat Helmet (Coyote Brown, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_brncoy">
+                    <English>Light Combat Helmet (Brown Coyote, Enhanced)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_HelmetSpecB_light_tan">
                     <English>Light Combat Helmet (Tan, Enhanced)</English>
@@ -816,6 +864,9 @@
                     <Portuguese>Capacete de equipe [MJTF]</Portuguese>
                     <Russian>Шлем экипажа [MJTF]</Russian>
                     <Chinesesimp>乘员头盔 [MJTF]</Chinesesimp>
+                </Key>
+                <Key ID="STR_A3_MCFU_H_HelmetCrew_BrnCoy">
+                    <English>Modular Crew Helmet (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_H_HelmetCrew_Navy">
                     <English>Modular Crew Helmet (Navy Blue)</English>
@@ -889,17 +940,32 @@
                 <Key ID="STR_A3_MCFU_V_PlateCarrier1_mccoy_F0">
                     <English>Carrier Lite [USMC] (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_mcbrncoy_F0">
+                    <English>Carrier Lite [USMC] (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier1_coy_F0">
                     <English>Carrier Lite (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier1_brncoy_F0">
+                    <English>Carrier Lite (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier2_mccoy_F0">
                     <English>Carrier Rig [USMC] (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_mcbrncoy_F0">
+                    <English>Carrier Rig [USMC] (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier2_coy_F0">
                     <English>Carrier Rig (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_coy_F0">
+                    <English>Carrier Rig (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_mccoy_F0">
                     <English>Carrier Alt Rig [USMC] (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_mcbrncoy_F0">
+                    <English>Carrier Alt Rig [USMC] (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier2_alt_coy_F0">
                     <English>Carrier Alt Rig (Coyote Brown)</English>
@@ -907,29 +973,86 @@
                 <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_mccoy_F0">
                     <English>Carrier Vest Rig [USMC] (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_mcbrncoy_F0">
+                    <English>Carrier Vest Rig [USMC] (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_coy_F0">
                     <English>Carrier Vest Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrier_RF_brncoy_F0">
+                    <English>Carrier Vest Rig (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrierGL_coy_F0">
                     <English>Carrier GL Rig (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierGL_brncoy_F0">
+                    <English>Carrier GL Rig (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrierSpec_coy_F0">
                     <English>Carrier Special Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierSpec_brncoy_F0">
+                    <English>Carrier Special Rig (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrierLite_coy_F0">
                     <English>Carrier Lite Rig (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_PlateCarrierLite_brncoy_F0">
+                    <English>Carrier Lite Rig (Brown Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Brn">
+                    <English>Amphibious Assault Vest (Brown)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Rifleman_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Rifleman)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Rifleman_Brn">
+                    <English>Amphibious Assault Vest (Brown/Rifleman)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Rifleman_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Rifleman, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Rifleman_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Rifleman_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Sailor_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Sailor)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Sailor_Brn">
+                    <English>Amphibious Assault Vest (Brown/Sailor)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Sailor_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Sailor, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Sailor, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Sailor_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Sailor, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Sailor_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Sailor, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy">
-                    <English>Pilot Life Vest (Coyote)</English>
+                    <English>Pilot Life Vest (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy">
+                    <English>Pilot Life Vest (Brown Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Brn">
+                    <English>Pilot Life Vest (Brown)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Black">
                     <English>Pilot Life Vest (Black)</English>
@@ -938,7 +1061,13 @@
                     <English>Pilot Life Vest (Olive)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Coy_dirty">
-                    <English>Pilot Life Vest (Coyote, Worn)</English>
+                    <English>Pilot Life Vest (Coyote Brown, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_BrnCoy_dirty">
+                    <English>Pilot Life Vest (Brown Coyote, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Pilot_Brn_dirty">
+                    <English>Pilot Life Vest (Brown, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Black_dirty">
                     <English>Pilot Life Vest (Black, Worn)</English>
@@ -946,29 +1075,137 @@
                 <Key ID="STR_A3_MCFU_V_AAV_Pilot_Olive_dirty">
                     <English>Pilot Life Vest (Olive, Worn)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Scout_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Scout)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Scout_Brn">
+                    <English>Amphibious Assault Vest (Brown/Scout)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Scout_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Scout, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Scout_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Scout_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Support_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Support)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Support_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Support, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Support_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Support_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_TL_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Team Leader)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_TL_Brn">
+                    <English>Amphibious Assault Vest (Brown/Team Leader)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_TL_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Team Leader, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_TL_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_TL_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Diver)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_Brn">
+                    <English>Amphibious Assault Vest (Brown/Diver)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AAV_Diver_Coy_dirty">
-                    <English>Amphibious Assault Vest (Coyote/Diver, Worn)</English>
+                    <English>Amphibious Assault Vest (Coyote Brown/Diver, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Diver, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Diver, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_NoReb_BrnCoy">
+                    <English>Amphibious Assault Vest (Brown Coyote/Diver/No Rebreather)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_NoReb_Brn">
+                    <English>Amphibious Assault Vest (Brown/Diver/No Rebreather)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_NoReb_Coy_dirty">
+                    <English>Amphibious Assault Vest (Coyote Brown/Diver/No Rebreather, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_NoReb_BrnCoy_dirty">
+                    <English>Amphibious Assault Vest (Brown Coyote/Diver/No Rebreather, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AAV_Diver_NoReb_Brn_dirty">
+                    <English>Amphibious Assault Vest (Brown/Diver/No Rebreather, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Rifleman_BrnCoy">
+                    <English>Commando Chest Rig (Brown Coyote/Rifleman)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Rifleman_Brn">
+                    <English>Commando Chest Rig (Brown/Rifleman)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_CCR_Rifleman_Coy_dirty">
-                    <English>Commando Chest Rig (Coyote/Rifleman, Worn)</English>
+                    <English>Commando Chest Rig (Coyote Brown/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Rifleman_BrnCoy_dirty">
+                    <English>Commando Chest Rig (Brown Coyote/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Rifleman_Brn_dirty">
+                    <English>Commando Chest Rig (Brown/Rifleman, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_TL_BrnCoy">
+                    <English>Commando Chest Rig (Brown Coyote/Team Leader)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_TL_Brn">
+                    <English>Commando Chest Rig (Brown/Team Leader)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_CCR_TL_Coy_dirty">
-                    <English>Commando Chest Rig (Coyote/Team Leader, Worn)</English>
+                    <English>Commando Chest Rig (Coyote Brown/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_TL_BrnCoy_dirty">
+                    <English>Commando Chest Rig (Brown Coyote/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_TL_Brn_dirty">
+                    <English>Commando Chest Rig (Brown/Team Leader, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Scout_BrnCoy">
+                    <English>Commando Chest Rig (Brown Coyote/Scout)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Scout_Brn">
+                    <English>Commando Chest Rig (Brown/Scout)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_CCR_Scout_Coy_dirty">
-                    <English>Commando Chest Rig (Coyote/Scout, Worn)</English>
+                    <English>Commando Chest Rig (Coyote Brown/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Scout_BrnCoy_dirty">
+                    <English>Commando Chest Rig (Brown Coyote/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Scout_Brn_dirty">
+                    <English>Commando Chest Rig (Brown/Scout, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Support_BrnCoy">
+                    <English>Commando Chest Rig (Brown Coyote/Support)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Support_Brn">
+                    <English>Commando Chest Rig (Brown/Support)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_CCR_Support_Coy_dirty">
-                    <English>Commando Chest Rig (Coyote/Support, Worn)</English>
+                    <English>Commando Chest Rig (Coyote Brown/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Support_BrnCoy_dirty">
+                    <English>Commando Chest Rig (Brown Coyote/Support, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_CCR_Support_Brn_dirty">
+                    <English>Commando Chest Rig (Brown/Support, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_PlateCarrier2_grn">
                     <English>Carrier Rig (Green)</English>
@@ -1024,14 +1261,26 @@
                 <Key ID="STR_A3_MCFU_V_AssaultCarrier_coy_F0">
                     <English>Assault Carrier Vest (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_brncoy_F0">
+                    <English>Assault Carrier Vest (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_AssaultCarrier_Lite_coy_F0">
                     <English>Assault Carrier Lite (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_Lite_brncoy_F0">
+                    <English>Assault Carrier Lite (Brown Coyote)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_V_AssaultCarrier_MG_coy_F0">
                     <English>Assault Carrier Support Rig (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_MG_brncoy_F0">
+                    <English>Assault Carrier Support Rig (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_V_AssaultCarrier_TL_coy_F0">
                     <English>Assault Carrier Leader Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_V_AssaultCarrier_TL_brncoy_F0">
+                    <English>Assault Carrier Leader Rig (Brown Coyote)</English>
                 </Key>
             </Container>
             <Container name="Backpacks">
@@ -1237,6 +1486,9 @@
                 <Key ID="STR_A3_MCFU_B_PatrolPack_coy">
                     <English>Patrol Pack (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_B_PatrolPack_brncoy">
+                    <English>Patrol Pack (Brown Coyote)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_B_RadioBag_01_mdes">
                     <English>Radio Pack [USMC] (Desert)</English>
                 </Key>
@@ -1246,8 +1498,20 @@
                 <Key ID="STR_A3_MCFU_B_RadioBag_01_coy">
                     <English>Radio Pack (Coyote Brown)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_B_RadioBag_01_brncoy">
+                    <English>Radio Pack (Brown Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RaiderPack_brncoy">
+                    <English>Raider Pack (Brown Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RaiderPack_brn">
+                    <English>Raider Pack (Brown)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_B_RaiderPack_coy_dirty">
                     <English>Raider Pack (Coyote Brown, Worn)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_B_RaiderPack_brncoy_dirty">
+                    <English>Raider Pack (Brown Coyote, Worn)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_B_RaiderPack_blk_dirty">
                     <English>Raider Pack (Black, Worn)</English>
@@ -1266,23 +1530,56 @@
                 <Key ID="STR_A3_MCFU_G_Balaclava_mesh_G_coy_F0">
                     <English>Mesh Balaclava (Coyote, Goggles)</English>
                 </Key>
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_oli_F0">
+                    <English>Mesh Balaclava (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Balaclava_mesh_G_oli_F0">
+                    <English>Mesh Balaclava (Olive, Goggles)</English>
+                </Key>
                 <Key ID="STR_A3_MCFU_G_Bandana_coy_F0">
                     <English>Bandana (Coyote)</English>
                 </Key>
-                <Key ID="STR_A3_MCFU_G_Bandana_shemag_F0">
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_tan_F0">
                     <English>Bandana (Shemag, Tan)</English>
                 </Key>
-                <Key ID="STR_A3_MCFU_G_Bandana_shemag_shades_F0">
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_khk_F0">
+                    <English>Bandana (Shemag, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_oli_F0">
+                    <English>Bandana (Shemag, Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_tan_shades_F0">
                     <English>Bandana (Shemag, Shades, Tan)</English>
                 </Key>
-                <Key ID="STR_A3_MCFU_G_Bandana_shemag_sport_F0">
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_khk_shades_F0">
+                    <English>Bandana (Shemag, Shades, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_oli_shades_F0">
+                    <English>Bandana (Shemag, Shades, Olive)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_tan_sport_F0">
                     <English>Bandana (Shemag, Sport, Tan)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_khk_sport_F0">
+                    <English>Bandana (Shemag, Sport, Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Bandana_shemag_oli_sport_F0">
+                    <English>Bandana (Shemag, Sport, Olive)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_G_Shemag_khk_tactical_blk_F0">
                     <English>Shemag (Khaki, Tactical, Black)</English>
                 </Key>
                 <Key ID="STR_A3_MCFU_G_Shemag_tan_tactical_blk_F0">
                     <English>Shemag (Tan, Tactical, Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Shemag_oli_tactical_blk_F0">
+                    <English>Shemag (Olive, Tactical, Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Shemag_red_tactical_blk_F0">
+                    <English>Shemag (Red, Tactical, Black)</English>
+                </Key>
+                <Key ID="STR_A3_MCFU_G_Shemag_wht_tactical_blk_F0">
+                    <English>Shemag (White, Tactical, Black)</English>
                 </Key>
             </Container>
             <Container name="NVGs">

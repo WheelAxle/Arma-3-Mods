@@ -1,4 +1,7 @@
-    class Aegis_I_Soldier_recon_base: I_Soldier_base_F{};
+    class Aegis_I_Soldier_recon_base: I_Soldier_base_F
+	{
+		uniformClass="AX_U_I_CombatUniform_cut_F";
+	};
 	class Aegis_I_recon_AR_F: Aegis_I_Soldier_recon_base
     {
         weapons[]=
@@ -91,6 +94,7 @@
     };
 	class Aegis_I_recon_GL_F: Aegis_I_Soldier_recon_base
     {
+		uniformClass="AX_U_I_CombatUniform_cut_F";
 		linkedItems[]=
 		{
 			"V_TacVest_rig_oli_RF",
@@ -116,6 +120,7 @@
     };
 	class Aegis_I_recon_JTAC_F: Aegis_I_Soldier_recon_base
     {
+		uniformClass="AX_U_I_CombatUniform_cut_F";
 		linkedItems[]=
 		{
 			"V_TacVest_rig_oli_RF",
@@ -191,6 +196,7 @@
     };
 	class Aegis_I_recon_F: Aegis_I_Soldier_recon_base
     {
+		uniformClass="AX_U_I_CombatUniform_cut_F";
 		linkedItems[]=
 		{
 			"V_TacVest_rig_oli_RF",
@@ -216,6 +222,7 @@
     };
 	class Aegis_I_recon_LAT_F: Aegis_I_Soldier_recon_base
     {
+		uniformClass="AX_U_I_CombatUniform_cut_F";
 		linkedItems[]=
 		{
 			"V_TacVest_rig_oli_RF",
@@ -241,6 +248,7 @@
     };
 	class Aegis_I_recon_TL_F: Aegis_I_Soldier_recon_base
     {
+		uniformClass="AX_U_I_CombatUniform_cut_F";
 		linkedItems[]=
 		{
 			"V_TacVest_rig_oli_RF",

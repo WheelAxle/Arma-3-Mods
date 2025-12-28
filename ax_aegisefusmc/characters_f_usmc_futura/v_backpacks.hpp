@@ -237,7 +237,17 @@
             "\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\raiderpack_coy_co.paa"
         };
     };
-    class AX_B_RaiderPack_coy_dirty: EF_B_RaiderPack_coy
+    class AX_B_RaiderPack_brncoy: EF_B_RaiderPack_coy
+    {
+        author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_B_RaiderPack_brncoy";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\ui\icon_B_RaiderPack_brncoy_CA.paa";
+        hiddenSelectionsTextures[]=
+        {
+            "\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\raiderpack_brncoy_co.paa"
+        };
+    };
+	class AX_B_RaiderPack_coy_dirty: EF_B_RaiderPack_coy
     {
 		scope=1;
         author="$STR_A3_MCFU_Axle";
@@ -245,6 +255,16 @@
         hiddenSelectionsTextures[]=
         {
             "\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\raiderpack_coy_dirty_co.paa"
+        };
+    };
+	class AX_B_RaiderPack_brncoy_dirty: AX_B_RaiderPack_brncoy
+    {
+		scope=1;
+        author="$STR_A3_MCFU_Axle";
+        displayName="$STR_A3_MCFU_B_RaiderPack_brncoy_dirty";
+        hiddenSelectionsTextures[]=
+        {
+            "\ax_aegisefusmc\characters_f_usmc_futura\backpacks\data\raiderpack_brncoy_dirty_co.paa"
         };
     };
 	class AX_B_RaiderPack_coy_dirty_ReconLAT: AX_B_RaiderPack_coy_dirty
@@ -462,6 +482,251 @@
 		};
 	};
 	class AX_B_RaiderPack_coy_dirty_Diver_Pointman: AX_B_RaiderPack_coy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=5;
+			};
+			class _xx_MineDetector
+			{
+				name="MineDetector";
+				count=1;
+			};
+		};
+		class TransportMagazines
+		{
+			class _xx_30Rnd_45ACP_Mag_SMG_01
+			{
+				magazine="30Rnd_45ACP_Mag_SMG_01";
+				count=4;
+			};
+			class _xx_MiniGrenade
+			{
+				magazine="MiniGrenade";
+				count=4;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_ReconLAT: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_NLAW_F
+			{
+				magazine="NLAW_F";
+				count=2;
+			};
+		};
+	};
+    class AX_B_RaiderPack_brncoy_dirty_ReconExp: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_ClaymoreDirectionalMine_Remote_Mag
+			{
+				magazine="ClaymoreDirectionalMine_Remote_Mag";
+				count=2;
+			};
+			class _xx_APERSBoundingMine_Range_Mag
+			{
+				magazine="APERSBoundingMine_Range_Mag";
+				count=3;
+			};
+			class _xx_DemoCharge_Remote_Mag
+			{
+				magazine="DemoCharge_Remote_Mag";
+				count=1;
+			};
+			class _xx_SLAMDirectionalMine_Wire_Mag
+			{
+				magazine="SLAMDirectionalMine_Wire_Mag";
+				count=2;
+			};
+		};
+		class TransportItems
+		{
+			class _xx_MineDetector
+			{
+				name="MineDetector";
+				count=1;
+			};
+			class _xx_ToolKit
+			{
+				name="ToolKit";
+				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_ReconMedic: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_SmokeShellRed
+			{
+				magazine="SmokeShellRed";
+				count=1;
+			};
+			class _xx_SmokeShellBlue
+			{
+				magazine="SmokeShellBlue";
+				count=1;
+			};
+			class _xx_SmokeShellOrange
+			{
+				magazine="SmokeShellOrange";
+				count=1;
+			};
+		};
+		class TransportItems
+		{
+			class _xx_Medikit
+			{
+				name="Medikit";
+				count=1;
+			};
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=5;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_LAT: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_NLAW_F
+			{
+				magazine="NLAW_F";
+				count=2;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_LAT2: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportMagazines
+		{
+			class _xx_MRAWS_HEAT_F
+			{
+				magazine="MRAWS_HEAT_F";
+				count=2;
+			};
+			class _xx_MRAWS_HE_F
+			{
+				magazine="MRAWS_HE_F";
+				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_Medic: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_Medikit
+			{
+				name="Medikit";
+				count=1;
+			};
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=10;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_Repair: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_ToolKit
+			{
+				name="ToolKit";
+				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_Diver_TL: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=5;
+			};
+		};
+		class TransportMagazines
+		{
+			class _xx_EF_30Rnd_65x39_caseless_coy_mag
+			{
+				magazine="EF_30Rnd_65x39_caseless_coy_mag";
+				count=3;
+			};
+			class _xx_MiniGrenade
+			{
+				magazine="MiniGrenade";
+				count=2;
+			};
+			class _xx_SmokeShellGreen
+			{
+				magazine="SmokeShellGreen";
+				count=2;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_Diver_Eng: AX_B_RaiderPack_brncoy_dirty
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=1;
+		class TransportItems
+		{
+			class _xx_FirstAidKit
+			{
+				name="FirstAidKit";
+				count=3;
+			};
+			class _xx_MineDetector
+			{
+				name="MineDetector";
+				count=1;
+			};
+			class _xx_ToolKit
+			{
+				name="ToolKit";
+				count=1;
+			};
+		};
+		class TransportMagazines
+		{
+			class _xx_DemoCharge_Remote_Mag
+			{
+				magazine="DemoCharge_Remote_Mag";
+				count=1;
+			};
+		};
+	};
+	class AX_B_RaiderPack_brncoy_dirty_Diver_Pointman: AX_B_RaiderPack_brncoy_dirty
 	{
 		author="$STR_A3_MCFU_Axle";
 		scope=1;

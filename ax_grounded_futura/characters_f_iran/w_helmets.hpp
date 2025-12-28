@@ -207,7 +207,7 @@
 	};
 	class AX_H_HelmetPCH_bare_snd_F: AX_H_HelmetPCH_bare_base_F
 	{
-		author="$STR_A3_GRFU_Lukin";
+		author="$STR_A3_GRFU_LukinAxle";
 		scope=2;
 		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_snd_F0";
 		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_snd_F_ca.paa";
@@ -224,7 +224,7 @@
 	};
 	class AX_H_HelmetPCH_bare_oli_F: AX_H_HelmetPCH_bare_base_F
 	{
-		author="$STR_A3_GRFU_Lukin";
+		author="$STR_A3_GRFU_LukinAxle";
 		scope=2;
 		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_oli_F0";
 		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_oli_F_ca.paa";
@@ -241,7 +241,7 @@
 	};
 	class AX_H_HelmetPCH_bare_brn_F: AX_H_HelmetPCH_bare_base_F
 	{
-		author="$STR_A3_GRFU_Lukin";
+		author="$STR_A3_GRFU_LukinAxle";
 		scope=2;
 		displayName="$STR_A3_GRFU_H_HelmetPCH_bare_brn_F0";
 		picture="\ax_grounded_futura\characters_f_iran\headgear\data\ui\icon_H_HelmetPCH_bare_brn_F_ca.paa";

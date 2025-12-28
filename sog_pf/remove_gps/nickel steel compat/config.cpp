@@ -499,4 +499,73 @@ class CfgVehicles
 	{
 		enableGPS=0;
     };
+	class vnx_air_c119_base: Plane_Base_F
+	{
+		enableGPS=0;
+    };
+	class vnx_air_a4e_base: Plane_Base_F
+	{
+		enableGPS=0;
+	};
+	class vnx_air_ov10a_base: Plane_Base_F
+	{
+		enableGPS=0;
+		class Components: Components
+		{
+			class SensorsManagerComponent
+			{
+				class Components
+				{
+					delete IRSensorComponent;
+					delete VisualSensorComponent;
+					class TransportCountermeasuresComponent
+					{
+					};
+				};
+			};
+			class VehicleSystemsDisplayManagerComponentLeft: DefaultVehicleSystemsDisplayManagerLeft
+			{
+				class Components
+				{
+					class EmptyDisplay
+					{
+						componentType="EmptyDisplayComponent";
+					};
+					class MinimapDisplay
+					{
+						componentType="MinimapDisplayComponent";
+						resource="RscCustomInfoAirborneMiniMap";
+					};
+					class VehicleMissileDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="Missile";
+					};
+					delete SensorDisplay;
+				};
+			};
+			class VehicleSystemsDisplayManagerComponentRight: DefaultVehicleSystemsDisplayManagerRight
+			{
+				defaultDisplay="EmptyDisplay";
+				class Components
+				{
+					class EmptyDisplay
+					{
+						componentType="EmptyDisplayComponent";
+					};
+					class MinimapDisplay
+					{
+						componentType="MinimapDisplayComponent";
+						resource="RscCustomInfoAirborneMiniMap";
+					};
+					class VehicleMissileDisplay
+					{
+						componentType="TransportFeedDisplayComponent";
+						source="Missile";
+					};
+					delete SensorDisplay;
+				};
+			};
+		};
+	};
 };

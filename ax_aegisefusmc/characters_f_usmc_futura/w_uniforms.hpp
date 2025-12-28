@@ -1959,4 +1959,72 @@
 			mass=40;
 		};
 	};
-	
+	class AX_U_B_USN_CombatUniform_01_aor2_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_CombatFatigues_01_aor2_F0";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CombatUniform_01_aor2_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_usncu_01_aor2.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CombatUniform_01_aor2_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_USN_CombatUniform_02_aor2_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_CombatFatigues_02_aor2_F0";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CombatUniform_02_aor2_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_usncu_01_aor2.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CombatUniform_02_aor2_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};
+	class AX_U_B_USN_CombatUniform_03_aor2_F: Uniform_Base
+	{
+		author="$STR_A3_MCFU_Axle";
+		scope=2;
+		displayName="$STR_A3_MCFU_U_B_USN_CombatFatigues_03_shemagh_aor2_F0";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\ui\icon_U_B_USN_CombatUniform_03_aor2_F_ca.paa";
+		model="\A3\Characters_F\Common\Suitpacks\suitpack_original_F.p3d";
+		hiddenSelections[]=
+		{
+			"camo"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\uniforms\data\clothing_usncu_01_aor2.paa"
+		};
+		class ItemInfo: UniformItem
+		{
+			uniformModel="-";
+			uniformClass="AX_uniform_B_USN_CombatUniform_03_aor2_F";
+			containerClass="Supply40";
+			mass=40;
+		};
+	};

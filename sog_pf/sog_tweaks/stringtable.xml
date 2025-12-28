@@ -449,6 +449,57 @@
             <Japanese>男性（畑）</Japanese>
             <Turkish>Adamlar (Alan)</Turkish>
         </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Security_DN">
+            <Original>Men (Security Forces)</Original>
+            <Chinese>人員（安全）</Chinese>
+            <French>Hommes (Sécurité)</French>
+            <Spanish>Hombres (Seguridad)</Spanish>
+            <Italian>Uomini (Sicurezza)</Italian>
+            <Polish>Ludzie (Bezpieczeństwo)</Polish>
+            <Russian>Люди (Безопасность)</Russian>
+            <German>Männer (Sicherheit)</German>
+            <Czech>Muži (Zabezpečení)</Czech>
+            <English>Men (Security Forces)</English>
+            <Portuguese>Homens (Segurança)</Portuguese>
+            <Korean>사람(보안)</Korean>
+            <Chinesesimp>男人（安全）</Chinesesimp>
+            <Japanese>男性（安全）</Japanese>
+            <Turkish>Adamlar (Güvenlik)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Security_Thailand_DN">
+            <Original>Men (Security Forces Thailand)</Original>
+            <Chinese>人員（安全 泰國）</Chinese>
+            <French>Hommes (Sécurité Thaïlande)</French>
+            <Spanish>Hombres (Seguridad Tailandia)</Spanish>
+            <Italian>Uomini (Sicurezza Thailandia)</Italian>
+            <Polish>Ludzie (Bezpieczeństwo Tajlandia)</Polish>
+            <Russian>Люди (Безопасность Таиланд)</Russian>
+            <German>Männer (Sicherheit Thailand)</German>
+            <Czech>Muži (Zabezpečení Thajsko)</Czech>
+            <English>Men (Security Forces Thailand)</English>
+            <Portuguese>Homens (Segurança Tailândia)</Portuguese>
+            <Korean>사람(보안 태국)</Korean>
+            <Chinesesimp>男人（安全 泰国）</Chinesesimp>
+            <Japanese>男性（安全 タイ）</Japanese>
+            <Turkish>Adamlar (Güvenlik Tayland)</Turkish>
+        </Key>
+		<Key ID="STR_VN_EdSubcat_Personnel_Aircrew_Thailand_DN">
+            <Original>Men (Aircrew Thailand)</Original>
+            <Chinese>人員（泰國）</Chinese>
+            <French>Hommes (Thaïlande)</French>
+            <Spanish>Hombres (Tailandia)</Spanish>
+            <Italian>Uomini (Thailandia)</Italian>
+            <Polish>Ludzie (Tajlandia)</Polish>
+            <Russian>Люди (Таиланд)</Russian>
+            <German>Männer (Thailand)</German>
+            <Czech>Muži (Thajsko)</Czech>
+            <English>Men (Aircrew Thailand)</English>
+            <Portuguese>Homens (Tailândia)</Portuguese>
+            <Korean>사람(태국)</Korean>
+            <Chinesesimp>男人（泰国）</Chinesesimp>
+            <Japanese>男性（タイ）</Japanese>
+            <Turkish>Adamlar (Tayland)</Turkish>
+        </Key>
 		<Key ID="STR_VN_EdSubcat_Planes_RVNAF_DN">
 			<Original>Planes (RVNAF)</Original>
 			<Chinese>飛機 (RVNAF)</Chinese>

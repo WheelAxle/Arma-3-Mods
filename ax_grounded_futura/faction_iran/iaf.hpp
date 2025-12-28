@@ -893,7 +893,7 @@
 		linkedItems[]=
 		{
 			"H_MilCap_ocamo",
-			"AX_V_OCarrierRig_Lite_alt_hex_F",
+			"V_BandollierB_khk",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",
@@ -902,7 +902,7 @@
 		respawnLinkedItems[]=
 		{
 			"H_MilCap_ocamo",
-			"AX_V_OCarrierRig_Lite_alt_hex_F",
+			"V_BandollierB_khk",
 			"ItemMap",
 			"ItemCompass",
 			"ItemWatch",

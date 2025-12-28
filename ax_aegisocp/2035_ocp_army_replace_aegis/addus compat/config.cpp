@@ -53,6 +53,14 @@ class CfgWeapons
 	class ADDUS_H_HelmetBCover_ucp: H_HelmetB
 	{
 		displayName="Combat Helmet (UCP, Cover)";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisocp\2035_ocp_army_replace_aegis\data\ucp\equip1_cover_UCP_co.paa"
+		};
+		hiddenSelectionsMaterials[]= 
+		{
+			"\ax_aegisocp\2035_ocp_army_replace_aegis\data\equip1_cover.rvmat"
+		};
 	};
 	class ADDUS_H_HelmetSpecBCover_mtp: H_HelmetSpecB
 	{
@@ -78,6 +86,14 @@ class CfgWeapons
 	class ADDUS_H_HelmetSpecBCover_ucp: H_HelmetSpecB
 	{
 		displayName="Combat Helmet (UCP, Cover, Enhanced)";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisocp\2035_ocp_army_replace_aegis\data\ucp\equip1_cover_UCP_co.paa"
+		};
+		hiddenSelectionsMaterials[]= 
+		{
+			"\ax_aegisocp\2035_ocp_army_replace_aegis\data\equip1_cover.rvmat"
+		};
 	};
 	class ADDUS_H_Booniehat_USN: H_Booniehat_khk
 	{

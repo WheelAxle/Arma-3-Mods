@@ -1185,7 +1185,7 @@ class CfgVehicles
 	class vn_b_men_army_15;
 	class vn_b_men_army_22: vn_b_men_army_15
 	{
-		faction="B_vn_USAF";
+		faction="B_vn_USARMY";
 		editorSubcategory="EdSubcat_Personnel";
 	};
 	class vn_b_men_navy_base: vn_b_men_sog_base

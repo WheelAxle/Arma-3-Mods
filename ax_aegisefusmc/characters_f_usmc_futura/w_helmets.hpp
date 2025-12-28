@@ -12,6 +12,16 @@
             "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\Utilitycap_des_co.paa"
         };
     };
+    class AX_H_UtilityCap_aor2: EF_H_UtilityCap_Wdl
+    {
+        author="$STR_A3_MCFU_Axle";
+        displayName="$STR_A3_MCFU_H_UtilityCap_aor2";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_UtilityCap_aor2_ca.paa";
+        hiddenSelectionsTextures[]=
+        {
+            "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\Utilitycap_aor2_co.paa"
+        };
+    };
     class AX_H_MilCap_mc_wdl: H_MilCap_ocamo
     {
         author="$STR_A3_MCFU_Axle";
@@ -86,10 +96,21 @@
             "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\booniehat_MPD_co.paa"
         };
     };
+    class AX_H_Booniehat_aor2: H_Booniehat_khk
+    {
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_H_Booniehat_aor2";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_Booniehat_aor2_ca.paa";
+        hiddenSelectionsTextures[]=
+        {
+            "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\booniehat_aor2_co.paa"
+        };
+    };
 	class AX_H_Booniehat_wdl_hs: H_Booniehat_khk_hs
 	{
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_H_Booniehat_wdl_hs";
-        picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_Booniehat_wdl_hs_ca.paa";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_Booniehat_aor2_hs_ca.paa";
         hiddenSelectionsTextures[]=
         {
             "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\booniehat_MPW_co.paa"
@@ -97,11 +118,22 @@
 	};
 	class AX_H_Booniehat_des_hs: H_Booniehat_khk_hs
 	{
+		author="$STR_A3_MCFU_Axle";
 		displayName="$STR_A3_MCFU_H_Booniehat_des_hs";
         picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_Booniehat_des_hs_ca.paa";
         hiddenSelectionsTextures[]=
         {
             "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\booniehat_MPD_co.paa"
+        };
+	};
+	class AX_H_Booniehat_aor2_hs: H_Booniehat_khk_hs
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_H_Booniehat_aor2_hs";
+        picture="\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\ui\icon_H_Booniehat_aor2_hs_ca.paa";
+        hiddenSelectionsTextures[]=
+        {
+            "\ax_aegisefusmc\characters_f_usmc_futura\headgear\data\booniehat_aor2_co.paa"
         };
 	};
 	class AX_H_Cap_usn_khk: H_Cap_blk

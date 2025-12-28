@@ -3,6 +3,9 @@
 	<Package name="Language_GRFU">
         <Container name="Characters_F">
             <Container name="Uniforms">
+                <Key ID="STR_A3_GRFU_U_I_CombatUniform_cut_F0">
+                    <English>Combat Fatigues [AAF] (Cut)</English>
+                </Key>
                 <Key ID="STR_A3_GRFU_U_I_CombatUniform_jacket_tan_F0">
                     <English>Combat Fatigues [AAF] (Jacket)</English>
                 </Key>

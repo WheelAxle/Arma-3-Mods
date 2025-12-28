@@ -1,22 +1,44 @@
     class AX_G_Bandanna_shemag_tan: G_Bandanna_blk
 	{
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_G_Bandana_shemag_F0";
+		displayName="$STR_A3_MCFU_G_Bandana_shemag_tan_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Bandanna_shemag_tan_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_CO.paa"
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_tan_CO.paa"
+		};
+		identityTypes[]={};
+	};
+	class AX_G_Bandanna_shemag_khk: G_Bandanna_blk
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Bandana_shemag_khk_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Bandanna_shemag_khk_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_khk_CO.paa"
+		};
+		identityTypes[]={};
+	};
+	class AX_G_Bandanna_shemag_oli: G_Bandanna_blk
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Bandana_shemag_oli_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Bandanna_shemag_oli_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_oli_CO.paa"
 		};
 		identityTypes[]={};
 	};
 	class AX_G_Bandanna_shemag_shades_tan: G_Bandanna_shades
 	{
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_G_Bandana_shemag_shades_F0";
+		displayName="$STR_A3_MCFU_G_Bandana_shemag_tan_shades_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Bandanna_shemag_shades_tan_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_tan_CO.paa",
 			"\a3\characters_f\heads\glasses\data\joeyx_black_ca.paa"
 		};
 		identityTypes[]={};
@@ -24,11 +46,11 @@
 	class AX_G_Bandanna_shemag_sport_tan: G_Bandanna_sport
 	{
 		author="$STR_A3_MCFU_Axle";
-		displayName="$STR_A3_MCFU_G_Bandana_shemag_sport_F0";
+		displayName="$STR_A3_MCFU_G_Bandana_shemag_tan_sport_F0";
 		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Bandanna_shemag_sport_tan_ca.paa";
 		hiddenSelectionsTextures[]=
 		{
-			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\headgear_bandMask_shemag_tan_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\sunglasses_sport_black_ca.paa"
 		};
 		identityTypes[]={};
@@ -83,6 +105,16 @@
 			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Balaclava_mesh_coy_F_CO.paa"
 		};
 	};
+	class AX_G_Balaclava_mesh_oli_F: AX_G_Balaclava_mesh_blk_F
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Balaclava_mesh_oli_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_oli_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Balaclava_mesh_oli_F_CO.paa"
+		};
+	};
 	class AX_G_Balaclava_mesh_G_blk_F: G_Balaclava_light_G_blk_F
 	{
 		scope=2;
@@ -108,6 +140,17 @@
 		hiddenSelectionsTextures[]=
 		{
 			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Balaclava_mesh_coy_F_CO.paa",
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Combat_Goggles_blk_tint_F_CA.paa"
+		};
+	};
+	class AX_G_Balaclava_mesh_G_oli_F: AX_G_Balaclava_mesh_G_blk_F
+	{
+		author="$STR_A3_MCFU_Axle";
+		displayName="$STR_A3_MCFU_G_Balaclava_mesh_G_oli_F0";
+		picture="\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\ui\icon_G_Balaclava_mesh_G_oli_F_ca.paa";
+		hiddenSelectionsTextures[]=
+		{
+			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Balaclava_mesh_oli_F_CO.paa",
 			"\ax_aegisefusmc\characters_f_usmc_futura\facewear\data\G_Combat_Goggles_blk_tint_F_CA.paa"
 		};
 	};
