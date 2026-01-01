@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3_Aegis_JCA_compat">
+	<Package name="Language_Aegis_JCA">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+            </Container>
+            <Container name="Headgear">
+            </Container>
+            <Container name="Vests">
+            </Container>
+            <Container name="Backpacks">
+            </Container>
+            <Container name="Facewear">
+            </Container>
+            <Container name="NVGs">
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="Rifles">
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_olive_F0">
+                    <English>Mk16 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_GL_olive_F0">
+                    <English>Mk16C GL 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_olive_F0">
+                    <English>Mk16 FG 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_short_olive_F0">
+                    <English>Mk16C 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_short_F0">
+                    <English>Mk16C FG 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_short_black_F0">
+                    <English>Mk16C FG 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_short_khaki_F0">
+                    <English>Mk16C FG 5.56 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_grip_short_olive_F0">
+                    <English>Mk16C FG 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_olive_F0">
+                    <English>Mk17 7.62 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_GL_olive_F0">
+                    <English>Mk17C GL 7.62 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_grip_olive_F0">
+                    <English>Mk17 FG 7.62 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_short_olive_F0">
+                    <English>Mk17C 7.62 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_grip_short_F0">
+                    <English>Mk17C FG 7.62 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_grip_short_black_F0">
+                    <English>Mk17C FG 7.62 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_grip_short_khaki_F0">
+                    <English>Mk17C FG 7.62 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_grip_short_olive_F0">
+                    <English>Mk17C FG 7.62 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M4A1_F0">
+                    <English>M4A1 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_olive_F">
+                    <English>M4A1 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M4A1_short_F0">
+                    <English>M4A1 SBR 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_short_olive_F">
+                    <English>M4A1 SBR 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M4A1_GL_F0">
+                    <English>M4A1 GL 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_GL_olive_F">
+                    <English>M4A1 GL 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M4A1_grip_F0">
+                    <English>M4A1 FG 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_grip_olive_F">
+                    <English>M4A1 FG 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_short2_F">
+                    <English>M4A1 Shorty 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_short2_sand_F">
+                    <English>M4A1 Shorty 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_short2_khaki_F">
+                    <English>M4A1 Shorty 5.56 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_short2_olive_F">
+                    <English>M4A1 Shorty 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_GL2_F">
+                    <English>M4A1 UGL 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_GL2_sand_F">
+                    <English>M4A1 UGL 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_GL2_khaki_F">
+                    <English>M4A1 UGL 5.56 mm (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M4A1_GL2_olive_F">
+                    <English>M4A1 UGL 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M16A4_F0">
+                    <English>M16E4 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_sand_F">
+                    <English>M16E4 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_olive_F">
+                    <English>M16E4 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M16A4_grip_F0">
+                    <English>M16E4 FG 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_FG_sand_F">
+                    <English>M16E4 FG 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_FG_olive_F">
+                    <English>M16E4 FG 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_M16A4_GL_F0">
+                    <English>M16E4 GL 5.56 mm (Black)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_GL_sand_F">
+                    <English>M16E4 GL 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_M16A4_GL_olive_F">
+                    <English>M16E4 GL 5.56 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_arifle_SCAR_L_F0">
+                    <English>Mk16 5.56 mm (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_AX_arifle_SR25_oli_F">
+					<English>Mk11 7.62 mm (Olive)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_gry_F">
+					<English>M4 SSAS 12G (Grey)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_blk_F">
+					<English>M4 SSAS 12G (Black)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_snd_F">
+					<English>M4 SSAS 12G (Sand)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_oli_F">
+					<English>M4 SSAS 12G (Olive)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_cqb_F">
+					<English>M4 SSAS CQB 12G</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_cqb_gry_F">
+					<English>M4 SSAS CQB 12G (Grey)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_cqb_blk_F">
+					<English>M4 SSAS CQB 12G (Black)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_cqb_snd_F">
+					<English>M4 SSAS CQB 12G (Sand)</English>
+				</Key>
+                <Key ID="STR_A3_AX_sgun_m4_cqb_oli_F">
+					<English>M4 SSAS CQB 12G (Olive)</English>
+				</Key>
+                <Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Pellets0">
+					<Original>12 Gauge 5Rnd Pellets</Original>
+					<Chinese>12 口徑 5 發鉛製彈</Chinese>
+					<French>5 cartouches grenaille calibre 12</French>
+					<Spanish>Perdigones de calibre 12, 5 cargas</Spanish>
+					<Italian>Pallottole 5 muniz. calibro 12</Italian>
+					<Polish>5 nab. śrut 12G</Polish>
+					<Russian>5 патронов с пулей 12 калибра</Russian>
+					<German>12 Gauge 5-Schuss-Schrotkugeln</German>
+					<Czech>12ga 5ks brokové náboje</Czech>
+					<English>12 Gauge 5Rnd Pellets</English>
+					<Portuguese>Projéteis esféricos de 5 balas calibre 12</Portuguese>
+					<Korean>12게이지 산탄 5발</Korean>
+					<Chinesesimp>12 口径 5 发子弹</Chinesesimp>
+					<Japanese>12ゲージ5Rndペレット</Japanese>
+					<Turkish>12 Kalibre 5Rnd Saçmalar</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Slug0">
+					<Original>12 Gauge 5Rnd Slugs</Original>
+					<Chinese>12 口徑 5 發金屬彈</Chinese>
+					<French>5 cartouches calibre 12</French>
+					<Spanish>Balas de calibre 12, 5 cargas</Spanish>
+					<Italian>Proiettili 5 muniz. calibro 12</Italian>
+					<Polish>5 nab. breneka 12G</Polish>
+					<Russian>5 патронов с дробью 12 калибра</Russian>
+					<German>12 Gauge 5-Schuss-Gewehrkugeln</German>
+					<Czech>12ga 5ks slugy</Czech>
+					<English>12 Gauge 5Rnd Slugs</English>
+					<Portuguese>Projéteis de 5 balas calibre 12</Portuguese>
+					<Korean>12게이지 슬러그 5발</Korean>
+					<Chinesesimp>12 口径 5 发弹丸</Chinesesimp>
+					<Japanese>12ゲージ5Rndスラッグ弾</Japanese>
+					<Turkish>12 Kalibre 5Rnd Fişekler</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Smoke0">
+					<Original>12 Gauge 5Rnd Smoke</Original>
+					<Chinese>12 Gauge 5Rnd Smoke</Chinese>
+					<French>12 Gauge 5Rnd Smoke</French>
+					<Spanish>12 Gauge 5Rnd Smoke</Spanish>
+					<Italian>12 Gauge 5Rnd Smoke</Italian>
+					<Polish>12 Gauge 5Rnd Smoke</Polish>
+					<Russian>12 Gauge 5Rnd Smoke</Russian>
+					<German>12 Gauge 5Rnd Smoke</German>
+					<Czech>12 Gauge 5Rnd Smoke</Czech>
+					<English>12 Gauge 5Rnd Smoke</English>
+					<Portuguese>12 Gauge 5Rnd Smoke</Portuguese>
+					<Korean>12 Gauge 5Rnd Smoke</Korean>
+					<Chinesesimp>12 Gauge 5Rnd Smoke</Chinesesimp>
+					<Japanese>12 Gauge 5Rnd Smoke</Japanese>
+					<Turkish>12 Gauge 5Rnd Smoke</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_HE0">
+					<Original>12 Gauge 5Rnd HE</Original>
+					<Chinese>12 Gauge 5Rnd HE</Chinese>
+					<French>12 Gauge 5Rnd HE</French>
+					<Spanish>12 Gauge 5Rnd HE</Spanish>
+					<Italian>12 Gauge 5Rnd HE</Italian>
+					<Polish>12 Gauge 5Rnd HE</Polish>
+					<Russian>12 Gauge 5Rnd HE</Russian>
+					<German>12 Gauge 5Rnd HE</German>
+					<Czech>12 Gauge 5Rnd HE</Czech>
+					<English>12 Gauge 5Rnd HE</English>
+					<Portuguese>12 Gauge 5Rnd HE</Portuguese>
+					<Korean>12 Gauge 5Rnd HE</Korean>
+					<Chinesesimp>12 Gauge 5Rnd HE</Chinesesimp>
+					<Japanese>12 Gauge 5Rnd HE</Japanese>
+					<Turkish>12 Gauge 5Rnd HE</Turkish>
+				</Key>
+                <Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Pellets1">
+					<Original>Type: 12 Gauge Pellets&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</Original>
+					<Chinese>種類：12 口徑鉛製彈&lt;br /&gt;個數：5&lt;br /&gt;用於：BK-153</Chinese>
+					<French>Type : grenaille calibre 12&lt;br /&gt;Munitions : 5&lt;br /&gt;Application : BK-153</French>
+					<Spanish>Tipo: perdigones de calibre 12&lt;br /&gt;Cargas: 5&lt;br /&gt;Se usa en: BK-153</Spanish>
+					<Italian>Tipo: pallottole calibro 12&lt;br /&gt;Munizioni: 5&lt;br /&gt;Si usa in: BK-153</Italian>
+					<Polish>Typ: naboje śrutowe 12G&lt;br /&gt;Naboje: 5&lt;br /&gt;Używane w: BK-153</Polish>
+					<Russian>Тип: дробь 12 калибра&lt;br /&gt;Кол-во: 5&lt;br /&gt;Применение: BK-153</Russian>
+					<German>Typ: 12 Gauge Schrotkugeln&lt;br /&gt;Patronen: 5&lt;br /&gt;Eingesetzt von: BK-153</German>
+					<Czech>Typ: 12ga brokový náboj&lt;br /&gt;Munice: 5&lt;br /&gt;Použití: BK-153</Czech>
+					<English>Type: 12 Gauge Pellets&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</English>
+					<Portuguese>Tipo: Projéteis esféricos de calibre 12&lt;br /&gt;Quantidade: 5&lt;br /&gt;Uso em: BK-153</Portuguese>
+					<Korean>종류: 12게이지 산탄&lt;br /&gt;탄 수: 5&lt;br /&gt;사용 가능: BK-153</Korean>
+					<Chinesesimp>类型：12 口径子弹&lt;br /&gt;容弹量：5&lt;br /&gt;用于：BK-153</Chinesesimp>
+					<Japanese>タイプ：12ゲージ・ペレット&lt;br /&gt;弾薬：5&lt;br /&gt;使用：BK-153</Japanese>
+					<Turkish>Tür: 12 Kalibre Saçmalar&lt;br /&gt;Mermi: 5&lt;br /&gt;Kullanıldığı Yer: BK-153</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Slug1">
+					<Original>Type: 12 Gauge Slugs&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</Original>
+					<Chinese>種類：12 口徑金屬彈&lt;br /&gt;個數：5&lt;br /&gt;用於：BK-153</Chinese>
+					<French>Type : balles calibre 12&lt;br /&gt;Munitions : 5&lt;br /&gt;Application : BK-153</French>
+					<Spanish>Tipo: balas de calibre 12&lt;br /&gt;Cargas: 5&lt;br /&gt;Se usa en: BK-153</Spanish>
+					<Italian>Tipo: proiettili calibro 12&lt;br /&gt;Munizioni: 5&lt;br /&gt;Si usa in: BK-153</Italian>
+					<Polish>Typ: breneki 12G&lt;br /&gt;Naboje: 5&lt;br /&gt;Używane w: BK-153</Polish>
+					<Russian>Тип: пуля 12 калибра&lt;br /&gt;Кол-во: 5&lt;br /&gt;Применение: BK-153</Russian>
+					<German>Typ: 12 Gauge Gewehrkugeln&lt;br /&gt;Patronen: 5&lt;br /&gt;Eingesetzt von: BK-153</German>
+					<Czech>Typ: 12ga slug&lt;br /&gt;Munice: 5&lt;br /&gt;Použití: BK-153</Czech>
+					<English>Type: 12 Gauge Slugs&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</English>
+					<Portuguese>Tipo: Projéteis calibre 12&lt;br /&gt;Quantidade: 5&lt;br /&gt;Uso em: BK-153</Portuguese>
+					<Korean>종류: 12게이지 슬러그&lt;br /&gt;탄 수: 5&lt;br /&gt;사용 가능: BK-153</Korean>
+					<Chinesesimp>类型：12 口径弹丸&lt;br /&gt;容弹量：5&lt;br /&gt;用于：BK-153</Chinesesimp>
+					<Japanese>タイプ：12ゲージ・スラッグ弾&lt;br /&gt;弾薬：5&lt;br /&gt;使用：BK-153</Japanese>
+					<Turkish>Tür: 12 Kalibre Fişekler&lt;br /&gt;Mermi: 5&lt;br /&gt;Kullanıldığı Yer: BK-153</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_HE1">
+					<Original>Type: 12 Gauge HE&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</Original>
+					<Chinese>類型：12號高爆彈&lt;br /&gt;個數：5&lt;br /&gt;用於：BK-153</Chinese>
+					<French>Type : explosif de calibre 12&lt;br /&gt;Munitions : 5&lt;br /&gt;Application : BK-153</French>
+					<Spanish>Tipo: explosivo alto calibre 12&lt;br /&gt;Cargas: 5&lt;br /&gt;Se usa en: BK-153</Spanish>
+					<Italian>Tipo: calibro 12 ad alto esplosivo&lt;br /&gt;Munizioni: 5&lt;br /&gt;Si usa in: BK-153</Italian>
+					<Polish>Type: 12 Gauge High Explosive&lt;br /&gt;Naboje: 5&lt;br /&gt;Używane w: BK-153</Polish>
+					<Russian>Тип: Осколочно-фугасный снаряд 12 калибра&lt;br /&gt;Кол-во: 5&lt;br /&gt;Применение: BK-153</Russian>
+					<German>Typ: 12 Gauge hochexplosiv&lt;br /&gt;Patronen: 5&lt;br /&gt;Eingesetzt von: BK-153</German>
+					<Czech>Typ: 12ga HE&lt;br /&gt;Munice: 5&lt;br /&gt;Použití: BK-153</Czech>
+					<English>Type: 12 Gauge HE&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</English>
+					<Portuguese>Tipo: Explosivo Alto Calibre 12&lt;br /&gt;Quantidade: 5&lt;br /&gt;Uso em: BK-153</Portuguese>
+					<Korean>유형: 12 게이지 높은 폭발&lt;br /&gt;탄 수: 5&lt;br /&gt;사용 가능: BK-153</Korean>
+					<Chinesesimp>类型：12号高爆弹&lt;br /&gt;容弹量：5&lt;br /&gt;用于：BK-153</Chinesesimp>
+					<Japanese>タイプ: 12 ゲージ高爆薬&lt;br /&gt;弾薬：5&lt;br /&gt;使用：BK-153</Japanese>
+					<Turkish>Tür: 12 Ayar Yüksek Patlayıcı&lt;br /&gt;Mermi: 5&lt;br /&gt;Kullanıldığı Yer: BK-153</Turkish>
+				</Key>
+				<Key ID="STR_A3_A_CfgMagazines_5Rnd_12Gauge_Smoke1">
+					<Original>Type: 12 Gauge Smoke&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</Original>
+					<Chinese>類型：12 號煙霧&lt;br /&gt;個數：5&lt;br /&gt;用於：BK-153</Chinese>
+					<French>Type : Fumée de calibre 12&lt;br /&gt;Munitions : 5&lt;br /&gt;Application : BK-153</French>
+					<Spanish>Tipo: Humo de calibre 12&lt;br /&gt;Cargas: 5&lt;br /&gt;Se usa en: BK-153</Spanish>
+					<Italian>Tipo: Fumo calibro 12&lt;br /&gt;Munizioni: 5&lt;br /&gt;Si usa in: BK-153</Italian>
+					<Polish>Typ: dymu 12G&lt;br /&gt;Naboje: 5&lt;br /&gt;Używane w: BK-153 12G</Polish>
+					<Russian>Тип: Дым 12 калибра&lt;br /&gt;Кол-во: 5&lt;br /&gt;Применение: BK-153</Russian>
+					<German>Typ: 12 Gauge Rauch&lt;br /&gt;Patronen: 5&lt;br /&gt;Eingesetzt von: BK-153</German>
+					<Czech>Typ: 12ga Smoke&lt;br /&gt;Munice: 5&lt;br /&gt;Použití: BK-153</Czech>
+					<English>Type: 12 Gauge Smoke&lt;br /&gt;Rounds: 5&lt;br /&gt;Used in: BK-153</English>
+					<Portuguese>Tipo: Fumaça de calibre 12&lt;br /&gt;Quantidade: 5&lt;br /&gt;Uso em: BK-153</Portuguese>
+					<Korean>유형: 12 게이지 연기&lt;br /&gt;탄 수: 5&lt;br /&gt;사용 가능: BK-153</Korean>
+					<Chinesesimp>类型：12 号烟雾&lt;br /&gt;容弹量：5&lt;br /&gt;用于：BK-153</Chinesesimp>
+					<Japanese>タイプ：12ゲージスモーク&lt;br /&gt;弾薬：5&lt;br /&gt;使用：BK-153</Japanese>
+					<Turkish>Tür: 12 Kalibre Duman&lt;br /&gt;Mermi: 5&lt;br /&gt;Kullanıldığı Yer: BK-153</Turkish>
+				</Key>
+                <Key ID="STR_A3_AX_hgun_P320_olive_F">
+                    <English>P320 9 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_acc_no_rail_cover0">
+                    <English>No M4 Rail Cover</English>
+                </Key>
+                <Key ID="STR_A3_A_acc_no_rail_cover_descriptionShort0">
+                    <English>Removes M4 Rail Cover</English>
+                </Key>
+            </Container>
+            <Container name="Pistols">
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G17_snd2_F0">
+                    <English>G17 9 mm (Black/Sand)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G17_khk2_F0">
+                    <English>G17 9 mm (Black/Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G17_oli_F0">
+                    <English>G17 9 mm (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G21_blk_F0">
+                    <English>G21 .45 ACP (Black)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G21_snd_F0">
+                    <English>G21 .45 ACP (Sand)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G21_khk_F0">
+                    <English>G21 .45 ACP (Khaki)</English>
+                </Key>
+                <Key ID="STR_A3_A_CfgWeapons_hgun_G21_oli_F0">
+                    <English>G21 .45 ACP (Olive)</English>
+                </Key>
+            </Container> 
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+            </Container>
+            <Container name="Helicopters">
+            </Container>
+            <Container name="Cars">
+            </Container>
+            <Container name="APCs">
+            </Container>
+            <Container name="Tanks">
+            </Container>
+            <Container name="Boxes">
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_A_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_A_Moe">
+                    <English>556Moe</English>
+                </Key>
+                <Key ID="STR_A3_A_Grave">
+                    <English>Grave</English>
+                </Key>
+                <Key ID="STR_A3_A_John">
+                    <English>JohnHansen</English>
+                </Key>
+                <Key ID="STR_A3_A_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_A_Leon">
+                    <English>Leon</English>
+                </Key>
+            </Container>
+            <Container name="Faction_Classes">
+            </Container>
+            <Container name="Mission_Name">
+            </Container>
+            <Container name="Insignia">
+            </Container>
+        </Container>
+    </Package>
+</Project>
