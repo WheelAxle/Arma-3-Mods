@@ -1,0 +1,181 @@
+    class AX_B_W_MARSOC_AR_F: AX_B_D_MARSOC_AR_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_AR_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_IHWCU_NCU_02_wdl_F";
+		backpack="AX_B_Carryall_mwdl_MARSOC_AR";
+    };
+    class AX_B_W_MARSOC_AR2_F: AX_B_W_MARSOC_AR_F
+	{
+		displayName="$STR_A3_MCFU_character_support_F0";
+		scope=1;
+		scopeCurator=1;
+		backpack="AX_B_Carryall_coy_MARSOC_Ammo2";
+		weapons[]=
+		{
+			"AX_LMG_Mk200_Holo_IR_snds_BI_F",
+			"hgun_P07_blk_Snds_F",
+			"Throw",
+			"Put"
+		};
+		respawnWeapons[]=
+		{
+			"AX_LMG_Mk200_Holo_IR_snds_BI_F",
+			"hgun_P07_blk_Snds_F",
+			"Throw",
+			"Put"
+		};
+		magazines[]=
+		{
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"16Rnd_9x21_Mag_v2",
+			"16Rnd_9x21_Mag_v2",
+			"MiniGrenade",
+			"MiniGrenade",
+			"SmokeShell",
+			"SmokeShell",
+			"Chemlight_blue",
+			"Chemlight_blue"
+		};
+		respawnMagazines[]=
+		{
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"200Rnd_65x39_cased_Box_Red",
+			"16Rnd_9x21_Mag_v2",
+			"16Rnd_9x21_Mag_v2",
+			"MiniGrenade",
+			"MiniGrenade",
+			"SmokeShell",
+			"SmokeShell",
+			"Chemlight_blue",
+			"Chemlight_blue"
+		};
+	};
+	class AX_B_W_MARSOC_Exp_F: AX_B_D_MARSOC_Exp_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_Exp_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		backpack="AX_B_AssaultPackSpec_mwdl_MARSOC_Exp_F";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_F";
+    };
+    class AX_B_W_MARSOC_GL_F: AX_B_D_MARSOC_GL_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_GL_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };
+    class AX_B_W_MARSOC_JTAC_F: AX_B_D_MARSOC_JTAC_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_JTAC_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		backpack="AX_B_RadioBag_01_mwdl_F";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };
+    class AX_B_W_MARSOC_M_F: AX_B_D_MARSOC_M_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_M_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_Cloak_unbl_01_wdl_F";
+        linkedItems[]=
+		{
+			"AX_V_AssaultCarrier_Lite_coy_F",
+			"AX_H_Booniehat_wdl_hs",
+			"AX_G_Bandanna_shemag_tan",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"AX_LPNVG_Tan_sm_Hidden"
+		};
+		respawnLinkedItems[]=
+		{
+			"AX_V_AssaultCarrier_Lite_coy_F",
+			"AX_H_Booniehat_wdl_hs",
+			"AX_G_Bandanna_shemag_tan",
+			"ItemGPS",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"AX_LPNVG_Tan_sm_Hidden"
+		};
+    };
+    class AX_B_W_MARSOC_M2_F: AX_B_W_MARSOC_M_F
+	{
+		displayName="$STR_A3_MCFU_character_recon_F0";
+		scope=1;
+		scopeArsenal=1;
+		backpack="AX_B_AssaultPackSpec_coy";
+	};
+	class AX_B_W_MARSOC_Medic_F: AX_B_D_MARSOC_Medic_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_Medic_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		backpack="AX_B_AssaultPack_mwdl_MARSOC_Medic_F";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb_F";
+    };
+    class AX_B_W_MARSOC_Medic2_F: AX_B_W_MARSOC_Medic_F
+	{
+		displayName="$STR_A3_MCFU_character_assault_F0";
+		scope=1;
+		scopeArsenal=1;
+		backpack="AX_B_AssaultPack_coy_MARSOC_Medic_F";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_cb2_F";
+	};
+	class AX_B_W_MARSOC_F: AX_B_D_MARSOC_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_cb_F";
+    };
+    class AX_B_W_MARSOC_LAT_F: AX_B_D_MARSOC_LAT_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_LAT_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		backpack="AX_B_AssaultPackSpec_mwdl_MARSOC_LAT_F";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_02_wdl_F";
+    };
+    class AX_B_W_MARSOC_LAT2_F: AX_B_W_MARSOC_LAT_F
+	{
+		displayName="$STR_A3_MCFU_character_engineer_F0";
+		scope=1;
+		scopeArsenal=1;
+		engineer=1;
+		backpack="AX_B_TacticalPack_coy_MARSOC_LAT";
+	};
+	class AX_B_W_MARSOC_TL_F: AX_B_D_MARSOC_TL_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_TL_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };
+    class AX_B_W_MARSOC_SL_F: AX_B_D_MARSOC_SL_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_SL_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };
+    class AX_B_W_MARSOC_Sharpshooter_F: AX_B_D_MARSOC_Sharpshooter_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_Sharpshooter_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_tee_unbl_wdl_brn_F";
+	};
+    class AX_B_W_MARSOC_UAV_F: AX_B_D_MARSOC_UAV_F
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_UAV_F.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };
+    class AX_B_W_MARSOC_UAV_lxWS: AX_B_D_MARSOC_UAV_lxWS
+    {
+		editorPreview="\ax_alternateusmc\editorpreviews_f_usmc\ef\AX_B_W_MARSOC_UAV_lxWS.jpg";
+		faction="EF_B_MJTF_Wdl";
+		uniformClass="AX_U_B_MC_CombatUniform_G3_NCU_unbl_01_wdl_F";
+    };

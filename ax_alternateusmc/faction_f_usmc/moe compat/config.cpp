@@ -1,0 +1,91 @@
+class CfgPatches
+{
+	class ax_faction_f_usmc_moe_compat
+	{
+		units[]={};
+		weapons[]={};
+		requiredVersion=0.1;
+		requiredAddons[]=
+		{
+			"EF_Sounds_C",
+			"MoeUnits",
+			"ax_faction_f_usmc"
+		};
+		author="Axle";
+		skipwhenmissingdependencies=1;
+	};
+};
+
+class CfgVehicles
+{
+    class EF_B_Marine_Des_Base_1;
+/*	class AX_B_MJTF_D_Helipilot_F: EF_B_Marine_Des_Base_1
+    {
+		linkedItems[]=
+		{
+			"H_PilotHelmetHeli_White_RF",
+			"AX_SRU21P_LPU9P_PCU15AP_F",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"NVGoggles"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_PilotHelmetHeli_White_RF",
+			"AX_SRU21P_LPU9P_PCU15AP_F",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"NVGoggles"
+		};
+    };
+    class AX_B_MJTF_D_Helicrew_F: AX_B_MJTF_D_Helipilot_F
+	{
+		linkedItems[]=
+		{
+			"H_PilotHelmetHeli_White_RF",
+			"AX_V_AAV_Pilot_Coy_dirty",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"NVGoggles"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_PilotHelmetHeli_White_RF",
+			"AX_V_AAV_Pilot_Coy_dirty",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio",
+			"NVGoggles"
+		};
+    };*/
+    class AX_B_MJTF_D_Fighter_Pilot_F: EF_B_Marine_Des_Base_1
+	{
+		linkedItems[]=
+		{
+			"H_PilotHelmetFighter_B",
+			"SRU21P_LPU9P_PCU15AP",
+			"G_Balaclava_TI_blk_F",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio"
+		};
+		respawnLinkedItems[]=
+		{
+			"H_PilotHelmetFighter_B",
+			"SRU21P_LPU9P_PCU15AP",
+			"G_Balaclava_TI_blk_F",
+			"ItemMap",
+			"ItemCompass",
+			"ItemWatch",
+			"ItemRadio"
+		};
+    };
+};

@@ -1,0 +1,16 @@
+    class EF_B_Marine_Des_Base_1: SoldierWB{class eventhandlers;};
+	class EF_B_Marine_Des_Base_2: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Des_Base_3: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Des_Base_4: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Des_Base_5: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Des_Base_6: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Wdl_Base_1: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Wdl_Base_2: EF_B_Marine_Des_Base_2{};
+	class EF_B_Marine_Wdl_Base_3: EF_B_Marine_Des_Base_3{};
+	class EF_B_Marine_Wdl_Base_4: EF_B_Marine_Des_Base_4{};
+	class EF_B_Marine_Wdl_Base_5: EF_B_Marine_Des_Base_5{};
+	class EF_B_Marine_Wdl_Base_6: EF_B_Marine_Des_Base_6{};
+	class EF_B_Marine_Diver_Des_Base: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Diver_Wdl_Base: EF_B_Marine_Diver_Des_Base{};
+	class EF_B_Marine_Recon_Des_base: EF_B_Marine_Des_Base_1{};
+	class EF_B_Marine_Recon_Wdl_base: EF_B_Marine_Wdl_Base_1{};

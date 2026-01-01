@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Arma3ImpoverishedUS">
+	<Package name="Language_VLoadouts">
+        <Container name="Characters_F">
+            <Container name="Uniforms">
+                <Key ID="STR_A3_IMUS_CSU13BP_Rolled_F0">
+                    <English>Flight Suit [US] (Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_CSU13BP_NG_F0">
+                    <English>Flight Suit [US] (Gloves)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_CSU13BP_Tan_Rolled_F0">
+                    <English>Flight Suit [US] (Tan, Rolled-Up)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_CSU13BP_Tan_NG_F0">
+                    <English>Flight Suit [US] (Tan, Gloves)</English>
+                </Key>
+            </Container>
+            <Container name="Headgear">
+                <Key ID="STR_A3_IMUS_JHMCS_MBU20P_F0">
+                    <English>Pilot Helmet (JHMCS)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_JHMCS2_MBU20P_F0">
+                    <English>Pilot Helmet (JHMCS II)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_Booniehat_desert_hs">
+                    <English>Booniehat (Desert, Headset)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_light_coy">
+                    <English>Light Combat Helmet (Coyote)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetSpecB_light_coy">
+                    <English>Light Combat Helmet (Coyote, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_oli">
+                    <English>Combat Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_dkgrn">
+                    <English>Combat Helmet (Dark Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetSpecB_oli">
+                    <English>Combat Helmet (Olive, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetSpecB_dkgrn">
+                    <English>Combat Helmet (Dark Green, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_camo_paint">
+                    <English>Combat Helmet (Camo, Paint)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_camo_grass">
+                    <English>Combat Helmet (Camo, Grass)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_camo_snakeskin">
+                    <English>Combat Helmet (Camo, Snakeskin)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_camo_desert">
+                    <English>Combat Helmet (Camo, Desert)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_camo_sand">
+                    <English>Combat Helmet (Camo, Sand)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_light_oli">
+                    <English>Light Combat Helmet (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetB_light_dkgrn">
+                    <English>Light Combat Helmet (Dark Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetSpecB_light_oli">
+                    <English>Light Combat Helmet (Olive, Enhanced)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_H_HelmetSpecB_light_dkgrn">
+                    <English>Light Combat Helmet (Dark Green, Enhanced)</English>
+                </Key>
+            </Container>
+            <Container name="Vests">
+                <Key ID="STR_A3_IMUS_SRU21P_LPU9P_PCU15AP_F0">
+                    <English>Pilot Survival Vest [US]</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_SRU21P_LPU9P_PCU15AP_Alt_F0">
+                    <English>Pilot Survival Vest [US] (Alt)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier1_cybr_F0">
+                    <English>Carrier Lite (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_cybr_F0">
+                    <English>Carrier Rig (Coyote Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_grn">
+                    <English>Carrier Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_oli">
+                    <English>Carrier Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_cbr">
+                    <English>Carrier Rig (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier1_grn">
+                    <English>Carrier Lite (Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier1_oli">
+                    <English>Carrier Lite (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier1_cbr">
+                    <English>Carrier Lite (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_alt_grn">
+                    <English>Carrier Alt Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_alt_oli">
+                    <English>Carrier Alt Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrier2_alt_cbr">
+                    <English>Carrier Alt Rig (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_BandollierB_grn">
+                    <English>Slash Bandollier (Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_BandollierB_oli">
+                    <English>Slash Bandollier (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_BandollierB_cbr">
+                    <English>Slash Bandollier (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_Rangemaster_belt_cbr">
+                    <English>Battle Belt (Brown)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrierSpec_oli">
+                    <English>Carrier Special Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrierSpec_grn">
+                    <English>Carrier Special Rig (Green)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrierGL_oli">
+                    <English>Carrier GL Rig (Olive)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_V_PlateCarrierGL_grn">
+                    <English>Carrier GL Rig (Green)</English>
+                </Key>
+            </Container>
+            <Container name="Backpacks">
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_IMUS_G_Balaclava_cloth_blk_F0">
+                    <English>Mesh Balaclava</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_G_Bandana_coy_F0">
+                    <English>Bandana (Coyote)</English>
+                </Key>
+            </Container>
+            <Container name="Facewear">
+                <Key ID="STR_A3_IMUS_NVGoggles_brn_Hidden_F0">
+                    <English>NV Goggles (Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_NVGoggles_brn_hs_Hidden_F0">
+                    <English>NV Goggles (Headset, Brown, Hidden)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_NVGoggles_grn_Hidden_F0">
+                    <English>NV Goggles (Green, Hidden)</English>
+                </Key>
+            </Container>
+        </Container>
+        <Container name="Weapons_F">
+            <Container name="LongRangeRifles">
+                <Key ID="STR_A3_IMUS_srifle_DMR_03_blksnd_F0">
+                    <English>MK-I EMR 7.62 mm (Black/Sand)</English>
+                </Key>
+            </Container>
+            <Container name="Acessories">
+            </Container>
+        </Container>
+        <Container name="Vehicles_F">
+            <Container name="Jets">
+                <Key ID="STR_A3_IMUS_Texture_DarkGrey0">
+                    <English>Dark Grey</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_Texture_DarkGreyCamo0">
+                    <English>Dark Grey Camo</English>
+                </Key>
+            </Container>
+            <Container name="Helicopters">
+            </Container>
+            <Container name="Cars">
+            </Container>
+            <Container name="APCs">
+            </Container>
+            <Container name="Tanks">
+            </Container>
+        </Container>
+        <Container name="Data_F">
+            <Container name="Author">
+                <Key ID="STR_A3_IMUS_Axle">
+                    <English>Axle</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_Moe">
+                    <English>556Moe</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_John">
+                    <English>JohnHansen</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_SCollins">
+                    <English>S.Collins</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_Leon">
+                    <English>Leon</English>
+                </Key>
+            </Container>
+            <Container name="Faction_Classes">
+            </Container>
+            <Container name="Editor_Subcats">
+                <Key ID="STR_A3_IMUS_EdSubcat_Personnel_Infil">
+                    <English>Men (Infiltrators)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_EdSubcat_Personnel_Ranger">
+                    <English>Men (Rangers)</English>
+                </Key>
+                <Key ID="STR_A3_IMUS_EdSubcat_Personnel_AirAssault">
+                    <English>Men (Air Assault)</English>
+                </Key>
+            </Container>
+            <Container name="Mission_Name">
+            </Container>
+        </Container>
+    </Package>
+</Project>
